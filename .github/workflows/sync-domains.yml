@@ -1,0 +1,47 @@
+name: Sync Domain Lists
+
+on:
+  schedule:
+    # Run every night at 2 AM UTC
+    - cron: '0 2 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout current repo
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        path: current-repo
+
+    - name: Checkout source repo
+      uses: actions/checkout@v4
+      with:
+        repository: v2fly/domain-list-community
+        path: source-repo
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Convert domain lists
+      run: |
+        cd current-repo
+        python convert_domains.py ../source-repo/data ./surge-domains
+
+    - name: Commit and push changes
+      run: |
+        cd current-repo
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update domain lists $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          git push
+        fi
