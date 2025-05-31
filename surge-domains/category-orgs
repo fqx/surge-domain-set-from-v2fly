@@ -1,0 +1,175 @@
+# This list contains organizations outside China mainland.
+
+# Included from archive
+# Included from 4plebs
+.4pcdn.org
+.4plebs.org
+# End of 4plebs
+
+.archive-it.org
+.archive.md
+.archive.org
+.archive.ph
+.archive.today
+.openlibrary.org
+# End of archive
+# Included from creativecommons
+.ccstatic.org
+.creativecommons.org
+.creativecommons.engineering
+.licensebuttons.net
+# End of creativecommons
+# Included from csis
+.csis.org
+
+csis-prod.s3.amazonaws.com
+# End of csis
+# Included from emojipedia
+.emojipedia.org
+.worldemojiawards.com
+.worldemojiday.com
+# End of emojipedia
+# Included from f-droid
+.f-dro1d.org
+.f-droid.com
+.f-droid.org
+.fdroid.org
+# End of f-droid
+# Included from ieee
+.ieee.org
+.ieee.tv
+
+# Co-sponsored
+.tryengineering.org
+
+# Conference & Event
+.ieee-ccnc.org
+.ieee-ecce.org
+.ieeemce.org
+
+# Education and career
+.standardsuniversity.org
+
+# Geographic Activities
+.ieee-region6.org
+.ieee.ca
+.ieeer10.org
+.ieeer5.org
+.ieeer8.org
+.ieeeusa.org
+
+# Humanitarian Program
+.ieeefoundation.org
+
+# Other
+.ieee-into-focus.org
+.ieee-vics.org
+.ieeeday.org
+
+# Publications, Products, & Services
+.datasheets360.com
+.globalspec.com
+.ieee-isto.org
+.techstreet.com
+
+# Society & Council
+.computer.org
+.comsoc.org
+.embs.org
+.emcs.org
+.grss-ieee.org
+.ieee-aess.org
+.ieee-cas.org
+.ieee-ceda.org
+.ieee-edusociety.org
+.ieee-ies.org
+.ieee-ims.org
+.ieee-npss.org
+.ieee-pels.org
+.ieee-pes.org
+.ieee-ras.org
+.ieee-sensors.org
+.ieee-tems.org
+.ieee-uffc.org
+.ieeeaps.org
+.ieeecsc.org
+.ieeecss.org
+.ieeedeis.org
+.ieeemagnetics.org
+.ieeenano.org
+.ieeeoes.org
+.ieeesmc.org
+.ieeesystemscouncil.org
+.itsoc.org
+.mtt.org
+.photonicssociety.org
+.signalprocessingsociety.org
+.technologyandsociety.org
+.vtsociety.org
+# End of ieee
+# Included from metabrainz
+.acousticbrainz.org
+.bookbrainz.org
+.coverartarchive.org
+.critiquebrainz.org
+.listenbrainz.org
+.messybrainz.org
+.metabrainz.org
+.musicbrainz.org
+# End of metabrainz
+# Included from nist
+.nist.gov
+.time.gov
+# End of nist
+# Included from openstreetmap
+.openmaps.org
+.openstreetmap.com
+.openstreetmap.net
+.openstreetmap.org
+.openstreetmaps.org
+.osm.org
+.osmfoundation.org
+
+# State of the Map
+.stateofthemap.com
+.stateofthemap.org
+# End of openstreetmap
+# Included from paskoocheh
+.paskoocheh.com
+# End of paskoocheh
+# Included from peppy
+# Included from osu
+# osu
+a.ppy.sh
+assets.ppy.sh
+c.ppy.sh
+osu.ppy.sh
+m1.ppy.sh
+# osu lazer
+lazer.ppy.sh
+notify.ppy.sh
+sentry.ppy.sh
+spectator.ppy.sh
+# End of osu
+
+.ppy.sh
+# End of peppy
+# Included from ruleoflaw
+.rolfoundation.org
+.rolsociety.org
+# End of ruleoflaw
+
+.aomedia.org
+.atypi.org
+.change.org
+.globalsecurity.org
+.iana.org
+.ietf.org
+.itu.int
+.opte.org
+.smpte.org
+.un.org
+.w3.org
+.who.int
+.wi-fi.org
+.wto.org

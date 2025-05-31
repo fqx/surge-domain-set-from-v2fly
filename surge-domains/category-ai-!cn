@@ -1,0 +1,108 @@
+# Included from anthropic
+.anthropic.com
+.claude.ai
+.claudeusercontent.com
+
+# CDN
+servd-anthropic-website.b-cdn.net
+# End of anthropic
+# Included from google-deepmind
+# Google DeepMind
+.deepmind.com
+.deepmind.google
+
+# Google Generative Language API
+.geller-pa.googleapis.com
+.generativelanguage.googleapis.com
+.proactivebackend-pa.googleapis.com
+
+# Google AI Studio
+ai.google.dev
+alkalicore-pa.clients6.google.com
+alkalimakersuite-pa.clients6.google.com
+webchannel-alkalimakersuite-pa.clients6.google.com
+.generativeai.google
+.makersuite.google.com
+
+.aistudio.google.com
+.bard.google.com
+.gemini.google
+.gemini.google.com
+
+# NotebookLM
+.notebooklm.google
+.notebooklm.google.com
+
+# Jules
+.jules.google
+.jules.google.com
+# End of google-deepmind
+# Included from groq
+.groq.com
+# End of groq
+# Included from huggingface
+.hf.co
+.huggingface.co
+# End of huggingface
+# Included from openai
+# Main domain
+.chatgpt.com
+.chat.com
+.oaistatic.com
+.oaiusercontent.com
+.openai.com
+.sora.com
+
+# CDN & API
+.openai.com.cdn.cloudflare.net
+openaiapi-site.azureedge.net
+openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+openaicomproductionae4b.blob.core.windows.net
+production-openaicom-storage.azureedge.net
+
+# tracking
+o33249.ingest.sentry.io
+openaicom.imgix.net
+browser-intake-datadoghq.com
+
+# Advanced Voice
+.chatgpt.livekit.cloud
+.host.livekit.cloud
+.turn.livekit.cloud
+# End of openai
+# Included from perplexity
+.perplexity.ai
+.pplx.ai
+
+pplx-res.cloudinary.com
+# End of perplexity
+# Included from poe
+.poe.com
+.poecdn.net
+# End of poe
+# Included from xai
+.grok.com
+.x.ai
+# End of xai
+# Included from cursor
+.cursor-cdn.com
+.cursor.com
+.cursor.sh
+.cursorapi.com
+# End of cursor
+
+# CodeRabbit
+.coderabbit.ai
+.coderabbit.gallery.vsassets.io
+
+# Jasper
+.clipdrop.co
+.jasper.ai
+
+.chutes.ai
+.dify.ai
+.gateway.ai.cloudflare.com
+.meta.ai
+.mistral.ai
+.openart.ai
+.openrouter.ai

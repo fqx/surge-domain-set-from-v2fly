@@ -1,0 +1,10 @@
+# This tag 'lark' is for backward compatibility
+
+# Included from feishu
+.getsays.com
+# End of feishu
+# Included from lark-global
+.larksuite.com.ttdns1.com
+.larksuite.com.ttdns2.com
+# End of lark-global
+

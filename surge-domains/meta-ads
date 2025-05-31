@@ -1,0 +1,12 @@
+# Included from facebook-ads
+.analytics.facebook.com
+.pixel.facebook.com
+# End of facebook-ads
+# Included from instagram-ads
+.graph.instagram.com
+.graph-fallback.instagram.com
+# End of instagram-ads
+# Included from whatsapp-ads
+.graph.whatsapp.com
+.graph.whatsapp.net
+# End of whatsapp-ads

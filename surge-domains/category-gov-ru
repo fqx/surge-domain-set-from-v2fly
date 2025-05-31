@@ -1,0 +1,39 @@
+# Federal Gov.
+.government.ru
+.gov.ru
+
+# Federal Public Services
+.gosuslugi.ru
+.gu-st.ru
+
+# Federal Healthcare Services
+.emias.info
+.mgfoms.ru
+
+# Federal Educational Services
+.edu.ru
+
+# Other Federal Resources
+
+#
+# Regional sites and Public Services
+# Reminder on federal subjects naming:
+# | English name        | RU transliteration    | RU naming         |
+# | Region, Province    | Oblast                | Область           |
+# | Territory           | Krai                  | Край              |
+# | Autonomous Region,  | Avtonomniy Okrug      | Автономный Округ  |
+# | Autonomous Area     |                       |                   |
+#
+# Moscow, St. Petersburg, Sevastopol — are separate federal subjects,
+# meaning that e.g. Moscow is not part of Moscow Region.
+#
+
+# Federal Cities (Cities of Federal Importance)
+
+# Republics
+
+# Territories (Krai)
+
+# Regions / Provinces (Oblast)
+
+# Autonomous areas

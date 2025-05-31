@@ -1,0 +1,38 @@
+# Included from ceno
+.censorship.no
+# End of ceno
+# Included from epicbrowser
+.epicbrowser.com
+# End of epicbrowser
+# Included from firefox
+.firefox.com
+.firefoxusercontent.com
+# End of firefox
+# Included from torproject
+.torproject.org
+# End of torproject
+
+# chromium
+.chrome
+.chrome.com
+.chromium.org
+
+.basilisk-browser.org
+.brave.com
+.bromite.org
+.cromite.org
+.decentr.net
+.dothq.org
+.floorp.app
+.iridiumbrowser.de
+.kiwibrowser.com
+.kmeleonbrowser.org
+.librewolf.net
+.minbrowser.org
+.netsurf-browser.org
+.opera.com
+.palemoon.org
+.pulsebrowser.app
+.qutebrowser.org
+.vivaldi.com
+.waterfox.net

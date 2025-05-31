@@ -1,0 +1,37 @@
+# Included from kernel
+.kernel.org
+# End of kernel
+# Included from linux
+.linux.org
+# End of linux
+# Included from openjsfoundation
+# Included from amp
+.amp.dev
+.ampproject.com
+.ampproject.net
+.ampproject.org
+
+cdn.ampproject.org
+
+amp.akamaized.net
+# End of amp
+# Included from electron
+.electronjs.org
+# End of electron
+# Included from jquery
+.jquery.com
+.jquerymobile.com
+.jqueryui.com
+# End of jquery
+# Included from mocha
+.mochajs.org
+# End of mocha
+# Included from nodejs
+.nodejs.org
+# End of nodejs
+
+.openjsf.org
+# End of openjsfoundation
+
+.lfai.foundation
+.linuxfoundation.org

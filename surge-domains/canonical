@@ -1,0 +1,19 @@
+# Included from launchpad
+.launchpad.net
+.launchpadcontent.net
+.launchpadlibrarian.com
+.launchpadlibrarian.net
+.launchpadlibrarian.org
+# End of launchpad
+# Included from snapcraft
+.snapcraft.io
+.snapstore.io
+# End of snapcraft
+# Included from ubuntu
+.ubuntu.com
+.ubuntu.net
+.ubuntuforums.org
+.ubuntu-touch.io
+# End of ubuntu
+
+.canonical.com

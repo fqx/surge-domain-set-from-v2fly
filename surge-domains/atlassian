@@ -1,0 +1,10 @@
+.atlassian.com
+.atlassian.net
+.bitbucket.io
+.bitbucket.org
+.statuspage.io
+
+# Included from trello
+.trello.com
+.trellocdn.com
+# End of trello

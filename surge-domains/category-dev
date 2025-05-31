@@ -1,0 +1,760 @@
+# Included from anaconda
+.anaconda.cloud
+.anaconda.com
+.anaconda.org
+.conda.io
+# End of anaconda
+# Included from android
+.android.com
+.androidify.com
+
+android.googlesource.com
+# End of android
+# Included from apple-dev
+# Included from swift
+.appleswift.com
+.swift.org
+.swiftui.cn
+.swiftui.com.cn
+# End of swift
+
+# Calendar and Contact Server
+.calendarserver.org
+
+# CloudKit
+.apple-cloudkit.com
+
+# CUPS
+.cups.org
+
+# Developer
+.developer.apple.com
+.devimages-cdn.apple.com
+.devstreaming-cdn.apple.com
+.developerservices2.apple.com
+.timestamp.apple.com
+notary-submissions-prod.s3-accelerate.amazonaws.com
+notary-submissions-prod.s3.us-west-2.amazonaws.com
+
+# FoundationDB
+.foundationdb.org
+
+# macOS forge
+.macosforge.org
+
+# MacRuby
+.macruby.com
+.macruby.net
+.macruby.org
+
+# MapKit
+.apple-mapkit.com
+
+# Playgrounds
+.playgrounds-cdn.apple.com
+
+# Research & Care
+.carekit.org
+.researchandcare.org
+.researchkit.cn
+.researchkit.com.cn
+.researchkit.hk
+.researchkit.net
+.researchkit.org
+.researchkit.tv
+
+# ServiceTalk
+.servicetalk.io
+
+# WebKit
+.webkit.org
+.webkitgtk.org
+.wpewebkit.org
+
+# Other
+.webobjects.com
+
+appleworldwidedeveloper.hb-api.omtrdc.net
+appleworldwidedeveloper.sc.omtrdc.net
+p-events-delivery.akamaized.net
+
+# End of apple-dev
+# Included from archlinux
+.archlinux.org
+.archlinuxarm.org
+# End of archlinux
+# Included from bootstrap
+.bootstrapcdn.com
+.getbootstrap.com
+# End of bootstrap
+# Included from braveux
+.braventures.com
+.braveux.com
+
+# Compass
+.compass.is
+
+# Fight For UX
+.fightforux.com
+
+# For the Badge
+.forthebadge.com
+
+# Stock Against Photography
+.stockagainstphotography.com
+# End of braveux
+# Included from canonical
+# Included from launchpad
+.launchpad.net
+.launchpadcontent.net
+.launchpadlibrarian.com
+.launchpadlibrarian.net
+.launchpadlibrarian.org
+# End of launchpad
+# Included from snapcraft
+.snapcraft.io
+.snapstore.io
+# End of snapcraft
+# Included from ubuntu
+.ubuntu.com
+.ubuntu.net
+.ubuntuforums.org
+.ubuntu-touch.io
+# End of ubuntu
+
+.canonical.com
+# End of canonical
+# Included from category-container
+.azurecr.io
+.docker.io
+.ecr.aws
+.gcr.io
+.ghcr.io
+.mcr.microsoft.com
+.quay.io
+.registry.gitlab.com
+.registry.k8s.io
+
+
+# End of category-container
+# Included from codeberg
+.codeberg.org
+.codeberg.page
+# End of codeberg
+# Included from dart
+.dart.dev
+.dartlang.org
+.dartpad.dev
+# End of dart
+# Included from debian
+.debian.org
+.dotdeb.org
+# End of debian
+# Included from docker
+.compose-spec.io
+.docker.com
+.docker.io
+.dockerstatic.com
+
+docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
+docker-pinata-support.s3.amazonaws.com
+# End of docker
+# Included from embedly
+.embed.ly
+.embedly.com
+
+# Player.js
+.playerjs.io
+# End of embedly
+# Included from facebook-dev
+.accountkit.com
+.atscaleconference.com
+.botorch.org
+.buck.build
+.buckbuild.com
+.componentkit.org
+.draftjs.org
+.f8.com
+.facebookappcenter.info
+.facebookappcenter.net
+.facebookappcenter.org
+.facebookconnect.com
+.facebookdevelopergarage.com
+.faciometrics.com
+.fasttext.cc
+.fbf8.com
+.fbinfer.com
+.fblitho.com
+.fbredex.com
+.fbrell.com
+.flow.dev
+.flow.org
+.flowtype.org
+.frescolib.org
+.hacklang.org
+.hhvm.com
+.makeitopen.com
+.mcrouter.net
+.mcrouter.org
+.messengerdevelopers.com
+.ogp.me
+.opengraphprotocol.com
+.opengraphprotocol.org
+.parse.com
+.pyrobot.org
+.react.com
+.reactjs.com
+.reactjs.org
+.recoiljs.org
+.rocksdb.com
+.rocksdb.net
+.rocksdb.org
+.yogalayout.com
+
+developers.facebook.com
+# End of facebook-dev
+# Included from fastlane
+.fastlane.ci
+.fastlane.tools
+# End of fastlane
+# Included from fedora
+.getfedora.org
+.fedoraforum.org
+.fedorapeople.org
+.fedoraproject.org
+.fedoramagazine.org
+# End of fedora
+# Included from firebase
+.firebase.com
+.firebase.io
+.firebaseapp.com
+.firebaseio.com
+
+firebase-settings.crashlytics.com
+firebase.google.com
+firebase.googleapis.com
+firebaseappcheck.googleapis.com
+firebasedynamiclinks-ipv4.googleapis.com
+firebasedynamiclinks-ipv6.googleapis.com
+firebasedynamiclinks.googleapis.com
+firebaseinappmessaging.googleapis.com
+firebaseinstallations.googleapis.com
+firebaselogging-pa.googleapis.com
+firebaselogging.googleapis.com
+firebaseperusertopics-pa.googleapis.com
+firebaseremoteconfig.googleapis.com
+# End of firebase
+# Included from flatpak
+.flathub.org
+.flatpak.org
+# End of flatpak
+# Included from flutter
+.flutter.dev
+.flutterapp.com
+.pub.dev
+# End of flutter
+# Included from fontawesome
+.fontawesome.com
+.fortawesome.com
+# End of fontawesome
+# Included from gemfury
+.fury.blog
+.fury.co
+.fury.dev
+.fury.help
+.fury.io
+.gemfury.com
+# End of gemfury
+# Included from gitbook
+.gitbook.com
+.gitbook.io
+# End of gitbook
+# Included from github
+# Included from npmjs
+.npm.community
+.npmjs.com
+.npmjs.org
+# End of npmjs
+
+.atom.io
+.dependabot.com
+.ghcr.io
+.git.io
+.github.blog
+.github.com
+.github.community
+.github.dev
+.github.io
+.githubapp.com
+.githubassets.com
+.githubcopilot.com
+.githubhackathon.com
+.githubnext.com
+.githubpreview.dev
+.githubstatus.com
+.githubuniverse.com
+.githubusercontent.com
+.myoctocat.com
+.opensource.guide
+.repo.new
+.thegithubshop.com
+
+# GitHub Actions Artifacts
+.blob.core.windows.net
+
+github-cloud.s3.amazonaws.com
+# End of github
+# Included from github1s
+.github1s.com
+.sourcegraph.com
+# End of github1s
+# Included from gitlab
+.gitlab.com
+.gitlab.io
+.gitlab.net
+.gitlab-static.net
+
+gitlab-assets.oss-cn-hongkong.aliyuncs.com
+# End of gitlab
+# Included from golang
+.go-lang.com
+.go-lang.net
+.go-lang.org
+.go.dev
+.godoc.org
+.golang.com
+.golang.net
+.golang.org
+# End of golang
+# Included from hashicorp
+.consul.io
+.hashicorp.com
+.nomadproject.io
+.packer.io
+.terraform.io
+.vagrantcloud.com
+.vagrantup.com
+.vaultproject.io
+# End of hashicorp
+# Included from haskell
+.haskell.org
+.haskellstack.org
+.stackage.org
+# End of haskell
+# Included from homebrew
+.brew.sh
+
+homebrew.bintray.com
+# End of homebrew
+# Included from intel-dev
+.01.org
+.hyperscan.io
+.intellinuxgraphics.com
+.intellinuxgraphics.net
+.oneapi.com
+.openvinotoolkit.org
+.snap-telemetry.io
+
+# ACPI Component Architecture
+.acpica.com
+
+# Clear Linux
+.clearlinux.org
+
+# OSPRay
+.ospray.net
+.ospray.org
+# End of intel-dev
+# Included from java
+# All .java domains
+.java
+
+.java.com
+.java.net
+# End of java
+# Included from jetbrains
+.intellij.com
+.intellij.net
+.intellij.org
+.jetbrains.com
+.jetbrains.net
+.jetbrains.space
+.jetbrains.team
+.datalore.io
+.kotlinlang.org
+.cdn.jetbrains.com
+.download-cdn.jetbrains.com.cn
+.jb.gg
+.youtrack.cloud
+# End of jetbrains
+# Included from jetbrains-ai
+.grazie.ai
+.grazie.aws.intellij.net
+.jetbrains.ai
+# End of jetbrains-ai
+# Included from jfrog
+.jfrog.com
+.jfrog.org
+.bintray.com
+
+d29vzk4ow07wi7.cloudfront.net
+# End of jfrog
+# Included from jsdelivr
+.jsdelivr.com
+.jsdelivr.net
+.esm.run
+
+cdn.jsdelivr.net
+# End of jsdelivr
+# Included from kubernetes
+.kubernetes.io
+.k8s.io
+# End of kubernetes
+# Included from microsoft-dev
+.adaptivecards.io
+.api-extractor.com
+.apisof.net
+.appcenter.ms
+.blazor.net
+.botframework.com
+.codethemicrobit.com
+.devopsassessment.net
+.dot.net
+.gamesstack.com
+.graphengine.io
+.insiderdevtour.com
+.jwt.ms
+.microbit.org
+.microsoftadc.com
+.microsoftgamestack.com
+.microsoftiotinsiderlabs.com
+.microsoftreactor.cn
+.microsoftreactor.com.cn
+.microsoftreactor.info
+.microsoftreactor.net
+.microsoftreactor.org
+.microsoftsilverlight.com
+.microsoftsilverlight.org
+.microsoftsilverlight.net
+.microsoftsqlserver.com
+.mmdnn.com
+.mono-project.com
+.msdn.com
+.msinnovationchallenge.com
+.mspairlift.com
+.msropendata.com
+.nuget.org
+.nugettest.org
+.opentranslatorstothings.org
+.poshtestgallery.com
+.pwabuilder.com
+.reactorms.com.cn
+.sankie.net
+.sqlserveronlinux.com
+.timelinestoryteller.com
+.uwpcommunitytoolkit.com
+.visualstudio-staging.com
+.visualstudio.com
+.visualstudio.co
+.visualstudio.co.uk
+.visualstudio.eu
+.visualstudio.net
+.vfsforgit.com
+.vfsforgit.org
+.vsassets.io
+.vscode.dev
+.vscode-cdn.net
+.vscode-unpkg.net
+.xamarin.com
+
+az764295.vo.msecnd.net
+bingsettingssearch.trafficmanager.net
+default.exp-tas.com
+developer.microsoft.com
+download.visualstudio.microsoft.com
+dtlgalleryint.cloudapp.net
+poshtestgallery.cloudapp.net
+psg-int-centralus.cloudapp.net
+psg-int-eastus.cloudapp.net
+rink.hockeyapp.net
+vscode-sync-insiders.trafficmanager.net
+vscode-sync.trafficmanager.net
+vscode.blob.core.windows.net
+vscode.search.windows.net
+vsmarketplacebadge.apphb.com
+# End of microsoft-dev
+# Included from mongodb
+.mongodb.com
+.mongodb.org
+# End of mongodb
+# Included from nginx
+.nginx.com
+.nginx.org
+# End of nginx
+# Included from nixos
+.nixos.org
+# End of nixos
+# Included from openwrt
+.openwrt.org
+.lede-project.org
+# End of openwrt
+# Included from osdn
+.osdn.net
+# End of osdn
+# Included from perl
+.perl.apache.org
+.perl.org
+.cpan.org
+.metacpan.org
+.modperl.pl
+# End of perl
+# Included from polymer
+.polymer-project.org
+.polymerproject.org
+# End of polymer
+# Included from python
+.pycon.org
+.pypa.io
+.pypi.io
+.pypi.org
+.python.org
+.pythonhosted.org
+# End of python
+# Included from python-community
+.piwheels.org
+# End of python-community
+# Included from qt
+.qt.io
+.qt-project.org
+# End of qt
+# Included from readthedocs
+.readthedocs-hosted.com
+.readthedocs.com
+.readthedocs.io
+.readthedocs.org
+# End of readthedocs
+# Included from redis
+.redis.io
+.redislabs.com
+# End of redis
+# Included from remirepo
+.remirepo.net
+# End of remirepo
+# Included from ruby
+.ruby-lang.org
+.rubygems.org
+# End of ruby
+# Included from rust
+.rust-lang.org
+.rustup.rs
+.crates.io
+.docs.rs
+# End of rust
+# Included from redhat
+.redhat.com
+.redhat.org
+# End of redhat
+# Included from scala
+.scala-lang.org
+.scala-sbt.org
+# End of scala
+# Included from sourcehut
+.sourcehut.org
+.sr.ht
+# End of sourcehut
+# Included from stackexchange
+# References:
+# https://stackexchange.com/sites
+# https://meta.stackexchange.com/questions/81379/can-we-have-a-list-of-all-the-stack-exchange-domains-somewhere-for-firewall-pur
+
+.askubuntu.com
+.blogoverflow.com
+.codeforaliving.io
+.mathoverflow.net
+.serverfault.com
+.sstatic.net
+.stackapps.com
+.stackauth.com
+.stackexchange.com
+.stackmod.blog
+.stackoverflow.blog
+.stackoverflow.co
+.stackoverflow.com
+.stackoverflow.email
+.stackoverflow.help
+.stackoverflow.net
+.stackoverflowbusiness.com
+.stackoverflowcareers.com
+.stackoverflowjobs.com
+.stackoverflowsolutions.com
+.stackoverflowteams.com
+.stacksnippets.net
+.superuser.com
+.tex-talk.net
+.thesffblog.com
+# End of stackexchange
+# Included from strikingly
+.mystrikingly.com
+.strikingly.com
+.strikinglycdn.com
+# End of strikingly
+# Included from termux
+.termux.com
+.termux.dev
+.termux.org
+# End of termux
+# Included from thelinuxfoundation
+# Included from kernel
+.kernel.org
+# End of kernel
+# Included from linux
+.linux.org
+# End of linux
+# Included from openjsfoundation
+# Included from amp
+.amp.dev
+.ampproject.com
+.ampproject.net
+.ampproject.org
+
+cdn.ampproject.org
+
+amp.akamaized.net
+# End of amp
+# Included from electron
+.electronjs.org
+# End of electron
+# Included from jquery
+.jquery.com
+.jquerymobile.com
+.jqueryui.com
+# End of jquery
+# Included from mocha
+.mochajs.org
+# End of mocha
+# Included from nodejs
+.nodejs.org
+# End of nodejs
+
+.openjsf.org
+# End of openjsfoundation
+
+.lfai.foundation
+.linuxfoundation.org
+# End of thelinuxfoundation
+# Included from topcoder
+.topcoder.com
+# End of topcoder
+# Included from unity
+.unity.com
+.unity3d.com
+
+# Included from unity-ads
+.ads.unitychina.cn
+.splash-ads.cdn.unity.cn
+.splash-ads.unitychina.cn
+.unityads.unity.cn
+.unityads.unity3d.com
+.unityads.unitychina.cn
+# End of unity-ads
+# End of unity
+# Included from v8
+.v8.dev
+.v8project.org
+# End of v8
+# Included from vim
+.vim.org
+# End of vim
+
+.adventofcode.com
+.alpinelinux.org
+.apache.org
+.artixlinux.org
+.atom.io
+.badgen.net
+
+# Bitvise official website.
+.bitvise.com
+
+.cdnjs.com
+.centos.org
+.chocolatey.org
+.clojure.org
+.cnpmjs.org
+.cygwin.com
+.cython.org
+.deno.com
+.deno.land
+.dev.to
+.elixir-lang.org
+.elrepo.org
+.erlang.org
+.ffmpeg.org
+.freebsd.org
+.gentoo.org
+.getcomposer.org
+.getzola.org
+.git-scm.com
+.gnu.org
+
+# PuTTY and some software official websites.
+.greenend.org.uk
+
+.hex.pm
+.hexdocs.pm
+.ius.io
+.jenkins.io
+.js.org
+.jupyter.org
+.kali.org
+.linuxfromscratch.org
+.linuxmint.com
+.lua.org
+.macports.org
+.mariadb.org
+.mingw.org
+
+# Mobatek official website.
+.mobatek.net
+
+.mysql.com
+.nixos.org
+.nodesource.com
+.notepad-plus-plus.org
+.openresty.org
+.openssl.org
+.opensuse.org
+.packagist.org
+.pcre.org
+.phantomjs.org
+.php.net
+
+# PuTTY unofficial website, owned by Bitvise.
+.putty.org
+
+.postgresql.org
+.r-project.org
+.raspberrypi.org
+.raspbian.org
+.regex101.com
+.rpmfusion.org
+.scientificlinux.org
+.scoop.sh
+.shellcheck.net
+.shields.io
+.sqlite.org
+.sublimetext.com
+
+# Termius official website.
+.termius.com
+
+.unpkg.com
+.videojs.com
+.videolan.org
+.wapm.io
+.wasmer.io
+.wireshark.org
+.x.org
+.xposed.info
+.yarnpkg.com
+.zsh.org

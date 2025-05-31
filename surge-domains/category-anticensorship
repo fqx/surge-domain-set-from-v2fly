@@ -1,0 +1,123 @@
+# Included from category-ipfs
+# Reference: https://ipfs.github.io/public-gateway-checker/
+
+# Included from cloudflare-ipfs
+.cf-ipfs.com
+.cloudflare-ipfs.com
+# End of cloudflare-ipfs
+
+.4everland.io
+.c4rex.co
+.crustwebsites.net
+.dweb.link
+.gateway.pinata.cloud
+.ipfs-gateway.cloud
+.ipfs.anonymize.com
+.ipfs.best-practice.se
+.ipfs.eternum.io
+.ipfs.eth.aragon.network
+.ipfs.fleek.co
+.ipfs.io
+.ipfs.lain.la
+.ipfs.runfission.com
+.ipfs.tech
+.ipns.co
+.jorropo.net
+.nftstorage.link
+.via0.com
+# End of category-ipfs
+# Included from ceno
+.censorship.no
+# End of ceno
+# Included from citizenlab
+.citizenlab.ca
+.citizenlab.org
+# End of citizenlab
+# Included from epicbrowser
+.epicbrowser.com
+# End of epicbrowser
+# Included from greatfire
+.applecensorship.com
+.freebrowser.org
+.freewechat.com
+.freeweibo.com
+.freezhihu.org
+.greatfire.org
+.pao-pao.net
+.wikiunblocked.org
+# End of greatfire
+# Included from haveibeenpwned
+.haveibeenpwned.com
+.pwnedpasswords.com
+# End of haveibeenpwned
+# Included from lantern
+.getlantern.org
+.lantern.io
+# End of lantern
+# Included from paskoocheh
+.paskoocheh.com
+# End of paskoocheh
+# Included from softether
+.softether.org
+.softether-download.com
+# End of softether
+# Included from torproject
+.torproject.org
+# End of torproject
+# Included from v2ray
+.v2ray.com
+.v2ray.cool
+.v2fly.org
+# End of v2ray
+# Included from vpngate
+.opengw.net
+.vpngate.jp
+.vpngate.net
+# End of vpngate
+
+.ahmia.fi
+.akasha.world
+.browserleaks.com
+.bypasscensorship.org
+.censorship.ai
+.dat.foundation
+.democracy.earth
+.eff.org
+.ffprofile.com
+.freenetproject.org
+.fteproxy.org
+.geti2p.net
+.getoutline.org
+.gfw.report
+.guardianproject.info
+.hiddify.com
+.jitsi.org
+.lokinet.org
+.ntc.party
+.onionshare.org
+.ooni.org
+.openvpn.net
+.privacytools.io
+.proxifier.com
+.psiphon.ca
+.psiphon3.com
+.sagernet.org
+.sing-box.app
+.shadowsocks.org
+.sspanel.net
+.stunnel.org
+.telex.cc
+.tribler.org
+.tunsafe.com
+.turkeyblocks.org
+.twister.net.co
+.uproxy.org
+.vpnrouter.homes
+.vuvuzela.io
+.whonix.org
+.wikileaks.org
+.wireguard.com
+.xtls.github.io
+.trojan-gfw.github.io
+.zeronet.io
+.metacubex.one
