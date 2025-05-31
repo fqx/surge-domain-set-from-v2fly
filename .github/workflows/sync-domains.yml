@@ -17,8 +17,7 @@ jobs:
       uses: actions/checkout@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
-        fetch-depth: 0  # Fetch full history
-        path: current-repo
+        fetch-depth: 0
 
     - name: Checkout source repo
       uses: actions/checkout@v4
@@ -33,22 +32,14 @@ jobs:
 
     - name: Convert domain lists
       run: |
-        cd current-repo
-        python convert_domains.py ../source-repo/data ./surge-domains
+        python convert_domains.py ./source-repo/data ./surge-domains
 
     - name: Commit and push changes
-      run: |
-        cd current-repo
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        
-        # Pull latest changes first
-        git pull origin main
-        
-        git add -A
-        if git diff --staged --quiet; then
-          echo "No changes to commit"
-        else
-          git commit -m "Update domain lists $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
-          git push origin main
-        fi
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: "Update domain lists ${{ github.run_id }}"
+        branch: main
+        commit_user_name: GitHub Action
+        commit_user_email: action@github.com
+        add_options: '-A'
+        push_options: '--force-with-lease'
