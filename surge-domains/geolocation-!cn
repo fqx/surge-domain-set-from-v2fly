@@ -1610,6 +1610,11 @@ tesla-cdn.thron.com
 .ysx-mm.com
 # End of category-bank-mm
 
+# Included from fibank
+.fibank.bg
+.meawallet.app
+.myfin.bg
+# End of fibank
 # Included from hsbc
 # TLD
 .hsbc
