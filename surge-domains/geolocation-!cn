@@ -6557,6 +6557,12 @@ ubistatic3-a.akamaihd.net
 uplaypc-s-ubisoft.cdn.ubi.com
 # End of ubisoft
 # Included from xbox
+# Included from asobo
+.asobostudio.com
+.flightsimulator.com
+
+flightsimulator.azureedge.net
+# End of asobo
 # Included from bethesda
 .beth.games
 .bethesda.net
@@ -6569,6 +6575,14 @@ uplaypc-s-ubisoft.cdn.ubi.com
 # The Elder Scrolls
 .elderscrolls.com
 # End of bethesda
+# Included from forza
+.forza.net
+.forzamotorsport.net
+.forzaracingchampionship.com
+.forzarc.com
+
+prodforza.blob.core.windows.net
+# End of forza
 # Included from mojang
 .callersbane.com
 .minecraft-services.net
@@ -6581,9 +6595,6 @@ uplaypc-s-ubisoft.cdn.ubi.com
 # All .xbox domains
 .xbox
 
-.forzamotorsport.net
-.forzaracingchampionship.com
-.forzarc.com
 .gamepass.com
 .orithegame.com
 .renovacionxboxlive.com
@@ -21016,7 +21027,7 @@ s4.mzstatic.com
 s5.mzstatic.com
 
 # The rules below are from https://github.com/felixonmars/dnsmasq-china-list/blob/master/apple.china.conf
-# Revision: e54aa75ca9c6567ac5b67093e5471eb1c8041e86
+# Revision: 4d392cc0a822ac5626bb97fef3fe5e04e86b28b0
 # Use in config file like this: "geosite:apple@cn"
 a1.mzstatic.com
 a2.mzstatic.com
@@ -21025,16 +21036,15 @@ a4.mzstatic.com
 a5.mzstatic.com
 adcdownload.apple.com
 adcdownload.apple.com.akadns.net
+amp-api-updates.apps.apple.com
 amp-api.media.apple.com
-api-p-ap-c.smoot.apple.com
-api-p-ap-d.smoot.apple.com
-api-p-ap-e.smoot.apple.com
 app-site-association.cdn-apple.com
 appldnld.apple.com
 appldnld.g.aaplimg.com
 appleid.cdn-apple.com
 # According to the consensus in #503, do not include the domain name apps.apple.com directly.
 apps.mzstatic.com
+bag-cdn.itunes-apple.com.akadns.net
 cdn-cn1.apple-mapkit.com
 cdn-cn2.apple-mapkit.com
 cdn-cn3.apple-mapkit.com
@@ -21048,6 +21058,7 @@ cds-cdn.v.aaplimg.com
 cds.apple.com
 cds.apple.com.akadns.net
 cdsassets.apple.com
+certs.apple.com
 cl1-cdn.origin-apple.com.akadns.net
 cl1.apple.com
 cl2-cn.apple.com
@@ -21064,10 +21075,13 @@ clientflow.apple.com.akadns.net
 cn-smp-paymentservices.apple.com
 configuration.apple.com
 configuration.apple.com.akadns.net
+crl.apple.com
 cstat.apple.com
 cstat.cdn-apple.com
 dd-cdn.origin-apple.com.akadns.net
 dejavu.apple.com
+devimages-cdn.apple.com
+devstreaming-cdn.apple.com
 download.developer.apple.com
 experiments.apple.com
 gs-loc-cn.apple.com
@@ -21076,16 +21090,15 @@ gsp10-ssl-cn.ls.apple.com
 gsp12-cn.ls.apple.com
 gsp13-cn.ls.apple.com
 gsp4-cn.ls.apple.com
-gsp4-cn.ls.apple.com.edgekey.net
 gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
 gsp5-cn.ls.apple.com
 gsp85-cn-ssl.ls.apple.com
+gspe19-2-cn-ssl.ls-apple.com.akadns.net
 gspe19-2-cn-ssl.ls.apple.com
 gspe19-cn-ssl.ls.apple.com
 gspe19-cn.ls-apple.com.akadns.net
 gspe19-cn.ls.apple.com
 gspe21-ssl.ls.apple.com
-gspe21.ls.apple.com
 gspe35-ssl.ls.apple.com
 gspe79-cn-ssl.ls.apple.com
 guzzoni-apple-com.v.aaplimg.com
@@ -21094,8 +21107,6 @@ guzzoni.smoot.apple.com
 # full:iadsdk.apple.com has already been defined in apple-ads
 icloud-cdn.icloud.com.akadns.net
 icloud.cdn-apple.com
-images.apple.com
-images.apple.com.akadns.net
 images.apple.com.edgekey.net.globalredir.akadns.net
 init-kt.apple.com
 init-p01md-lb.push-apple.com.akadns.net
@@ -21109,6 +21120,7 @@ iosapps.itunes.g.aaplimg.com
 ipcdn.apple.com
 iphone-ld.apple.com
 iphone-ld.origin-apple.com.akadns.net
+is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net
 is1-ssl.mzstatic.com
 is1.mzstatic.com
 is2-ssl.mzstatic.com
@@ -21174,6 +21186,7 @@ tj-pod1-smp-device.apple.com
 updates-http.cdn-apple.com
 updates-http.cdn-apple.com.akadns.net
 updates.cdn-apple.com
+valid.apple.com
 valid.origin-apple.com.akadns.net
 weather-data.apple.com
 weather-data.apple.com.akadns.net
@@ -21181,7 +21194,6 @@ weather-map.apple.com
 weather-map2.apple.com
 weatherkit.apple.com
 www.apple.com
-www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
 xp.apple.com
 # End of apple
@@ -25371,9 +25383,6 @@ www.microsoft.com
 # All .xbox domains
 .xbox
 
-.forzamotorsport.net
-.forzaracingchampionship.com
-.forzarc.com
 .gamepass.com
 .orithegame.com
 .renovacionxboxlive.com

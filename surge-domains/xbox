@@ -1,3 +1,9 @@
+# Included from asobo
+.asobostudio.com
+.flightsimulator.com
+
+flightsimulator.azureedge.net
+# End of asobo
 # Included from bethesda
 .beth.games
 .bethesda.net
@@ -10,6 +16,14 @@
 # The Elder Scrolls
 .elderscrolls.com
 # End of bethesda
+# Included from forza
+.forza.net
+.forzamotorsport.net
+.forzaracingchampionship.com
+.forzarc.com
+
+prodforza.blob.core.windows.net
+# End of forza
 # Included from mojang
 .callersbane.com
 .minecraft-services.net
@@ -22,9 +36,6 @@
 # All .xbox domains
 .xbox
 
-.forzamotorsport.net
-.forzaracingchampionship.com
-.forzarc.com
 .gamepass.com
 .orithegame.com
 .renovacionxboxlive.com
