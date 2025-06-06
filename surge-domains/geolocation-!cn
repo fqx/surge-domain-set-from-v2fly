@@ -5472,134 +5472,13 @@ chinapower.csis.org
 # Included from category-entertainment
 # This list contains services related to entertainment & games & music & podcasts & videos outside China mainland.
 
-# Included from abema
-.abema.io
-.abema.tv
-.abema-tv.com
-.abematv.co.jp
-.adx.promo
-.ameba.jp
-.amebame.com
-.amebaownd.com
-.amebaowndme.com
-.ameblo.jp
-.bucketeer.jp
-.dokusho-ojikan.jp
-.hayabusa.dev
-.hayabusa.io
-.hayabusa.media
-.winticket.jp
-
-# Abema TV CDN FQDN
-abematv.akamaized.net
-ds-linear-abematv.akamaized.net
-ds-vod-abematv.akamaized.net
-linear-abematv.akamaized.net
-vod-abematv.akamaized.net
-# End of abema
-# Included from amc
-.amc.com
-.amcn.com
-.amcnetworks.com
-.amcplus.com
-.e5a6ae085b6c43020dea230eb0c0ecc33a188227507da97b8ecc05eb8beace6.us-east-1.prod.service.minerva.devices.a2z.com
-# End of amc
-# Included from anime
-# 9amine
-.9anime.cz
-.9anime.id
-.9anime.to
-.9anime.ws
-
-# agefans: https://github.com/agefanscom/website
-.age.tv
-.agedm.org
-.agedm.tv
-.agefans.com
-.agemys.org
-
-# animedao
-.animedao-tv.com
-
-# Crunchyroll
-.crunchyroll.com
-
-# Gogoanime
-.gogoanime.vc
-.gogoanime.wiki
-.gogoanime3.co
-.gogotaku.info
-.gogo-load.com
-
-# hidive
-.hidive.com
-# End of anime
-# Included from apple-tvplus
-# Apple TV+
-apple-tv-plus-press.apple.com
-hls-amt.itunes.apple.com
-hls.itunes.apple.com
-np-edge.itunes.apple.com
-play-edge.itunes.apple.com
-tv.applemusic.com
-uts-api.itunes.apple.com
-
-.tv.apple.com
-# End of apple-tvplus
-# Included from archiveofourown
-.ao3.org
-.archiveofourown.org
-.archiveofourown.com
-.archiveofourown.net
-# End of archiveofourown
-# Included from attwatchtv
-.att.tv
-.atttvnow.com
-.attwatchtv.com
-.directv.com
-.dtvce.com
-.nettyinternet.com
-# End of attwatchtv
-# Included from bahamut
-.bahamut.akamaized.net
-.bahamut.com.tw
-.gamer.com.tw
-
-gamer2-cds.cdn.hinet.net
-gamer-cds.cdn.hinet.net
-# End of bahamut
-# Included from bandcamp
-.bandcamp.com
-.bcbits.com
-# End of bandcamp
-# Included from bangumi
-.bangumi.tv
-.bgm.tv
-.chii.in
-# End of bangumi
-# Included from boomerang
-.boomerang.com
-.wbdnbo.net
-# End of boomerang
-# Included from catchplay
-.catchplay.com
-.tra-ww000-cp.akamaized.net
-# End of catchplay
-# Included from category-games
+# Included from category-games-!cn
 # Included from 2kgames
 .2k.com
 .2kcoretech.online
 .2kgames.com
 .take2games.com
 # End of 2kgames
-# Included from bilibili-game
-.bilibiligame.cn
-.bilibiligame.co
-.bilibiligame.net
-.biligame.co
-.biligame.com
-.biligame.net
-# End of bilibili-game
 # Included from blizzard
 .blizzard.com
 .blizzardgearstore.com
@@ -5647,10 +5526,6 @@ blznav.akamaized.net
 .bluearchive.nexon.com
 .bluearchive-cn.com
 # End of bluearchive
-# Included from bluepoch-games
-# From reverse 1999
-.sl916.com
-# End of bluepoch-games
 # Included from curseforge
 .curseforge.com
 .forgecdn.net
@@ -5963,24 +5838,6 @@ www4-static.gog-statics.com
 gog-cdn-fastly.gog.com
 gog-cdn.akamaized.net
 # End of gog
-# Included from illusion
-.illusion.co.jp
-.illusion.jp
-# End of illusion
-# Included from itchio
-.itch.io
-.itch.zone
-# End of itchio
-# Included from kurogames
-.kurogames.com
-
-# Wuthering Waves
-.aki-game.com
-# End of kurogames
-# Included from lowiro
-.lowiro.com
-# End of lowiro
-# Included from mihoyo
 # Included from hoyoverse
 # 原神
 .genshinimpact.com
@@ -6006,39 +5863,17 @@ gog-cdn.akamaized.net
 # 絕區零(Zenless Zone Zero)
 .zenlesszonezero.com
 # End of hoyoverse
-# Included from mihoyo-cn
-# 米哈游
-.mhystatic.com
-.mhyurl.cn
-.mihayo.com
-.mihayou.com
-.mihoyo.com
-.mihoyocg.com
-.mihoyogift.com
-.mihoyomall.com
-.miyoushe.com
-
-# 崩坏2
-.benghuai.com
-
-# 崩坏3
-.bh3.com
-
-# 星穹铁道
-.bhsr.com
-
-# 未定事件簿
-.themisweeps.com
-
-# 原神
-.yuanshen.com
-
-#绝区零
-.juequling.com
-
-# Akamai
-# End of mihoyo-cn
-# End of mihoyo
+# Included from illusion
+.illusion.co.jp
+.illusion.jp
+# End of illusion
+# Included from itchio
+.itch.io
+.itch.zone
+# End of itchio
+# Included from lowiro
+.lowiro.com
+# End of lowiro
 # Included from nexon
 .nexon.co.jp
 .nexon.com
@@ -6435,115 +6270,6 @@ xz.pphimalayanrt.com
 .supercellid.com
 .supercellstore.com
 # End of supercell
-# Included from tencent-games
-.battlecare.net
-.gameitop.com
-.gameloop.com
-.gcloudcs.com
-.gcloudcstest.com
-.gcloudcstestonly.com
-.gclouddolphin.com
-.gcloudsdk.com
-.gdtimg.com
-.goto-game.com
-.goto-game.mobi
-.goto-game.net.cn
-.goto-game.org
-.happyhlddz.com
-.hdyxgame.com
-.hkgcloudcs.com
-.ihappystudio.cn
-.ihappystudio.com
-.in.th
-.ludosuperstar.cn
-.ludoworld.net
-.mahjongai.net
-.mahjongcup.cn
-.mahjongcup.com
-.mahjongcup.net
-.metalrevolution.com
-.midasbuy.com
-.nagcloudcs.com
-.proximabeta.com
-.pubghelper.com
-.pubgno1.cn
-.pubgtool.com
-.qqgameapp.com
-.rmwxgame.com
-.skydweller.cn
-.syxlgame.com
-.tencent-gcloud.com
-.tencentstart.com
-.texasholdemcup.cn
-.texasholdemcup.com
-.texasholdemcup.net
-.timibase.com
-.videoxiaoyouxi.com
-.wcbygame.com
-.yxdmgame.com
-.yximg.cn
-.yxwsgame.com
-.yzyxgame.com
-.zcjbgame.com
-.zhuoyuegame.com
-
-.xn--owtw8cc49ajfl.cn
-
-# Roblox
-.roblox.cn
-.roblox.qq.com
-.robloxdev.cn
-
-# NExT Studios
-.nextstudios.com
-.nextworkshop.net
-
-# 迷失之地
-.mszdld.cn
-.mszdld.com
-.mszdld.net
-
-# 篝火营地
-.gamebonfire.com
-.gouhuo.qq.com
-
-# WeGame
-.ffbuddy.com
-.gotolink.net
-.gtgres.com
-.realcybertron.com
-.wegame.com
-.wegame.com.cn
-.wegameplus.com
-.werepository.com.cn
-
-# Supercell
-.brawlstars.cn
-.haydaypop.cn
-.labycore.cn
-.sccreator.cn
-.sccreators.cn
-.scescdn.cn
-.scid.cn
-.scsentry.cn
-.supercell.com
-.supercellcommunity.cn
-.supercellsupport.cn
-
-# 使命召唤
-.codm.com
-
-# 穿越火线
-.bcfmglobal.com
-.tcfmglobal.com
-
-# 腾讯游戏安全专家
-.anticheatexpert.com
-
-# 洛克王国
-.17roco.com
-.roco.qq.com
-# End of tencent-games
 # Included from ubisoft
 .ubi.com
 .ubisoft.com
@@ -6642,13 +6368,127 @@ prodforza.blob.core.windows.net
 .quiltmc.org
 .speedrun.com
 .steamdb.info
-# End of category-games
+# End of category-games-!cn
 # Included from category-novel
 # This file contains domains of pirate chinese online novel sites that are blocked by GFW
 .ptzwx.com
 .quanben-xiaoshuo.com
 .quanben.io
 # End of category-novel
+
+# Included from abema
+.abema.io
+.abema.tv
+.abema-tv.com
+.abematv.co.jp
+.adx.promo
+.ameba.jp
+.amebame.com
+.amebaownd.com
+.amebaowndme.com
+.ameblo.jp
+.bucketeer.jp
+.dokusho-ojikan.jp
+.hayabusa.dev
+.hayabusa.io
+.hayabusa.media
+.winticket.jp
+
+# Abema TV CDN FQDN
+abematv.akamaized.net
+ds-linear-abematv.akamaized.net
+ds-vod-abematv.akamaized.net
+linear-abematv.akamaized.net
+vod-abematv.akamaized.net
+# End of abema
+# Included from amc
+.amc.com
+.amcn.com
+.amcnetworks.com
+.amcplus.com
+.e5a6ae085b6c43020dea230eb0c0ecc33a188227507da97b8ecc05eb8beace6.us-east-1.prod.service.minerva.devices.a2z.com
+# End of amc
+# Included from anime
+# 9amine
+.9anime.cz
+.9anime.id
+.9anime.to
+.9anime.ws
+
+# agefans: https://github.com/agefanscom/website
+.age.tv
+.agedm.org
+.agedm.tv
+.agefans.com
+.agemys.org
+
+# animedao
+.animedao-tv.com
+
+# Crunchyroll
+.crunchyroll.com
+
+# Gogoanime
+.gogoanime.vc
+.gogoanime.wiki
+.gogoanime3.co
+.gogotaku.info
+.gogo-load.com
+
+# hidive
+.hidive.com
+# End of anime
+# Included from apple-tvplus
+# Apple TV+
+apple-tv-plus-press.apple.com
+hls-amt.itunes.apple.com
+hls.itunes.apple.com
+np-edge.itunes.apple.com
+play-edge.itunes.apple.com
+tv.applemusic.com
+uts-api.itunes.apple.com
+
+.tv.apple.com
+# End of apple-tvplus
+# Included from archiveofourown
+.ao3.org
+.archiveofourown.org
+.archiveofourown.com
+.archiveofourown.net
+# End of archiveofourown
+# Included from attwatchtv
+.att.tv
+.atttvnow.com
+.attwatchtv.com
+.directv.com
+.dtvce.com
+.nettyinternet.com
+# End of attwatchtv
+# Included from bahamut
+.bahamut.akamaized.net
+.bahamut.com.tw
+.gamer.com.tw
+
+gamer2-cds.cdn.hinet.net
+gamer-cds.cdn.hinet.net
+# End of bahamut
+# Included from bandcamp
+.bandcamp.com
+.bcbits.com
+# End of bandcamp
+# Included from bangumi
+.bangumi.tv
+.bgm.tv
+.chii.in
+# End of bangumi
+# Included from boomerang
+.boomerang.com
+.wbdnbo.net
+# End of boomerang
+# Included from catchplay
+.catchplay.com
+.tra-ww000-cp.akamaized.net
+# End of catchplay
 # Included from dailymotion
 .dailymotion.com
 .dm-event.net
@@ -7018,6 +6858,63 @@ lastfm.freetls.fastly.net
 .manhuagui.com
 # End of manhuagui
 # Included from mihoyo
+# Included from hoyoverse
+# 原神
+.genshinimpact.com
+
+# 崩壞3
+.honkaiimpact3.com
+
+# 星穹鐵道
+.honkaistarrail.com
+
+# 短網址
+.hoyo.link
+
+# HoYoLab
+.hoyolab.com
+
+# HoYoverse
+.hoyoverse.com
+
+# n0va
+.n0vadesktop.com
+
+# 絕區零(Zenless Zone Zero)
+.zenlesszonezero.com
+# End of hoyoverse
+# Included from mihoyo-cn
+# 米哈游
+.mhystatic.com
+.mhyurl.cn
+.mihayo.com
+.mihayou.com
+.mihoyo.com
+.mihoyocg.com
+.mihoyogift.com
+.mihoyomall.com
+.miyoushe.com
+
+# 崩坏2
+.benghuai.com
+
+# 崩坏3
+.bh3.com
+
+# 星穹铁道
+.bhsr.com
+
+# 未定事件簿
+.themisweeps.com
+
+# 原神
+.yuanshen.com
+
+#绝区零
+.juequling.com
+
+# Akamai
+# End of mihoyo-cn
 # End of mihoyo
 # Included from mubi
 .mubi.com
@@ -19331,23 +19228,25 @@ uts-api.itunes.apple.com
 # https://support.apple.com/en-us/HT210060
 
 .appldnld.apple.com
+.configuration.apple.com
+.fcs-keys-pub-prod.cdn-apple.com
+.gdmf-ados.apple.com
+.gdmf.apple.com
 .gg.apple.com
-.gnf-mdn.apple.com
-.gnf-mr.apple.com
 .gs.apple.com
+.gsra.apple.com
 .ig.apple.com
 .mesu.apple.com
-.ns.itunes.apple.com
 .oscdn.apple.com
 .osrecovery.apple.com
 .skl.apple.com
 .swcdn.apple.com
 .swdist.apple.com
 .swdownload.apple.com
-.swpost.apple.com
 .swscan.apple.com
 .updates-http.cdn-apple.com
 .updates.cdn-apple.com
+.wkms-public.apple.com
 .xp.apple.com
 # End of apple-update
 # Included from beats
