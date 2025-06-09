@@ -2646,13 +2646,6 @@ e8aeb8bbdbbd7.cdn.sohucs.com
 .fengimg.com
 .wfdata.club
 # End of weiphone
-# Included from ynet
-# This file includes domains for 北京青年报网际传播技术有限公司 (京ICP证010639号-4)
-
-.ynet.cn
-.ynet.com
-.ynet.com.cn
-# End of ynet
 # Included from xueqiu
 .aiganggu.com
 .danjuanfunds.com
@@ -2660,6 +2653,13 @@ e8aeb8bbdbbd7.cdn.sohucs.com
 .snowballsecurities.com
 .xueqiu.com
 # End of xueqiu
+# Included from ynet
+# This file includes domains for 北京青年报网际传播技术有限公司 (京ICP证010639号-4)
+
+.ynet.cn
+.ynet.com
+.ynet.com.cn
+# End of ynet
 
 # 证券时报网
 .stcn.com
@@ -2743,6 +2743,13 @@ e8aeb8bbdbbd7.cdn.sohucs.com
 
 # 封面新闻
 .thecover.cn
+
+# 参考消息
+.cankaoxiaoxi.com
+.ckxx.net
+
+# 大公网（大公报）
+.takungpao.com
 
 # 超能网
 .expreview.com
