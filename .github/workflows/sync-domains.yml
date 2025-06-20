@@ -24,6 +24,7 @@ jobs:
       with:
         repository: v2fly/domain-list-community
         path: source-repo
+        clean: false
 
     - name: Set up Python
       uses: actions/setup-python@v4
