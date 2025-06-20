@@ -17,27 +17,22 @@ jobs:
       uses: actions/checkout@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0
 
-    - name: Checkout source repo into a separate directory
+    - name: Checkout source repo
       uses: actions/checkout@v4
       with:
         repository: v2fly/domain-list-community
-        path: ../source-repo-data
+        path: source-repo
 
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.12'
 
-    - name: Copy source data and convert domain lists
+    - name: Convert domain lists
       run: |
-        mkdir -p ./source-data
-        cp -r ../source-repo-data/data/* ./source-data/
-        python convert_domains.py ./source-data ./surge-domains
-
-    # --- Add this new step ---
-    - name: Remove temporary source data
-      run: rm -rf ./source-data
+        python convert_domains.py ./source-repo/data ./surge-domains
 
     - name: Commit and push changes
       uses: stefanzweifel/git-auto-commit-action@v5
