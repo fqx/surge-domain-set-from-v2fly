@@ -17150,6 +17150,31 @@ ntp7.ntp-servers.net
 .time.nrc.ca
 # End of category-ntp
 
+# Included from rsshub
+.rsshub.app
+# End of rsshub
+# Included from rsshub-3rd
+holoxx.f5.si
+hub.slarker.me
+rss.4040940.xyz
+rss.datuan.dev
+rss.littlebaby.life
+rss.owo.nz
+rss.wudifeixue.com
+rsshub.asailor.org
+rsshub.email-once.com
+rsshub.henry.wang
+rsshub.isrss.com
+rsshub.ktachibana.party
+rsshub.pseudoyu.com
+rsshub.rss.tips
+rsshub.rssforever.com
+rsshub.umzzz.com
+rsshub.woodland.cafe
+rsshub2.asailor.org
+yangzhi.app
+# End of rsshub-3rd
+
 # Included from accuweather
 .accuweather.com
 # End of accuweather
@@ -17521,9 +17546,6 @@ public-us-pingsx.api.clonoth.com
 # Included from reurl
 .reurl.cc
 # End of reurl
-# Included from rsshub
-.rsshub.app
-# End of rsshub
 # Included from sb
 .dns.sb
 .ip.gs
