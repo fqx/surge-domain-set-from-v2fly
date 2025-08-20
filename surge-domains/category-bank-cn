@@ -48,6 +48,9 @@
 # All .citic domains
 .citic
 
+# All .中信 domains
+.xn--fiq64b
+
 .chinaamc.com
 .citic-prudential.com.cn
 .citicbank.com
@@ -62,7 +65,6 @@
 .csc108.com
 .csci.hk
 .ecitic.com
-
 # End of citic
 # Included from cmb
 .8008205555.cn

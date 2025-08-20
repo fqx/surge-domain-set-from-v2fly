@@ -175,6 +175,9 @@ ai.zhaomi.cn
 # All .citic domains
 .citic
 
+# All .中信 domains
+.xn--fiq64b
+
 .chinaamc.com
 .citic-prudential.com.cn
 .citicbank.com
@@ -189,7 +192,6 @@ ai.zhaomi.cn
 .csc108.com
 .csci.hk
 .ecitic.com
-
 # End of citic
 # Included from cmb
 .8008205555.cn
@@ -537,6 +539,9 @@ ai.zhaomi.cn
 # All .citic domains
 .citic
 
+# All .中信 domains
+.xn--fiq64b
+
 .chinaamc.com
 .citic-prudential.com.cn
 .citicbank.com
@@ -551,7 +556,6 @@ ai.zhaomi.cn
 .csc108.com
 .csci.hk
 .ecitic.com
-
 # End of citic
 # Included from eastmoney
 .1234567.com.cn
@@ -2600,6 +2604,9 @@ kc.kexinshe.com
 e8aeb8bbdbbd7.cdn.sohucs.com
 643108e7617ef.cdn.sohucs.com
 # End of sohu-ads
+
+# All .sohu domains
+.sohu
 
 .focus-img.cn
 .focus.cn
@@ -6392,7 +6399,6 @@ wetv.qq.com
 .miwifi.com
 .xiaomi.cn
 .xiaomi.com
-.xiaomi.eu
 .xiaomi.net
 .xiaomicp.com
 .xiaomidns.cn
@@ -6561,6 +6567,12 @@ ztedevices.com
 .chinatelecomhk.com
 # End of chinatelecom
 # Included from chinaunicom
+# All .unicom domains
+.unicom
+
+# All .联通 domains
+.xn--8y0a063a
+
 .10010.com
 .10010.com.cn
 .114menhu.com
