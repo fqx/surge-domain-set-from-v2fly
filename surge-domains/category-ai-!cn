@@ -6,6 +6,12 @@
 # CDN
 servd-anthropic-website.b-cdn.net
 # End of anthropic
+# Included from cursor
+.cursor-cdn.com
+.cursor.com
+.cursor.sh
+.cursorapi.com
+# End of cursor
 # Included from google-deepmind
 # Google DeepMind
 .deepmind.com
@@ -84,12 +90,6 @@ pplx-res.cloudinary.com
 .grok.com
 .x.ai
 # End of xai
-# Included from cursor
-.cursor-cdn.com
-.cursor.com
-.cursor.sh
-.cursorapi.com
-# End of cursor
 
 # CodeRabbit
 .coderabbit.ai
@@ -100,6 +100,7 @@ pplx-res.cloudinary.com
 .jasper.ai
 
 .chutes.ai
+.copilot.microsoft.com
 .dify.ai
 .gateway.ai.cloudflare.com
 .meta.ai
