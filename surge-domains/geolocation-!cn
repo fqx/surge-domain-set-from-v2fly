@@ -6156,6 +6156,7 @@ videos-rockstargames-com.akamaized.net
 # End of rockstar
 # Included from snk
 .snk-corp.co.jp
+.snk-corp.info
 .snkplaymore.info
 # End of snk
 # Included from steam
@@ -8767,6 +8768,8 @@ deutschewelle.h-cdn.com
 
 # Included from tubi
 .tubi.io
+.tubi.tv
+.tubi.video
 .tubitv.com
 # End of tubi
 
@@ -26729,6 +26732,7 @@ cdn.js7k.com
 .xn--d1acpjx3f.xn--p1ai
 
 .dzen.ru
+.naydex.net
 .rostaxi.org
 .ya.ru
 .yandex-bank.net
@@ -26736,6 +26740,7 @@ cdn.js7k.com
 .yandex.aero
 .yandex.az
 .yandex.by
+.yandex.cloud
 .yandex.co.il
 .yandex.com
 .yandex.com.am
