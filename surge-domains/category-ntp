@@ -86,6 +86,7 @@ ntp5.tencent.com
 # Apple
 # regexp:^time(.euro)?.apple.com$
 time.apple.com
+time.asia.apple.com
 time.euro.apple.com
 
 # AWS

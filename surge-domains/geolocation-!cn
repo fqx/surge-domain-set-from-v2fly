@@ -46,6 +46,10 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 # Jules
 .jules.google
 .jules.google.com
+
+# Google AI Labs 
+.labs.google
+.aisandbox-pa.googleapis.com
 # End of google-deepmind
 # Included from groq
 .groq.com
@@ -82,6 +86,7 @@ browser-intake-datadoghq.com
 # End of openai
 # Included from perplexity
 .perplexity.ai
+.perplexity.com
 .pplx.ai
 
 pplx-res.cloudinary.com
@@ -1727,6 +1732,7 @@ tesla-cdn.thron.com
 # End of ifast
 # Included from longbridge
 .longbridge.cloud
+.longbridge.com
 .longbridge.global
 .longbridge.hk
 .longbridge.sg
@@ -1734,6 +1740,7 @@ tesla-cdn.thron.com
 .longportapp.com
 
 # Site Assets
+.lbctrl.com
 .lbkrs.com
 .wbrks.com
 # End of longbridge
@@ -3397,10 +3404,12 @@ hammerandchisel.ssl.zendesk.com
 .binanceapi.com
 .bnbstatic.com
 
-# saas 
+# saas
+.appsflayer.com
+.saasexch.cc
+.saasexch.co
 .saasexch.com
 .saasexch.io
-.appsflayer.com
 # End of binance
 # Included from bitflyer
 .bitflyer.com
@@ -6179,6 +6188,9 @@ videos-rockstargames-com.akamaized.net
 # edgecast
 .edge.steam-dns.top.comcast.net
 
+# edgesuite
+steamcommunity-a.akamaihd.net.edgesuite.net
+
 # 网宿(国际)
 .steam.apac.qtlglb.com
 .steam.eca.qtlglb.com
@@ -6491,6 +6503,15 @@ gamer-cds.cdn.hinet.net
 .catchplay.com
 .tra-ww000-cp.akamaized.net
 # End of catchplay
+# Included from copymanga
+.2025copy.com
+.copy-manga.com
+.copy20.com
+.copy2000.online
+.mangacopy.com
+.mangafuna.xyz
+.mangafunb.fun
+# End of copymanga
 # Included from dailymotion
 .dailymotion.com
 .dm-event.net
@@ -6825,9 +6846,7 @@ hulu.playback.edge.bamgrid.com
 # End of imdb
 # Included from iyf
 .iyf.tv
-
-# CDN used by iyf
-.dnvodcdn.me
+.yfsp.tv
 # End of iyf
 # Included from kingkonglive
 .kingkong.com.tw
@@ -6982,6 +7001,14 @@ netflix.com.edgesuite.net
 .nimg.jp
 .simg.jp
 # End of niconico
+# Included from now
+.now.com
+.now.com.hk
+.nowe.com
+.nowe.hk
+.now-tv.com
+.now-ashare.com
+# End of now
 # Included from olevod
 .haiwaikan.com
 .iole.tv
@@ -7068,8 +7095,9 @@ netflix.com.edgesuite.net
 .yourfantasybeginsnow.com
 # End of sonypictures
 # Included from soundcloud
-.soundcloud.com
 .sndcdn.com
+.soundcloud.cloud
+.soundcloud.com
 # End of soundcloud
 # Included from spotify
 .byspotify.com
@@ -8330,6 +8358,43 @@ linkedin.sc.omtrdc.net
 
 # Media & News & Press
 # Included from category-media
+# Included from category-tech-media
+# Included from 9to5
+.9to5google.com
+.9to5mac.com
+.9to5terminal.com
+.9to5toys.com
+.dronedj.com
+.electrek.co
+.spaceexplored.com
+# End of 9to5
+# Included from thetype
+.thetype.cloud
+.thetype.com
+.typeisbeautiful.com
+# End of thetype
+# Included from ycombinator
+.startupschool.org
+.ycombinator.com
+# End of ycombinator
+
+.androidauthority.com
+.androidpolice.com
+.appleinsider.com
+.digitaltrends.com
+.engadget.com
+.macrumors.com
+.slashdot.org
+.technews.tw
+.techradar.com
+.theverge.com
+.tomsguide.com
+
+# zdnet
+.zdnet.com
+.zdnet.redvideo.io
+# End of category-tech-media
+
 # Included from 6park
 .6park.com
 .6parkbbs.com
@@ -8524,10 +8589,6 @@ vs-hls-pushb-uk-live.akamaized.net
 .c-span.org
 .c-spanvideo.org
 # End of c-span
-# Included from cabletv
-.cabletv.com.hk
-.i-cable.com
-# End of cabletv
 # Included from cbs
 # All .cbs domains
 .cbs
@@ -9128,6 +9189,17 @@ himalaya-exchange.zendesk.com
 .huffpostbrasil.com
 .huffpostmaghreb.com
 # End of huffpost
+# Included from icable
+# Included from cabletv
+.cabletv.com.hk
+.fantv.hk
+.hkopentv.com
+.hoy.tv
+.i-cable.com
+# End of cabletv
+
+.i-cablecomm.com
+# End of icable
 # Included from infowars
 .banned.video
 .infowars.com
@@ -9902,44 +9974,6 @@ himalaya-exchange.zendesk.com
 zeenews-fonts.s3.amazonaws.com
 # End of zee
 
-# Included from category-tech-media
-# Included from 9to5
-.9to5google.com
-.9to5mac.com
-.9to5terminal.com
-.9to5toys.com
-.dronedj.com
-.electrek.co
-.spaceexplored.com
-# End of 9to5
-# Included from thetype
-.thetype.cloud
-.thetype.com
-.typeisbeautiful.com
-# End of thetype
-# Included from ycombinator
-.startupschool.org
-.ycombinator.com
-# End of ycombinator
-
-.androidauthority.com
-.androidpolice.com
-.appleinsider.com
-.digitaltrends.com
-.engadget.com
-.macrumors.com
-.slashdot.org
-.technews.tw
-.techradar.com
-.theverge.com
-.tomsguide.com
-
-# zdnet
-.zdnet.com
-.zdnet.redvideo.io
-# End of category-tech-media
-
-
 .881903.com
 .am730.com.hk
 .americasvoice.news
@@ -10310,6 +10344,11 @@ spectator.ppy.sh
 .clips4sale.com
 .videos4sale.com
 # End of clips4sale
+# Included from coomer
+.coomer.party
+.coomer.st
+.coomer.su
+# End of coomer
 # Included from cuinc
 .cuinc.oen.tw
 .cuinc.tw
@@ -10452,6 +10491,12 @@ misa-prod.s3.ap-northeast-1.amazonaws.com
 .jable.tv
 .mushroomtrack.com
 # End of jable
+# Included from japonx
+.x18r.co
+.x18r.com
+.z18r.co
+.z18r.com
+# End of japonx
 # Included from javbus
 .javbus.com
 .javbus22.com
@@ -10466,12 +10511,6 @@ misa-prod.s3.ap-northeast-1.amazonaws.com
 .jdbimgs.com
 .jdbstatic.com
 # End of javdb
-# Included from japonx
-.x18r.co
-.x18r.com
-.z18r.co
-.z18r.com
-# End of japonx
 # Included from javwide
 .javwide.com
 .javwide.tv
@@ -10493,8 +10532,6 @@ misa-prod.s3.ap-northeast-1.amazonaws.com
 .twporn.net
 # End of justav
 # Included from kemono
-.cooer.su
-.coomer.party
 .kemono.cr
 .kemono.party
 .kemono.su
@@ -10876,7 +10913,6 @@ widgets.stripst.com
 .ferryclean.com
 .zhimeishe888.com
 # End of zhimeishe
-
 
 # The top domains of the pornographic website.
 
@@ -17074,6 +17110,7 @@ ntp5.tencent.com
 # Apple
 # regexp:^time(.euro)?.apple.com$
 time.apple.com
+time.asia.apple.com
 time.euro.apple.com
 
 # AWS
@@ -18936,12 +18973,15 @@ wwis-dubc1-vip99.adobe.com
 .amazonaws.net
 .amazonaws.org
 .amazonaws.tv
+.amazoncognito.com
 .amazonses.com
 .amazonworkdocs.com
 .amplifyapp.com
 .amplifyframework.com
 .aws-iot-hackathon.com
 .aws.com
+.awsapprunner.com
+.awsapps.com
 .awsautopilot.com
 .awsautoscaling.com
 .awsbraket.com
@@ -22234,145 +22274,249 @@ ciscolivehls-i.akamaihd.net
 .corelstore.com
 # End of corel
 # Included from dell
-# Included from vmware
-.cfblob.com
-.cloudchoose.com
-.cloudvolumes.com
-.cmpaas.com
-.cpedge.com
-.crit-staging.com
-.experience-vmware.com
-.gemfire.net
-.geodesummit.com
-.getboxer.com
-.gitstar.com
-.gitstar.net
-.gopivotal.net
-.greenplum.net
-.hwslabs.com
-.immidio.com
-.itfromtheinside.com
-.latamvmwareforum.com
-.pivotalinitiative.com
-.snapvolumes.com
-.ssdevrd.com
-.vcanedge.com
-.vcloudair.net
-.vfabric.net
-.vidmpreview.com
-.virsto.com
-.virsto.net
-.vmglobal.net
-.vmmark.com
-.vmtestdrive.com
-.vmw.com
-.vmware-cloudmanagement.com
-.vmware-techcenter.com
-.vmware.com
-.vmware20mosaic.com
-.vmwareausnews.com
-.vmwarecertificationvideos.com
-.vmwarecloud.com
-.vmwaredemandcenter.com
-.vmwareemeablog.com
-.vmwaregrid.com
-.vmwarehorizon.com
-.vmwareidentity.com
-.vmwarelearning.com
-.vmwarelearningplatform.com
-.vmwarestuff.com
-.vmwareusergroupstore.com
-.vmwareviewpoint.com
-.vmwarevmc.com
-.vmwdemo.com
-.vmwgcomms.com
-.vmwhorizonair.com
-.vmwidm-ads.com
-.vmwidm.com
-.vmwlabconnect.com
-.vmwlearningplatform.com
-.vmworld.com
-.vmworld2010.com
-.vmworld2013.com
-.vmwsalesrewards.com
-.vmwservices.com
-.vnware.net
-.whychoosehorizon.com
-.whychooseview.com
-.whychoosevmwareeuc.com
-.windowsuem.com
-.workspaceair.com
-.xlstudio.com
-
-# Avi Networks
-.avinetworks.com
-.badaas.com
-
-# Bitnami
-.bitnami.com
-.bitnamiapp.com
-.bitnamistudio.com
-.dockerizer.com
-
-# Cloud Cred
-.cloudcredibility.com
-
-# CloudHealth
-.cloudhealthtech.com
-.cloudlive.com
-
-# Kube
-.kubeacademy.com
-.kubeapps.com
-
-# Nyansa
-.nyansa.com
-
-# VeloCloud
-.velocloud.com
-
-# VMware Tanzu Portfolio
-.gopivotal.com
-.heptio.cn
-.heptio.com
-
-# vRealize Operations
-.aliveipc.com
-.aliveitsm.com
-.aliveprofiler.com
-.alivercm.com
-.aliverewind.com
-.alivertsm.com
-.alivevm.com
-.alivevmax.com
-.alivevue.com
-
-# vSphere
-.vsphere.com
-.vsphere.net
-
-# Workspace ONE
-.air-watch.com
-.airwatchexpress.com
-.airwatchqa.com
-.getws1.com
-.getwsone.com
-.whatisairwatch.com
-.whatisworkspaceone.com
-.workspaceone.com
-
-vmware.tt.omtrdc.net
-# End of vmware
-
 # All .dell domains
 .dell
 
+# Alienware
+.alienware.ae
+.alienware.at
+.alienware.be
+.alienware.biz
+.alienware.ca
+.alienware.ch
+.alienware.co.cr
+.alienware.co.il
+.alienware.co.in
+.alienware.co.nz
+.alienware.co.uk
+.alienware.com
+.alienware.com.au
+.alienware.com.es
+.alienware.com.my
+.alienware.com.sg
+.alienware.cz
+.alienware.de
+.alienware.dk
+.alienware.es
+.alienware.eu
+.alienware.fr
+.alienware.gr
+.alienware.hk
+.alienware.ie
+.alienware.it
+.alienware.jp
+.alienware.kr
+.alienware.lv
+.alienware.net
+.alienware.nl
+.alienware.ph
+.alienware.pl
+.alienware.ps
+.alienware.ro
+.alienware.se
+.alienware.us
+
+.del.com
+.del.com.br
 .dell-brand.com
+.dell.ac
+.dell.am
+.dell.at
+.dell.az
+.dell.be
+.dell.bg
+.dell.bi
+.dell.bs
+.dell.by
+.dell.ca
+.dell.cd
+.dell.cg
+.dell.ch
+.dell.cl
+.dell.co.id
+.dell.co.il
+.dell.co.in
+.dell.co.jp
+.dell.co.kr
+.dell.co.mu
+.dell.co.nz
+.dell.co.th
+.dell.co.tt
+.dell.co.uk
+.dell.co.vi
+.dell.co.za
 .dell.com
+.dell.com.ag
+.dell.com.ai
+.dell.com.ar
+.dell.com.au
+.dell.com.bb
+.dell.com.bo
+.dell.com.br
+.dell.com.bs
+.dell.com.bz
+.dell.com.cn
+.dell.com.co
+.dell.com.cy
+.dell.com.dm
+.dell.com.do
+.dell.com.ec
+.dell.com.gr
+.dell.com.gt
+.dell.com.gy
+.dell.com.hk
+.dell.com.hn
+.dell.com.hr
+.dell.com.ht
+.dell.com.jm
+.dell.com.kn
+.dell.com.ky
+.dell.com.lc
+.dell.com.ly
+.dell.com.mk
+.dell.com.mt
+.dell.com.mx
+.dell.com.my
+.dell.com.na
+.dell.com.ng
+.dell.com.ni
+.dell.com.pa
+.dell.com.pe
+.dell.com.ph
+.dell.com.pk
+.dell.com.pl
+.dell.com.pr
+.dell.com.py
+.dell.com.ru
+.dell.com.sa
+.dell.com.sg
+.dell.com.tc
+.dell.com.tr
+.dell.com.tt
+.dell.com.tw
+.dell.com.ua
+.dell.com.uy
+.dell.com.vc
+.dell.com.ve
+.dell.com.vi
+.dell.cz
+.dell.de
+.dell.dk
+.dell.dm
+.dell.ee
+.dell.es
+.dell.eu
+.dell.fi
+.dell.fr
+.dell.gm
+.dell.gp
+.dell.gr
+.dell.hr
+.dell.hu
+.dell.id
+.dell.ie
+.dell.is
+.dell.it
+.dell.jp
+.dell.kg
+.dell.kn
+.dell.kz
+.dell.lt
+.dell.lu
+.dell.lv
+.dell.ly
+.dell.ma
+.dell.mq
+.dell.mu
+.dell.mw
+.dell.net
+.dell.ng
+.dell.nl
+.dell.no
+.dell.org.il
+.dell.ph
+.dell.pl
+.dell.ps
+.dell.pt
+.dell.ro
+.dell.ru
+.dell.rw
+.dell.sc
+.dell.se
+.dell.sg
+.dell.si
+.dell.sk
+.dell.sn
+.dell.tc
+.dell.tj
+.dell.tm
+.dell.tt
+.dell.tv
+.dell.ua
+.dell.ug
+.dell.uz
+.dell.vg
+.dell.vn
+
+.dataframeworks.com
+.dell-alw.com
 .dellcdn.com
+.dellcommunity.com
+.dellcomunidade.com
+.dellcustomerservice.com
+.delldesignsystem.com
+.delldrivers.com
+.dellemc.com
+.dellemc.com.cn
+.dellemcevents.com
+.dellmobile.cn
+.delloutlet.com
+.dellpoweredge.com
+.dellpowersolutions.com
+.dellprecision.com
+.dellprinter.com
 .dellsupportcenter.com
+.delltechcenter.com
 .delltechnologies.com
+.delltechnologies.com.cn
+.delltechnologiescapital.com
+.delltechnologiesworld.com
+.earthdell.com
 .emc.com
+.platform.dell.com
+.shopalienware.com
+.solutionstation.com
+.studiodell.com
+.vce.com
+
+dell.my.site.com
+
+afcs.dell.com
+clientperipherals.dell.com
+customization-cdn.dell.com
+dds.dell.com
+dl.dell.com
+ea2cn-dev-outlet.dell.com
+ea2cn-prod-outlet.dell.com
+ea2cn-staging-outlet.dell.com
+fcs.dell.com
+fta.dell.com
+ftaapj.dell.com
+ftaemea.dell.com
+ftasitapj.dell.com
+gbxgateway-dev.dell.com
+gbxgateway.dell.com
+i.dell.com
+nexus.dell.com
+p.cdn.persaas.dell.com
+scene7-cdn.dell.com
+si.cdn.dell.com
+sm.dell.com
+snp.cdn.dell.com
+snpi.dell.com
+supportassist.dell.com
+www-csb.dell.com
+www.dell.com
 # End of dell
 # Included from digitalocean
 .digitalocean.com
@@ -22658,6 +22802,10 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 # Jules
 .jules.google
 .jules.google.com
+
+# Google AI Labs 
+.labs.google
+.aisandbox-pa.googleapis.com
 # End of google-deepmind
 # Included from google-gemini
 # This list is for backward compatibility
@@ -22692,6 +22840,10 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 # Jules
 .jules.google
 .jules.google.com
+
+# Google AI Labs 
+.labs.google
+.aisandbox-pa.googleapis.com
 # End of google-deepmind
 # End of google-gemini
 # Included from google-play
@@ -25431,7 +25583,6 @@ www.microsoft.com
 .docs.com
 .dynamics.cn
 .dynamics.com
-.edgesuite.net
 .efproject.net
 .engkoo.com
 .fasttrackreadysupport.com
@@ -26064,6 +26215,7 @@ d2anahhhmp1ffz.cloudfront.net
 # End of pccw
 # Included from perplexity
 .perplexity.ai
+.perplexity.com
 .pplx.ai
 
 pplx-res.cloudinary.com

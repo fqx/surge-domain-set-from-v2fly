@@ -706,6 +706,9 @@ videos-rockstargames-com.akamaized.net
 # edgecast
 .edge.steam-dns.top.comcast.net
 
+# edgesuite
+steamcommunity-a.akamaihd.net.edgesuite.net
+
 # 网宿(国际)
 .steam.apac.qtlglb.com
 .steam.eca.qtlglb.com
@@ -1018,6 +1021,15 @@ gamer-cds.cdn.hinet.net
 .catchplay.com
 .tra-ww000-cp.akamaized.net
 # End of catchplay
+# Included from copymanga
+.2025copy.com
+.copy-manga.com
+.copy20.com
+.copy2000.online
+.mangacopy.com
+.mangafuna.xyz
+.mangafunb.fun
+# End of copymanga
 # Included from dailymotion
 .dailymotion.com
 .dm-event.net
@@ -1352,9 +1364,7 @@ hulu.playback.edge.bamgrid.com
 # End of imdb
 # Included from iyf
 .iyf.tv
-
-# CDN used by iyf
-.dnvodcdn.me
+.yfsp.tv
 # End of iyf
 # Included from kingkonglive
 .kingkong.com.tw
@@ -1509,6 +1519,14 @@ netflix.com.edgesuite.net
 .nimg.jp
 .simg.jp
 # End of niconico
+# Included from now
+.now.com
+.now.com.hk
+.nowe.com
+.nowe.hk
+.now-tv.com
+.now-ashare.com
+# End of now
 # Included from olevod
 .haiwaikan.com
 .iole.tv
@@ -1595,8 +1613,9 @@ netflix.com.edgesuite.net
 .yourfantasybeginsnow.com
 # End of sonypictures
 # Included from soundcloud
-.soundcloud.com
 .sndcdn.com
+.soundcloud.cloud
+.soundcloud.com
 # End of soundcloud
 # Included from spotify
 .byspotify.com

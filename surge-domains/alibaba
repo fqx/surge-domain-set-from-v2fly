@@ -186,6 +186,14 @@
 .oss-us-east-1.aliyuncs.com
 .oss-us-west-1.aliyuncs.com
 # End of aliyun
+# Included from aliyun-drive
+.alicloudccp.com
+.alipan.com
+.aliyundrive.cloud
+.aliyundrive.com
+.aliyundrive.net
+.yunpan.aliyun.com
+# End of aliyun-drive
 # Included from cainiao
 .cainiao-inc.com
 .cainiao.com
@@ -352,12 +360,6 @@
 
 # AlipayMO
 .alipaymo.com
-
-# 阿里云盘
-.alicloudccp.com
-.alipan.com
-.aliyundrive.com
-.aliyundrive.net
 
 # 盒马
 .freshhema.com

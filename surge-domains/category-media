@@ -1,3 +1,40 @@
+# Included from category-tech-media
+# Included from 9to5
+.9to5google.com
+.9to5mac.com
+.9to5terminal.com
+.9to5toys.com
+.dronedj.com
+.electrek.co
+.spaceexplored.com
+# End of 9to5
+# Included from thetype
+.thetype.cloud
+.thetype.com
+.typeisbeautiful.com
+# End of thetype
+# Included from ycombinator
+.startupschool.org
+.ycombinator.com
+# End of ycombinator
+
+.androidauthority.com
+.androidpolice.com
+.appleinsider.com
+.digitaltrends.com
+.engadget.com
+.macrumors.com
+.slashdot.org
+.technews.tw
+.techradar.com
+.theverge.com
+.tomsguide.com
+
+# zdnet
+.zdnet.com
+.zdnet.redvideo.io
+# End of category-tech-media
+
 # Included from 6park
 .6park.com
 .6parkbbs.com
@@ -192,10 +229,6 @@ vs-hls-pushb-uk-live.akamaized.net
 .c-span.org
 .c-spanvideo.org
 # End of c-span
-# Included from cabletv
-.cabletv.com.hk
-.i-cable.com
-# End of cabletv
 # Included from cbs
 # All .cbs domains
 .cbs
@@ -796,6 +829,17 @@ himalaya-exchange.zendesk.com
 .huffpostbrasil.com
 .huffpostmaghreb.com
 # End of huffpost
+# Included from icable
+# Included from cabletv
+.cabletv.com.hk
+.fantv.hk
+.hkopentv.com
+.hoy.tv
+.i-cable.com
+# End of cabletv
+
+.i-cablecomm.com
+# End of icable
 # Included from infowars
 .banned.video
 .infowars.com
@@ -1569,44 +1613,6 @@ himalaya-exchange.zendesk.com
 
 zeenews-fonts.s3.amazonaws.com
 # End of zee
-
-# Included from category-tech-media
-# Included from 9to5
-.9to5google.com
-.9to5mac.com
-.9to5terminal.com
-.9to5toys.com
-.dronedj.com
-.electrek.co
-.spaceexplored.com
-# End of 9to5
-# Included from thetype
-.thetype.cloud
-.thetype.com
-.typeisbeautiful.com
-# End of thetype
-# Included from ycombinator
-.startupschool.org
-.ycombinator.com
-# End of ycombinator
-
-.androidauthority.com
-.androidpolice.com
-.appleinsider.com
-.digitaltrends.com
-.engadget.com
-.macrumors.com
-.slashdot.org
-.technews.tw
-.techradar.com
-.theverge.com
-.tomsguide.com
-
-# zdnet
-.zdnet.com
-.zdnet.redvideo.io
-# End of category-tech-media
-
 
 .881903.com
 .am730.com.hk

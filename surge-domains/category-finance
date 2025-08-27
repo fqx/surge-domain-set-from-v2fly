@@ -187,6 +187,7 @@
 # End of ifast
 # Included from longbridge
 .longbridge.cloud
+.longbridge.com
 .longbridge.global
 .longbridge.hk
 .longbridge.sg
@@ -194,6 +195,7 @@
 .longportapp.com
 
 # Site Assets
+.lbctrl.com
 .lbkrs.com
 .wbrks.com
 # End of longbridge

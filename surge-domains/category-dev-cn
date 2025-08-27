@@ -27,10 +27,6 @@
 .phpweblog.net
 .teachblog.net
 # End of cnblogs
-# Included from coding
-.coding.me
-.coding.net
-# End of coding
 # Included from csdn
 .codechina.net
 .csdn.com
@@ -153,6 +149,15 @@ p9-juejin.byteimg.com
 .sxlcdn.cn
 # End of sxl
 # Included from tencent-dev
+# Included from cnb
+# 腾讯 云原生构建
+.cnb.cool
+# End of cnb
+# Included from coding
+.coding.me
+.coding.net
+# End of coding
+
 .openmidas.com
 .qq.design
 .qqgamedesign.com
