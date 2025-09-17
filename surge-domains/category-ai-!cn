@@ -21,6 +21,7 @@ servd-anthropic-website.b-cdn.net
 .geller-pa.googleapis.com
 .generativelanguage.googleapis.com
 .proactivebackend-pa.googleapis.com
+.robinfrontend-pa.googleapis.com
 
 # Google AI Studio
 ai.google.dev

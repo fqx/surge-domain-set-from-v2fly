@@ -189,6 +189,7 @@ analytics.google.com
 .geller-pa.googleapis.com
 .generativelanguage.googleapis.com
 .proactivebackend-pa.googleapis.com
+.robinfrontend-pa.googleapis.com
 
 # Google AI Studio
 ai.google.dev
@@ -227,6 +228,7 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 .geller-pa.googleapis.com
 .generativelanguage.googleapis.com
 .proactivebackend-pa.googleapis.com
+.robinfrontend-pa.googleapis.com
 
 # Google AI Studio
 ai.google.dev
