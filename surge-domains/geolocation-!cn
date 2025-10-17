@@ -5,7 +5,9 @@
 # Included from anthropic
 .anthropic.com
 .claude.ai
+.claude.com
 .claudeusercontent.com
+.claudemcpclient.com
 
 # CDN
 servd-anthropic-website.b-cdn.net
@@ -3404,6 +3406,8 @@ hammerandchisel.ssl.zendesk.com
 # API
 .binanceapi.com
 .bnbstatic.com
+.bntrace.com
+.nftstatic.com
 
 # saas
 .appsflayer.com
@@ -6225,6 +6229,8 @@ steamusercontent-a.akamaihd.net
 steamuserimages-a.akamaihd.net
 steamvideo-a.akamaihd.net
 
+# Azure
+steamcloudsweden.blob.core.windows.net
 
 # 完美
 .csgo.wmsj.cn
@@ -10508,9 +10514,11 @@ misa-prod.s3.ap-northeast-1.amazonaws.com
 .javcc.com
 # End of javcc
 # Included from javdb
+.jav.app
 .javdb.com
 .jdbimgs.com
 .jdbstatic.com
+
 # End of javdb
 # Included from javwide
 .javwide.com
@@ -18115,6 +18123,7 @@ firebaseremoteconfig.googleapis.com
 .githubuniverse.com
 .githubusercontent.com
 .myoctocat.com
+.octocaptcha.com
 .opensource.guide
 .repo.new
 .thegithubshop.com
@@ -18122,6 +18131,7 @@ firebaseremoteconfig.googleapis.com
 # GitHub Actions Artifacts
 .blob.core.windows.net
 
+github-api.arkoselabs.com
 github-cloud.s3.amazonaws.com
 # End of github
 # Included from github1s
@@ -19200,7 +19210,9 @@ www.amd.com
 # Included from anthropic
 .anthropic.com
 .claude.ai
+.claude.com
 .claudeusercontent.com
+.claudemcpclient.com
 
 # CDN
 servd-anthropic-website.b-cdn.net
@@ -25341,6 +25353,7 @@ emoi-cncdn.bing.com
 .githubuniverse.com
 .githubusercontent.com
 .myoctocat.com
+.octocaptcha.com
 .opensource.guide
 .repo.new
 .thegithubshop.com
@@ -25348,6 +25361,7 @@ emoi-cncdn.bing.com
 # GitHub Actions Artifacts
 .blob.core.windows.net
 
+github-api.arkoselabs.com
 github-cloud.s3.amazonaws.com
 # End of github
 # Included from microsoft-dev

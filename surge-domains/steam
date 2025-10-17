@@ -53,6 +53,8 @@ steamusercontent-a.akamaihd.net
 steamuserimages-a.akamaihd.net
 steamvideo-a.akamaihd.net
 
+# Azure
+steamcloudsweden.blob.core.windows.net
 
 # 完美
 .csgo.wmsj.cn

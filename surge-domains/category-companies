@@ -616,7 +616,9 @@ www.amd.com
 # Included from anthropic
 .anthropic.com
 .claude.ai
+.claude.com
 .claudeusercontent.com
+.claudemcpclient.com
 
 # CDN
 servd-anthropic-website.b-cdn.net
@@ -6776,6 +6778,7 @@ emoi-cncdn.bing.com
 .githubuniverse.com
 .githubusercontent.com
 .myoctocat.com
+.octocaptcha.com
 .opensource.guide
 .repo.new
 .thegithubshop.com
@@ -6783,6 +6786,7 @@ emoi-cncdn.bing.com
 # GitHub Actions Artifacts
 .blob.core.windows.net
 
+github-api.arkoselabs.com
 github-cloud.s3.amazonaws.com
 # End of github
 # Included from microsoft-dev

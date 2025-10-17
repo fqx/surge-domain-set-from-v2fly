@@ -225,6 +225,7 @@ emoi-cncdn.bing.com
 .githubuniverse.com
 .githubusercontent.com
 .myoctocat.com
+.octocaptcha.com
 .opensource.guide
 .repo.new
 .thegithubshop.com
@@ -232,6 +233,7 @@ emoi-cncdn.bing.com
 # GitHub Actions Artifacts
 .blob.core.windows.net
 
+github-api.arkoselabs.com
 github-cloud.s3.amazonaws.com
 # End of github
 # Included from microsoft-dev

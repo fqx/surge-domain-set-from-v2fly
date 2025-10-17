@@ -1,7 +1,9 @@
 # Included from anthropic
 .anthropic.com
 .claude.ai
+.claude.com
 .claudeusercontent.com
+.claudemcpclient.com
 
 # CDN
 servd-anthropic-website.b-cdn.net

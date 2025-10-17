@@ -250,9 +250,11 @@ misa-prod.s3.ap-northeast-1.amazonaws.com
 .javcc.com
 # End of javcc
 # Included from javdb
+.jav.app
 .javdb.com
 .jdbimgs.com
 .jdbstatic.com
+
 # End of javdb
 # Included from javwide
 .javwide.com
