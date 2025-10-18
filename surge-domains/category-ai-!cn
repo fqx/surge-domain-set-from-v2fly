@@ -8,6 +8,9 @@
 # CDN
 servd-anthropic-website.b-cdn.net
 # End of anthropic
+# Included from cerebras
+.cerebras.ai
+# End of cerebras
 # Included from cursor
 .cursor-cdn.com
 .cursor.com
@@ -109,6 +112,7 @@ pplx-res.cloudinary.com
 
 .chutes.ai
 .copilot.microsoft.com
+.diabrowser.com
 .dify.ai
 .gateway.ai.cloudflare.com
 .meta.ai

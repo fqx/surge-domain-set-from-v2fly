@@ -21,9 +21,44 @@
 # 天工AI
 .tiangong.cn
 
-# 豆包
+# 字节跳动：豆包、Trae(MarsCode)
+# Included from doubao
+# 北京春田知韵科技有限公司 京ICP备2023020373号
+.butterfly-static.cn
+.butterflyai.cn
+.coze.cn
+.coze.site
+.cozebaas.cn
+.cozefn.cn
+.cozeide.cn
 .doubao.com
+.doubaocdn.com
+.hi-butterfly.cn
+.maoxiangai.com
+.myparallelstory.com
+.picpic-ai.cn
+.pixeldance.com
+
+.coze.com
+# End of doubao
+# Included from trae
+# 北京引力弹弓科技有限公司 京ICP备2024062284号
+.doudou.com
 .marscode.cn
+.marscode.com.cn
+.mcbaas.work
+.mcdemo.show
+.mchost.guru
+.mcprev.cn
+.tcwqqdy.guru
+.trae.cn
+.trae.com.cn
+.trae.guru
+.yoma.cn
+
+.marscode.com
+.trae.ai
+# End of trae
 
 # 智谱清言
 .bigmodel.cn
@@ -58,3 +93,6 @@ cueme-api.quark.cn
 .n.cn
 .namiso.com
 ai.zhaomi.cn
+
+# 妙言AI 冀ICP备20012219号-3
+.miaoyanai.com

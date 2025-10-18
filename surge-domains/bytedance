@@ -21,11 +21,25 @@
 .sf3-ttcdn-tos.pstatp.com
 # End of bytedance-ads
 
-# Included from bcy
-.bcy.net
-.bcyimg.com
-.lf-rc1.yhgfb-cn-static.com
-# End of bcy
+# Included from doubao
+# 北京春田知韵科技有限公司 京ICP备2023020373号
+.butterfly-static.cn
+.butterflyai.cn
+.coze.cn
+.coze.site
+.cozebaas.cn
+.cozefn.cn
+.cozeide.cn
+.doubao.com
+.doubaocdn.com
+.hi-butterfly.cn
+.maoxiangai.com
+.myparallelstory.com
+.picpic-ai.cn
+.pixeldance.com
+
+.coze.com
+# End of doubao
 # Included from fqnovel
 .activity-zhendingtech.com
 .changdunovel.com
@@ -84,18 +98,6 @@ p7-juejin.byteimg.com
 p8-juejin.byteimg.com
 p9-juejin.byteimg.com
 # End of juejin
-# Included from lark
-# This tag 'lark' is for backward compatibility
-
-# Included from feishu
-.getsays.com
-# End of feishu
-# Included from lark-global
-.larksuite.com.ttdns1.com
-.larksuite.com.ttdns2.com
-# End of lark-global
-
-# End of lark
 # Included from tiktok
 .byteoversea.com
 .muscdn.com
@@ -120,6 +122,24 @@ p9-juejin.byteimg.com
 
 p16-tiktokcdn-com.akamaized.net
 # End of tiktok
+# Included from trae
+# 北京引力弹弓科技有限公司 京ICP备2024062284号
+.doudou.com
+.marscode.cn
+.marscode.com.cn
+.mcbaas.work
+.mcdemo.show
+.mchost.guru
+.mcprev.cn
+.tcwqqdy.guru
+.trae.cn
+.trae.com.cn
+.trae.guru
+.yoma.cn
+
+.marscode.com
+.trae.ai
+# End of trae
 # Included from volcengine
 .aigc-cloud.com
 .bdegnine.com
@@ -271,30 +291,20 @@ p16-tiktokcdn-com.akamaized.net
 .zvip.cn
 # End of volcengine
 
-
 .99uri.cn
 .99uri.com
 .activity-dy.com
-.activity-wbsj.com
 .activity01.com
 .activity02.com
 .activity03.com
 .activity04.com
 .activity05.com
 .activitybyte.com
-.aihst8.com
 .ali-api-test.net
 .ali-gtm-01.net
 .ali-gtm-pressure.com
 .ali-restore.net
-.amemv.cn
-.amemv.com
-.amemv.net
 .arco.design
-.awemeughun.com
-.awemeuglang.com
-.awemeugsoul.com
-.awemeugwave.com
 .baikevod.com
 .bdactivity.com
 .bdgslb.com
@@ -311,16 +321,12 @@ p16-tiktokcdn-com.akamaized.net
 .bdppe.net
 .bdsagslb.com
 .bdsagslbtest.com
-.bdxigualive.com
-.bdxiguavod.com
 .bdzjdsagslb.com
 .betaband.net
 .betadance.net
-.betastar.cn
 .bfcdnbf.com
 .bfcdnrd.com
 .bfcdnsc.com
-.boxdouyin.com
 .bvfcdn.com
 .bx0byte.com
 .byte-edge.com
@@ -422,52 +428,19 @@ p16-tiktokcdn-com.akamaized.net
 .cdnbuild.net
 .cdndns1.com
 .cdndns2.com
-.cookicut.com
 .doubo03.com
-.douyinact.com
-.douyinact.net
-.douyinfe.com
 .draftstatic.com
 .druid.vip
-.duoshan.com
 .fedlearner.net
 .feelgood.cn
 .gslbdns.com
 .gslbdns.net
 .huaxiong.com
-.huoshancdn.com
-.huoshangroup.com
-.huoshanimg.com
-.huoshanlive.com
-.huoshanparty.com
-.huoshante8.com
-.huoshanvideo.cn
-.huoshanvideo.net
-.huoshanvod.com
-.huoshanxiaoshipin.cn
-.huoshanxiaoshipin.net
-.huoshanzhibo.cn
-.huoshanzhibo.net
 .hypercachenet.com
-.ibdxigualive.com
-.ibdxiguavod.com
 .ibytedapm.com
 .ibytedtos.com
 .ibyteimg.com
 .icphoto.cn
-.idouyinliving.com
-.idouyinpic.com
-.idouyinstatic.com
-.idouyinvod.com
-.iesdouyin.com
-.iesdouyin.net
-.ieshuodong.cn
-.ieshuodong.net
-.ihst8.com
-.ihuoshanimg.com
-.ihuoshanlive.com
-.ihuoshanstatic.com
-.ihuoshanvod.com
 .iluckysf.net
 .itmanager.club
 .itoutiaoliving.com
@@ -476,8 +449,6 @@ p16-tiktokcdn-com.akamaized.net
 .jokecommunity.net
 .jstti.com
 .jtamac.com
-.kesong.co
-.kolbuyer.cn
 .livecdnstatic.com
 .local-ip.online
 .luckysf.net
@@ -487,7 +458,6 @@ p16-tiktokcdn-com.akamaized.net
 .neihancommunity.cn
 .neihancommunity.com
 .neihancommunity.net
-.nextvid.net
 .neyetwatcher.com
 .oortgslb.com
 .openbcs.com
@@ -496,14 +466,8 @@ p16-tiktokcdn-com.akamaized.net
 .originalstatic.com
 .originalvod.com
 .pacmantwo.com
-.ppkankan01.com
 .pstatp.com
 .qingfuwucdn.net
-.qishui.cn
-.qishui.com
-.qishui.com.cn
-.qishuimusic.cn
-.qishuimusic.com.cn
 .qualitycloud.top
 .samasty.com
 .searchstatic.com
@@ -513,7 +477,6 @@ p16-tiktokcdn-com.akamaized.net
 .sinf.net
 .sinflb.net
 .snssdk.com
-.supercachenet.com
 .tekkenthree.com
 .tetrisone.com
 .tiapi.cn
@@ -557,15 +520,7 @@ p16-tiktokcdn-com.akamaized.net
 .volcdns-test.com
 .volcdns-test.net
 .voleai.com
-.woaihuoshan.com
-.wohst8.com
 .wtturl.cn
-.xiguaapp.cn
-.xiguaapp.com
-.xiguashipin.cn
-.xiguashipin.net
-.xiguavideo.cn
-.xiguavideo.net
 .xsgtvacct.com
 .zijieapi.cn
 .zijieapi.com
@@ -610,41 +565,27 @@ bytedance.map.fastly.net
 .toutiaostatic.com
 .toutiaovod.com
 
-# 抖音
-.douyin.com
-.douyincdn.com
-.douyinliving.com
-.douyinpic.com
-.douyinstatic.com
-.douyinvod.com
-
-# 抖音火山版
-.huoshan.com
-.huoshanstatic.com
-.huoshanzhibo.com
-
-# 豆包
-.doubao.com
-
-# 扣子
-.coze.cn
-.coze.com
-
 # 西瓜视频
+.bdxiguaimg.com
+.bdxigualive.com
+.bdxiguastatic.com
+.bdxiguavod.com
+.ibdxiguaimg.com
+.ibdxigualive.com
+.ibdxiguastatic.com
+.ibdxiguavod.com
+.ixgvideo.com
 .ixigua.com
 .ixiguavideo.com
-.ixgvideo.com
-.bdxiguaimg.com
-.bdxiguastatic.com
+.xiguaapp.cn
+.xiguaapp.com
+.xiguashipin.cn
+.xiguashipin.net
+.xiguavideo.cn
+.xiguavideo.net
 
 # 快懂百科
 .baike.com
-
-# 飞书
-.feishu.cn
-.feishu.net
-.feishucdn.com
-.feishupkg.com
 
 # 悟空问答
 .wukong.com
@@ -690,3 +631,13 @@ bytedance.map.fastly.net
 
 # RsProxy 镜像
 .rsproxy.cn
+
+# 半次元 (dead)
+# 沪ICP备2021005742号
+#bcy.net
+#bcyevent.net
+#bcyimg.com
+#bcylove.net
+#bcysnssdk.com
+#bcystatic.com
+#bcyvod.com
