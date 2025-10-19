@@ -1,11 +1,3 @@
-.mobmore.com
-.umeng.com
-.umengcloud.com
-.umsns.com
-.umtrack.com
-.uyunad.com
-.whalecloud.com
-
 # Included from umeng-ads
 .alog.umeng.com
 .alog.umengcloud.com
@@ -14,3 +6,14 @@
 .w.cnzz.com
 .z.gds.cnzz.com
 # End of umeng-ads
+
+.cnzz.com
+.mobmore.com
+.puata.info
+.shujupie.com
+.umeng.com
+.umengcloud.com
+.umsns.com
+.umtrack.com
+.uyunad.com
+.whalecloud.com

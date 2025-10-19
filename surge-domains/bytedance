@@ -593,6 +593,8 @@ bytedance.map.fastly.net
 .wukongwenda.com
 
 # 懂车帝
+# Included from dongchedi
+# 渝ICP备2023013619号
 .dcarapi.com
 .dcarimg.com
 .dcarlive.com
@@ -601,6 +603,7 @@ bytedance.map.fastly.net
 .dcdapp.com
 .dongchedi.com
 .dongchediapp.com
+# End of dongchedi
 
 # 阳关宽频网
 .365yg.com

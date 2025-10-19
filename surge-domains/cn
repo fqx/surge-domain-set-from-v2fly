@@ -37,14 +37,6 @@
 .s0n.cn
 # End of jiguang
 # Included from umeng
-.mobmore.com
-.umeng.com
-.umengcloud.com
-.umsns.com
-.umtrack.com
-.uyunad.com
-.whalecloud.com
-
 # Included from umeng-ads
 .alog.umeng.com
 .alog.umengcloud.com
@@ -53,6 +45,17 @@
 .w.cnzz.com
 .z.gds.cnzz.com
 # End of umeng-ads
+
+.cnzz.com
+.mobmore.com
+.puata.info
+.shujupie.com
+.umeng.com
+.umengcloud.com
+.umsns.com
+.umtrack.com
+.uyunad.com
+.whalecloud.com
 # End of umeng
 
 # category-httpdns-cn is mainly for advertising purpose
@@ -890,6 +893,135 @@ ai.zhaomi.cn
 .guoocang.com
 # End of category-logistics-cn
 
+# Electronic
+# Included from category-electronic-cn
+# Electronic store/company's website with access point in China
+
+# Analog
+.analog.com
+
+# 艾睿电子
+.arrow.cn
+
+# 博流智能
+.bouffalolab.com
+
+# 乐鑫信息科技
+.esp8266.cn
+.esp8266.com
+.esp8266.com.cn
+.espressif.cn
+.espressif.com
+.espressif.com.cn
+
+# 华秋电子
+.eda.cn
+.elecfans.com
+.hqchip.com
+.hqdoc.com
+.hqpcb.com
+
+# 英飞凌
+.infineon.com
+
+# 嘉立创集团
+.forface3d.com
+.jlcfa.com
+.jlcgroup.cn
+.jlc-3dp.cn
+.jlc-bbs.com
+.jlc-cnc.com
+.jlc-dfm.com
+.jlc-drm.com
+.jlc-fpc.com
+.jlc-gw.com
+.jlc-smt.com
+.jlc-layout.com
+.jlc-zh.com
+.oshwhub.com
+.szlcsc.com
+.sz-jlc.com
+.zxhgroup.com
+
+# 移远通信
+.quecmall.cn
+.quectel.com.cn
+.iotronic.tech
+
+# 瑞芯微电子
+.rock-chips.com
+
+# 矽递科技
+.seeed.cn
+.seeed.cc
+.seeed.com.cn
+.seeedstudio.com.cn
+
+# 矽速科技
+.sipeed.com
+.maixhub.com
+
+# 德州仪器
+.ti.com
+.ti.com.cn
+
+# 沁恒微电子
+.wch.cn
+.wch-ic.com
+# End of category-electronic-cn
+
+# 汽车
+# Included from category-automobile-cn
+# 汽车资讯
+## 汽车之家
+.autohome.com
+.autohome.com.cn
+.autohome.tel
+.autoimg.cn
+.autoimg.com.cn
+## 易车‌
+# Included from bitauto
+.bitauto.com
+.bitautoimg.com
+.cheyisou.com
+.yiche.com
+.yccdn.com
+# End of bitauto
+## 懂车帝
+# Included from dongchedi
+# 渝ICP备2023013619号
+.dcarapi.com
+.dcarimg.com
+.dcarlive.com
+.dcarstatic.com
+.dcarvod.com
+.dcdapp.com
+.dongchedi.com
+.dongchediapp.com
+# End of dongchedi
+
+# 汽车品牌
+
+## 瓜子二手车
+.gzurl.cn
+.guazi.com
+.guazistatic.com
+.guazi.net
+
+# 租车平台
+## 一嗨租车
+.1hai.cn
+## 首汽租车
+.izuche.com
+## 租车宝
+.izuchebao.com
+## 悟空租车
+.wkzuche.com
+## 神州租车
+.zuche.com
+.zuchecdn.com
+# End of category-automobile-cn
+
 # CDN or SDWAN
 # Included from aws-cn
 .a2z.org.cn
@@ -1584,83 +1716,9 @@ ai.zhaomi.cn
 .ziroomapartment.com
 # End of ziroom
 
-# Electronic
-# Included from category-electronic-cn
-# Electronic store/company's website with access point in China
-
-# Analog
-.analog.com
-
-# 艾睿电子
-.arrow.cn
-
-# 博流智能
-.bouffalolab.com
-
-# 乐鑫信息科技
-.esp8266.cn
-.esp8266.com
-.esp8266.com.cn
-.espressif.cn
-.espressif.com
-.espressif.com.cn
-
-# 华秋电子
-.eda.cn
-.elecfans.com
-.hqchip.com
-.hqdoc.com
-.hqpcb.com
-
-# 英飞凌
-.infineon.com
-
-# 嘉立创集团
-.forface3d.com
-.jlcfa.com
-.jlcgroup.cn
-.jlc-3dp.cn
-.jlc-bbs.com
-.jlc-cnc.com
-.jlc-dfm.com
-.jlc-drm.com
-.jlc-fpc.com
-.jlc-gw.com
-.jlc-smt.com
-.jlc-layout.com
-.jlc-zh.com
-.oshwhub.com
-.szlcsc.com
-.sz-jlc.com
-.zxhgroup.com
-
-# 移远通信
-.quecmall.cn
-.quectel.com.cn
-.iotronic.tech
-
-# 瑞芯微电子
-.rock-chips.com
-
-# 矽递科技
-.seeed.cn
-.seeed.cc
-.seeed.com.cn
-.seeedstudio.com.cn
-
-# 矽速科技
-.sipeed.com
-.maixhub.com
-
-# 德州仪器
-.ti.com
-.ti.com.cn
-
-# 沁恒微电子
-.wch.cn
-.wch-ic.com
-# End of category-electronic-cn
-
+# 多点新鲜
+.dmall.com
+.dmallcdn.com
 # 孔夫子旧书网
 .kongfz.com
 .kfzimg.com
@@ -2444,6 +2502,19 @@ wlog.kuaishou.com
 .wasu.tv
 .wasumedia.cn
 # End of wasu
+# Included from xiaoheihe
+# 清枫（北京）科技有限公司
+# 京ICP备15018522号
+
+.1xhh.cn
+.accxiaoheihe.com
+.chat.top
+.debugmode.cn
+.max-c.com
+.maxadmin.cn
+.maxjia.com
+.xiaoheihe.cn
+# End of xiaoheihe
 # Included from ximalaya
 .ximalaya.com
 .xmcdn.com
@@ -3409,13 +3480,6 @@ www.libvideo.com # 武汉缘来文化-知识视界
 # Included from antutu
 .antutu.com
 # End of antutu
-# Included from bitauto
-.bitauto.com
-.bitautoimg.com
-.cheyisou.com
-.yiche.com
-.yccdn.com
-# End of bitauto
 # Included from category-collaborate-cn
 # Remote Desktop
 ## Oray
@@ -4330,14 +4394,17 @@ p9-juejin.byteimg.com
 .uczzd.cn
 # End of uc
 # Included from umeng
+
+.cnzz.com
 .mobmore.com
+.puata.info
+.shujupie.com
 .umeng.com
 .umengcloud.com
 .umsns.com
 .umtrack.com
 .uyunad.com
 .whalecloud.com
-
 # End of umeng
 
 .25pp.com
@@ -5413,6 +5480,8 @@ bytedance.map.fastly.net
 .wukongwenda.com
 
 # 懂车帝
+# Included from dongchedi
+# 渝ICP备2023013619号
 .dcarapi.com
 .dcarimg.com
 .dcarlive.com
@@ -5421,6 +5490,7 @@ bytedance.map.fastly.net
 .dcdapp.com
 .dongchedi.com
 .dongchediapp.com
+# End of dongchedi
 
 # 阳关宽频网
 .365yg.com
@@ -7056,6 +7126,7 @@ ztedevices.com
 .263.net
 .289.com
 .2cto.com
+.2dfire.com
 .3000.com
 .310win.com
 .315che.com
@@ -7259,7 +7330,6 @@ ztedevices.com
 .cnanzhi.com
 .cnepub.com
 .cnlaw.net
-.cnzz.com
 .cocodiy.com
 .code666.com
 .cofeed.com
@@ -7486,7 +7556,7 @@ ztedevices.com
 .itjuzi.com
 .itmop.com
 .iyiou.com
-.izuche.com
+.iyunmu.com
 .jb51.com
 .jia.com
 .jiameng.com
@@ -7617,6 +7687,7 @@ ztedevices.com
 .mikecrm.com
 .minhangshi.com
 .miusi.co
+.miyatech.com
 .mjia.cc
 .mmbang.com
 .mmbang.info
@@ -7879,6 +7950,7 @@ ztedevices.com
 .wtown.com
 .wumii.com
 .wuming.com
+.wuuxiang.com
 .wuximediaglobal.com
 .wywyx.com
 .xafc.com
@@ -8010,12 +8082,11 @@ ztedevices.com
 .zpb365.com
 .zrblog.net
 .zsxq.com
-.zuche.com
-.zuchecdn.com
 .zuhaowan.com
 .zuidaima.com
 .zuowen8.com
 .zuowenwang.net
+.zztfly.com
 
 # 京ICP备12006877号-1
 .fm3838.com
