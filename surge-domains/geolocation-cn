@@ -350,7 +350,6 @@ ai.zhaomi.cn
 .bankofbeijing.com.cn
 .bosc.cn
 .bsb.com.cn
-.ccb.com
 .cebbank.com
 .cgbchina.com.cn
 .cib.com.cn
@@ -414,6 +413,11 @@ ai.zhaomi.cn
 .cninfo.com.cn
 
 # Securities Company 证券公司
+# Included from hsbc-cn
+.hsbc.com.cn
+.hsbcqh.com.cn
+.hsbcinsurance.com.cn
+# End of hsbc-cn
 .ajzq.com
 .avicsec.com
 .ccnew.com
@@ -455,7 +459,6 @@ ai.zhaomi.cn
 .gsgh.cn
 .gszq.com
 .gtja.com
-.gtja.com
 .guodu.com
 .guosen.com.cn
 .gyzq.com.cn
@@ -465,7 +468,6 @@ ai.zhaomi.cn
 .hlzqgs.com
 .hongtastock.com
 .hrsec.com.cn
-.hsbcqh.com.cn
 .htsc.com.cn
 .htsec.com
 .huajingsec.com
@@ -577,28 +579,6 @@ ai.zhaomi.cn
 .lufunds.com
 .zlfund.cn
 # End of category-securities-cn
-# Included from citic
-# All .citic domains
-.citic
-
-# All .中信 domains
-.xn--fiq64b
-
-.chinaamc.com
-.citic-prudential.com.cn
-.citicbank.com
-.citiccapital.com
-.citiciam.com
-.citicifh.com
-.citicprufunds.com.cn
-.citics.com.hk
-.citicsf.com
-.clsa.com
-.cncbinternational.com
-.csc108.com
-.csci.hk
-.ecitic.com
-# End of citic
 # Included from eastmoney
 .1234567.com.cn
 .18.cn
@@ -910,23 +890,52 @@ ai.zhaomi.cn
 .infineon.com
 
 # 嘉立创集团
+# Included from jlc
+# 嘉立创
+.fa-part.com
 .forface3d.com
-.jlcfa.com
-.jlcgroup.cn
 .jlc-3dp.cn
+.jlc-3dp.com
 .jlc-bbs.com
+.jlc-cad.com
+.jlc-cam.com
 .jlc-cnc.com
 .jlc-dfm.com
 .jlc-drm.com
+.jlc-ecad.com
+.jlc-erp.com
 .jlc-fpc.com
 .jlc-gw.com
-.jlc-smt.com
+.jlc-jh.com
 .jlc-layout.com
+.jlc-pcb.com
+.jlc-smt.com
 .jlc-zh.com
+.jlc.com
+.jlc3dp.cn
+.jlccad.com
+.jlccam.com
+.jlccnc.com
+.jlcdfm.com
+.jlcecad.com
+.jlceda.cn
+.jlceda.com
+.jlcerp.com
+.jlcfa.com
+.jlcgroup.cn
+.jlcops.com
+.jlcsj.com
+.jlcsmt.com
+.lceda.cn
+.lckfb.com
 .oshwhub.com
-.szlcsc.com
+.sanweihou.com
 .sz-jlc.com
+.szjlc.cn
+.szlcsc.com
+.zs-jlc.com
 .zxhgroup.com
+# End of jlc
 
 # 移远通信
 .quecmall.cn
@@ -1045,16 +1054,14 @@ ai.zhaomi.cn
 # Included from bootcdn
 .bootcdn.cn
 .bootcdn.net
-# End of bootcdn
-# Included from bootcss
-.bootcss.com
 
-# BootCDN
-.bootcdn.cn
+# BootCSS
+.bootcss.com
 
 # Packagist / Composer
 .phpcomposer.com
-# End of bootcss
+
+# End of bootcdn
 # Included from cloudflare-cn
 .cf-ns.com
 .cf-ns.net
@@ -1195,18 +1202,30 @@ ai.zhaomi.cn
 # Included from wangsu
 .51cdn.com
 .8686c.com
+.cdn20.com
 .cdn30.org
 .chinanetcenter.com
+.lxdns.cn
 .lxdns.com
 .lxdns.info
+.lxdns.net
 .lxdns.org
+.mwcdns.com
+.mwcloudcdn.com
 .ourdvsss.com
+.qtlcdn.cn
+.qtlcdn.com
+.qtlcdn.net
 .speedws.info
 .speedws.org
 .wangsu.com
 .wscdns.com
 .wscdns.info
 .wscdns.org
+.wsglb.com
+.wsglb.net
+.wswebcdn.com
+.wswebpic.com
 # End of wangsu
 # Included from yunfanjiasu
 .yfcache.com
@@ -1239,7 +1258,6 @@ ai.zhaomi.cn
 .58cdn.com.cn
 .58che.com
 .58control.cn
-.58corp.com
 .58corp.com
 .58dns.org
 .58lovepet.com
@@ -1371,16 +1389,6 @@ ai.zhaomi.cn
 .dongjiao.cc
 .dongjiaoapp.com
 # End of dongjiao
-# Included from eleme
-.doservice.com
-.ele.me
-.ele.to
-.eleme.cn
-.eleme.io
-.elemecdn.cn
-.elemecdn.com
-.elenet.me
-# End of eleme
 # Included from jd
 .1huizhan.com
 .3.cn
@@ -1999,7 +2007,6 @@ ai.zhaomi.cn
 .morefreegame.com
 # Enhance Gaming
 .heavenlywind.cc
-.steampp.net
 # 沪ICP备18041304号-1
 .tgpro.top
 .tgprocs.net
@@ -2526,6 +2533,10 @@ wlog.kuaishou.com
 .lsplayer.com
 .yeshen.com
 
+# https://github.com/supzhang/epg
+# 鲁ICP备18015570号-1
+.51zmt.top
+
 # B站空降助手 鲁ICP备2024098956号-1
 .bsbsb.top
 
@@ -3010,6 +3021,9 @@ e8aeb8bbdbbd7.cdn.sohucs.com
 
 # 站长网
 .admin5.com
+
+# 江西省出版传媒集团
+.jxpp.com
 # End of category-media-cn
 
 # Netdisk
@@ -3321,6 +3335,9 @@ study.163.com
 
 # 北京嘉瑞新创教育咨询有限公司 京ICP备2020046790号-3
 .winyoungreading.com
+
+# 公考知识库 黔ICP备2024035854号
+.saduck.top
 # End of category-education-cn
 # Included from category-scholar-cn
 # This list contains scholarly domains that have access point in China Mainland.
@@ -3432,10 +3449,6 @@ www.libvideo.com # 武汉缘来文化-知识视界
 .ihuman.com
 .hongen.com
 # End of ihuman
-# Included from wanfang
-.wanfangdata.com.cn
-.wf.pub
-# End of wanfang
 
 # Services & Softwares
 # Included from 3type
@@ -3476,6 +3489,12 @@ www.libvideo.com # 武汉缘来文化-知识视界
 
 ## ToDesk
 .todesk.com
+
+## 连连控
+.asklink.com
+
+## 叮当猫脚本管理系统 懒人精灵远程调试
+.privateapi.xyz
 
 # Tower 团队协作
 .tower.im
@@ -3619,42 +3638,46 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .fa-part.com
 .forface3d.com
 .jlc-3dp.cn
-.jlc3dp.cn
 .jlc-3dp.com
+.jlc-bbs.com
 .jlc-cad.com
-.jlccad.com
 .jlc-cam.com
-.jlccam.com
-.jlccam.com
 .jlc-cnc.com
-.jlccnc.com
-.jlc.com
 .jlc-dfm.com
-.jlcdfm.com
 .jlc-drm.com
 .jlc-ecad.com
-.jlcecad.com
-.jlceda.cn
-.jlceda.com
 .jlc-erp.com
-.jlcerp.com
-.jlcfa.com
 .jlc-fpc.com
-.jlcgroup.cn
 .jlc-gw.com
 .jlc-jh.com
 .jlc-layout.com
-.jlcops.com
 .jlc-pcb.com
+.jlc-smt.com
+.jlc-zh.com
+.jlc.com
+.jlc3dp.cn
+.jlccad.com
+.jlccam.com
+.jlccnc.com
+.jlcdfm.com
+.jlcecad.com
+.jlceda.cn
+.jlceda.com
+.jlcerp.com
+.jlcfa.com
+.jlcgroup.cn
+.jlcops.com
 .jlcsj.com
 .jlcsmt.com
 .lceda.cn
 .lckfb.com
 .oshwhub.com
 .sanweihou.com
-.szjlc.cn
 .sz-jlc.com
+.szjlc.cn
+.szlcsc.com
 .zs-jlc.com
+.zxhgroup.com
 # End of jlc
 # Included from keep
 .gotokeep.com
@@ -4880,6 +4903,9 @@ p9-juejin.byteimg.com
 .mcs.snssdk.com
 .pangolin-dsp-toutiao-b.com
 .pangolin-dsp-toutiao.com
+.pangolin-hl.snssdk.com
+.pangolin-lf.snssdk.com
+.pangolin-lq.snssdk.com
 .pangolin-sdk-toutiao-b.com
 .pangolin-sdk-toutiao.com
 .pangolin-sdk-toutiao1.com
@@ -6275,7 +6301,6 @@ community.oneplus.com
 .360zqaq.com
 .anquanke.com
 .appjiagu.com
-.baomitu.com
 .dhsvc.cn
 .haoso.com
 .haosou.com
@@ -6304,8 +6329,6 @@ community.oneplus.com
 .qihoo.net
 .qihuapi.cn
 .qihucdn.com
-.qiku.com
-.qikucdn.com
 .so.com
 .sou.cn
 .sou.com
@@ -6321,77 +6344,12 @@ community.oneplus.com
 .zhaomi.cn
 .zhaomishijie.com
 # End of qihoo360
-# Included from sina
-
-.97973.com
-.hk.weibo.com
-.my.weibo.com
-.overseas.weibo.com
-.picself.cn
-.sg.weibo.com
-.sina.cn
-.sina.com
-.sina.com.cn
-.sina.net
-.sinaapp.com
-.sinaedge.com
-.sinaimg.cn
-.sinaimg.com
-.sinajs.cn
-.sinajs.com
-.t.cn
-.th.weibo.com
-.tw.weibo.com
-.us.weibo.com
-.videoself.cn
-.wbimg.com
-.wbimg.cn
-.wcdn.cn
-.weibo.cn
-.weibo.com
-.weibo.com.cn
-.weibocdn.com
-.xhaiwai.com
-# End of sina
-# Included from sogou
-.binglianhuajianzhan.com
-.ggoplay.com
-.ggowan.com
-.go2map.com
-.pinyin.cn
-.qd.ink
-.sg.cn
-.sgtmos.com
-.sgyeyou.com
-.sgyouxi.com
-.sogo.com
-.sogou.cn
-.sogou.com
-.sogou.com.cn
-.sogou.net
-.sogoucdn.com
-.sogoucdndl.com
-.sogouimecdn.com
-.sogou-inc.com
-.sogou-op.org
-.soso.com
-.soso.com.cn
-.sososnap.com
-.teemo.cn
-.wannianqingjianzhan.com
-.xiangrikuijianzhan.com
-.xiangrikuisite.com
-.xinyan.cn
-.yeyousg.com
-.yidianliulan.cn
-.yidianliulan.com
-.yuweikuijianzhan.com
-# End of sogou
 # Included from tencent
 # Included from tencent-ads
 .ad.qq.com
 .ad.qun.qq.com
 .adfilter.imtt.qq.com
+.adnet.qq.com
 .adping.qq.com
 .adpm.app.qq.com
 .adsclick.qq.com
@@ -7097,7 +7055,6 @@ ztedevices.com
 .17cdn.com
 .17house.com
 .18183.com
-.188.com
 .1905.com
 .19yxw.com
 .1nongjing.com
@@ -7268,10 +7225,8 @@ ztedevices.com
 .caijingwu.com
 .caiyun.com
 .cang.com
-.cankaoxiaoxi.com
 .cardbaobao.com
 .carnoc.com
-.cdn20.com
 .cecdc.com
 .cecport.com
 .centanet.com
@@ -7327,7 +7282,6 @@ ztedevices.com
 .csbew.com
 .csmjzs.com
 .csslcloud.net
-.ctfile.com
 .ctiforum.com
 .ctoutiao.com
 .ctsbw.com
@@ -7384,7 +7338,6 @@ ztedevices.com
 .dui.ai
 .duiopen.com
 .duoduocdn.com
-.duokanbox.com
 .duomai.com
 .duoshuo.com
 .duote.com
@@ -7405,7 +7358,6 @@ ztedevices.com
 .ecjobhome.com
 .eeyy.com
 .eflycloud.com
-.elecfans.com
 .emarbox.com
 .emumax.com
 .enterdesk.com
@@ -7546,7 +7498,6 @@ ztedevices.com
 .jia.com
 .jiameng.com
 .jianbihua.com
-.jianguoyun.com
 .jianzhi8.com
 .jiaodong.net
 .jiaoyimao.com

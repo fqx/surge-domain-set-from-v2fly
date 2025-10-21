@@ -8,6 +8,11 @@
 .cninfo.com.cn
 
 # Securities Company 证券公司
+# Included from hsbc-cn
+.hsbc.com.cn
+.hsbcqh.com.cn
+.hsbcinsurance.com.cn
+# End of hsbc-cn
 .ajzq.com
 .avicsec.com
 .ccnew.com
@@ -49,7 +54,6 @@
 .gsgh.cn
 .gszq.com
 .gtja.com
-.gtja.com
 .guodu.com
 .guosen.com.cn
 .gyzq.com.cn
@@ -59,7 +63,6 @@
 .hlzqgs.com
 .hongtastock.com
 .hrsec.com.cn
-.hsbcqh.com.cn
 .htsc.com.cn
 .htsec.com
 .huajingsec.com

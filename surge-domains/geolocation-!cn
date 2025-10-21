@@ -16953,6 +16953,60 @@ anime-rule34-world.b-cdn.net
 .winudf.com
 # End of apkpure
 # End of category-android-app-download
+# Included from category-antivirus
+# Included from comodo
+.comodo.com
+.comodo.net
+# End of comodo
+# Included from drweb
+.drweb.by
+.drweb.cn
+.drweb.co.jp
+.drweb.com
+.drweb.fr
+.drweb.kz
+.drweb.ru
+.drweb.uz
+.drweb-av.de
+.drweb-av.es
+.drweb-av.it
+.drweb-av.pl
+# End of drweb
+# Included from eset
+# ESET Wiki - [KB332] Ports and addresses required to use your ESET product with a third-party firewall
+.cn.eset.com
+.e5.sk
+.eset.com
+.eset.eu
+.eset.sk
+.eset.systems
+.esetsoftware.com
+
+# ESET Password Manager
+eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com
+
+# Connection between the Agent and ESET PROTECT
+epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com
+# End of eset
+# Included from kaspersky
+.kaspersky-labs.com
+.kaspersky.com
+# End of kaspersky
+# Included from symantec
+.symantec.com
+.symantecliveupdate.com
+# End of symantec
+
+.avast.com
+.avg.com
+.avira.com
+.bitdefender.com
+.clamwin.com
+.f-secure.com
+.mcafee.com
+.norton.com
+.pandasecurity.com
+# End of category-antivirus
 # Included from category-browser-!cn
 # Included from ceno
 .censorship.no
@@ -24508,6 +24562,10 @@ hpefonts.s3.amazonaws.com
 .posty.kr
 .zigzag.kr
 # End of kakao
+# Included from kaspersky
+.kaspersky-labs.com
+.kaspersky.com
+# End of kaspersky
 # Included from lg
 .lg.com
 .lgappstv.com
