@@ -4634,6 +4634,19 @@ pchomeonline.com.tw
 # Included from category-scholar-!cn
 # This list contains scholarly domains that don't have access point in China Mainland.
 
+# Included from category-scholar-ir
+# Iranian scholar websites 
+
+.ac.ir
+.edu.ir
+.iau.ac.ir
+.iranlms.ir
+.jtt.ir
+.sanjesh.org
+.sharif.edu
+.sharif.ir
+.srttu.edu
+# End of category-scholar-ir
 # Included from category-scholar-uk
 # This list contains scholarly domains that in UK
 
@@ -4821,19 +4834,6 @@ imperial.insendi.com
 .wulfrun.ac.uk
 
 # End of category-scholar-uk
-# Included from category-scholar-ir
-# Iranian scholar websites 
-
-.ac.ir
-.edu.ir
-.iau.ac.ir
-.iranlms.ir
-.jtt.ir
-.sanjesh.org
-.sharif.edu
-.sharif.ir
-.srttu.edu
-# End of category-scholar-ir
 # Included from apa
 .apa.org
 .psyccareers.com
@@ -5247,9 +5247,9 @@ medone-education.thieme.com
 
 angle.com.tw # 元照出版
 beck-online.beck.de # Beck-Online数据库
-dl.begellhouse.com # Begell Digital Library
 databank.worldbank.org # World DataBank 世界经济学数据库
 database.asahi.com # 朝日新闻数据库（闻藏II Visual）
+dl.begellhouse.com # Begell Digital Library
 elib.maruzen.co.jp # Maruzen e-Book Library（MEL）
 firstsearch.oclc.org # OCLC FirstSearch
 muse.jhu.edu # Project MUSE
@@ -19274,6 +19274,44 @@ images-cn-8.ssl-images-amazon.com
 
 www.amd.com
 # End of amd
+# Included from anexia
+# Included from netcup
+.bestsrv.de
+.customercontrolpanel.de
+.dnsserver1.de
+.dnsserver2.de
+.goodsrv.de
+.happysrv.de
+.hotsrv.de
+.luckysrv.de
+.megasrv.de
+.netcup.cafe
+.netcup.com
+.netcup.de
+.netcup.eu
+.netcup.net
+.netcup-news.de
+.netcup-sonderangebote.de
+.netcup-wiki.de
+.nicesrv.de
+.powersrv.de
+.quicksrv.de
+.servercontrolpanel.de
+.supersrv.de
+.ultrasrv.de
+.yourvserver.net
+# End of netcup
+
+.anexia.at
+.anexia.com
+.anexia-engine.com
+.anexia-it.com
+.fifthns.com
+.firstns.cc
+.fourthns.systems
+.secondns.at
+.thirdns.de
+# End of anexia
 # Included from anthropic
 .anthropic.com
 .claude.ai
@@ -26060,32 +26098,6 @@ mdn.mozillademos.org
 .plug.game
 .prismlive.com
 # End of naver
-# Included from netcup
-.bestsrv.de
-.customercontrolpanel.de
-.dnsserver1.de
-.dnsserver2.de
-.goodsrv.de
-.happysrv.de
-.hotsrv.de
-.luckysrv.de
-.megasrv.de
-.netcup.cafe
-.netcup.com
-.netcup.de
-.netcup.eu
-.netcup.net
-.netcup-news.de
-.netcup-sonderangebote.de
-.netcup-wiki.de
-.nicesrv.de
-.powersrv.de
-.quicksrv.de
-.servercontrolpanel.de
-.supersrv.de
-.ultrasrv.de
-.yourvserver.net
-# End of netcup
 # Included from neuralink
 .neuralink.com
 # End of neuralink

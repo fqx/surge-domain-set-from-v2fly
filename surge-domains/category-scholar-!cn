@@ -1,5 +1,18 @@
 # This list contains scholarly domains that don't have access point in China Mainland.
 
+# Included from category-scholar-ir
+# Iranian scholar websites 
+
+.ac.ir
+.edu.ir
+.iau.ac.ir
+.iranlms.ir
+.jtt.ir
+.sanjesh.org
+.sharif.edu
+.sharif.ir
+.srttu.edu
+# End of category-scholar-ir
 # Included from category-scholar-uk
 # This list contains scholarly domains that in UK
 
@@ -187,19 +200,6 @@ imperial.insendi.com
 .wulfrun.ac.uk
 
 # End of category-scholar-uk
-# Included from category-scholar-ir
-# Iranian scholar websites 
-
-.ac.ir
-.edu.ir
-.iau.ac.ir
-.iranlms.ir
-.jtt.ir
-.sanjesh.org
-.sharif.edu
-.sharif.ir
-.srttu.edu
-# End of category-scholar-ir
 # Included from apa
 .apa.org
 .psyccareers.com
@@ -613,9 +613,9 @@ medone-education.thieme.com
 
 angle.com.tw # 元照出版
 beck-online.beck.de # Beck-Online数据库
-dl.begellhouse.com # Begell Digital Library
 databank.worldbank.org # World DataBank 世界经济学数据库
 database.asahi.com # 朝日新闻数据库（闻藏II Visual）
+dl.begellhouse.com # Begell Digital Library
 elib.maruzen.co.jp # Maruzen e-Book Library（MEL）
 firstsearch.oclc.org # OCLC FirstSearch
 muse.jhu.edu # Project MUSE
