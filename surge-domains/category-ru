@@ -158,4 +158,7 @@
 .yandexcom.net
 .yandexwebcache.org
 .yastatic.net
+
+# Watching movies, included in the Yandex subscription
+.kinopoisk.ru
 # End of yandex

@@ -816,6 +816,14 @@ ubisoft-orbit-savegames.s3.amazonaws.com
 ubistatic3-a.akamaihd.net
 uplaypc-s-ubisoft.cdn.ubi.com
 # End of ubisoft
+# Included from wbgames
+datarouter.apps.netherrealm.com
+wb-agora-hydra-file-storage-k1.s3.amazonaws.com
+.warnerbrosgames.com
+.wbagora.com
+.wbgames.com
+.wbinsights.com
+# End of wbgames
 # Included from xbox
 # Included from asobo
 .asobostudio.com

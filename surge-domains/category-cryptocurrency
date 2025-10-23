@@ -150,6 +150,12 @@ onekey.zendesk.com
 .xhpjc6-cdn-settings.appsflyersdk.com
 .rp-static-apne1.s3.ap-northeast-1.amazonaws.com
 # End of redotpay
+# Included from straitsx
+.straitsx.com
+
+d3r7nsslvs6aaf.cloudfront.net
+straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
+# End of straitsx
 # Included from trustwallet
 .trustwallet.com
 # End of trustwallet
