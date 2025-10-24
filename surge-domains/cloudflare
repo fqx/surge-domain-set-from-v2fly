@@ -1,4 +1,5 @@
 # Included from cloudflare-cn
+.cf-china.info
 .cf-ns.com
 .cf-ns.net
 .cf-ns.site
@@ -43,6 +44,7 @@
 .cloudflarepartners.com
 .cloudflareportal.com
 .cloudflarepreview.com
+.cloudflareregistrar.com
 .cloudflareresolve.com
 .cloudflaressl.com
 .cloudflarestatus.com

@@ -2540,6 +2540,7 @@ venmo.s3.amazonaws.com
 # End of cdn77
 # Included from cloudflare
 # Included from cloudflare-cn
+.cf-china.info
 .cf-ns.com
 .cf-ns.net
 .cf-ns.site
@@ -2584,6 +2585,7 @@ venmo.s3.amazonaws.com
 .cloudflarepartners.com
 .cloudflareportal.com
 .cloudflarepreview.com
+.cloudflareregistrar.com
 .cloudflareresolve.com
 .cloudflaressl.com
 .cloudflarestatus.com
@@ -3290,6 +3292,13 @@ hammerandchisel.ssl.zendesk.com
 .linetv.tw
 .nhncorp.jp
 # End of line
+# Included from mailcom
+# 1&1 Mail & Media GmbH
+.mail.com
+.ui-portal.de
+.uicdn.com
+.uimserv.net
+# End of mailcom
 # Included from matrix
 .arewereadyyet.com
 .cinny.in
@@ -3307,6 +3316,17 @@ hammerandchisel.ssl.zendesk.com
 .messenger.com
 .nbabot.net
 # End of messenger
+# Included from protonmail
+.pm.me
+.proton.me
+.protonmail.ch
+.protonmail.com
+.protonstatus.com
+.protontech.ch
+.protonvpn.ch
+.protonvpn.com
+.protonweb.com
+# End of protonmail
 # Included from signal
 .signal.art
 .signal.group
@@ -4137,6 +4157,10 @@ api-p.videomarket.jp
 
 ebay-25-assets.s3-us-west-1.amazonaws.com
 # End of ebay
+# Included from ebuyer
+.ebuyer.com
+#ebyrcdn.net
+# End of ebuyer
 # Included from farfetch
 .farfetch-apps.com
 .farfetch-contents.com
@@ -17651,17 +17675,6 @@ public-us-pingsx.api.clonoth.com
 .playcover.io
 .playcover.workers.dev
 # End of playcover
-# Included from protonmail
-.pm.me
-.proton.me
-.protonmail.ch
-.protonmail.com
-.protonstatus.com
-.protontech.ch
-.protonvpn.ch
-.protonvpn.com
-.protonweb.com
-# End of protonmail
 # Included from quip
 .quip-cdn.com
 .quip.com
@@ -18165,6 +18178,13 @@ firebaseremoteconfig.googleapis.com
 .fontawesome.com
 .fortawesome.com
 # End of fontawesome
+# Included from framer
+.framer.com
+.framer.website
+.framercanvas.com
+.framerstatic.com
+.framerusercontent.com
+# End of framer
 # Included from gemfury
 .fury.blog
 .fury.co
@@ -18264,8 +18284,14 @@ homebrew.bintray.com
 .intellinuxgraphics.com
 .intellinuxgraphics.net
 .oneapi.com
+.oneapi.io
+.opencas.io
+.opendroneid.org
+.openvino.ai
 .openvinotoolkit.org
+.renderingtoolkit.org
 .snap-telemetry.io
+.universalscalablefirmware.org
 
 # ACPI Component Architecture
 .acpica.com
@@ -22312,6 +22338,7 @@ vmware.tt.omtrdc.net
 .parstream.net
 .parstream.org
 .services-exchange.com
+.splunk.com
 .static-cisco.com
 .tandberg-china.com
 .tandberg.com
@@ -24258,8 +24285,14 @@ hpefonts.s3.amazonaws.com
 .intellinuxgraphics.com
 .intellinuxgraphics.net
 .oneapi.com
+.oneapi.io
+.opencas.io
+.opendroneid.org
+.openvino.ai
 .openvinotoolkit.org
+.renderingtoolkit.org
 .snap-telemetry.io
+.universalscalablefirmware.org
 
 # ACPI Component Architecture
 .acpica.com
@@ -24297,6 +24330,7 @@ hpefonts.s3.amazonaws.com
 .intel.cl
 .intel.cm
 .intel.cn
+.intel.co
 .intel.co.ae
 .intel.co.cr
 .intel.co.id
@@ -24329,6 +24363,7 @@ hpefonts.s3.amazonaws.com
 .intel.cu
 .intel.cz
 .intel.de
+.intel.dev
 .intel.dk
 .intel.dz
 .intel.ec
@@ -24341,6 +24376,7 @@ hpefonts.s3.amazonaws.com
 .intel.ga
 .intel.gd
 .intel.ge
+.intel.gg
 .intel.gl
 .intel.gm
 .intel.gr
@@ -24351,6 +24387,7 @@ hpefonts.s3.amazonaws.com
 .intel.hn
 .intel.ht
 .intel.hu
+.intel.id
 .intel.ie
 .intel.in
 .intel.io
@@ -24421,14 +24458,9 @@ hpefonts.s3.amazonaws.com
 .intel.wf
 .intel.yt
 
+.altera.co.jp
 .altera.com
 .alteraforum.com
-.alteraforums.com
-.alteraforums.net
-.alterauserforum.com
-.alterauserforum.net
-.alterauserforums.com
-.alterauserforums.net
 .buyaltera.com
 .celeron.com
 .celeron.net
@@ -24439,17 +24471,22 @@ hpefonts.s3.amazonaws.com
 .cilk.net
 .cloudinsights.com
 .clusterconnection.com
+.comm-verse.com
 .coreduo.com
 .coreextreme.com
 .crosswalk-project.com
 .crosswalk-project.net
+.dml-lang.org
 .doceapower.com
 .easic.com
 .enpirion.com
 .exascale-tech.com
 .exploreintel.com
 .gordonmoore.com
+.granulate.io
+.hackharassment.com
 .insidefilms.com
+.insight.tech
 .intc.com
 .intel-research.net
 .intel-university-collaboration.net
@@ -24471,11 +24508,12 @@ hpefonts.s3.amazonaws.com
 .intellearningseries.com
 .intellinuxwireless.net
 .intelnervana.com
-.intelnet.Component
 .intelplay.com
 .intelquark.com
 .intelrealsense.cn
 .intelrealsense.com
+.intelrealsense.net
+.intelreimbursement.com
 .intelrxt.com
 .intelsalestraining.com
 .intelsecurity.com
@@ -24489,8 +24527,10 @@ hpefonts.s3.amazonaws.com
 .lookinside.com
 .makebettercode.com
 .makesenseofdata.com
+.meccontroller.com
 .movidius.com
 .movidius.net
+.movidius.org
 .nervanasys.com
 .nevex.com
 .nextgenerationcenter.com
@@ -24501,19 +24541,35 @@ hpefonts.s3.amazonaws.com
 .openamt.com
 .opendroneid.org
 .optanedifference.com
+.passwordday.org
 .pc.com
 .pentium.com
 .pentium.net
 .pintool.com
+.pmem.org
+.pmem.us
 .poweredbyintel.com
+.projectcircuitbreaker.com
 .reconinstruments.com
 .reconjet.com
 .researchintel.com
 .saffrontech.com
 .sensorynetworks.com
+.sigopt.com
+.silicon-mobility.com
+.siliconmobility.com
 .siport.com
 .smart-edge.com
+.smart-edge.info
+.smart-edge.io
+.smart-edge.net
+.smart-edge.org
+.smart-edge.systems
+.smartedge.info
+.storageclassmemory.io
+.storageclassmemory.org
 .theintelstore.com
+.threadingbuildingblocks.org
 .thunderbolttechnology.net
 .trustedanalytics.com
 .trustedanalytics.net

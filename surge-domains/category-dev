@@ -257,6 +257,13 @@ firebaseremoteconfig.googleapis.com
 .fontawesome.com
 .fortawesome.com
 # End of fontawesome
+# Included from framer
+.framer.com
+.framer.website
+.framercanvas.com
+.framerstatic.com
+.framerusercontent.com
+# End of framer
 # Included from gemfury
 .fury.blog
 .fury.co
@@ -356,8 +363,14 @@ homebrew.bintray.com
 .intellinuxgraphics.com
 .intellinuxgraphics.net
 .oneapi.com
+.oneapi.io
+.opencas.io
+.opendroneid.org
+.openvino.ai
 .openvinotoolkit.org
+.renderingtoolkit.org
 .snap-telemetry.io
+.universalscalablefirmware.org
 
 # ACPI Component Architecture
 .acpica.com

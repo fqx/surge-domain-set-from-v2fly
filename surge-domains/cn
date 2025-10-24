@@ -1078,6 +1078,7 @@ ai.zhaomi.cn
 
 # End of bootcdn
 # Included from cloudflare-cn
+.cf-china.info
 .cf-ns.com
 .cf-ns.net
 .cf-ns.site
@@ -4043,9 +4044,18 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .deepin.com
 .deepin.io
 .deepin.org
+.deepin.org.cn
+.sndu.cn
 
 # 统信
+.51changxie.com
+.51jianxie.cn
+.91changxie.com
+.changxie.com
 .chinauos.com
+.linglong.space
+.linyaps.org.cn
+.uniontech.cn
 .uniontech.com
 # End of deepin
 # Included from gitee

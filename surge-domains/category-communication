@@ -74,6 +74,13 @@ hammerandchisel.ssl.zendesk.com
 .linetv.tw
 .nhncorp.jp
 # End of line
+# Included from mailcom
+# 1&1 Mail & Media GmbH
+.mail.com
+.ui-portal.de
+.uicdn.com
+.uimserv.net
+# End of mailcom
 # Included from matrix
 .arewereadyyet.com
 .cinny.in
@@ -91,6 +98,17 @@ hammerandchisel.ssl.zendesk.com
 .messenger.com
 .nbabot.net
 # End of messenger
+# Included from protonmail
+.pm.me
+.proton.me
+.protonmail.ch
+.protonmail.com
+.protonstatus.com
+.protontech.ch
+.protonvpn.ch
+.protonvpn.com
+.protonweb.com
+# End of protonmail
 # Included from signal
 .signal.art
 .signal.group
