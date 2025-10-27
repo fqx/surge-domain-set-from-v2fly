@@ -10489,6 +10489,14 @@ misa-prod.s3.ap-northeast-1.amazonaws.com
 .urhtbooks.com
 
 # End of haitang
+# Included from hentaichen
+.h-chan.me
+.hentai-chan.com
+.hentai-chan.live
+.hentaichan.live
+.hentaichan.me
+.imgschan.xyz
+# End of hentaichen
 # Included from hentaivn
 .hentaivn.de
 .hentaivn.la
@@ -16546,6 +16554,7 @@ widgets.stripst.com
 .xshaker.net
 .xshr.online
 .xsijishe.com
+.xsijishe.net
 .xslist.org
 .xstas.biz
 .xsvod.xyz
