@@ -1205,6 +1205,7 @@ ai.zhaomi.cn
 .8686c.com
 .cdn20.com
 .cdn30.org
+.cdnmg.com
 .chinanetcenter.com
 .lxdns.cn
 .lxdns.com
@@ -1223,6 +1224,7 @@ ai.zhaomi.cn
 .wscdns.com
 .wscdns.info
 .wscdns.org
+.wsdvs.com
 .wsglb.com
 .wsglb.net
 .wswebcdn.com
@@ -1392,6 +1394,17 @@ ai.zhaomi.cn
 .dongjiaoapp.com
 # End of dongjiao
 # Included from jd
+# Included from jd-ads
+.ads.union.jd.com
+.ads-union.jd.com
+.c-nfa.jd.com
+.cps.360buy.com
+.gia.jd.com
+.img-x.jd.com
+.jzt.jd.com
+.stat.m.jd.com
+# End of jd-ads
+
 .1huizhan.com
 .3.cn
 .300hu.com
@@ -1623,19 +1636,11 @@ ai.zhaomi.cn
 .yiyaojd.com
 .yizhitou.com
 
+# 达达
+.imdada.cn
+
 # 哆啦宝
 .duolabao.com
-
-# Included from jd-ads
-.ads.union.jd.com
-.ads-union.jd.com
-.c-nfa.jd.com
-.cps.360buy.com
-.gia.jd.com
-.img-x.jd.com
-.jzt.jd.com
-.stat.m.jd.com
-# End of jd-ads
 # End of jd
 # Included from lianjia
 .lianjia.com
@@ -1806,6 +1811,14 @@ ai.zhaomi.cn
 .cowlevel.net
 .cdncl.net
 # End of cowlevel
+# Included from herogame
+# 英雄游戏(英雄互娱)
+.hero.com
+.herogame.com
+.heroesports.com
+.shyxhy.com
+.yingxiong.com
+# End of herogame
 # Included from kurogames
 .kurogames.com
 
@@ -3514,6 +3527,9 @@ www.libvideo.com # 武汉缘来文化-知识视界
 # 语雀
 .nlark.com
 .yuque.com
+
+# 吾道
+.woodo.cn
 # End of category-collaborate-cn
 # Included from category-documents-cn
 # Included from doc88
@@ -3974,6 +3990,10 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 # 杭州蛋蛋语音科技有限公司
 .dandan818.com
 .dandanvoice.com
+
+# 脉脉
+.maimai.cn
+.taou.com
 # End of category-social-media-cn
 
 # Software development related
@@ -6647,7 +6667,6 @@ wetv.qq.com
 .mi-img.com
 .mi.com
 .mifile.cn
-.migames.com
 .mijia.tech
 .mitvos.com
 .miui.com
@@ -6674,6 +6693,10 @@ wetv.qq.com
 .xiaomisa.org
 .xiaomiwear.com
 .xiaomixiaoai.com
+
+# 北京瓦力网络科技
+.migames.com
+.wali.com
 
 # 天星数科
 .airstarfinance.net
@@ -7826,6 +7849,7 @@ ztedevices.com
 .touqikan.com
 .touzid.com
 .travelsky.com
+.trjcn.com
 .trunktech.com
 .trustexporter.com
 .trustutn.org
@@ -7868,6 +7892,7 @@ ztedevices.com
 .wdjimg.com
 .wdzj.com
 .weand.com
+.weavatar.com
 .weicaifu.com
 .weidian.com
 .weilaicaijing.com

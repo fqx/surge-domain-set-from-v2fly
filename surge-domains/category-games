@@ -72,6 +72,14 @@
 .cowlevel.net
 .cdncl.net
 # End of cowlevel
+# Included from herogame
+# 英雄游戏(英雄互娱)
+.hero.com
+.herogame.com
+.heroesports.com
+.shyxhy.com
+.yingxiong.com
+# End of herogame
 # Included from kurogames
 .kurogames.com
 
@@ -1184,10 +1192,13 @@ prodforza.blob.core.windows.net
 .fitgirl-repacks.site
 .game-repack.site
 .humblebundle.com
+.joinsquad.com
 .loverslab.com
 .minecraft.wiki
 .modrinth.com
 .nexusmods.com
+.offworldindustries.com
+.offworldindustries.net
 .papermc.io
 .planetminecraft.com
 .prismlauncher.org

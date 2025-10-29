@@ -1,3 +1,14 @@
+# Included from jd-ads
+.ads.union.jd.com
+.ads-union.jd.com
+.c-nfa.jd.com
+.cps.360buy.com
+.gia.jd.com
+.img-x.jd.com
+.jzt.jd.com
+.stat.m.jd.com
+# End of jd-ads
+
 .1huizhan.com
 .3.cn
 .300hu.com
@@ -229,16 +240,8 @@
 .yiyaojd.com
 .yizhitou.com
 
+# 达达
+.imdada.cn
+
 # 哆啦宝
 .duolabao.com
-
-# Included from jd-ads
-.ads.union.jd.com
-.ads-union.jd.com
-.c-nfa.jd.com
-.cps.360buy.com
-.gia.jd.com
-.img-x.jd.com
-.jzt.jd.com
-.stat.m.jd.com
-# End of jd-ads
