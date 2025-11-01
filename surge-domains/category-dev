@@ -575,6 +575,9 @@ vsmarketplacebadge.apphb.com
 .scala-lang.org
 .scala-sbt.org
 # End of scala
+# Included from sentry
+.sentry.io
+# End of sentry
 # Included from sourcehut
 .sourcehut.org
 .sr.ht

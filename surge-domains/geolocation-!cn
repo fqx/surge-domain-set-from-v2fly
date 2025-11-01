@@ -5156,6 +5156,7 @@ scholar.l.google.com
 .bookshome.net
 .bookshome.world
 .de1lib.org
+.dln1.ncdn.ec
 .hk1lib.org
 .libsolutions.app
 .libsolutions.domains
@@ -18580,6 +18581,9 @@ vsmarketplacebadge.apphb.com
 .scala-lang.org
 .scala-sbt.org
 # End of scala
+# Included from sentry
+.sentry.io
+# End of sentry
 # Included from sourcehut
 .sourcehut.org
 .sr.ht
