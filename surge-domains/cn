@@ -16,6 +16,16 @@
 # List of all domains that have access point in China mainland
 
 # Advertisment & Analytics
+# Included from getui
+# 每日互动股份有限公司 浙ICP备14019898号
+.gepush.com
+.getui.cn
+.getui.com
+.getui.net
+.igehuo.com
+.igetui.com
+.igexin.com
+# End of getui
 # Included from jiguang
 #极光推送
 .42r.cn
@@ -1691,8 +1701,11 @@ ai.zhaomi.cn
 .mogujie.com
 # End of mogujie
 # Included from pinduoduo
+# 上海寻梦信息技术有限公司 沪ICP备15010535号
 .pddcdn.com
+.pddim.com
 .pddpic.com
+.pddugc.com
 .pinduoduo.com
 .pinduoduo.net
 .yangkeduo.com
@@ -3088,6 +3101,14 @@ e8aeb8bbdbbd7.cdn.sohucs.com
 .aliyundrive.net
 .yunpan.aliyun.com
 # End of aliyun-drive
+# Included from cowtransfer
+# 奶牛快传
+## 蜀ICP备14008877号
+.c-t.work
+## 闽ICP备2021013850号
+.cowcs.com
+.cowtransfer.com
+# End of cowtransfer
 # Included from lanzou
 .baidupan.com
 .ilanzou.com
@@ -3614,11 +3635,6 @@ ntp5.tencent.com
 .caiyunai.com
 .caiyunapp.com
 # End of colorfulclouds
-# Included from cowtransfer
-# 奶牛快传 备案号：蜀ICP备14008877号
-.c-t.work
-.cowtransfer.com
-# End of cowtransfer
 # Included from dida365
 .dida365.com
 # End of dida365
@@ -3672,52 +3688,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .jinshuju.net
 .jinshujucdn.com
 # End of jinshuju
-# Included from jlc
-# 嘉立创
-.fa-part.com
-.forface3d.com
-.jlc-3dp.cn
-.jlc-3dp.com
-.jlc-bbs.com
-.jlc-cad.com
-.jlc-cam.com
-.jlc-cnc.com
-.jlc-dfm.com
-.jlc-drm.com
-.jlc-ecad.com
-.jlc-erp.com
-.jlc-fpc.com
-.jlc-gw.com
-.jlc-jh.com
-.jlc-layout.com
-.jlc-pcb.com
-.jlc-smt.com
-.jlc-zh.com
-.jlc.com
-.jlc3dp.cn
-.jlccad.com
-.jlccam.com
-.jlccnc.com
-.jlcdfm.com
-.jlcecad.com
-.jlceda.cn
-.jlceda.com
-.jlcerp.com
-.jlcfa.com
-.jlcgroup.cn
-.jlcops.com
-.jlcsj.com
-.jlcsmt.com
-.lceda.cn
-.lckfb.com
-.oshwhub.com
-.sanweihou.com
-.sz-jlc.com
-.szjlc.cn
-.szlcsc.com
-.zs-jlc.com
-.zxhgroup.com
-# End of jlc
 # Included from keep
 .gotokeep.com
 .keepcdn.com
@@ -4343,6 +4313,7 @@ p9-juejin.byteimg.com
 .alidayu.com
 .alidns.com
 .alikunlun.com
+.alikunlun.net
 .aliyun-inc.com
 .aliyun-iot-share.com
 .aliyun.com
@@ -4471,6 +4442,7 @@ p9-juejin.byteimg.com
 .56che.com
 .95095.com
 .9game.cn
+.ali-health.com
 .aliapp.org
 .alibaba-inc.com
 .alibaba.com
@@ -5621,6 +5593,22 @@ bytedance.map.fastly.net
 .skypixel.com
 .robomaster.com
 # End of dji
+# Included from gree
+# 珠海格力
+.gree.cn
+.gree.com
+.gree.com.cn
+.greeyun.com
+.kinghomechina.com
+.tosot.com.cn
+.zhlyen.com
+# End of gree
+# Included from haier
+.ehaier.com
+.haier.com
+.haier.net
+.haiersmarthomes.com
+# End of haier
 # Included from honor
 .hihonor.cn
 .hihonor.com
@@ -6188,6 +6176,17 @@ bytedance.map.fastly.net
 .meizu.com
 .mzres.com
 # End of meizu
+# Included from midea
+.irsnp.com
+.mdcdn.cn
+.midea.cn
+.midea.com
+.midea.com.cn
+.mideaepayuat.com
+.msmartlife.cn
+.msmartlife.com
+.smartmidea.net
+# End of midea
 # Included from netease
 .126.com
 .126.link
@@ -6366,6 +6365,7 @@ community.oneplus.com
 .namiso.com
 .nicaifu.com
 .nzwgs.com
+.qh-cdn.com
 .qhcdn.com
 .qhimg.com
 .qhimgs0.com
@@ -6398,6 +6398,18 @@ community.oneplus.com
 .zhaomi.cn
 .zhaomishijie.com
 # End of qihoo360
+# Included from tcl
+# 粤ICP备2020114412号
+.tclai.top
+
+# 粤ICP备05040863号
+.tcl.com
+.tcl.com.cn
+.tcltech.com
+
+# 粤ICP备17088321号
+.leiniao.com
+# End of tcl
 # Included from tencent
 # Included from tencent-ads
 .ad.qq.com
@@ -6975,25 +6987,6 @@ ztedevices.com
 # End of aamgame
 
 # Others
-# Included from 8btc
-.8btc.com
-.bystack.com
-.chainnode.com
-.matpool.com
-.matpool.net
-# End of 8btc
-# Included from jibencaozuo
-.jbcz.tv
-.jibencaozuo.com
-.media.paperclipclub.net
-# End of jibencaozuo
-# Included from sinopec
-.sinopec-usa.com
-.sinopec.com
-.sinopecgroup.com
-.sinopecnews.com.cn
-.sinopecsales.com
-# End of sinopec
 # Included from category-enterprise-query-platform-cn
 # Included from aiqicha
 .aiqicha.baidu.com
@@ -7024,33 +7017,25 @@ ztedevices.com
 .x315.com
 # End of x315
 # End of category-enterprise-query-platform-cn
-# Included from gree
-# 珠海格力
-.gree.cn
-.gree.com
-.gree.com.cn
-.greeyun.com
-.kinghomechina.com
-.tosot.com.cn
-.zhlyen.com
-# End of gree
-# Included from haier
-.ehaier.com
-.haier.com
-.haier.net
-.haiersmarthomes.com
-# End of haier
-# Included from midea
-.irsnp.com
-.mdcdn.cn
-.midea.cn
-.midea.com
-.midea.com.cn
-.mideaepayuat.com
-.msmartlife.cn
-.msmartlife.com
-.smartmidea.net
-# End of midea
+# Included from 8btc
+.8btc.com
+.bystack.com
+.chainnode.com
+.matpool.com
+.matpool.net
+# End of 8btc
+# Included from jibencaozuo
+.jbcz.tv
+.jibencaozuo.com
+.media.paperclipclub.net
+# End of jibencaozuo
+# Included from sinopec
+.sinopec-usa.com
+.sinopec.com
+.sinopecgroup.com
+.sinopecnews.com.cn
+.sinopecsales.com
+# End of sinopec
 
 
 # 应城门户网站
@@ -7457,7 +7442,6 @@ ztedevices.com
 .gdliontech.com
 .gdrc.com
 .geilicdn.com
-.getui.com
 .gezida.com
 .gfan.com
 .giocdn.com
@@ -7507,6 +7491,7 @@ ztedevices.com
 .henkuai.com
 .herostart.com
 .hiido.com
+.hitokoto.cn
 .hiyd.com
 .hktheone.com
 .hn-cbec.com
@@ -7558,6 +7543,7 @@ ztedevices.com
 .iyiou.com
 .iyunmu.com
 .jb51.com
+.jb51.net
 .jia.com
 .jiameng.com
 .jianbihua.com
@@ -7784,6 +7770,7 @@ ztedevices.com
 .rong360.com
 .rtbasia.com
 .ruan8.com
+.ruiwen.com
 .runoob.com
 .rzrc114.com
 .saibo.com
@@ -8100,9 +8087,16 @@ ztedevices.com
 # 沪ICP备2021017807号-4
 .ecombdapi.com
 
-# 花瓣网 稿定（厦门）信息服务有限公司 闽ICP备2021013850号-2
+# 稿定（厦门）信息服务有限公司
+## 花瓣网 闽ICP备2021013850号
 .huaban.com
+.huabanimg.com
+## 闽ICP备12002004号
 .dancf.com
+.hlgdata.com
+.huanleguang.com
+.ttxsapp.com.cn
+.xsbapp.cn
 
 # 酷家乐 杭州群核信息技术有限公司 浙ICP备12022366号-6
 .kujiale.com
@@ -8200,9 +8194,6 @@ ztedevices.com
 
 # 宁停车 
 .ningtingche.com
-
-# 沉浸式翻译 沪ICP备2023011353号
-.immersivetranslate.com
 
 # 仁科医疗科技有限公司服务域名，为北大口腔和一些其他国内医院小程序提供服务
 .mingxuan.store
