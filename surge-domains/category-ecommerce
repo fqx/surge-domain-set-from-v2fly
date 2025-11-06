@@ -539,6 +539,10 @@ ebay-25-assets.s3-us-west-1.amazonaws.com
 .farfetch.net.cn
 .fflnk.net
 # End of farfetch
+# Included from ggsel
+.ggsel.com
+.ggsel.net
+# End of ggsel
 # Included from gucci
 # All .gucci domains
 .gucci
