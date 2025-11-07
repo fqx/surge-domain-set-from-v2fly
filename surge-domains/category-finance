@@ -76,6 +76,22 @@
 .meawallet.app
 .myfin.bg
 # End of fibank
+# Included from futu
+# 富途证券
+.futuesop.com
+.futufin.com
+.futuhk.com
+.futuhn.com
+.futuholdings.com
+.futuniuniu.com
+.futunn.com
+.futustatic.com
+
+# 富途 moomoo 证券
+.moomoo.com
+.moomooequity.com
+.moomootrustee.com
+# End of futu
 # Included from hsbc
 # TLD
 .hsbc
@@ -185,6 +201,13 @@
 .ifastps.com.cn
 .ifasttv.com
 # End of ifast
+# Included from itiger
+# 老虎证券
+.itiger.com
+.itigergrowth.com
+.itigergrowtha.com
+.itigerup.com
+# End of itiger
 # Included from longbridge
 .longbridge.cloud
 .longbridge.com
@@ -204,6 +227,16 @@
 .number26.de
 .tech26.de
 # End of n26
+# Included from schwab
+# 嘉信理财
+.aboutschwab.com
+.schwab.co.uk
+.schwab.com
+.schwab.com.hk
+.schwab.com.sg
+.schwabassetmanagement.com
+.schwabplan.com
+# End of schwab
 # Included from wise
 .transferwise.com
 .wise.com

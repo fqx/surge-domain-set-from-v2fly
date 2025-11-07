@@ -21,6 +21,17 @@ servd-anthropic-website.b-cdn.net
 .cursor.sh
 .cursorapi.com
 # End of cursor
+# Included from dola
+# Dola, formly ciciai, an AI service of bytedance
+.cici.com
+.ciciai.com
+.ciciaicdn.com
+.dola.com
+# End of dola
+# Included from elevenlabs
+.elevenlabs.com
+.elevenlabs.io
+# End of elevenlabs
 # Included from google-deepmind
 # Google DeepMind
 .deepmind.com
@@ -1629,6 +1640,22 @@ tesla-cdn.thron.com
 .meawallet.app
 .myfin.bg
 # End of fibank
+# Included from futu
+# 富途证券
+.futuesop.com
+.futufin.com
+.futuhk.com
+.futuhn.com
+.futuholdings.com
+.futuniuniu.com
+.futunn.com
+.futustatic.com
+
+# 富途 moomoo 证券
+.moomoo.com
+.moomooequity.com
+.moomootrustee.com
+# End of futu
 # Included from hsbc
 # TLD
 .hsbc
@@ -1738,6 +1765,13 @@ tesla-cdn.thron.com
 .ifastps.com.cn
 .ifasttv.com
 # End of ifast
+# Included from itiger
+# 老虎证券
+.itiger.com
+.itigergrowth.com
+.itigergrowtha.com
+.itigerup.com
+# End of itiger
 # Included from longbridge
 .longbridge.cloud
 .longbridge.com
@@ -1757,6 +1791,16 @@ tesla-cdn.thron.com
 .number26.de
 .tech26.de
 # End of n26
+# Included from schwab
+# 嘉信理财
+.aboutschwab.com
+.schwab.co.uk
+.schwab.com
+.schwab.com.hk
+.schwab.com.sg
+.schwabassetmanagement.com
+.schwabplan.com
+# End of schwab
 # Included from wise
 .transferwise.com
 .wise.com
@@ -28157,6 +28201,7 @@ nurofensk-prod-env.eu-west-1.elasticbeanstalk.com
 .thinkofliving.com
 # End of reagroup
 # Included from scenesource
+.predb.me
 .scenesource.me
 .scnsrc.me
 # End of scenesource
