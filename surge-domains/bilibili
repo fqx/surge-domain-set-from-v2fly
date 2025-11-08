@@ -1,3 +1,21 @@
+# Included from bilibili-cdn
+.bilicdn1.com
+.bilicdn2.com
+.bilicdn3.com
+.bilicdn4.com
+.bilicdn5.com
+.biliimg.com
+.bilivideo.cn
+.bilivideo.com
+.bilivideo.net
+.hdslb.com
+.hdslb.org
+
+.maoercdn.com
+.mincdn.com
+
+upos-hz-mirrorakam.akamaized.net
+# End of bilibili-cdn
 # Included from bilibili-game
 .bilibiligame.cn
 .bilibiligame.co
@@ -37,23 +55,8 @@ manga.bilibili.com
 .bilibili.tv
 .bilibilipay.cn
 .bilibilipay.com
-.bilicdn1.com
-.bilicdn2.com
-.bilicdn3.com
-.bilicdn4.com
-.bilicdn5.com
 .biligo.com
-.biliimg.com
 .biliintl.com
-.bilivideo.cn
-.bilivideo.com
-.bilivideo.net
 .dreamcast.hk
-.hdslb.com
-.hdslb.org
 .im9.com
-.maoercdn.com
-.mincdn.com
 .yo9.com
-
-upos-hz-mirrorakam.akamaized.net
