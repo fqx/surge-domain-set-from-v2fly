@@ -36,6 +36,7 @@ epicgames-download1.akamaized.net
 
 # Epic Game - 游戏下载[Fastly]
 fastly-download.epicgames.com
+.egdownload.fastly-edge.com
 
 # Epic Game - 游戏下载[CloudFlare]
 cloudflare.epicgamescdn.com

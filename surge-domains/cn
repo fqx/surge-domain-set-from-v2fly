@@ -893,6 +893,10 @@ ai.zhaomi.cn
 # 艾睿电子
 .arrow.cn
 
+# 京东方
+.boe.com
+.boe.com.cn
+
 # 博流智能
 .bouffalolab.com
 
@@ -912,7 +916,8 @@ ai.zhaomi.cn
 .hqpcb.com
 
 # 英飞凌
-.infineon.com
+.infineon.cn
+#infineon.com
 
 # 嘉立创集团
 # Included from jlc
@@ -981,7 +986,7 @@ ai.zhaomi.cn
 .maixhub.com
 
 # 德州仪器
-.ti.com
+#ti.com
 .ti.com.cn
 
 # 沁恒微电子
@@ -6083,6 +6088,7 @@ bytedance.map.fastly.net
 # End of wps
 
 .kimg.cn
+.kingsoft-office-service.com
 .kingsoft.com
 .ks-live.com
 .ksmobile.com
@@ -6192,33 +6198,6 @@ bytedance.map.fastly.net
 .smartmidea.net
 # End of midea
 # Included from netease
-.126.com
-.126.link
-.126.net
-.127.com
-.127.net
-.163.com
-.163cn.tv
-.163industry.com
-.163mail.com
-.163qiyukf.com
-.163yun.com
-.166.com
-.166.net
-.188.com
-.haowu.link
-.icourse163.org
-.lofter.com
-.nease.net
-.netease-inc.com
-.netease.com
-.netease.im
-.qiyukf.com
-.ydstatic.com
-.yeah.net
-.youdao.com
-.zhuanzfx.com
-
 # Included from netease-ads
 .a.youdao.com
 .admusicpic.music.126.net
@@ -6233,6 +6212,39 @@ bytedance.map.fastly.net
 .iadmusicmatvideo.music.126.net
 .sentry.music.163.com
 # End of netease-ads
+
+.126.com
+.126.link
+.126.net
+.127.com
+.127.net
+.163.com
+.163cn.tv
+.163industry.com
+.163jiasu.com
+.163mail.com
+.163qiyukf.com
+.163yun.com
+.166.com
+.166.net
+.188.com
+.321fenx.com
+.haowu.link
+.icourse163.org
+.lofter.com
+.nease.net
+.netease-inc.com
+.netease.com
+.netease.im
+.netstatic.net
+.qiyukf.com
+.qiyukf.net
+.qiyukf.net.cn
+.static163.net
+.ydstatic.com
+.yeah.net
+.youdao.com
+.zhuanzfx.com
 # End of netease
 # Included from oppo
 # Included from oneplus
@@ -6810,6 +6822,10 @@ ztedevices.com
 .kaipuyun.com
 .kaipuyun.com.cn
 .kaipuyun.net
+
+# 酷控
+.deepepg.com
+.kookong.com
 
 
 # xEdge干将互联 苏州星汉云联网络技术有限公司 苏ICP备2022017953号
