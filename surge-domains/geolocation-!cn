@@ -124,6 +124,10 @@ pplx-res.cloudinary.com
 .coderabbit.ai
 .coderabbit.gallery.vsassets.io
 
+# Cohere
+.cohere.ai
+.cohere.com
+
 # Jasper
 .clipdrop.co
 .jasper.ai
@@ -7694,6 +7698,10 @@ o4504926511693824.ingest.sentry.io
 .embed-cdn.com
 .streamable.com
 # End of streamable
+# Included from terabox
+.terabox.com
+.teraboxcdn.com
+# End of terabox
 
 # Forums & Social network
 # Included from category-forums
