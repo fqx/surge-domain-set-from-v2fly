@@ -19584,6 +19584,7 @@ appleworldwidedeveloper.sc.omtrdc.net
 p-events-delivery.akamaized.net
 
 # End of apple-dev
+# Not include:apple-intelligence
 # Included from apple-pki
 certs-lb.apple.com.akadns.net
 certs.apple.com
