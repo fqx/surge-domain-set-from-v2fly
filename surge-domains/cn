@@ -1947,7 +1947,6 @@ ai.zhaomi.cn
 .zcjbgame.com
 .zhuoyuegame.com
 
-.xn--owtw8cc49ajfl.cn
 
 # Roblox
 .roblox.cn
@@ -1977,7 +1976,7 @@ ai.zhaomi.cn
 .wegameplus.com
 .werepository.com.cn
 
-# Supercell
+# Supercell cn (data/supercell is for non-cn domains)
 .brawlstars.cn
 .haydaypop.cn
 .labycore.cn
@@ -1986,7 +1985,6 @@ ai.zhaomi.cn
 .scescdn.cn
 .scid.cn
 .scsentry.cn
-.supercell.com
 .supercellcommunity.cn
 .supercellsupport.cn
 
@@ -4919,6 +4917,7 @@ p9-juejin.byteimg.com
 .zhiye.com
 # End of beisen
 # Included from bluepoch
+# 深蓝互动
 # Included from bluepoch-games
 # From reverse 1999
 .sl916.com
@@ -6532,7 +6531,6 @@ community.oneplus.com
 .zcjbgame.com
 .zhuoyuegame.com
 
-.xn--owtw8cc49ajfl.cn
 
 # Roblox
 .roblox.cn
@@ -6562,7 +6560,7 @@ community.oneplus.com
 .wegameplus.com
 .werepository.com.cn
 
-# Supercell
+# Supercell cn (data/supercell is for non-cn domains)
 .brawlstars.cn
 .haydaypop.cn
 .labycore.cn
@@ -6571,7 +6569,6 @@ community.oneplus.com
 .scescdn.cn
 .scid.cn
 .scsentry.cn
-.supercell.com
 .supercellcommunity.cn
 .supercellsupport.cn
 

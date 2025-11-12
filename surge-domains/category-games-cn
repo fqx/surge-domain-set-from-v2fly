@@ -169,7 +169,6 @@
 .zcjbgame.com
 .zhuoyuegame.com
 
-.xn--owtw8cc49ajfl.cn
 
 # Roblox
 .roblox.cn
@@ -199,7 +198,7 @@
 .wegameplus.com
 .werepository.com.cn
 
-# Supercell
+# Supercell cn (data/supercell is for non-cn domains)
 .brawlstars.cn
 .haydaypop.cn
 .labycore.cn
@@ -208,7 +207,6 @@
 .scescdn.cn
 .scid.cn
 .scsentry.cn
-.supercell.com
 .supercellcommunity.cn
 .supercellsupport.cn
 

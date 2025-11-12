@@ -783,6 +783,7 @@ xz.pphimalayanrt.com
 .steamunlocked.net
 # End of steamunlocked
 # Included from supercell
+# supercell cn domains is added to tencent-games
 .boombeach.com
 .brawlstars.com
 .brawlstarsgame.com
@@ -1413,65 +1414,6 @@ lastfm.freetls.fastly.net
 # Included from manhuagui
 .manhuagui.com
 # End of manhuagui
-# Included from mihoyo
-# Included from hoyoverse
-# 原神
-.genshinimpact.com
-
-# 崩壞3
-.honkaiimpact3.com
-
-# 星穹鐵道
-.honkaistarrail.com
-
-# 短網址
-.hoyo.link
-
-# HoYoLab
-.hoyolab.com
-
-# HoYoverse
-.hoyoverse.com
-
-# n0va
-.n0vadesktop.com
-
-# 絕區零(Zenless Zone Zero)
-.zenlesszonezero.com
-# End of hoyoverse
-# Included from mihoyo-cn
-# 米哈游
-.mhystatic.com
-.mhyurl.cn
-.mihayo.com
-.mihayou.com
-.mihoyo.com
-.mihoyocg.com
-.mihoyogift.com
-.mihoyomall.com
-.miyoushe.com
-
-# 崩坏2
-.benghuai.com
-
-# 崩坏3
-.bh3.com
-
-# 星穹铁道
-.bhsr.com
-
-# 未定事件簿
-.themisweeps.com
-
-# 原神
-.yuanshen.com
-
-#绝区零
-.juequling.com
-
-# Akamai
-# End of mihoyo-cn
-# End of mihoyo
 # Included from mubi
 .mubi.com
 .mubicdn.net

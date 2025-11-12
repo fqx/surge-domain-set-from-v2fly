@@ -170,7 +170,6 @@
 .zcjbgame.com
 .zhuoyuegame.com
 
-.xn--owtw8cc49ajfl.cn
 
 # Roblox
 .roblox.cn
@@ -200,7 +199,7 @@
 .wegameplus.com
 .werepository.com.cn
 
-# Supercell
+# Supercell cn (data/supercell is for non-cn domains)
 .brawlstars.cn
 .haydaypop.cn
 .labycore.cn
@@ -209,7 +208,6 @@
 .scescdn.cn
 .scid.cn
 .scsentry.cn
-.supercell.com
 .supercellcommunity.cn
 .supercellsupport.cn
 
@@ -1076,6 +1074,7 @@ xz.pphimalayanrt.com
 .steamunlocked.net
 # End of steamunlocked
 # Included from supercell
+# supercell cn domains is added to tencent-games
 .boombeach.com
 .brawlstars.com
 .brawlstarsgame.com
