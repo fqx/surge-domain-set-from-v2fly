@@ -294,9 +294,6 @@
 .ycgame.com
 # End of category-games-cn
 
-# Included from 3dm
-.3dmgame.com
-# End of 3dm
 # Included from acfun
 # Beijing Danmu Network Technology Co., Ltd.
 
@@ -316,9 +313,6 @@ apilog-web.acfun.cn
 .acplay.net
 .dandanplay.com
 # End of acplay
-# Included from ali213
-.ali213.net
-# End of ali213
 # Included from bestv
 # 百视通
 .bbtv.cn
@@ -409,9 +403,6 @@ manga.bilibili.com
 .sao.cn
 .saolife.com
 # End of dedao
-# Included from dmzj
-.dmzj.com
-# End of dmzj
 # Included from douyin
 # 北京抖音科技有限公司 京ICP备16016397号
 # 抖音、抖音火山版、汽水音乐
@@ -554,9 +545,6 @@ rtlog5-applog-hl.fqnovel.com
 .ja2.gamersky.com
 .wmbd.gamersky.com
 # End of gamersky
-# Included from gcores
-.gcores.com
-# End of gcores
 # Included from gitv
 .gitv.cn
 .gitv.tv
@@ -617,9 +605,6 @@ rtlog5-applog-hl.fqnovel.com
 .yuedu.iqiyi.com
 # End of iqiyi-ads
 # End of iqiyi
-# Included from jinjiang
-.jjwxc.net
-# End of jinjiang
 # Included from ku6
 .ku6.com
 .ku6cdn.com
@@ -716,15 +701,6 @@ wlog.kuaishou.com
 .lizhi.fm
 .lizhifm.com
 # End of lizhi
-# Included from mfuns
-.mfuns.cn
-# End of mfuns
-# Included from miaopai
-.miaopai.com
-# End of miaopai
-# Included from muwai
-.muwai.com
-# End of muwai
 # Included from pptv
 .pplive.cn
 .pplive.com
@@ -752,9 +728,6 @@ wlog.kuaishou.com
 
 # 普通节点(内地)
 # End of sakurafrp
-# Included from sfacg
-.sfacg.com
-# End of sfacg
 # Included from taomee
 .61.com
 .taomee.com
@@ -804,11 +777,9 @@ wlog.kuaishou.com
 # youku video cdn
 .cibntv.net
 # End of youku
-# Included from zhanqi
-.zhanqi.tv
-# End of zhanqi
 
 # Android Emulator
+.ldmnq.com
 .lsplayer.com
 .yeshen.com
 
@@ -819,5 +790,9 @@ wlog.kuaishou.com
 # B站空降助手 鲁ICP备2024098956号-1
 .bsbsb.top
 
+.3dmgame.com
+.ali213.net
 .dongqiudi.com
+.miaopai.com
 .pearvideo.com
+.zhanqi.tv

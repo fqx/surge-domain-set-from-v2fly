@@ -97,9 +97,6 @@
 .teleows.com
 .saasops.tech
 # End of huawei-dev
-# Included from jinrishici
-.jinrishici.com
-# End of jinrishici
 # Included from juejin
 .juejin.cn
 .juejin.im
@@ -179,13 +176,10 @@ p9-juejin.byteimg.com
 .weixinbridge.com
 .weui.io
 # End of tencent-dev
-# Included from tipdm
-.tipdim.org
-# End of tipdm
 # Included from ubuntukylin
 .openkylin.top
 .ubuntukylin.com
 # End of ubuntukylin
-# Included from xueyuanjun
-.xueyuanjun.com
-# End of xueyuanjun
+
+.jinrishici.com
+.tipdm.org

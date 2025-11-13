@@ -24,9 +24,10 @@
 .sf3-ttcdn-tos.pstatp.com
 # End of bytedance-ads
 
-#include:dola # not serving for cn
+#include:bytedance-ai-!cn # not serving for cn
 # Included from doubao
 # 北京春田知韵科技有限公司 京ICP备2023020373号
+# non-cn domains is added to bytedance-ai-!cn
 .butterfly-static.cn
 .butterflyai.cn
 .coze.cn
@@ -41,8 +42,6 @@
 .myparallelstory.com
 .picpic-ai.cn
 .pixeldance.com
-
-.coze.com
 # End of doubao
 # Included from fqnovel
 .activity-zhendingtech.com
@@ -128,6 +127,7 @@ p16-tiktokcdn-com.akamaized.net
 # End of tiktok
 # Included from trae
 # 北京引力弹弓科技有限公司 京ICP备2024062284号
+# non-cn domains is added to bytedance-ai-!cn
 .doudou.com
 .marscode.cn
 .marscode.com.cn
@@ -140,9 +140,6 @@ p16-tiktokcdn-com.akamaized.net
 .trae.com.cn
 .trae.guru
 .yoma.cn
-
-.marscode.com
-.trae.ai
 # End of trae
 # Included from volcengine
 .aigc-cloud.com

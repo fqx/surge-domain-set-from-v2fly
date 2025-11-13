@@ -12,6 +12,22 @@
 # CDN
 servd-anthropic-website.b-cdn.net
 # End of anthropic
+# Included from bytedance-ai-!cn
+# Included from dola
+# Dola, formly ciciai, an AI service of bytedance
+.cici.com
+.ciciai.com
+.ciciaicdn.com
+.dola.com
+# End of dola
+
+# related to doubao
+.coze.com
+
+# related to trae
+.marscode.com
+.trae.ai
+# End of bytedance-ai-!cn
 # Included from cerebras
 .cerebras.ai
 # End of cerebras
@@ -21,13 +37,6 @@ servd-anthropic-website.b-cdn.net
 .cursor.sh
 .cursorapi.com
 # End of cursor
-# Included from dola
-# Dola, formly ciciai, an AI service of bytedance
-.cici.com
-.ciciai.com
-.ciciaicdn.com
-.dola.com
-# End of dola
 # Included from elevenlabs
 .elevenlabs.com
 .elevenlabs.io
@@ -225,7 +234,9 @@ pplx-res.cloudinary.com
 .freewechat.com
 .freeweibo.com
 .freezhihu.org
+.googlecensorship.org
 .greatfire.org
+.greatfirevpn.com
 .pao-pao.net
 .wikiunblocked.org
 # End of greatfire
@@ -10379,6 +10390,8 @@ spectator.ppy.sh
 # Included from bongacams
 .bcicdn.com
 .bcrncdn.com
+.bcvcdn.com
+.bgicdn.com
 .bongacams.com
 # End of bongacams
 # Included from boylove
@@ -17242,6 +17255,7 @@ s19.upd.kaspersky.com
 .qutebrowser.org
 .vivaldi.com
 .waterfox.net
+.zen-browser.app
 # End of category-browser-!cn
 # Included from category-enhance-gaming
 # Included from playcover
@@ -17262,6 +17276,7 @@ s19.upd.kaspersky.com
 
 # Android Emulator
 .bluestacks.com
+.ldmnq.com
 .lsplayer.com
 .yeshen.com
 
@@ -18816,6 +18831,7 @@ amp.akamaized.net
 .mobatek.net
 
 .mysql.com
+.neovim.io
 .nixos.org
 .nodesource.com
 .notepad-plus-plus.org
@@ -22397,6 +22413,15 @@ vmware.tt.omtrdc.net
 .canonfoundation.org
 .canonproprinters.com
 # End of canon
+# Included from canva
+# affinity
+.affinity.api.serifservices.com
+.affinity.studio
+.affinity-beta.s3.amazonaws.com
+.affinity-lessons.s3.amazonaws.com
+
+.canva.com
+# End of canva
 # Included from chegg
 .chegg.com
 .cheggcdn.com

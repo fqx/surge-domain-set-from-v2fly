@@ -102,6 +102,7 @@
 # 字节跳动：豆包、Trae(MarsCode)
 # Included from doubao
 # 北京春田知韵科技有限公司 京ICP备2023020373号
+# non-cn domains is added to bytedance-ai-!cn
 .butterfly-static.cn
 .butterflyai.cn
 .coze.cn
@@ -116,11 +117,10 @@
 .myparallelstory.com
 .picpic-ai.cn
 .pixeldance.com
-
-.coze.com
 # End of doubao
 # Included from trae
 # 北京引力弹弓科技有限公司 京ICP备2024062284号
+# non-cn domains is added to bytedance-ai-!cn
 .doudou.com
 .marscode.cn
 .marscode.com.cn
@@ -133,9 +133,6 @@
 .trae.com.cn
 .trae.guru
 .yoma.cn
-
-.marscode.com
-.trae.ai
 # End of trae
 
 # 智谱清言
@@ -631,9 +628,6 @@ ai.zhaomi.cn
 .secec.com
 .sunlife-everbright.com
 # End of everbright
-# Included from hsqh
-.hsqh.net
-# End of hsqh
 # Included from pingan
 .pingan.com
 .pingan.com.cn
@@ -646,6 +640,7 @@ ai.zhaomi.cn
 .taikangzhijia.com
 .tkhealthcare.com
 # End of taikang
+
 
 # Blogs
 # Included from category-blog-cn
@@ -667,9 +662,6 @@ ai.zhaomi.cn
 .lppz.com
 .lppzimg.com
 # End of bestore
-# Included from heytea
-.heytea.com
-# End of heytea
 # Included from lkcoffee
 .lkcoffee.com
 .luckincoffeecdn.com
@@ -678,6 +670,9 @@ ai.zhaomi.cn
 
 .3songshu.com
 .haidilao.com
+
+# 喜茶
+.heytea.com
 
 # 俺来也（上海）网络科技有限公司
 .anlaiye.com
@@ -1078,9 +1073,6 @@ ai.zhaomi.cn
 .amzndns-cn.net
 
 # End of aws-cn
-# Included from baijiayun
-.baijiayun.com
-# End of baijiayun
 # Included from bootcdn
 .bootcdn.cn
 .bootcdn.net
@@ -1135,9 +1127,6 @@ ai.zhaomi.cn
 .maoyuncloud.cn
 .maoyuncloud.com
 # End of maocloud
-# Included from pkoplink
-.pkoplink.com
-# End of pkoplink
 # Included from qingcloud
 .frontwize.com
 .qingcache.com
@@ -1270,6 +1259,25 @@ ai.zhaomi.cn
 .yfscdn.net
 .yunfancdn.com
 # End of yunfanjiasu
+
+# 百家云
+.baijiayun.com
+
+# 明源云
+.fdcyun.com
+.mingyuanyun.com
+.mypaas.com
+.mypaas.com.cn
+.myypark.com
+
+# 开普云
+.kaipuyun.cn
+.kaipuyun.com
+.kaipuyun.com.cn
+.kaipuyun.net
+
+# 江西节点技术服务有限公司
+.pkoplink.com
 
 .funcdn.com
 .leigod.cn
@@ -1684,9 +1692,6 @@ ai.zhaomi.cn
 .beckyroom.com
 .ke.com
 # End of lianjia
-# Included from manmanbuy
-.manmanbuy.com
-# End of manmanbuy
 # Included from meituan
 .dianping.com
 .maoyan.com
@@ -1768,6 +1773,8 @@ ai.zhaomi.cn
 .appvipshop.com
 .vip.com
 .vipstatic.com
+# 慢慢买
+.manmanbuy.com
 # 瞎买
 .xiamai.net
 
@@ -2069,9 +2076,6 @@ ai.zhaomi.cn
 .ycgame.com
 # End of category-games-cn
 
-# Included from 3dm
-.3dmgame.com
-# End of 3dm
 # Included from acfun
 # Beijing Danmu Network Technology Co., Ltd.
 
@@ -2091,9 +2095,6 @@ apilog-web.acfun.cn
 .acplay.net
 .dandanplay.com
 # End of acplay
-# Included from ali213
-.ali213.net
-# End of ali213
 # Included from bestv
 # 百视通
 .bbtv.cn
@@ -2184,9 +2185,6 @@ manga.bilibili.com
 .sao.cn
 .saolife.com
 # End of dedao
-# Included from dmzj
-.dmzj.com
-# End of dmzj
 # Included from douyin
 # 北京抖音科技有限公司 京ICP备16016397号
 # 抖音、抖音火山版、汽水音乐
@@ -2329,9 +2327,6 @@ rtlog5-applog-hl.fqnovel.com
 .ja2.gamersky.com
 .wmbd.gamersky.com
 # End of gamersky
-# Included from gcores
-.gcores.com
-# End of gcores
 # Included from gitv
 .gitv.cn
 .gitv.tv
@@ -2392,9 +2387,6 @@ rtlog5-applog-hl.fqnovel.com
 .yuedu.iqiyi.com
 # End of iqiyi-ads
 # End of iqiyi
-# Included from jinjiang
-.jjwxc.net
-# End of jinjiang
 # Included from ku6
 .ku6.com
 .ku6cdn.com
@@ -2491,15 +2483,6 @@ wlog.kuaishou.com
 .lizhi.fm
 .lizhifm.com
 # End of lizhi
-# Included from mfuns
-.mfuns.cn
-# End of mfuns
-# Included from miaopai
-.miaopai.com
-# End of miaopai
-# Included from muwai
-.muwai.com
-# End of muwai
 # Included from pptv
 .pplive.cn
 .pplive.com
@@ -2527,9 +2510,6 @@ wlog.kuaishou.com
 
 # 普通节点(内地)
 # End of sakurafrp
-# Included from sfacg
-.sfacg.com
-# End of sfacg
 # Included from taomee
 .61.com
 .taomee.com
@@ -2579,11 +2559,9 @@ wlog.kuaishou.com
 # youku video cdn
 .cibntv.net
 # End of youku
-# Included from zhanqi
-.zhanqi.tv
-# End of zhanqi
 
 # Android Emulator
+.ldmnq.com
 .lsplayer.com
 .yeshen.com
 
@@ -2594,8 +2572,12 @@ wlog.kuaishou.com
 # B站空降助手 鲁ICP备2024098956号-1
 .bsbsb.top
 
+.3dmgame.com
+.ali213.net
 .dongqiudi.com
+.miaopai.com
 .pearvideo.com
+.zhanqi.tv
 # End of category-entertainment-cn
 
 # Game Accelerator
@@ -2690,16 +2672,13 @@ wlog.kuaishou.com
 # End of category-game-accelerator-cn
 
 # Forums
-# Included from chiphell
-.chiphell.com
-# End of chiphell
-# Included from erji
-.erji.net
-# End of erji
-# Included from hacpai
+# Included from b3log
+# 云南链滴科技有限公司 滇ICP备14007358号
+.b3log.org
+.b3logfile.com
 .hacpai.com
 .ld246.com
-# End of hacpai
+# End of b3log
 # Included from kechuang
 .kechuang.org
 kc.kexinshe.com
@@ -2712,6 +2691,7 @@ kc.kexinshe.com
 # End of nga
 # Included from stage1st
 .saraba1st.com
+.stage1st.com
 # End of stage1st
 
 
@@ -2765,12 +2745,6 @@ kc.kexinshe.com
 .ecns.cn
 .inewsweek.cn
 # End of chinanews
-# Included from dgtle
-.dgtle.com
-# End of dgtle
-# Included from geekpark
-.geekpark.net
-# End of geekpark
 # Included from ifanr
 .coolbuy.com
 .ifanr.cn
@@ -2898,12 +2872,6 @@ e8aeb8bbdbbd7.cdn.sohucs.com
 .sohu.com
 .sohucs.com
 # End of sohu
-# Included from solidot
-.solidot.org
-# End of solidot
-# Included from sspai
-.sspai.com
-# End of sspai
 # Included from tmtpost
 # Domains belong to 北京灵动新程信息科技有限公司 (京ICP备13040123号)
 
@@ -2935,6 +2903,31 @@ e8aeb8bbdbbd7.cdn.sohucs.com
 .ynet.com
 .ynet.com.cn
 # End of ynet
+
+# 江苏省广播电视总台
+.jsbc.com
+.jstv.com
+
+# 浙江广播电视集团/浙江卫视/新蓝网
+.cztv.com
+.cztvcdn.com
+.cztvcloud.com
+.zjstv.com
+
+# 数字尾巴
+.dgtle.com
+
+# 机核
+.gcores.com
+
+# 极客公园
+.geekpark
+
+# 奇客资讯网
+.solidot.org
+
+# 少数派
+.sspai.com
 
 # 证券时报网
 .stcn.com
@@ -3079,6 +3072,9 @@ e8aeb8bbdbbd7.cdn.sohucs.com
 
 # 江西省出版传媒集团
 .jxpp.com
+
+# 人人都是产品经理
+.woshipm.com
 # End of category-media-cn
 
 # Netdisk
@@ -3273,9 +3269,6 @@ study.163.com
 .fenbilantian.cn
 .fenbilantian.com
 # End of yuanfudao
-# Included from zhihuishu
-.zhihuishu.com
-# End of zhihuishu
 
 # 教育部学生服务与素质发展中心
 # 京ICP备19004913号
@@ -3305,6 +3298,16 @@ study.163.com
 .qgzb.net
 .zbbm.gov.cn
 .zbbm.net
+
+# 中国地质大学 继续教育学院
+.cugbonline.cn
+
+# 智慧树
+.zhihuishu.com
+
+# 日语测试
+.j-test.com
+.nattest-china.com
 
 # 雨课堂
 # Included from yuketang
@@ -3500,9 +3503,6 @@ www.libvideo.com # 武汉缘来文化-知识视界
 .qiuwenbaike.cn
 .qiuwen.wiki
 # End of category-wiki-cn
-# Included from cugbonline
-.cugbonline.cn
-# End of cugbonline
 # Included from guokr
 .guokr.com
 .guokr.net
@@ -3514,12 +3514,6 @@ www.libvideo.com # 武汉缘来文化-知识视界
 # End of ihuman
 
 # Services & Softwares
-# Included from 3type
-.3type.cn
-# End of 3type
-# Included from 4paradigm
-.4paradigm.com
-# End of 4paradigm
 # Included from 51job
 .51job.com
 .51jobcdn.com
@@ -3538,9 +3532,6 @@ www.libvideo.com # 武汉缘来文化-知识视界
 .agoraio.cn
 .agoralab.co
 # End of agora
-# Included from antutu
-.antutu.com
-# End of antutu
 # Included from category-collaborate-cn
 # Remote Desktop
 ## Oray
@@ -3641,16 +3632,10 @@ ntp5.tencent.com
 .caiyunai.com
 .caiyunapp.com
 # End of colorfulclouds
-# Included from dida365
-.dida365.com
-# End of dida365
 # Included from flowus
 .allflow.cn
 .flowus.cn
 # End of flowus
-# Included from foundertype
-.foundertype.com
-# End of foundertype
 # Included from geetest
 .geetest.com
 
@@ -3702,9 +3687,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .lagou.com
 .lgstatic.com
 # End of lagou
-# Included from ldmnq
-.ldmnq.com
-# End of ldmnq
 # Included from liepin
 .liepin.com
 .lietou.com
@@ -3790,9 +3772,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .wol.tv
 .wostatic.cn
 # End of wolai
-# Included from yinxiang
-.yinxiang.com
-# End of yinxiang
 # Included from zdns
 .zcmbc.com.cn
 .zdns.cn
@@ -3812,6 +3791,9 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .dutils.com
 .accuratead.cn
 # End of zhangtao
+
+# 方正字库
+.foundertype.com
 
 # BOSS 直聘
 .zhipin.com
@@ -4094,9 +4076,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .teleows.com
 .saasops.tech
 # End of huawei-dev
-# Included from jinrishici
-.jinrishici.com
-# End of jinrishici
 # Included from juejin
 .juejin.cn
 .juejin.im
@@ -4176,16 +4155,13 @@ p9-juejin.byteimg.com
 .weixinbridge.com
 .weui.io
 # End of tencent-dev
-# Included from tipdm
-.tipdim.org
-# End of tipdm
 # Included from ubuntukylin
 .openkylin.top
 .ubuntukylin.com
 # End of ubuntukylin
-# Included from xueyuanjun
-.xueyuanjun.com
-# End of xueyuanjun
+
+.jinrishici.com
+.tipdm.org
 # End of category-dev-cn
 
 # Tech companies & Orginations
@@ -4654,9 +4630,6 @@ p9-juejin.byteimg.com
 .lydass.com.cn
 .lydass.net
 # End of alibaba
-# Included from b3log
-.b3log.org
-# End of b3log
 # Included from baidu
 # Included from baidu-ads
 .a.baidu.com
@@ -4952,9 +4925,10 @@ p9-juejin.byteimg.com
 .sf3-ttcdn-tos.pstatp.com
 # End of bytedance-ads
 
-#include:dola # not serving for cn
+#include:bytedance-ai-!cn # not serving for cn
 # Included from doubao
 # 北京春田知韵科技有限公司 京ICP备2023020373号
+# non-cn domains is added to bytedance-ai-!cn
 .butterfly-static.cn
 .butterflyai.cn
 .coze.cn
@@ -4969,8 +4943,6 @@ p9-juejin.byteimg.com
 .myparallelstory.com
 .picpic-ai.cn
 .pixeldance.com
-
-.coze.com
 # End of doubao
 # Included from fqnovel
 .activity-zhendingtech.com
@@ -5056,6 +5028,7 @@ p16-tiktokcdn-com.akamaized.net
 # End of tiktok
 # Included from trae
 # 北京引力弹弓科技有限公司 京ICP备2024062284号
+# non-cn domains is added to bytedance-ai-!cn
 .doudou.com
 .marscode.cn
 .marscode.com.cn
@@ -5068,9 +5041,6 @@ p16-tiktokcdn-com.akamaized.net
 .trae.com.cn
 .trae.guru
 .yoma.cn
-
-.marscode.com
-.trae.ai
 # End of trae
 # Included from volcengine
 .aigc-cloud.com
@@ -6807,19 +6777,6 @@ ztedevices.com
 # End of zte
 
 
-# 明源云
-.fdcyun.com
-.mingyuanyun.com
-.mypaas.com
-.mypaas.com.cn
-.myypark.com
-
-# 开普云
-.kaipuyun.cn
-.kaipuyun.com
-.kaipuyun.com.cn
-.kaipuyun.net
-
 # 酷控
 .deepepg.com
 .kookong.com
@@ -6955,14 +6912,6 @@ ztedevices.com
 .vijos.org
 # End of category-olympiad-in-informatics
 
-# 语言能力测试
-# Included from j-test
-.j-test.com
-# End of j-test
-# Included from nat-test
-.nattest-china.com
-# End of nat-test
-
 # 在线工具
 
 # 在线工具书
@@ -7012,29 +6961,21 @@ ztedevices.com
 .aiqicha.cn
 .aiqicha.com
 # End of aiqicha
-# Included from hongdunwang
-.hongdunwang.com.cn
-# End of hongdunwang
 # Included from qcc
 .qcc.com
 .qichacha.com
 # End of qcc
-# Included from qichamao
-.qichamao.com
-# End of qichamao
 # Included from qixin
 .qixin.com
 # End of qixin
-# Included from qyyjt
-.qyyjt.cn
-# End of qyyjt
 # Included from tianyancha
 .jindidata.com
 .tianyancha.com
 # End of tianyancha
-# Included from x315
+
+.qichamao.com
+.qyyjt.cn
 .x315.com
-# End of x315
 # End of category-enterprise-query-platform-cn
 # Included from 8btc
 .8btc.com
@@ -7160,8 +7101,10 @@ ztedevices.com
 .3d66.com
 .3elife.net
 .3h3.com
+.3type.cn
 .3yx.com
 .40407.com
+.4paradigm.com
 .500.com
 .500d.me
 .50bang.org
@@ -7357,8 +7300,6 @@ ztedevices.com
 .cyagen.com
 .cybtc.com
 .cyts.com
-.cztv.com
-.cztvcloud.com
 .dadajiasu.com
 .dadighost.com
 .daguzhe.com
@@ -7589,9 +7530,7 @@ ztedevices.com
 .job5588.com
 .job910.com
 .jobjm.com
-.jsbc.com
 .jsrdgg.com
-.jstv.com
 .jsyks.com
 .juefeng.com
 .julive.com
@@ -8083,7 +8022,6 @@ ztedevices.com
 .zimuzu.io
 .zixiaomao.com
 .zixuntop.com
-.zjstv.com
 .zmengzhu.com
 .zongheng.com
 .zpb365.com

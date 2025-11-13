@@ -24,6 +24,7 @@
 # 字节跳动：豆包、Trae(MarsCode)
 # Included from doubao
 # 北京春田知韵科技有限公司 京ICP备2023020373号
+# non-cn domains is added to bytedance-ai-!cn
 .butterfly-static.cn
 .butterflyai.cn
 .coze.cn
@@ -38,11 +39,10 @@
 .myparallelstory.com
 .picpic-ai.cn
 .pixeldance.com
-
-.coze.com
 # End of doubao
 # Included from trae
 # 北京引力弹弓科技有限公司 京ICP备2024062284号
+# non-cn domains is added to bytedance-ai-!cn
 .doudou.com
 .marscode.cn
 .marscode.com.cn
@@ -55,9 +55,6 @@
 .trae.com.cn
 .trae.guru
 .yoma.cn
-
-.marscode.com
-.trae.ai
 # End of trae
 
 # 智谱清言

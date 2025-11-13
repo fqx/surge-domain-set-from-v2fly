@@ -3,9 +3,6 @@
 .lppz.com
 .lppzimg.com
 # End of bestore
-# Included from heytea
-.heytea.com
-# End of heytea
 # Included from lkcoffee
 .lkcoffee.com
 .luckincoffeecdn.com
@@ -14,6 +11,9 @@
 
 .3songshu.com
 .haidilao.com
+
+# 喜茶
+.heytea.com
 
 # 俺来也（上海）网络科技有限公司
 .anlaiye.com

@@ -45,12 +45,6 @@
 .ecns.cn
 .inewsweek.cn
 # End of chinanews
-# Included from dgtle
-.dgtle.com
-# End of dgtle
-# Included from geekpark
-.geekpark.net
-# End of geekpark
 # Included from ifanr
 .coolbuy.com
 .ifanr.cn
@@ -178,12 +172,6 @@ e8aeb8bbdbbd7.cdn.sohucs.com
 .sohu.com
 .sohucs.com
 # End of sohu
-# Included from solidot
-.solidot.org
-# End of solidot
-# Included from sspai
-.sspai.com
-# End of sspai
 # Included from tmtpost
 # Domains belong to 北京灵动新程信息科技有限公司 (京ICP备13040123号)
 
@@ -215,6 +203,31 @@ e8aeb8bbdbbd7.cdn.sohucs.com
 .ynet.com
 .ynet.com.cn
 # End of ynet
+
+# 江苏省广播电视总台
+.jsbc.com
+.jstv.com
+
+# 浙江广播电视集团/浙江卫视/新蓝网
+.cztv.com
+.cztvcdn.com
+.cztvcloud.com
+.zjstv.com
+
+# 数字尾巴
+.dgtle.com
+
+# 机核
+.gcores.com
+
+# 极客公园
+.geekpark
+
+# 奇客资讯网
+.solidot.org
+
+# 少数派
+.sspai.com
 
 # 证券时报网
 .stcn.com
@@ -359,3 +372,6 @@ e8aeb8bbdbbd7.cdn.sohucs.com
 
 # 江西省出版传媒集团
 .jxpp.com
+
+# 人人都是产品经理
+.woshipm.com
