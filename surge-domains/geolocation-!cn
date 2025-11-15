@@ -9906,13 +9906,6 @@ himalaya-exchange.zendesk.com
 .tvbweekly.com
 .tvmedia.net.au
 # End of tvb
-# Included from tver
-.dogatch.jp
-.gorin.jp
-.screens-lab.jp
-.tver.co.jp
-.tver.jp
-# End of tver
 # Included from udn
 .udn.com
 .udn.com.tw
@@ -17490,6 +17483,29 @@ ntp7.ntp-servers.net
 .pool.ntp.org
 .time.nrc.ca
 # End of category-ntp
+# Included from category-password-management
+# Included from bitwarden
+.bitwarden.com
+.bitwarden.eu
+.bitwarden.net
+.btwrdn.co
+.btwrdn.com
+# End of bitwarden
+# Included from lastpass
+.lastpass.com
+.lastpass.eu
+.lputil.com
+# End of lastpass
+
+.authy.com
+.dashlane.com
+.enpass.io
+.keepass.info
+.keeper.io
+.keepersecurity.com
+.roboform.com
+.strongboxsafe.com
+# End of category-password-management
 
 # Included from rsshub
 .rsshub.app
@@ -17518,6 +17534,7 @@ yangzhi.app
 
 # Included from accuweather
 .accuweather.com
+.awxcdn.com
 # End of accuweather
 # Included from adblock
 .adblockcdn.com
@@ -17570,21 +17587,11 @@ yangzhi.app
 # iFontCloud
 .ifontcloud.com
 # End of arphic
-# Included from authy
-.authy.com
-# End of authy
 # Included from bitly
 .bit.ly
 .bitly.com
 .bitly.is
 # End of bitly
-# Included from bitwarden
-.bitwarden.com
-.bitwarden.eu
-.bitwarden.net
-.btwrdn.co
-.btwrdn.com
-# End of bitwarden
 # Included from blender
 .bigbuckbunny.org
 .blender.org
@@ -17739,9 +17746,6 @@ brightcove.imgix.net
 # Included from iina
 .iina.io
 # End of iina
-# Included from imageglass
-.imageglass.org
-# End of imageglass
 # Included from infrapedia
 .infrapedia.com
 # End of infrapedia
@@ -17795,9 +17799,6 @@ brightcove.imgix.net
 .mega.io
 .mega.nz
 # End of mega
-# Included from mpv
-.mpv.io
-# End of mpv
 # Included from netlify
 .bitballoon.com
 .netlify.app
@@ -18828,6 +18829,7 @@ amp.akamaized.net
 
 .hex.pm
 .hexdocs.pm
+.imageglass.org
 .ius.io
 .jenkins.io
 .js.org
@@ -18843,6 +18845,7 @@ amp.akamaized.net
 # Mobatek official website.
 .mobatek.net
 
+.mpv.io
 .mysql.com
 .neovim.io
 .nixos.org
@@ -19196,23 +19199,6 @@ wwis-dubc1-vip99.adobe.com
 # Adobe Stats IO
 .adobestats.io
 # End of adobe
-# Included from agilebits
-.1infra.net
-.1password.ca
-.1password.co
-.1password.com
-.1password.community
-.1password.eu
-.1password.io
-.1passwordservices.com
-.1passwordusercontent.ca
-.1passwordusercontent.com
-.1passwordusercontent.eu
-.agilebits.com
-.passage.id
-
-1password.drift.click
-# End of agilebits
 # Included from alibabacloud
 .alibabacloud.co.in
 .alibabacloud.com
@@ -19555,16 +19541,6 @@ www.amd.com
 .secondns.at
 .thirdns.de
 # End of anexia
-# Included from anthropic
-.anthropic.com
-.claude.ai
-.claude.com
-.claudeusercontent.com
-.claudemcpclient.com
-
-# CDN
-servd-anthropic-website.b-cdn.net
-# End of anthropic
 # Included from apple
 # Included from apple-ads
 .api-adservices.apple.com
@@ -24208,9 +24184,6 @@ xn--flw351e.com
 .gvt1-cn.com
 .gvt2-cn.com
 # End of google
-# Included from groq
-.groq.com
-# End of groq
 # Included from hetzner
 .first-ns.de
 .hetzner.cloud
@@ -26592,32 +26565,6 @@ nvidia.tt.omtrdc.net
 # NVIDIA 文件下载服务器中国镜像
 cn.download.nvidia.com
 # End of nvidia
-# Included from openai
-# Main domain
-.chatgpt.com
-.chat.com
-.oaistatic.com
-.oaiusercontent.com
-.openai.com
-.sora.com
-
-# CDN & API
-.openai.com.cdn.cloudflare.net
-openaiapi-site.azureedge.net
-openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-openaicomproductionae4b.blob.core.windows.net
-production-openaicom-storage.azureedge.net
-
-# tracking
-o33249.ingest.sentry.io
-openaicom.imgix.net
-browser-intake-datadoghq.com
-
-# Advanced Voice
-.chatgpt.livekit.cloud
-.host.livekit.cloud
-.turn.livekit.cloud
-# End of openai
 # Included from openweather
 .openweather.co.uk
 .openweathermap.org
@@ -26702,13 +26649,6 @@ d2anahhhmp1ffz.cloudfront.net
 # Moov
 .moov.hk
 # End of pccw
-# Included from perplexity
-.perplexity.ai
-.perplexity.com
-.pplx.ai
-
-pplx-res.cloudinary.com
-# End of perplexity
 # Included from qnap
 # Global
 .myqnapcloud.com
@@ -27424,10 +27364,6 @@ cdn.js7k.com
 # Watching movies, included in the Yandex subscription
 .kinopoisk.ru
 # End of yandex
-# Included from xai
-.grok.com
-.x.ai
-# End of xai
 
 # Remote Control
 # Included from category-remote-control

@@ -722,6 +722,7 @@ amp.akamaized.net
 
 .hex.pm
 .hexdocs.pm
+.imageglass.org
 .ius.io
 .jenkins.io
 .js.org
@@ -737,6 +738,7 @@ amp.akamaized.net
 # Mobatek official website.
 .mobatek.net
 
+.mpv.io
 .mysql.com
 .neovim.io
 .nixos.org
