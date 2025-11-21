@@ -2736,6 +2736,7 @@ kc.kexinshe.com
 .olympicchannelchina.cn
 .tvcc.cn
 .tvcc.com.cn
+.yangshipin.cn
 .zggbdszt.cn
 .zggbdszt.com.cn
 .zggbdszt.net.cn
@@ -6939,15 +6940,24 @@ ztedevices.com
 
 
 
+# 氪主页
+.51kim.com
+.zhuye.kim
+# 乐游导航主页
+.6-u.com
+# imsYY起始页
+.imsyy.com
 # Infinity Pro（浏览器主页）
 .infinitynewtab.com
 .inftab.com
-
-# 某柠檬导航（浏览器主页）
-.moulem.com
-
+# 可可牛导航
+.kekeniu.com
 # 青柠起始页
 .limestart.cn
+# 某柠檬导航（浏览器主页）
+.moulem.com
+# 轻主页
+.qzhuye.com
 
 # 街机
 # Included from aamgame
