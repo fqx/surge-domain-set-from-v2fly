@@ -81,6 +81,7 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 # End of groq
 # Included from huggingface
 .hf.co
+.hf.space
 .huggingface.co
 # End of huggingface
 # Included from openai

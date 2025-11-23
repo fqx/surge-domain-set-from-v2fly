@@ -1,6 +1,7 @@
 # Russian websites
 
 # Russian TLDs
+.moscow
 .ru
 .su
 .xn--80adxhks
@@ -10,6 +11,9 @@
 .xn--d1acj3b
 .xn--p1acf
 .xn--p1ai
+
+.ru.com
+.ru.net
 
 # Included from category-gov-ru
 # Federal Gov.
@@ -147,12 +151,18 @@
 # яндекс.рф
 .xn--d1acpjx3f.xn--p1ai
 
+.adfox.ru
+.admetrica.ru
 .dzen.ru
 .naydex.net
 .rostaxi.org
+.webvisor.com
+.webvisor.org
 .ya.ru
+.yads.tech
 .yandex-bank.net
 .yandex-images.clstorage.net
+.yandex-team.ru
 .yandex.aero
 .yandex.az
 .yandex.by
@@ -188,9 +198,12 @@
 .yandexadexchange.net
 .yandexcloud.net
 .yandexcom.net
+.yandexmetrica.com
 .yandexwebcache.org
+.yastat.net
 .yastatic.net
 
 # Watching movies, included in the Yandex subscription
 .kinopoisk.ru
+.kinopoisk-ru.clstorage.net
 # End of yandex
