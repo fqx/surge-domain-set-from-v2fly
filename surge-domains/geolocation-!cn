@@ -17864,6 +17864,7 @@ public-us-pingsx.api.clonoth.com
 .tutanota.de
 # End of tutanota
 # Included from vercel
+.ai-sdk.dev
 .err.sh
 .hyper.is
 .nextjs.org
@@ -17947,6 +17948,9 @@ public-us-pingsx.api.clonoth.com
 .zoom.us
 # End of zoom
 
+
+# Graphing for Science and Engineering
+.originlab.com
 
 # Online LaTeX Editor
 .cloudlatex.io
