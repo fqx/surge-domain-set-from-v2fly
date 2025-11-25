@@ -230,11 +230,11 @@ vs-hls-pushb-uk-live.akamaized.net
 .c-spanvideo.org
 # End of c-span
 # Included from cbs
-# All .cbs domains
-.cbs
+# https://www.iana.org/domains/root/db/cbs.html
+# cbs (Revoked)
 
-# All .showtime domains
-.showtime
+# https://www.iana.org/domains/root/db/showtime.html
+# showtime (Revoked)
 
 .cbs.com
 .cbscorporation.com
@@ -1375,7 +1375,7 @@ himalaya-exchange.zendesk.com
 # End of sky
 # Included from theguardian
 # All .theguardian domains
-.theguardian
+# theguardian (never delegated)
 
 .dev-guardianapis.com
 .dev-theguardian.com

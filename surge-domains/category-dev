@@ -5,6 +5,9 @@
 .conda.io
 # End of anaconda
 # Included from android
+# All .android domains
+.android
+
 .android.com
 .androidify.com
 

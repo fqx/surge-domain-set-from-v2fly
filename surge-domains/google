@@ -1,5 +1,8 @@
 # List of all domains being operated by Google Inc.
 # Included from android
+# All .android domains
+.android
+
 .android.com
 .androidify.com
 
@@ -610,7 +613,7 @@ yt3.googleusercontent.com
 # End of youtube
 
 # All .and domains
-.and
+# and (TLD application withdrawn by Google)
 
 # All .chrome domains
 .chrome

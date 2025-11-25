@@ -72,10 +72,11 @@
 .rwkv.com
 
 # 通义千问
-.tongyi.aliyun.com
 .qianwen.aliyun.com
+.qianwen.com
 .qwen.ai
 .qwenlm.ai
+.tongyi.aliyun.com
 .tongyi.com
 
 # 文心一言
@@ -2903,6 +2904,12 @@ e8aeb8bbdbbd7.cdn.sohucs.com
 .cztvcloud.com
 .zjstv.com
 
+# 重庆晨报 上游新闻
+.cqcb.com
+
+# 河南广播电视台 大象网
+.hntv.tv
+
 # 数字尾巴
 .dgtle.com
 
@@ -2910,7 +2917,7 @@ e8aeb8bbdbbd7.cdn.sohucs.com
 .gcores.com
 
 # 极客公园
-.geekpark
+.geekpark.net
 
 # 奇客资讯网
 .solidot.org
@@ -3067,6 +3074,24 @@ e8aeb8bbdbbd7.cdn.sohucs.com
 
 # 知产力
 .zhichanli.com
+
+# AET 电子技术应用
+.chinaaet.com
+
+# FreeBuf 网络安全行业门户
+.freebuf.com
+
+# 艾瑞咨询
+.iresearch.cn
+
+# 前瞻网
+.qianzhan.com
+
+# 安全内参
+.secrss.com
+
+# 商业新知
+.shangyexinzhi.com
 # End of category-media-cn
 
 # Netdisk
@@ -3290,6 +3315,10 @@ study.163.com
 .qgzb.net
 .zbbm.gov.cn
 .zbbm.net
+
+# 国家智慧教育公共服务平台
+.cbern.com.cn
+.smartedu.cn
 
 # 中国地质大学 继续教育学院
 .cugbonline.cn
@@ -7392,7 +7421,6 @@ ztedevices.com
 .finchina.com
 .fixdown.com
 .fqjob.net
-.freebuf.com
 .fugetech.com
 .fuwj.com
 .fxxz.com
@@ -7459,7 +7487,6 @@ ztedevices.com
 .hktheone.com
 .hn-cbec.com
 .hnrcsc.com
-.hntv.tv
 .hnyuyuhui.com
 .hollycrm.com
 .homeinns.com
@@ -7709,7 +7736,6 @@ ztedevices.com
 .qiangbus.com
 .qianjia.com
 .qianlima.com
-.qianzhan.com
 .qiaobutang.com
 .qie.tv
 .qifeiye.com
