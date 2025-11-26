@@ -1,5 +1,6 @@
 # Included from facebook-ads
 .analytics.facebook.com
+.facebookads.com
 .pixel.facebook.com
 # End of facebook-ads
 # Included from instagram-ads

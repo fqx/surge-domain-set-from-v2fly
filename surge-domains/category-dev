@@ -580,6 +580,7 @@ vsmarketplacebadge.apphb.com
 # End of scala
 # Included from sentry
 .sentry.io
+.sentry-cdn.com
 # End of sentry
 # Included from sourcehut
 .sourcehut.org

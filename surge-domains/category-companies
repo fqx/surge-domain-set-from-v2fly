@@ -4169,6 +4169,8 @@ firebaseremoteconfig.googleapis.com
 .adwords-community.com
 .adwords.com
 .adwordsexpress.com
+.app-analytics-services.com
+.app-analytics-services-att.com
 .app-measurement-cn.com
 .app-measurement.com
 .doubleclick-cn.net
@@ -4178,6 +4180,7 @@ firebaseremoteconfig.googleapis.com
 .google-analytics-cn.com
 .google-analytics.com
 .googleadapis.com
+.googleadapis.l.google.com
 .googleads-cn.com
 .googleads.com
 .googleadservices-cn.com
@@ -4196,10 +4199,14 @@ firebaseremoteconfig.googleapis.com
 .googletraveladservices.com
 .googlevads-cn.com
 .mail-ads.google.com
+.mobileads.google.com
 .marketingplatform.google.com
+.pagead.l.google.com
+.partnerad.l.google.com
 .urchin.com
 
 analytics.google.com
+fundingchoicesmessages.google.com
 
 # End of google-ads
 # Included from google-deepmind
@@ -6305,7 +6312,6 @@ lgelectronics.122.2o7.net
 .facebook30.net
 .facebook30.org
 .facebook4business.com
-.facebookads.com
 .facebookadvertisingsecrets.com
 .facebookatschool.com
 .facebookawards.com
@@ -8811,6 +8817,7 @@ cdn.js7k.com
 .yandex.sx
 .yandex.tj
 .yandex.tm
+.yandex.tr
 .yandex.ua
 .yandex.uz
 .yandexadexchange.net
