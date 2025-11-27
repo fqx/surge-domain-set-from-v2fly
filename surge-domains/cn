@@ -991,6 +991,14 @@ ai.zhaomi.cn
 # 沁恒微电子
 .wch.cn
 .wch-ic.com
+
+# 长江存储
+# Included from ymtc
+# 长江存储
+.ymtc.com
+.ymtc.com.cn
+.ymtc.cn
+# End of ymtc
 # End of category-electronic-cn
 
 # 汽车
@@ -2048,6 +2056,16 @@ ai.zhaomi.cn
 .xdcdn.net
 .xindong.com
 # End of xd
+# Included from yokaverse
+# 游卡
+.dobest.com
+.langrenclub.com
+.sanguosha.com
+.xhlsgs.com
+.xinwuji.com
+.yokaverse.com
+.zhuoyou.com
+# End of yokaverse
 
 # 刀锋盒子 皖B2-20190103-4
 .9xgame.com
@@ -2072,6 +2090,11 @@ ai.zhaomi.cn
 # 沪ICP备18041304号-1
 .tgpro.top
 .tgprocs.net
+# 途游
+.tuyoo.com
+# 完美世界
+.wanmei.com
+.wmsj.cn
 # Wine游戏助手 京ICP备18041936号
 .winegame.net
 # 畅玩空间 冀ICP备20019223号
@@ -2407,9 +2430,11 @@ wlog.kuaishou.com
 
 .ecukwai.com
 .gifshow.com
+.inkuai.com
 .inkwai.com
 .ksapisrv.com
 .kskwai.com
+.kuaishou.cn
 .kuaishou.com
 .kuaishouapps.com
 .kuaishoupay.com
@@ -2451,19 +2476,10 @@ wlog.kuaishou.com
 # End of kuwo
 # Included from le
 # Included from letv-ads
-.api.game.letvstore.com
+.apple.www.letv.com
 .ark.letv.com
 .dc.letv.com
-.fz.letv.com
 .g3.letv.com
-.letv.allyes.com
-.minisite.letv.com
-.msg.m.letv.com
-.n.mark.letv.com
-.pro.hoye.letv.com
-.pro.letv.com
-.stat.letv.com
-.static.app.m.letv.com
 # End of letv-ads
 
 .le.com
@@ -2917,8 +2933,18 @@ kc.kexinshe.com
 # 重庆晨报 上游新闻
 .cqcb.com
 
+# 重庆华龙网
+.cqhlw.cn
+.cqliving.com
+.cqnews.net
+.cqsjb.com
+
 # 河南广播电视台 大象网
 .hntv.tv
+# 河南广播网
+.hndt.com
+# 河南广电融媒
+.dianzhenkeji.com
 
 # 数字尾巴
 .dgtle.com
@@ -3000,6 +3026,7 @@ kc.kexinshe.com
 # Xinhua News Agency
 .news.cn
 .xinhuanet.com
+.xinhuaxmt.com
 
 # 人民网
 .people.cn
@@ -3822,6 +3849,27 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .dutils.com
 .accuratead.cn
 # End of zhangtao
+# Included from zhubajie
+# 猪八戒网
+.tianpeng.com
+.zbj.com
+.zbjdev.com
+.zbjimg.com
+.zhubajie.com
+# End of zhubajie
+
+# 中国天气网
+.i8tq.com
+.tq121.com.cn
+.weather.com.cn
+.weatherdt.com
+
+# 重庆阅品科技
+.tianqi.com
+.tianqistatic.com
+
+# TaCool SSL 酷证书
+.tacool.com
 
 # 方正字库
 .foundertype.com
@@ -4409,6 +4457,7 @@ p9-juejin.byteimg.com
 .alihealth.hk
 .aliimg.com
 .alikmd.com
+.alimama.cn
 .alimama.com
 .alimebot.com
 .alimei.com
@@ -4452,6 +4501,7 @@ p9-juejin.byteimg.com
 .ialicdn.com
 .iconfont.cn
 .ics.design
+.imgcook.com
 .jhgtgb.com
 .kanbox.com
 .lazada.com
@@ -4474,6 +4524,7 @@ p9-juejin.byteimg.com
 .shuqireader.com
 .sparenode.com
 .supet.com
+.tanx.com
 .ttpod.com
 .wandoujia.com
 .xin.xin
@@ -4527,6 +4578,7 @@ p9-juejin.byteimg.com
 .mashort.cn
 .pailitao.com
 .taobao.com
+.taobao.net
 .taobao.org
 .taobaocdn.com
 .taobizhong.com
@@ -4542,6 +4594,7 @@ p9-juejin.byteimg.com
 
 # 夸克
 .cueme.cn
+.myquark.cn
 .quark.cn
 
 # 飞猪
@@ -5816,17 +5869,12 @@ bytedance.map.fastly.net
 .vmallres.com
 # End of huawei
 # Included from iflytek
-# 科大讯飞官网
-.iflytek.com
-
-# 科大讯飞官方商城
-.xunfei.cn
-
-# 讯飞读写
 .iflyink.com
-
-# 讯飞听见
 .iflyrec.com
+.iflysec.com
+.iflytek.com
+.xfyun.cn
+.xunfei.cn
 
 # e听说中学
 .ets100.com
@@ -6064,6 +6112,8 @@ bytedance.map.fastly.net
 .321fenx.com
 .haowu.link
 .icourse163.org
+.lf126.net
+.lf127.net
 .lofter.com
 .nease.net
 .netease-inc.com
@@ -6629,12 +6679,6 @@ wetv.qq.com
 .xycloud.com
 .xycdn.com
 # End of xunlei
-# Included from ymtc
-# 长江存储
-.ymtc.com
-.ymtc.com.cn
-.ymtc.cn
-# End of ymtc
 # Included from zte
 .nubia.cn
 .nubia.com
@@ -7608,7 +7652,6 @@ ztedevices.com
 .runoob.com
 .rzrc114.com
 .saibo.com
-.sanguosha.com
 .sanwen.net
 .sast.fun
 .scdng.com
@@ -7673,7 +7716,6 @@ ztedevices.com
 .taihe.com
 .taihuoniao.com
 .tangeche.com
-.tanx.com
 .tao123.com
 .taoche.com
 .te5.com
@@ -7681,8 +7723,6 @@ ztedevices.com
 .tianjimedia.com
 .tianjin-air.com
 .tianlailive.com
-.tianqi.com
-.tianqistatic.com
 .tietuku.com
 .tiexue.net
 .timedoo.com
@@ -7869,7 +7909,6 @@ ztedevices.com
 .zampda.net
 .zampdsp.com
 .zastatic.com
-.zbjimg.com
 .zczj.com
 .zdfans.com
 .zgjm.org
@@ -7892,7 +7931,6 @@ ztedevices.com
 .zhuangjiba.com
 .zhuanyewanjia.com
 .zhuayoukong.com
-.zhubajie.com
 .zimuzu.io
 .zixiaomao.com
 .zixuntop.com
