@@ -1,5 +1,5 @@
-# Iranian websites which will not open without an Iranian IP
-# Use to make them direct connections so they open inside Iran
+# Iranian websites or domains that are intended to be accessed from Iranian IP addresses (though this may not necessarily apply to all of them).
+# Hence, it is recommended to utilize direct connection for this category.
 
 # Iran TLDs
 .ir
@@ -283,11 +283,12 @@
 .tehrantimes.com
 # End of category-news-ir
 # Included from category-payment-ir
-# Iranian payment websites 
+# Iranian payment (IPG) websites
 
 .asanpardakht.com
 .asanpardakht.net
 .behpardakht.com
+.bitbarg.me
 .iranicard.ir
 .mydigipay.com
 .pay.ir
@@ -297,6 +298,8 @@
 .sadadpsp.ir
 .sep.ir
 .shaparak.ir
+.vandar.app
+.vandar.io
 .weswap.digital
 .zarinpal.com
 # End of category-payment-ir
@@ -406,6 +409,9 @@
 .alibaba.ir
 .flightio.com
 .mrbilit.com
+.tap30.services
+.tap33.me
+.tapsi.cab
 .tapsi.ir
 # End of category-travel-ir
 
@@ -471,3 +477,11 @@
 .beytoote.com
 .setare.com
 .tebyan.net
+
+# Courier Services
+.dekapost.com
+.mahex.com
+.miare.ir
+.podro.com
+.tipax.ir
+.tipaxco.com

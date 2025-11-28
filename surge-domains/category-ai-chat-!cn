@@ -30,6 +30,20 @@ servd-anthropic-website.b-cdn.net
 # Included from cerebras
 .cerebras.ai
 # End of cerebras
+# Included from comfy
+# Included from comfy-ui-launcher
+# 绘世启动器
+.oystermercury.top
+# End of comfy-ui-launcher
+
+.comfy.org
+
+# Dev
+.comfyci.org
+
+# Redirect
+.comfyregistry.org
+# End of comfy
 # Included from cursor
 .cursor-cdn.com
 .cursor.com
