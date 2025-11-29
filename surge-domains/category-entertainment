@@ -1420,8 +1420,13 @@ hulu.playback.edge.bamgrid.com
 lastfm.freetls.fastly.net
 # End of lastfm
 # Included from litv
+# TGC Taiwan Inc.
 .litv.tv
 .litvfreepc.akamaized.net
+
+.ofiii.com
+ntdofifreepc-tgc.cdn.hinet.net
+ntdofifreevcpc-tgc.cdn.hinet.net
 # End of litv
 # Included from manhuagui
 .manhuagui.com
@@ -1669,9 +1674,6 @@ p16-tiktokcdn-com.akamaized.net
 
 tmdb-image-prod.b-cdn.net
 # End of tmdb
-# Included from tvdb
-.thetvdb.com
-# End of tvdb
 # Included from tver
 .dogatch.jp
 .gorin.jp
@@ -1977,7 +1979,6 @@ yt3.googleusercontent.com
 .internationalsaimoe.com
 .joox.com
 .linetv.tw
-.litv.tv
 .megaphone.fm
 .mikanani.me
 .moov.hk

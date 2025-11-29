@@ -226,9 +226,11 @@ apilog-web.acfun.cn
 .tapsell.ir
 .yektanet.com
 # End of category-ads-ir
-# Included from clearbitjs-ads
-.x.clearbitjs.com
-# End of clearbitjs-ads
+# Included from clearbit-ads
+.clearbit.com
+.clearbitjs.com
+.clearbitscripts.com
+# End of clearbit-ads
 # Included from dmm-ads
 # Refer: https://tonahazana.com/kancolle-2nd-weight-saving
 # If you use support tools to play DMM games(such as playing Kantai Collection by poi), this list maybe useful.
@@ -369,9 +371,6 @@ wlog.kuaishou.com
 .adserviceretry.kglink.cn
 .adserviceretry.kugou.com
 # End of kugou-ads
-# Included from leanplum-ads
-.leanplum.com
-# End of leanplum-ads
 # Included from letv-ads
 .apple.www.letv.com
 .ark.letv.com
@@ -393,9 +392,6 @@ wlog.kuaishou.com
 .graph.whatsapp.net
 # End of whatsapp-ads
 # End of meta-ads
-# Included from mixpanel-ads
-.decide.mixpanel.com
-# End of mixpanel-ads
 # Included from mopub-ads
 .mopub.com
 # End of mopub-ads
@@ -424,9 +420,6 @@ wlog.kuaishou.com
 .presage.io
 .ogury.co
 # End of ogury-ads
-# Included from onesignal-ads
-.onesignal.com
-# End of onesignal-ads
 # Included from ookla-speedtest-ads
 # End of ookla-speedtest-ads
 # Included from openx-ads
@@ -454,7 +447,10 @@ wlog.kuaishou.com
 .s.union.360.cn
 # End of qihoo360-ads
 # Included from segment-ads
-.cdn.segment.com
+.segment.com
+.segment.io
+.segmenthub.com
+.segmentify.com
 # End of segment-ads
 # Included from sensorsdata-ads
 .static.sensorsdata.cn
@@ -610,9 +606,6 @@ bloodhound.spotify.com
 .unityads.unity3d.com
 .unityads.unitychina.cn
 # End of unity-ads
-# Included from wteam-ads
-.ads.wteam.xyz
-# End of wteam-ads
 # Included from xhamster-ads
 .collector.xhamster.com
 # End of xhamster-ads
@@ -678,6 +671,7 @@ bloodhound.spotify.com
 .adbutter.net
 .addthisedge.com
 .ads.trafficjunky.net
+.ads.wteam.xyz
 .adtechus.com
 .adtrue.com
 .adxprtz.com
@@ -686,6 +680,7 @@ bloodhound.spotify.com
 .cfts1tifqr.com
 .contentabc.com
 .cretgate.com
+.decide.mixpanel.com
 .ero-advertising.com
 .eroadvertising.com
 .exoclick.com
@@ -702,10 +697,12 @@ bloodhound.spotify.com
 .jl3.yjaxa.top
 .juicyads.com
 .kepler-37b.com
+.leanplum.com
 .lqc006.com
 .moat.com
 .moatads.com
 .mobwithad.com
+.onesignal.com
 .realsrv.com
 .s4yxaqyq95.com
 .shhs-ydd8x2.yjrmss.cn
