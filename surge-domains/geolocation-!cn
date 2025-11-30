@@ -6945,6 +6945,11 @@ netflix.com.edgesuite.net
 .now-tv.com
 .now-ashare.com
 # End of now
+# Included from okko
+.playfamily.ru
+.okko.sport
+.okko.tv
+# End of okko
 # Included from olevod
 .haiwaikan.com
 .iole.tv
@@ -7116,6 +7121,9 @@ p16-tiktokcdn-com.akamaized.net
 
 tmdb-image-prod.b-cdn.net
 # End of tmdb
+# Included from tvdb
+.thetvdb.com
+# End of tvdb
 # Included from tver
 .dogatch.jp
 .gorin.jp
@@ -7429,7 +7437,6 @@ yt3.googleusercontent.com
 .oranum.com
 .overcast.fm
 .syosetu.com
-.thetvdb.com
 .weverse.io
 .yande.re
 
