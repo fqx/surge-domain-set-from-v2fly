@@ -141,6 +141,7 @@ pplx-res.cloudinary.com
 # End of poe
 # Included from xai
 .grok.com
+.grok.x.com
 .x.ai
 # End of xai
 
@@ -25551,6 +25552,7 @@ developers.facebook.com
 .whatsappbrand.com
 # End of whatsapp
 
+.llama.com
 .meta.ai
 .meta.com
 # End of meta
@@ -27268,6 +27270,7 @@ cdn.js7k.com
 .dzen.ru
 .naydex.net
 .rostaxi.org
+.turbopages.org
 .webvisor.com
 .webvisor.org
 .ya.ru
