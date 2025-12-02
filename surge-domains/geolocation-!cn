@@ -3450,6 +3450,18 @@ hammerandchisel.ssl.zendesk.com
 .tx.me
 .usercontent.dev
 # End of telegram
+# Included from temp-mail
+.temp-mail.org
+# End of temp-mail
+# Included from viber
+.viber.com
+.viber.co
+.viber.me
+
+.s-bid.rmp.rakuten.com
+.vbcdn.com
+.vbcdn.net
+# End of viber
 # Included from whatsapp
 # Included from whatsapp-ads
 .graph.whatsapp.com
@@ -5846,6 +5858,9 @@ gog-cdn.akamaized.net
 # Included from lowiro
 .lowiro.com
 # End of lowiro
+# Included from modrinth
+.modrinth.com
+# End of modrinth
 # Included from nexon
 .nexon.co.jp
 .nexon.com
@@ -6359,7 +6374,6 @@ prodforza.blob.core.windows.net
 .joinsquad.com
 .loverslab.com
 .minecraft.wiki
-.modrinth.com
 .nexusmods.com
 .offworldindustries.com
 .offworldindustries.net
@@ -6378,6 +6392,10 @@ prodforza.blob.core.windows.net
 .quanben.io
 # End of category-novel
 
+# Included from 7tv
+.7tv.app
+.7tv.io
+# End of 7tv
 # Included from abema
 .abema.io
 .abema.tv
@@ -6874,6 +6892,9 @@ ntdofifreevcpc-tgc.cdn.hinet.net
 # Included from manhuagui
 .manhuagui.com
 # End of manhuagui
+# Included from metacritic
+.metacritic.com
+# End of metacritic
 # Included from mubi
 .mubi.com
 .mubicdn.net
@@ -7022,6 +7043,11 @@ static.siege-amazon.com
 .roku.com
 .rokutime.com
 # End of roku
+# Included from rutube
+.rutube.ru
+.rutubelist.ru
+.rtbcdn.ru
+# End of rutube
 # Included from showtimeanytime
 .showtimeanytime.com
 .showtime.com
@@ -7578,6 +7604,10 @@ o4504926511693824.ingest.sentry.io
 .dslr.net
 .dslreports.com
 # End of dslreports
+# Included from habr
+.habr.com
+.habrastorage.org
+# End of habr
 # Included from hkgolden
 .hkgolden.com
 .hkgolden.media
@@ -22323,6 +22353,7 @@ vmware.tt.omtrdc.net
 .affinity-lessons.s3.amazonaws.com
 
 .canva.com
+.canvastatus.com
 # End of canva
 # Included from chegg
 .chegg.com

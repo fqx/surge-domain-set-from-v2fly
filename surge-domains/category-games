@@ -709,6 +709,9 @@ gog-cdn.akamaized.net
 # Included from lowiro
 .lowiro.com
 # End of lowiro
+# Included from modrinth
+.modrinth.com
+# End of modrinth
 # Included from nexon
 .nexon.co.jp
 .nexon.com
@@ -1222,7 +1225,6 @@ prodforza.blob.core.windows.net
 .joinsquad.com
 .loverslab.com
 .minecraft.wiki
-.modrinth.com
 .nexusmods.com
 .offworldindustries.com
 .offworldindustries.net

@@ -153,6 +153,18 @@ hammerandchisel.ssl.zendesk.com
 .tx.me
 .usercontent.dev
 # End of telegram
+# Included from temp-mail
+.temp-mail.org
+# End of temp-mail
+# Included from viber
+.viber.com
+.viber.co
+.viber.me
+
+.s-bid.rmp.rakuten.com
+.vbcdn.com
+.vbcdn.net
+# End of viber
 # Included from whatsapp
 # Included from whatsapp-ads
 .graph.whatsapp.com

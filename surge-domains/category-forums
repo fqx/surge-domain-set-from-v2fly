@@ -33,6 +33,10 @@
 .dslr.net
 .dslreports.com
 # End of dslreports
+# Included from habr
+.habr.com
+.habrastorage.org
+# End of habr
 # Included from hkgolden
 .hkgolden.com
 .hkgolden.media

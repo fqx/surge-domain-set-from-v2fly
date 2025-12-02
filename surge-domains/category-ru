@@ -58,6 +58,10 @@
 # Autonomous areas
 # End of category-gov-ru
 
+# Included from habr
+.habr.com
+.habrastorage.org
+# End of habr
 # Included from mailru
 .boosty.to
 .donationalerts.com
@@ -80,6 +84,11 @@
 .ozone.ru
 .ozonusercontent.com
 # End of ozon
+# Included from rutube
+.rutube.ru
+.rutubelist.ru
+.rtbcdn.ru
+# End of rutube
 # Included from vk
 .cdn-vk.ru
 .mradx.net

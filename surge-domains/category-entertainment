@@ -403,6 +403,9 @@ gog-cdn.akamaized.net
 # Included from lowiro
 .lowiro.com
 # End of lowiro
+# Included from modrinth
+.modrinth.com
+# End of modrinth
 # Included from nexon
 .nexon.co.jp
 .nexon.com
@@ -916,7 +919,6 @@ prodforza.blob.core.windows.net
 .joinsquad.com
 .loverslab.com
 .minecraft.wiki
-.modrinth.com
 .nexusmods.com
 .offworldindustries.com
 .offworldindustries.net
@@ -935,6 +937,10 @@ prodforza.blob.core.windows.net
 .quanben.io
 # End of category-novel
 
+# Included from 7tv
+.7tv.app
+.7tv.io
+# End of 7tv
 # Included from abema
 .abema.io
 .abema.tv
@@ -1431,6 +1437,9 @@ ntdofifreevcpc-tgc.cdn.hinet.net
 # Included from manhuagui
 .manhuagui.com
 # End of manhuagui
+# Included from metacritic
+.metacritic.com
+# End of metacritic
 # Included from mubi
 .mubi.com
 .mubicdn.net
@@ -1579,6 +1588,11 @@ static.siege-amazon.com
 .roku.com
 .rokutime.com
 # End of roku
+# Included from rutube
+.rutube.ru
+.rutubelist.ru
+.rtbcdn.ru
+# End of rutube
 # Included from showtimeanytime
 .showtimeanytime.com
 .showtime.com
