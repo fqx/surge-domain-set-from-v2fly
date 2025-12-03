@@ -673,6 +673,10 @@ ai.zhaomi.cn
 .anlaiye.com.cn
 .imcoming.com
 .imcome.net
+
+# 美餐
+.meican.com
+.meicanstatic.com
 # End of category-food-cn
 
 # 快递物流
@@ -1770,6 +1774,9 @@ ai.zhaomi.cn
 # 朴朴
 .pupuapi.com
 .pupumall.com
+# 穷游
+.qyer.com
+.qyerstatic.com
 # 唯品会
 .appsimg.com
 .appvipshop.com
@@ -2093,6 +2100,17 @@ ai.zhaomi.cn
 .ycgame.com
 # End of category-games-cn
 
+# Included from aamgame
+# 广州市艾美娱乐设备有限公司
+# 粤ICP备09210476号
+.aamgame.net
+.aamgame.com
+.aamgame.mobi
+.aamsmart.com
+
+# 舞推 (E舞成名)
+.singworld.net
+# End of aamgame
 # Included from acfun
 # Beijing Danmu Network Technology Co., Ltd.
 
@@ -2293,6 +2311,24 @@ manga.bilibili.com
 .jvcsmart.com.cn
 # End of fengxing
 # Included from fqnovel
+# Included from fqnovel-ads
+ads3-normal-hl.zijieapi.com
+ads3-normal.zijieapi.com
+ads5-normal-hl.zijieapi.com
+ads5-normal.zijieapi.com
+log3-applog-hl.fqnovel.com
+log3-applog.fqnovel.com
+log5-applog-hl.fqnovel.com
+log5-applog.fqnovel.com
+p3-ad-sign.byteimg.com
+p6-ad-sign.byteimg.com
+p9-ad-sign.byteimg.com
+rtlog3-applog-hl.fqnovel.com
+rtlog3-applog.fqnovel.com
+rtlog5-applog-hl.fqnovel.com
+rtlog5-applog.fqnovel.com
+# End of fqnovel-ads
+
 .activity-zhendingtech.com
 .changdunovel.com
 .fanqienovel.com
@@ -2304,9 +2340,9 @@ manga.bilibili.com
 .fanqiesdkpic.com
 .fanqiesdkstatic.com
 .fanqiesdkvod.com
+.fqnovel-op.com
 .fqnovel.com
 .fqnovelim.com
-.fqnovel-op.com
 .fqnovelop.com
 .fqnovelpic.com
 .fqnovelstatic.com
@@ -2324,16 +2360,6 @@ manga.bilibili.com
 
 p3-novel.byteimg.com
 p6-novel.byteimg.com
-
-ads3-normal-hl.zijieapi.com
-ads5-normal-hl.zijieapi.com
-log3-applog-hl.fqnovel.com
-log5-applog-hl.fqnovel.com
-p3-ad-sign.byteimg.com
-p6-ad-sign.byteimg.com
-p9-ad-sign.byteimg.com
-rtlog3-applog-hl.fqnovel.com
-rtlog5-applog-hl.fqnovel.com
 # End of fqnovel
 # Included from gamersky
 .gamersky.com
@@ -2544,6 +2570,14 @@ wlog.kuaishou.com
 .maxjia.com
 .xiaoheihe.cn
 # End of xiaoheihe
+# Included from xiaoyuzhou
+# 小宇宙 上海追光瞬间网络科技
+.xyzfm.space
+.xyzfm.link
+.xyzcdn.net
+.xiaoyuzhoufm.com
+.podcast.xyz
+# End of xiaoyuzhou
 # Included from ximalaya
 .ximalaya.com
 .xmcdn.com
@@ -3581,7 +3615,8 @@ www.libvideo.com # 武汉缘来文化-知识视界
 .agoralab.co
 # End of agora
 # Included from category-collaborate-cn
-# Remote Desktop
+# 远程桌面/远程组网
+
 ## Oray
 .oray.com
 .oray.net
@@ -3598,24 +3633,36 @@ www.libvideo.com # 武汉缘来文化-知识视界
 ## 叮当猫脚本管理系统 懒人精灵远程调试
 .privateapi.xyz
 
-# Tower 团队协作
+# xEdge干将互联
+# Included from xedge
+# xEdge 干将互联
+# 苏州星汉云联网络技术有限公司 苏ICP备2022017953号
+.xedge.cc
+.glxcc.net
+.xn0.cc
+.ganjiangvpn.com
+# End of xedge
+
+# 文档协作
+
+## Tower 团队协作
 .tower.im
 
-# 秀米编辑器
+## 秀米编辑器
 .tritoninfo.net
 .xiumi.us
 .xiumius.com
 
-# 石墨文档
+## 石墨文档
 .shimo.im
 .shimonote.com
 .smgv.cn
 
-# 语雀
+## 语雀
 .nlark.com
 .yuque.com
 
-# 吾道
+## 吾道
 .woodo.cn
 # End of category-collaborate-cn
 # Included from category-documents-cn
@@ -4810,6 +4857,24 @@ p9-juejin.byteimg.com
 # End of bluepoch
 # Included from bytedance
 # Included from bytedance-ads
+# Included from fqnovel-ads
+ads3-normal-hl.zijieapi.com
+ads3-normal.zijieapi.com
+ads5-normal-hl.zijieapi.com
+ads5-normal.zijieapi.com
+log3-applog-hl.fqnovel.com
+log3-applog.fqnovel.com
+log5-applog-hl.fqnovel.com
+log5-applog.fqnovel.com
+p3-ad-sign.byteimg.com
+p6-ad-sign.byteimg.com
+p9-ad-sign.byteimg.com
+rtlog3-applog-hl.fqnovel.com
+rtlog3-applog.fqnovel.com
+rtlog5-applog-hl.fqnovel.com
+rtlog5-applog.fqnovel.com
+# End of fqnovel-ads
+
 .bds.snssdk.com
 .byteadverts.com
 .ctobsnssdk.com
@@ -4855,6 +4920,7 @@ p9-juejin.byteimg.com
 .pixeldance.com
 # End of doubao
 # Included from fqnovel
+
 .activity-zhendingtech.com
 .changdunovel.com
 .fanqienovel.com
@@ -4866,9 +4932,9 @@ p9-juejin.byteimg.com
 .fanqiesdkpic.com
 .fanqiesdkstatic.com
 .fanqiesdkvod.com
+.fqnovel-op.com
 .fqnovel.com
 .fqnovelim.com
-.fqnovel-op.com
 .fqnovelop.com
 .fqnovelpic.com
 .fqnovelstatic.com
@@ -4886,16 +4952,6 @@ p9-juejin.byteimg.com
 
 p3-novel.byteimg.com
 p6-novel.byteimg.com
-
-ads3-normal-hl.zijieapi.com
-ads5-normal-hl.zijieapi.com
-log3-applog-hl.fqnovel.com
-log5-applog-hl.fqnovel.com
-p3-ad-sign.byteimg.com
-p6-ad-sign.byteimg.com
-p9-ad-sign.byteimg.com
-rtlog3-applog-hl.fqnovel.com
-rtlog5-applog-hl.fqnovel.com
 # End of fqnovel
 # Included from juejin
 .juejin.cn
@@ -6691,16 +6747,6 @@ ztedevices.com
 .kookong.com
 
 
-# xEdge干将互联 苏州星汉云联网络技术有限公司 苏ICP备2022017953号
-# Included from xedge
-# xEdge 干将互联
-# 苏州星汉云联网络技术有限公司 苏ICP备2022017953号
-.xedge.cc
-.glxcc.net
-.xn0.cc
-.ganjiangvpn.com
-# End of xedge
-
 # Telecommunication
 # Included from chinabroadnet
 .10099.com.cn
@@ -6858,19 +6904,6 @@ ztedevices.com
 .moulem.com
 # 轻主页
 .qzhuye.com
-
-# 街机
-# Included from aamgame
-# 广州市艾美娱乐设备有限公司
-# 粤ICP备09210476号
-.aamgame.net
-.aamgame.com
-.aamgame.mobi
-.aamsmart.com
-
-# 舞推 (E舞成名)
-.singworld.net
-# End of aamgame
 
 # Others
 # Included from category-enterprise-query-platform-cn
@@ -7636,7 +7669,6 @@ ztedevices.com
 .qtmojo.com
 .qudong.com
 .qugame.com
-.qyer.com
 .rockyenglish.com
 .rong360.com
 .rtbasia.com

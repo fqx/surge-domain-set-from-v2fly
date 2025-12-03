@@ -1,4 +1,22 @@
 # Included from bytedance-ads
+# Included from fqnovel-ads
+ads3-normal-hl.zijieapi.com
+ads3-normal.zijieapi.com
+ads5-normal-hl.zijieapi.com
+ads5-normal.zijieapi.com
+log3-applog-hl.fqnovel.com
+log3-applog.fqnovel.com
+log5-applog-hl.fqnovel.com
+log5-applog.fqnovel.com
+p3-ad-sign.byteimg.com
+p6-ad-sign.byteimg.com
+p9-ad-sign.byteimg.com
+rtlog3-applog-hl.fqnovel.com
+rtlog3-applog.fqnovel.com
+rtlog5-applog-hl.fqnovel.com
+rtlog5-applog.fqnovel.com
+# End of fqnovel-ads
+
 .bds.snssdk.com
 .byteadverts.com
 .ctobsnssdk.com
@@ -44,6 +62,24 @@
 .pixeldance.com
 # End of doubao
 # Included from fqnovel
+# Included from fqnovel-ads
+ads3-normal-hl.zijieapi.com
+ads3-normal.zijieapi.com
+ads5-normal-hl.zijieapi.com
+ads5-normal.zijieapi.com
+log3-applog-hl.fqnovel.com
+log3-applog.fqnovel.com
+log5-applog-hl.fqnovel.com
+log5-applog.fqnovel.com
+p3-ad-sign.byteimg.com
+p6-ad-sign.byteimg.com
+p9-ad-sign.byteimg.com
+rtlog3-applog-hl.fqnovel.com
+rtlog3-applog.fqnovel.com
+rtlog5-applog-hl.fqnovel.com
+rtlog5-applog.fqnovel.com
+# End of fqnovel-ads
+
 .activity-zhendingtech.com
 .changdunovel.com
 .fanqienovel.com
@@ -55,9 +91,9 @@
 .fanqiesdkpic.com
 .fanqiesdkstatic.com
 .fanqiesdkvod.com
+.fqnovel-op.com
 .fqnovel.com
 .fqnovelim.com
-.fqnovel-op.com
 .fqnovelop.com
 .fqnovelpic.com
 .fqnovelstatic.com
@@ -75,16 +111,6 @@
 
 p3-novel.byteimg.com
 p6-novel.byteimg.com
-
-ads3-normal-hl.zijieapi.com
-ads5-normal-hl.zijieapi.com
-log3-applog-hl.fqnovel.com
-log5-applog-hl.fqnovel.com
-p3-ad-sign.byteimg.com
-p6-ad-sign.byteimg.com
-p9-ad-sign.byteimg.com
-rtlog3-applog-hl.fqnovel.com
-rtlog5-applog-hl.fqnovel.com
 # End of fqnovel
 # Included from juejin
 .juejin.cn

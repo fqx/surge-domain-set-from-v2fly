@@ -309,6 +309,17 @@
 .ycgame.com
 # End of category-games-cn
 
+# Included from aamgame
+# 广州市艾美娱乐设备有限公司
+# 粤ICP备09210476号
+.aamgame.net
+.aamgame.com
+.aamgame.mobi
+.aamsmart.com
+
+# 舞推 (E舞成名)
+.singworld.net
+# End of aamgame
 # Included from acfun
 # Beijing Danmu Network Technology Co., Ltd.
 
@@ -509,6 +520,24 @@ manga.bilibili.com
 .jvcsmart.com.cn
 # End of fengxing
 # Included from fqnovel
+# Included from fqnovel-ads
+ads3-normal-hl.zijieapi.com
+ads3-normal.zijieapi.com
+ads5-normal-hl.zijieapi.com
+ads5-normal.zijieapi.com
+log3-applog-hl.fqnovel.com
+log3-applog.fqnovel.com
+log5-applog-hl.fqnovel.com
+log5-applog.fqnovel.com
+p3-ad-sign.byteimg.com
+p6-ad-sign.byteimg.com
+p9-ad-sign.byteimg.com
+rtlog3-applog-hl.fqnovel.com
+rtlog3-applog.fqnovel.com
+rtlog5-applog-hl.fqnovel.com
+rtlog5-applog.fqnovel.com
+# End of fqnovel-ads
+
 .activity-zhendingtech.com
 .changdunovel.com
 .fanqienovel.com
@@ -520,9 +549,9 @@ manga.bilibili.com
 .fanqiesdkpic.com
 .fanqiesdkstatic.com
 .fanqiesdkvod.com
+.fqnovel-op.com
 .fqnovel.com
 .fqnovelim.com
-.fqnovel-op.com
 .fqnovelop.com
 .fqnovelpic.com
 .fqnovelstatic.com
@@ -540,16 +569,6 @@ manga.bilibili.com
 
 p3-novel.byteimg.com
 p6-novel.byteimg.com
-
-ads3-normal-hl.zijieapi.com
-ads5-normal-hl.zijieapi.com
-log3-applog-hl.fqnovel.com
-log5-applog-hl.fqnovel.com
-p3-ad-sign.byteimg.com
-p6-ad-sign.byteimg.com
-p9-ad-sign.byteimg.com
-rtlog3-applog-hl.fqnovel.com
-rtlog5-applog-hl.fqnovel.com
 # End of fqnovel
 # Included from gamersky
 .gamersky.com
@@ -760,6 +779,14 @@ wlog.kuaishou.com
 .maxjia.com
 .xiaoheihe.cn
 # End of xiaoheihe
+# Included from xiaoyuzhou
+# 小宇宙 上海追光瞬间网络科技
+.xyzfm.space
+.xyzfm.link
+.xyzcdn.net
+.xiaoyuzhoufm.com
+.podcast.xyz
+# End of xiaoyuzhou
 # Included from ximalaya
 .ximalaya.com
 .xmcdn.com
