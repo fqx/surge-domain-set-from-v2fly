@@ -500,6 +500,10 @@ e122475.dscg.akamaiedge.net
 licdn.cn.cdn20.com
 linkedin.sc.omtrdc.net
 # End of linkedin
+# Included from mailru
+.imgsmail.ru
+.mail.ru
+# End of mailru
 # Included from misskey
 .misskey.io
 .misskeyusercontent.jp
@@ -544,6 +548,11 @@ linkedin.sc.omtrdc.net
 .trpger.us
 # End of misskey-universe
 # End of misskey
+# Included from ok
+.ok.ru
+.okcdn.ru
+.mycdn.me
+# End of ok
 # Included from threads
 .threads.com
 .threads.net

@@ -33,6 +33,10 @@
 .dslr.net
 .dslreports.com
 # End of dslreports
+# Included from dzen
+.dzen.ru
+.dzeninfra.ru
+# End of dzen
 # Included from habr
 .habr.com
 .habrastorage.org

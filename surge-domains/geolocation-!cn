@@ -6133,12 +6133,51 @@ lolstatic-a.akamaihd.net
 
 # End of riot
 # Included from roblox
+# roblox cn domains is added to tencent-games
+.blox.com
+.goblocks.com
+.goblox.com
+.gooblox.com
+.humancoexperience.com
+.rblx.co
+.rblx.com
 .rblx.org
 .rbx.com
 .rbxcdn.com
-.roblox-api.arkoselabs.co
+.rbxinfra.net
+.rbxlabs.com
+.rbxtrk.com
+.ro-blox.com
+.roadblocks.com
+.roblocks.com
+.roblox-api.arkoselabs.com
+.roblox.ca
+.roblox.cc
+.roblox.cl
+.roblox.co.jp
+.roblox.co.uk
 .roblox.com
+.roblox.de
+.roblox.dk
+.roblox.eu
+.roblox.fr
+.roblox.hu
+.roblox.it
+.roblox.jp
+.roblox.kr
+.roblox.mx
+.roblox.net
+.roblox.org
+.roblox.ph
+.roblox.pt
+.roblox.sk
+.roblox.tv
+.roblox.uk
+.roblox.us
+.roblox.vn
 .robloxlabs.com
+.rowblocks.com
+.rowblox.com
 d1unuk07s6td74.cloudfront.net
 roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
 roblox-poc.global.ssl.fastly.net
@@ -7604,6 +7643,10 @@ o4504926511693824.ingest.sentry.io
 .dslr.net
 .dslreports.com
 # End of dslreports
+# Included from dzen
+.dzen.ru
+.dzeninfra.ru
+# End of dzen
 # Included from habr
 .habr.com
 .habrastorage.org
@@ -8212,6 +8255,10 @@ e122475.dscg.akamaiedge.net
 licdn.cn.cdn20.com
 linkedin.sc.omtrdc.net
 # End of linkedin
+# Included from mailru
+.imgsmail.ru
+.mail.ru
+# End of mailru
 # Included from misskey
 .misskey.io
 .misskeyusercontent.jp
@@ -8256,6 +8303,11 @@ linkedin.sc.omtrdc.net
 .trpger.us
 # End of misskey-universe
 # End of misskey
+# Included from ok
+.ok.ru
+.okcdn.ru
+.mycdn.me
+# End of ok
 # Included from threads
 .threads.com
 .threads.net
@@ -17739,9 +17791,6 @@ d33wubrfki0l68.cloudfront.net
 .notion.so
 .notionusercontent.com
 # End of notion
-# Included from ok
-.ok.ru
-# End of ok
 # Included from okaapps
 .okaapps.com
 
@@ -25008,15 +25057,63 @@ lgelectronics.122.2o7.net
 .logitechio.com.cn
 .worldsfastestgamer.net
 # End of logitech
+# Included from mailru-group
+# Included from dzen
+.dzen.ru
+.dzeninfra.ru
+# End of dzen
 # Included from mailru
-.boosty.to
-.donationalerts.com
 .imgsmail.ru
 .mail.ru
-.memealerts.com
-.mycdn.me
-.okcdn.ru
 # End of mailru
+# Included from ok
+.ok.ru
+.okcdn.ru
+.mycdn.me
+# End of ok
+# Included from vk
+.cdn-vk.ru
+.mradx.net
+.mvk.com
+.userapi.com
+.vk-analytics.ru
+.vk-apps.com
+.vk-apps.ru
+.vk-cdn.me
+.vk-cdn.net
+.vkcloud-static.ru
+.vk-portal.net
+.vk.cc
+.vk.com
+.vk.company
+.vk.design
+.vk.link
+.vk.me
+.vk.ru
+.vk.team
+.vkcache.com
+.vkgo.app
+.vklive.app
+.vkmessenger.app
+.vkmessenger.com
+.vkontakte.ru
+.vkuser.net
+.vkuseraudio.com
+.vkuseraudio.net
+.vkuseraudio.ru
+.vkusercdn.ru
+.vkuserlive.net
+.vkuserphoto.ru
+.vkuservideo.com
+.vkuservideo.net
+.vkuservideo.ru
+.vkvideo.ru
+# End of vk
+
+.boosty.to
+.donationalerts.com
+.memealerts.com
+# End of mailru-group
 # Included from meta
 # Included from facebook
 .aboutfacebook.com
@@ -27298,7 +27395,6 @@ cdn.js7k.com
 
 .adfox.ru
 .admetrica.ru
-.dzen.ru
 .naydex.net
 .rostaxi.org
 .turbopages.org

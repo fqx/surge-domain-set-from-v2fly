@@ -6190,15 +6190,63 @@ lgelectronics.122.2o7.net
 .logitechio.com.cn
 .worldsfastestgamer.net
 # End of logitech
+# Included from mailru-group
+# Included from dzen
+.dzen.ru
+.dzeninfra.ru
+# End of dzen
 # Included from mailru
-.boosty.to
-.donationalerts.com
 .imgsmail.ru
 .mail.ru
-.memealerts.com
-.mycdn.me
-.okcdn.ru
 # End of mailru
+# Included from ok
+.ok.ru
+.okcdn.ru
+.mycdn.me
+# End of ok
+# Included from vk
+.cdn-vk.ru
+.mradx.net
+.mvk.com
+.userapi.com
+.vk-analytics.ru
+.vk-apps.com
+.vk-apps.ru
+.vk-cdn.me
+.vk-cdn.net
+.vkcloud-static.ru
+.vk-portal.net
+.vk.cc
+.vk.com
+.vk.company
+.vk.design
+.vk.link
+.vk.me
+.vk.ru
+.vk.team
+.vkcache.com
+.vkgo.app
+.vklive.app
+.vkmessenger.app
+.vkmessenger.com
+.vkontakte.ru
+.vkuser.net
+.vkuseraudio.com
+.vkuseraudio.net
+.vkuseraudio.ru
+.vkusercdn.ru
+.vkuserlive.net
+.vkuserphoto.ru
+.vkuservideo.com
+.vkuservideo.net
+.vkuservideo.ru
+.vkvideo.ru
+# End of vk
+
+.boosty.to
+.donationalerts.com
+.memealerts.com
+# End of mailru-group
 # Included from meta
 # Included from facebook
 .aboutfacebook.com
@@ -8779,7 +8827,6 @@ cdn.js7k.com
 
 .adfox.ru
 .admetrica.ru
-.dzen.ru
 .naydex.net
 .rostaxi.org
 .turbopages.org
