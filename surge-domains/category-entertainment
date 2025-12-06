@@ -298,6 +298,12 @@ ssl-lvlt.cdn.ea.com
 ea.tt.omtrdc.net
 eaassets-a.akamaihd.net
 # End of ea
+# Included from embark
+.arcraiders.com
+.embark-studios.com
+.embark.games
+.reachthefinals.com
+# End of embark
 # Included from epicgames
 .3lateral.com
 .artstation.com
@@ -1707,6 +1713,7 @@ i.jeded.com
 .muscdn.com
 .musical.ly
 .tik-tokapi.com
+.tiktok-row.net
 .tiktok.com
 .tiktokcdn-eu.com
 .tiktokcdn-us.com
@@ -1714,6 +1721,8 @@ i.jeded.com
 .tiktokd.net
 .tiktokd.org
 .tiktokeu-cdn.com
+.tiktokglobalshopv.com
+.tiktokminis.us
 .tiktokrow-cdn.com
 .tiktokv.com
 .tiktokv.eu

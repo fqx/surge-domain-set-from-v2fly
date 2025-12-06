@@ -604,6 +604,12 @@ ssl-lvlt.cdn.ea.com
 ea.tt.omtrdc.net
 eaassets-a.akamaihd.net
 # End of ea
+# Included from embark
+.arcraiders.com
+.embark-studios.com
+.embark.games
+.reachthefinals.com
+# End of embark
 # Included from epicgames
 .3lateral.com
 .artstation.com
