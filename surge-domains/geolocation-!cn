@@ -87,7 +87,7 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 .jules.google
 .jules.google.com
 
-# Google AI Labs 
+# Google AI Labs
 .labs.google
 .aisandbox-pa.googleapis.com
 
@@ -198,7 +198,7 @@ pplx-res.cloudinary.com
 # End of pubmatic-ads
 # End of pubmatic
 # Included from taboola
-# Taboola uses this single domain for both official website and ads serving. 
+# Taboola uses this single domain for both official website and ads serving.
 # Blocking the following domain will prevent taboola ads from displaying,
 # but also cut the connection to Taboola website.
 .taboola.com
@@ -1962,7 +1962,6 @@ tesla-cdn.thron.com
 .paypass.net
 .pieceofplastic.com
 .predictivetechnologies.com
-.priceless.com
 .pricelessmarketingengine.com
 .sbitravelcard.com
 .shoppercentre.com
@@ -2508,7 +2507,6 @@ venmo.s3.amazonaws.com
 .visagiftcard.us
 .visaglobalfinance.com
 .visaicsdirect.com
-.visainfinite.ca
 .visainfinite.cn
 .visanet.net
 .visapay.cn
@@ -4761,7 +4759,7 @@ pchomeonline.com.tw
 # This list contains scholarly domains that don't have access point in China Mainland.
 
 # Included from category-scholar-ir
-# Iranian scholar websites 
+# Iranian scholar websites
 
 .ac.ir
 .edu.ir
@@ -5798,6 +5796,10 @@ eaassets-a.akamaihd.net
 .eft-store.com
 .escapefromtarkov.com
 # End of escapefromtarkov
+# Included from faceit
+.faceit.com
+.faceit-cdn.net
+# End of faceit
 # Included from garena
 avatargarenanow-a.akamaihd.net
 cdngarenanow-a.akamaihd.net
@@ -10484,7 +10486,6 @@ misa-prod.s3.ap-northeast-1.amazonaws.com
 .myhtlmebook.com
 .newhtbook.com
 .urhtbooks.com
-
 # End of haitang
 # Included from hentaichen
 .h-chan.me
@@ -10737,6 +10738,17 @@ misa-prod.s3.ap-northeast-1.amazonaws.com
 .playboy.com
 .playboy.com.uk
 # End of playboy
+# Included from pornhub
+.gaytube.com
+.phncdn.com
+.phprcdn.com
+.porngub.com
+.pornhub-deutsch.net
+.pornhubapparel.com
+.pornhub.com
+.pornhub.org
+.pornhubpremium.com
+# End of pornhub
 # Included from pornpros
 .pornpros.com
 .pornprosnetwork.com
@@ -10827,7 +10839,6 @@ misa-prod.s3.ap-northeast-1.amazonaws.com
 .ifuckedtheboss.com
 .jessicaturner.com
 .joanabliss.com
-.juliamiles.com
 .juliamiles.com
 .karinahart.com
 .karlajames.com
@@ -12755,7 +12766,7 @@ widgets.stripst.com
 .freechatnow.com
 .freegaypornhdtube.com
 .freegaysexgames.com
-.freehdinterracialporn.In
+.freehdinterracialporn.in
 .freehdvideos.xxx
 .freehentaipic.com
 .freehentaistream.com
@@ -12911,7 +12922,6 @@ widgets.stripst.com
 .gaystream.pw
 .gaythebest.com
 .gaytopcams.com
-.gaytube.com
 .gayvl.net
 .gazounabi.com
 .gbluebooks.blogspot.com
@@ -14329,8 +14339,8 @@ widgets.stripst.com
 .mrpinks.com
 .mrporngeek.com
 .mrpornlive.com
-.mrsSiren.com
 .mrskin.com
+.mrssiren.com
 .mrvideosdesexo.xxx
 .mt0011.site
 .mtao.fun
@@ -16265,7 +16275,6 @@ widgets.stripst.com
 .vixen.com
 .vixvids.to
 .vjav.com
-.vtrahe.page
 .vl4x.net
 .vmwxw.com
 .vnanchoi.ca
@@ -16292,6 +16301,7 @@ widgets.stripst.com
 .vrsmash.com
 .vrsumo.com
 .vsezoo.com
+.vtrahe.page
 .vulgarx.com
 .w0512.com
 .w6un.com
@@ -16521,12 +16531,12 @@ widgets.stripst.com
 .xnertv.shop
 .xnostars.com
 .xnxvideos.org
-.xnxx.com
 .xnxx-sex-tube.com
 .xnxx-sex-videos.com
 .xnxx-teens.com
 .xnxx-tv.net
 .xnxx-xxx.win
+.xnxx.com
 .xnxx.health
 .xnxx18.pro
 .xnxx2.info
@@ -16591,7 +16601,6 @@ widgets.stripst.com
 .xvideo1.org
 .xvideo2.org
 .xvideoporno.tv
-.xvideos.com
 .xvideos-dl.top
 .xvideos-porn-video.com
 .xvideos-xxxx.com
@@ -16819,8 +16828,8 @@ widgets.stripst.com
 .youngsex.video
 .youngteenhomeporn.com
 .youngtube.me
-.youporn.com
 .youporn-germany.com
+.youporn.com
 .youporner.eu
 .youpornlist.com
 .youpornxvideos.net
@@ -23121,7 +23130,7 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 .jules.google
 .jules.google.com
 
-# Google AI Labs 
+# Google AI Labs
 .labs.google
 .aisandbox-pa.googleapis.com
 
@@ -23163,7 +23172,7 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 .jules.google
 .jules.google.com
 
-# Google AI Labs 
+# Google AI Labs
 .labs.google
 .aisandbox-pa.googleapis.com
 

@@ -340,6 +340,10 @@ eaassets-a.akamaihd.net
 .eft-store.com
 .escapefromtarkov.com
 # End of escapefromtarkov
+# Included from faceit
+.faceit.com
+.faceit-cdn.net
+# End of faceit
 # Included from garena
 avatargarenanow-a.akamaihd.net
 cdngarenanow-a.akamaihd.net
