@@ -40,6 +40,7 @@ rtlog5-applog.fqnovel.com
 .pglstatp-toutiao-b.com
 .pglstatp-toutiao.com
 .sf3-ttcdn-tos.pstatp.com
+.shoppingads.cn
 # End of bytedance-ads
 
 #include:bytedance-ai-!cn # not serving for cn
@@ -655,6 +656,12 @@ bytedance.map.fastly.net
 .ppxstatic.com
 .ppxvod.com
 .xiaoxiaapi.com
+
+# 上海格物致品
+.douyinec.com
+.ecombdapi.com
+.ecombdstatic.com
+.jinritemai.com
 
 # faceu
 .faceu.com
