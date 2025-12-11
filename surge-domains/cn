@@ -2834,6 +2834,10 @@ wlog.kuaishou.com
 .myypark.com
 ## FUNCDN
 .funcdn.com
+## 北京知道创宇信息技术股份有限公司
+.jiashule.com
+.jiasule.com
+.yunaq.com
 ## 即刻雾联（北京）
 ## https://github.com/v2fly/domain-list-community/pull/1352#issuecomment-1345476790
 .jikeiot.cloud
@@ -4529,6 +4533,7 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .alicloudapi.com
 .alidayu.com
 .alidns.com
+.aligfwaf.com
 .alikunlun.com
 .alikunlun.net
 .aliyun-inc.com
@@ -6200,6 +6205,7 @@ bytedance.map.fastly.net
 .wps.com
 .wpscdn.cn
 .wpscdn.com
+.qwps.cn
 
 # Big Data Platform
 .kscord.com
@@ -6578,6 +6584,7 @@ community.oneplus.com
 .adslvseed.qq.com
 .adsmind.apdcdn.tc.qq.com
 .adsqqclick.qq.com
+.adstats.tencentmusic.com
 .adstestview.qq.com
 .adsview.qq.com
 .adsview2.qq.com
@@ -6591,14 +6598,17 @@ community.oneplus.com
 .e.qq.com
 .gdt.qq.com
 .hq-tracking.qq.com
+.htrace.wetvinfo.com
 .isdspeed.qq.com
 .log.tbs.qq.com
 .mdt.qq.com
+.monitor.music.qq.com
 .mpush.qq.com
 .mtrace.qq.com
 .pgdt.gtimg.cn
 .pingjs.qq.com
 .push.qq.com
+.report.qqweb.qq.com
 .sngmta.qq.com
 .stat.y.qq.com
 .tajs.qq.com
@@ -7591,7 +7601,6 @@ wetv.qq.com
 .jiaodong.net
 .jiaoyimao.com
 .jiasuhui.com
-.jiasule.com
 .jiathis.com
 .jiayuan.com
 .jiazhao.com
@@ -8049,7 +8058,6 @@ wetv.qq.com
 .yslyhr.com
 .ysten.com
 .yuanzhiyijiantong.com
-.yunaq.com
 .yunba.io
 .yundun.com
 .yunqishi.net
