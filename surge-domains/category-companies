@@ -7026,6 +7026,10 @@ bj1.api.bing.com
 emoi-cncdn.bing.com
 # End of bing
 # Included from github
+# Included from github-ads
+.collector.github.com
+.copilot-telemetry.githubusercontent.com
+# End of github-ads
 # Included from npmjs
 .npm.community
 .npmjs.com

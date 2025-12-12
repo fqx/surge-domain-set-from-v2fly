@@ -968,6 +968,7 @@ prodforza.blob.core.windows.net
 .joinsquad.com
 .loverslab.com
 .minecraft.wiki
+.nexus-cdn.com
 .nexusmods.com
 .offworldindustries.com
 .offworldindustries.net
@@ -1713,10 +1714,12 @@ i.jeded.com
 .wimpmusic.com
 # End of tidal
 # Included from tiktok
+.bytedapm.com
 .byteoversea.com
 .muscdn.com
 .musical.ly
 .tik-tokapi.com
+.tiktok-minis.com
 .tiktok-row.net
 .tiktok.com
 .tiktokcdn-eu.com
@@ -1738,6 +1741,10 @@ i.jeded.com
 .ttwstatic.com
 
 p16-tiktokcdn-com.akamaized.net
+roovza-launches.appsflyersdk.com
+roovza.inapps.appsflyersdk.com
+roovza.launches.appsflyersdk.com
+roovza.skadsdk.appsflyersdk.com
 # End of tiktok
 # Included from tmdb
 .themoviedb.org

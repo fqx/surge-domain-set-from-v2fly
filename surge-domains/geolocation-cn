@@ -268,6 +268,9 @@ p9-juejin.byteimg.com
 # 博流智能
 .bouffalolab.com
 
+# 长鑫存储
+.cxmt.com
+
 # 乐鑫信息科技
 .esp8266.cn
 .esp8266.com
@@ -1202,21 +1205,21 @@ wlog.kuaishou.com
 .lsplayer.com
 .yeshen.com
 
-# https://github.com/supzhang/epg
-# 鲁ICP备18015570号-1
-.51zmt.top
-
-# B站空降助手 鲁ICP备2024098956号-1
-.bsbsb.top
-
 # 17K小说
 .17k.com
 # 3DM游戏网
 .3dmgame.com
+# https://github.com/supzhang/epg
+.51zmt.top
 # 游侠网
 .ali213.net
+# 暴风影音
+.baofeng.com
+.baofeng.net
 # 布咕阅读
 .bgwxc.com
+# B站空降助手
+.bsbsb.top
 # 动漫之家 #703
 .dmzj.com
 .muwai.com
@@ -1740,6 +1743,8 @@ wlog.kuaishou.com
 .cqsjb.com
 # 中证网
 .cs.com.cn
+# 创业邦
+.cyzone.cn
 # 浙江广播电视集团/浙江卫视/新蓝网
 .cztv.com
 .cztvcdn.com
@@ -1753,6 +1758,9 @@ wlog.kuaishou.com
 .dgtle.com
 # DoNews
 .donews.com
+# 大众日报
+.dzng.com
+.dzwww.com
 # 超能网
 .expreview.com
 # FreeBuf 网络安全行业门户
@@ -1781,6 +1789,8 @@ wlog.kuaishou.com
 .jianyuweb.com
 .wallstcn.com
 .wallstreetcn.com
+# 机器之心
+.jiqizhixin.com
 # 金融界
 .jrj.com.cn
 .jrjimg.cn
@@ -1818,10 +1828,15 @@ wlog.kuaishou.com
 .pingwest.com
 # 量子位
 .qbitai.com
+# 齐鲁壹点
+.qiluyidian.net
+.ql1d.com
 # 青岛新闻
 .qingdaonews.com
 # 前瞻网
 .qianzhan.com
+# 四川手机报
+.scsjb.cn
 # 安全内参
 .secrss.com
 # 南方财经网
@@ -2582,6 +2597,14 @@ wlog.kuaishou.com
 .tkhealthcare.com
 # End of taikang
 
+## 航财通·校园付
+.cc-pay.cn
+## 徽商期货有限责任公司
+.hsqh.net
+## 上海陆金所
+.lu.com
+.lufax.com
+.lufaxcdn.com
 
 # CDN or SDWAN
 # Included from aws-cn
@@ -2804,6 +2827,9 @@ wlog.kuaishou.com
 
 ## 百家云
 .baijiayun.com
+## 创世云
+.chuangcache.com
+.chuangcdn.com
 ## 123 云盘 CDN
 .cjjd19.com
 ## 明源云
@@ -3321,6 +3347,9 @@ wlog.kuaishou.com
 ## 微店
 .geilicdn.com
 .weidian.com
+## 聚美优品
+.jmstatic.com
+.jumei.com
 ## 孔夫子旧书网
 .kongfz.com
 .kfzimg.com
@@ -3739,6 +3768,9 @@ www.libvideo.com # 武汉缘来文化-知识视界
 .cyol.com
 ### 北京天润基业科技发展股份有限公司
 .webterren.com
+## 国学大师网
+.guoxuedashi.com
+.guoxuemi.com
 ## 志愿汇
 .zyh365.com
 ## 温州市图书馆
@@ -4396,6 +4428,9 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .zhangyuecdn.com
 ## 小能智慧云客服
 .ntalker.com
+## 心知天气
+.sencdn.com
+.seniverse.com
 ## 重庆阅品科技
 .tianqi.com
 .tianqistatic.com
@@ -4403,6 +4438,8 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .foundertype.com
 ## 仟寻招聘
 .moseeker.com
+## OneDNS 微步在线
+.onedns.net
 ## 智齿客服
 .sobot.com
 .soboten.com
@@ -5154,10 +5191,12 @@ p8-juejin.byteimg.com
 p9-juejin.byteimg.com
 # End of juejin
 # Included from tiktok
+.bytedapm.com
 .byteoversea.com
 .muscdn.com
 .musical.ly
 .tik-tokapi.com
+.tiktok-minis.com
 .tiktok-row.net
 .tiktok.com
 .tiktokcdn-eu.com
@@ -5179,6 +5218,10 @@ p9-juejin.byteimg.com
 .ttwstatic.com
 
 p16-tiktokcdn-com.akamaized.net
+roovza-launches.appsflyersdk.com
+roovza.inapps.appsflyersdk.com
+roovza.launches.appsflyersdk.com
+roovza.skadsdk.appsflyersdk.com
 # End of tiktok
 # Included from trae
 # 北京引力弹弓科技有限公司 京ICP备2024062284号
@@ -5423,7 +5466,6 @@ p16-tiktokcdn-com.akamaized.net
 .bytedance.net
 .bytedance.org
 .bytedanceapi.com
-.bytedapm.com
 .bytedcdn.com
 .bytedeliver.com
 .bytedgames.com
@@ -6371,6 +6413,7 @@ bytedance.map.fastly.net
 .ydstatic.com
 .yeah.net
 .youdao.com
+.yunxinfw.com
 .zhuanzfx.com
 # End of netease
 # Included from oppo
@@ -6422,6 +6465,7 @@ community.oneplus.com
 # End of oppo
 # Included from qihoo360
 # Included from qihoo360-ads
+.fenxi.360.cn
 .fenxi.com
 .lianmeng.360.cn
 .mediav.com
@@ -7044,22 +7088,6 @@ wetv.qq.com
 
 # 在线工具
 
-# 在线工具书
-.guoxuedashi.com
-.guoxuemi.com
-
-# IPIP ip地理位置数据库
-# Included from ipip
-.ipip.net
-.myip.la
-# End of ipip
-
-# ip138查询网
-.ip138.com
-.ipshudi.com
-
-
-
 
 # 主页导航
 ## 氪主页
@@ -7277,7 +7305,6 @@ wetv.qq.com
 .baixing.net
 .bamenzhushou.com
 .bangongziyuan.com
-.baofeng.com
 .baoxianshichang.com
 .bearychat.com
 .beihaidc.com
@@ -7345,7 +7372,6 @@ wetv.qq.com
 .chinawutong.com
 .chinazns.com
 .chouti.com
-.chuangcdn.com
 .chuangxin.com
 .chuansong.me
 .chuansongme.com
@@ -7430,7 +7456,6 @@ wetv.qq.com
 .dzdvip.com
 .dzsc.com
 .dzw3.com
-.dzwww.com
 .easesale.com
 .easiu.com
 .eastday.com
@@ -7590,12 +7615,10 @@ wetv.qq.com
 .jinrongren.net
 .jinse.com
 .jinti.com
-.jiqizhixin.com
 .jisuxia.com
 .jiuzhilan.com
 .jj20.com
 .jkbl.com
-.jmstatic.com
 .job5588.com
 .job910.com
 .jobjm.com
@@ -7603,7 +7626,6 @@ wetv.qq.com
 .jsyks.com
 .juefeng.com
 .julive.com
-.jumei.com
 .juwan.com
 .juxia.com
 .jyimg.com
@@ -7667,9 +7689,6 @@ wetv.qq.com
 .longzhu.com
 .lotpc.com
 .loupan.com
-.lu.com
-.lufax.com
-.lufaxcdn.com
 .lunwengo.net
 .luyouqi.com
 .lvmama.com
@@ -7803,8 +7822,6 @@ wetv.qq.com
 .scoregg.com
 .sczsxx.com
 .sdo.com
-.sencdn.com
-.seniverse.com
 .sgamer.com
 .shang360.com
 .shangc.net

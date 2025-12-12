@@ -277,6 +277,10 @@ rtlog5-applog.fqnovel.com
 # Included from flurry-ads
 .data.flurry.com
 # End of flurry-ads
+# Included from github-ads
+.collector.github.com
+.copilot-telemetry.githubusercontent.com
+# End of github-ads
 # Included from google-ads
 .2mdn-cn.net
 .2mdn.net
@@ -456,6 +460,7 @@ wlog.kuaishou.com
 .ads.pubmatic.com
 # End of pubmatic-ads
 # Included from qihoo360-ads
+.fenxi.360.cn
 .fenxi.com
 .lianmeng.360.cn
 .mediav.com

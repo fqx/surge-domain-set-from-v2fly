@@ -129,10 +129,12 @@ p8-juejin.byteimg.com
 p9-juejin.byteimg.com
 # End of juejin
 # Included from tiktok
+.bytedapm.com
 .byteoversea.com
 .muscdn.com
 .musical.ly
 .tik-tokapi.com
+.tiktok-minis.com
 .tiktok-row.net
 .tiktok.com
 .tiktokcdn-eu.com
@@ -154,6 +156,10 @@ p9-juejin.byteimg.com
 .ttwstatic.com
 
 p16-tiktokcdn-com.akamaized.net
+roovza-launches.appsflyersdk.com
+roovza.inapps.appsflyersdk.com
+roovza.launches.appsflyersdk.com
+roovza.skadsdk.appsflyersdk.com
 # End of tiktok
 # Included from trae
 # 北京引力弹弓科技有限公司 京ICP备2024062284号
@@ -398,7 +404,6 @@ p16-tiktokcdn-com.akamaized.net
 .bytedance.net
 .bytedance.org
 .bytedanceapi.com
-.bytedapm.com
 .bytedcdn.com
 .bytedeliver.com
 .bytedgames.com
