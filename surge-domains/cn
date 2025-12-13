@@ -454,6 +454,9 @@ p9-juejin.byteimg.com
 .youba.com
 .yxhhdl.com
 # End of 4399
+# Included from 9game
+.9game.cn
+# End of 9game
 # Included from bilibili-game
 .bilibiligame.cn
 .bilibiligame.co
@@ -624,16 +627,10 @@ p9-juejin.byteimg.com
 .17roco.com
 .roco.qq.com
 # End of tencent-games
-# Included from tgbus
-.tgbus.com
-# End of tgbus
 # Included from tiancity
 .tiancity.com
 .tiancitycdn.com
 # End of tiancity
-# Included from vgtime
-.vgtime.com
-# End of vgtime
 # Included from vrzwk
 # vr中文库
 .vrzwk.cn
@@ -670,6 +667,8 @@ p9-juejin.byteimg.com
 .zhuoyou.com
 # End of yokaverse
 
+# 北京奇客创想科技有限公司
+.7k7k.com
 # 刀锋盒子 皖B2-20190103-4
 .9xgame.com
 # 《异象回声》游戏官网 沪ICP备2023010411号-1
@@ -1227,12 +1226,8 @@ wlog.kuaishou.com
 
 # 17K小说
 .17k.com
-# 3DM游戏网
-.3dmgame.com
 # https://github.com/supzhang/epg
 .51zmt.top
-# 游侠网
-.ali213.net
 # 暴风影音
 .baofeng.com
 .baofeng.net
@@ -1290,6 +1285,54 @@ wlog.kuaishou.com
 .zhulang.com
 # 纵横小说
 .zongheng.com
+
+# 娱乐资讯媒体
+
+# Included from tgbus
+.tgbus.com
+# End of tgbus
+# Included from vgtime
+.vgtime.com
+# End of vgtime
+
+## 17173网
+.17173.com
+## 18183网
+.18183.com
+## 3DM游戏网
+.3dmgame.com
+## 游侠网
+.ali213.net
+## 竞核
+.cgames.com
+## 触乐
+.chuapp.com
+## DataEye
+.dataeye.com
+## GameDiary
+.gamediary.cn
+## GameLook
+.gamelook.com.cn
+## GameRes游资网
+.gameres.com
+## 游戏价值论
+.gamewower.com
+## 机核
+.gcores.com
+## IGN中国
+.ign.com.cn
+## 手游那点事
+.nadianshi.com
+## 游戏日报
+.news.yxrb.net
+## 游戏机实用技术
+.ucg.cn
+## 游戏茶馆
+.youxichaguan.com
+## 游戏葡萄
+.youxiputao.com
+## 游研社
+.yystv.cn
 # End of category-entertainment-cn
 # 餐饮类
 # Included from category-food-cn
@@ -1785,8 +1828,6 @@ wlog.kuaishou.com
 .expreview.com
 # FreeBuf 网络安全行业门户
 .freebuf.com
-# 机核
-.gcores.com
 # 极客公园
 .geekpark.net
 # 光明网
@@ -1801,6 +1842,8 @@ wlog.kuaishou.com
 # 虎嗅
 .huxiu.com
 .huxiucdn.com
+# 电脑报
+.icpcw.com
 # 中国IDC圈
 .idcquan.com
 # 艾瑞咨询
@@ -1828,6 +1871,8 @@ wlog.kuaishou.com
 .statickksmg.com
 # 晚点
 .latepost.com
+# 快科技
+.mydrivers.com
 # 南岳新闻网
 .nanyuenews.com
 # 每日经济新闻报社
@@ -1887,6 +1932,8 @@ wlog.kuaishou.com
 .ths123.com
 # 人人都是产品经理
 .woshipm.com
+# 新快报
+.xkb.com.cn
 # 第一财经
 .yicai.com
 # ZEALER
@@ -2658,6 +2705,11 @@ wlog.kuaishou.com
 .amzndns-cn.net
 
 # End of aws-cn
+# Included from baishancloud
+.bsclink.cn
+.qingcdn.com
+.trpcdn.net
+# End of baishancloud
 # Included from bootcdn
 .bootcdn.cn
 .bootcdn.net
@@ -3441,8 +3493,16 @@ ss.bjmu.edu.cn
 ## 仁科医疗科技有限公司服务域名，为北大口腔和一些其他国内医院小程序提供服务
 .mingxuan.store
 
+# Party and government offices & Public units
+.gov.cn
+## 中国气象局
+.cma.cn
+## 中央气象台
+.nmc.cn
+
 # Public transportation
 
+# 中国民航局 caac.gov.cn
 ## Railway
 .12306.cn
 .95306.cn
@@ -4486,6 +4546,9 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 # All .tmall domains
 .tmall
 
+# Included from 9game
+.9game.cn
+# End of 9game
 # Included from alibaba-ads
 # Included from youku-ads
 .ad.api.3g.youku.com
@@ -4714,7 +4777,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .25pp.com
 .56che.com
 .95095.com
-.9game.cn
 .ali-health.com
 .aliapp.org
 .alibaba-inc.com
@@ -7155,13 +7217,6 @@ wetv.qq.com
 .chugou360.com
 .ycrx360.com
 
-# 中国气象局政府门户网站
-.cma.gov.cn
-# 中国气象局
-.cma.cn
-# 中央气象台
-.nmc.cn
-
 # The following domains are carried over from geosite:cn.
 # TODO: Decide how to deal with these domains
 
@@ -7183,12 +7238,10 @@ wetv.qq.com
 .1637.com
 .16888.com
 .16rd.com
-.17173.com
 .178linux.com
 .17989.com
 .17cdn.com
 .17house.com
-.18183.com
 .1905.com
 .19yxw.com
 .1nongjing.com
@@ -7269,7 +7322,6 @@ wetv.qq.com
 .7230.com
 .72byte.com
 .7down.com
-.7k7k.com
 .7po.com
 .7x24cc.com
 .7xdown.com
@@ -7755,7 +7807,6 @@ wetv.qq.com
 .muomou.com
 .muzhiwan.com
 .mydown.com
-.mydrivers.com
 .myshow360.net
 .myyx618.com
 .myzaker.com

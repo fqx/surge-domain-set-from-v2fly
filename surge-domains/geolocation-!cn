@@ -162,6 +162,7 @@ pplx-res.cloudinary.com
 .devin.ai
 .diabrowser.com
 .dify.ai
+.duck.ai
 .gateway.ai.cloudflare.com
 .meta.ai
 .mistral.ai
@@ -505,6 +506,8 @@ fontshop-prod-responsive-images.s3.amazonaws.com
 # Included from webtype
 .webtype.com
 # End of webtype
+
+.bunka.go.jp
 
 # Automobile
 # Included from bmw
@@ -7518,6 +7521,7 @@ yt3.googleusercontent.com
 .fireside.fm
 .internationalsaimoe.com
 .joox.com
+.kpacg.com
 .linetv.tw
 .megaphone.fm
 .mikanani.me
@@ -7535,6 +7539,74 @@ yt3.googleusercontent.com
 .amp-api.podcast.apple.com
 .bag.itunes.apple.com
 .bookeeper.itunes.apple.com
+
+# Entertainment oriented media
+## 4Gamer.net
+.4gamer.net
+## 4Gamers
+.4gamers.com.tw
+## 秋葉原綜研
+.akiba-souken.com
+## Appget
+.appget.com
+## AppMedia
+.appmedia.jp
+## Automaton
+.automaton-media.com
+## 电faminicogamer
+.denfaminicogamer.jp
+## ASCII Media Works
+.dengekionline.com
+## E-ROAD
+.eroge-road.com
+## ファミ通
+.famitsu.com
+## 遊戲基地
+.gamebase.com.tw
+## gamebiz
+.gamebiz.jp
+## IID, Inc.
+.gamebusiness.jp
+.gamespark.jp
+.inside-games.jp
+## GameMeca
+.gamemeca.com
+## Gameover有機網
+.gameover.com.hk
+## Gamer
+.gamer.ne.jp
+.onlinegamer.jp
+## Great Game
+.greatgame.asia
+## HobbiGame
+.hobbigame.com
+## IGN
+.ign.com
+.ignimg.com
+## Made with Unity
+.madewithunity.jp
+## Media Clip
+.mediaclip.jp
+## 電脳世界のひみつ基地
+.maedahiroyuki.com
+## MANTANWEB
+.mantan-web.jp
+## Moepedia
+.moepedia.net
+## QooApp
+.qoo-app.com
+## Real Sound
+.realsound.jp
+## Saiga NAK
+.saiganak.com
+## The Games Daily
+.tgdaily.co.kr
+## Thisisgame
+.thisisgame.com
+## Wanuxi
+.wanuxi.com
+## よろず〜
+.yorozoonews.jp
 # End of category-entertainment
 
 # File & Image & Video hosting
@@ -8431,6 +8503,7 @@ linkedin.sc.omtrdc.net
 
 # Media & News & Press
 # Included from category-media
+# Entertainment(games) oriented media should be added in category-entertainment[-cn]
 # Included from category-tech-media
 # Included from 9to5
 .9to5google.com
@@ -10057,10 +10130,12 @@ zeenews-fonts.s3.amazonaws.com
 .cmmedia.com.tw
 .cna.com.tw
 .cnyes.com
+.cool3c.com
 .coolloud.org.tw
 .cup.com.hk
 .cw.com.tw
 .d100.net
+.donga.com
 .ebc.net.tw
 .ettoday.net
 .eventsinfocus.org
@@ -10068,6 +10143,7 @@ zeenews-fonts.s3.amazonaws.com
 .fortuneinsight.com
 .freebeacon.com
 .gbnews.uk
+.getnews.jp
 .hk01.com
 .hkcitizenmedia.com
 .hkcnews.com
@@ -10076,11 +10152,13 @@ zeenews-fonts.s3.amazonaws.com
 .hongkongfp.com
 .inmediahk.net
 .inside.com.tw
+.itmedia.co.jp
 .jfengtime.com
 .landofhope.tv
 .limedia.tw
 .localpresshk.com
 .ltsports.com.tw
+.macaodaily.com
 .mdnkids.com
 .mirrormedia.com.tw
 .mirrormedia.mg
@@ -10124,6 +10202,7 @@ zeenews-fonts.s3.amazonaws.com
 .vjmedia.com.hk
 .warroom.org
 .washingtonpost.com
+.watch.impress.co.jp
 .wealth.com.tw
 .weiyuksj.com
 .wenzhao.ca
@@ -17667,6 +17746,7 @@ brightcove.imgix.net
 .dgg.gg
 .dontbubble.us
 .donttrack.us
+.duck.ai
 .duck.co
 .duck.com
 .duckduckco.com

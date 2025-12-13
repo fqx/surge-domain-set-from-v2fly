@@ -10,6 +10,9 @@
 # All .tmall domains
 .tmall
 
+# Included from 9game
+.9game.cn
+# End of 9game
 # Included from alibaba-ads
 # Included from youku-ads
 .ad.api.3g.youku.com
@@ -246,7 +249,6 @@
 .25pp.com
 .56che.com
 .95095.com
-.9game.cn
 .ali-health.com
 .aliapp.org
 .alibaba-inc.com

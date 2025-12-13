@@ -55,6 +55,9 @@
 .youba.com
 .yxhhdl.com
 # End of 4399
+# Included from 9game
+.9game.cn
+# End of 9game
 # Included from bilibili-game
 .bilibiligame.cn
 .bilibiligame.co
@@ -225,16 +228,10 @@
 .17roco.com
 .roco.qq.com
 # End of tencent-games
-# Included from tgbus
-.tgbus.com
-# End of tgbus
 # Included from tiancity
 .tiancity.com
 .tiancitycdn.com
 # End of tiancity
-# Included from vgtime
-.vgtime.com
-# End of vgtime
 # Included from vrzwk
 # vr中文库
 .vrzwk.cn
@@ -271,6 +268,8 @@
 .zhuoyou.com
 # End of yokaverse
 
+# 北京奇客创想科技有限公司
+.7k7k.com
 # 刀锋盒子 皖B2-20190103-4
 .9xgame.com
 # 《异象回声》游戏官网 沪ICP备2023010411号-1
