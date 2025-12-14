@@ -1,3 +1,11 @@
+# Included from amap-ads
+.adashx.ut.amap.com
+.dualstack-logs.amap.com
+.logs.amap.com
+.optimus-ads.amap.com
+.v6-adashx.ut.amap.com
+# End of amap-ads
+
 .a-map.cn
 .a-map.co
 .a-map.link

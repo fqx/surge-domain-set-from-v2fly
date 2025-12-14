@@ -2045,6 +2045,11 @@ wlog.kuaishou.com
 .yystatic.com
 # End of yy
 # Included from zhihu
+# Included from zhihu-ads
+.crash2.zhihu.com
+.zhihu-web-analytics.zhihu.com
+# End of zhihu-ads
+
 .zhihu.com
 .zhimg.com
 # End of zhihu
@@ -2094,8 +2099,10 @@ wlog.kuaishou.com
 # End of jiguang
 # Included from umeng
 # Included from umeng-ads
+.aaid.umeng.com
 .alog.umeng.com
 .alog.umengcloud.com
+.utoken.umeng.com
 
 # CNZZ
 .w.cnzz.com
@@ -4530,6 +4537,13 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .9game.cn
 # End of 9game
 # Included from alibaba-ads
+# Included from amap-ads
+.adashx.ut.amap.com
+.dualstack-logs.amap.com
+.logs.amap.com
+.optimus-ads.amap.com
+.v6-adashx.ut.amap.com
+# End of amap-ads
 # Included from youku-ads
 .ad.api.3g.youku.com
 .ad.api.mobile.youku.com
@@ -4564,7 +4578,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .adashbc.m.taobao.com
 .adashbc.ut.taobao.com
 .adashx.m.taobao.com
-.adashx.ut.amap.com
 .adashx.ut.ele.me
 .adashx4ae.ut.taobao.com
 .adashx4yt.m.taobao.com
@@ -4592,7 +4605,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .tce.alicdn.com
 .tns.simba.taobao.com
 .track.lc.quark.cn
-.v6-adashx.ut.amap.com
 .v6-adashx.ut.cainiao.com
 .v6-adashx.ut.ele.me
 .v6-adashx.ut.taobao.com
@@ -4929,6 +4941,14 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 
 # 高德地图
 # Included from amap
+# Included from amap-ads
+.adashx.ut.amap.com
+.dualstack-logs.amap.com
+.logs.amap.com
+.optimus-ads.amap.com
+.v6-adashx.ut.amap.com
+# End of amap-ads
+
 .a-map.cn
 .a-map.co
 .a-map.link
@@ -6676,6 +6696,7 @@ community.oneplus.com
 .adsview2.qq.com
 .adv.app.qq.com
 .adver.qq.com
+.badjs.weixinbridge.com
 .beacon.cdn.qq.com
 .beacon.qq.com
 .beaconcdn.qq.com

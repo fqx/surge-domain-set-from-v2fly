@@ -14,6 +14,13 @@
 .9game.cn
 # End of 9game
 # Included from alibaba-ads
+# Included from amap-ads
+.adashx.ut.amap.com
+.dualstack-logs.amap.com
+.logs.amap.com
+.optimus-ads.amap.com
+.v6-adashx.ut.amap.com
+# End of amap-ads
 # Included from youku-ads
 .ad.api.3g.youku.com
 .ad.api.mobile.youku.com
@@ -48,7 +55,6 @@
 .adashbc.m.taobao.com
 .adashbc.ut.taobao.com
 .adashx.m.taobao.com
-.adashx.ut.amap.com
 .adashx.ut.ele.me
 .adashx4ae.ut.taobao.com
 .adashx4yt.m.taobao.com
@@ -76,7 +82,6 @@
 .tce.alicdn.com
 .tns.simba.taobao.com
 .track.lc.quark.cn
-.v6-adashx.ut.amap.com
 .v6-adashx.ut.cainiao.com
 .v6-adashx.ut.ele.me
 .v6-adashx.ut.taobao.com
@@ -212,8 +217,10 @@
 # End of uc
 # Included from umeng
 # Included from umeng-ads
+.aaid.umeng.com
 .alog.umeng.com
 .alog.umengcloud.com
+.utoken.umeng.com
 
 # CNZZ
 .w.cnzz.com
@@ -421,6 +428,14 @@
 
 # 高德地图
 # Included from amap
+# Included from amap-ads
+.adashx.ut.amap.com
+.dualstack-logs.amap.com
+.logs.amap.com
+.optimus-ads.amap.com
+.v6-adashx.ut.amap.com
+# End of amap-ads
+
 .a-map.cn
 .a-map.co
 .a-map.link

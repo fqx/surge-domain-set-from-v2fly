@@ -107,6 +107,11 @@
 .yystatic.com
 # End of yy
 # Included from zhihu
+# Included from zhihu-ads
+.crash2.zhihu.com
+.zhihu-web-analytics.zhihu.com
+# End of zhihu-ads
+
 .zhihu.com
 .zhimg.com
 # End of zhihu

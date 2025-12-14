@@ -164,6 +164,7 @@ pplx-res.cloudinary.com
 .dify.ai
 .duck.ai
 .gateway.ai.cloudflare.com
+.kiro.dev
 .meta.ai
 .mistral.ai
 .openart.ai
@@ -26040,6 +26041,14 @@ emoi-cncdn.bing.com
 github-api.arkoselabs.com
 github-cloud.s3.amazonaws.com
 # End of github
+# Included from microsoft-ads
+.browser.events.data.msn.cn
+.browser.events.data.msn.com
+.clarity.ms
+.microsoftads.com
+.msads.net
+.nelreports.net
+# End of microsoft-ads
 # Included from microsoft-dev
 .adaptivecards.io
 .api-extractor.com
@@ -26264,7 +26273,6 @@ www.microsoft.com
 .centralvalidation.com
 .ch9.ms
 .charticulator.com
-.clarity.ms
 .cloudapp.net
 .cloudappsecurity.com
 .cortanaanalytics.com
@@ -26328,7 +26336,6 @@ www.microsoft.com
 .microsoft-smb.cn
 .microsoft365.com
 .microsoftaccountguard.com
-.microsoftads.com
 .microsoftadvertising.com
 .microsoftadvertisingregionalawards.com
 .microsoftaffiliates.com
@@ -26370,7 +26377,6 @@ www.microsoft.com
 .mpnevolution.com
 .ms-studiosmedia.com
 .ms365surfaceoffer.com
-.msads.net
 .msauth.cn
 .msauth.net
 .msauthimages.cn
@@ -26397,7 +26403,6 @@ www.microsoft.com
 .msturing.org
 .msudalosti.com
 .mymicrosoft.com
-.nelreports.net
 .nextechafrica.net
 .nxta.org
 .o365cn.com

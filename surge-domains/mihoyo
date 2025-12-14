@@ -55,3 +55,8 @@
 
 # Akamai
 # End of mihoyo-cn
+
+# Included from mihoyo-ads
+.log-upload-os.hoyoverse.com
+.log-upload.mihoyo.com
+# End of mihoyo-ads

@@ -17,6 +17,13 @@ apilog-web.acfun.cn
 .tubemogul.com
 # End of adobe-ads
 # Included from alibaba-ads
+# Included from amap-ads
+.adashx.ut.amap.com
+.dualstack-logs.amap.com
+.logs.amap.com
+.optimus-ads.amap.com
+.v6-adashx.ut.amap.com
+# End of amap-ads
 # Included from youku-ads
 .ad.api.3g.youku.com
 .ad.api.mobile.youku.com
@@ -51,7 +58,6 @@ apilog-web.acfun.cn
 .adashbc.m.taobao.com
 .adashbc.ut.taobao.com
 .adashx.m.taobao.com
-.adashx.ut.amap.com
 .adashx.ut.ele.me
 .adashx4ae.ut.taobao.com
 .adashx4yt.m.taobao.com
@@ -79,7 +85,6 @@ apilog-web.acfun.cn
 .tce.alicdn.com
 .tns.simba.taobao.com
 .track.lc.quark.cn
-.v6-adashx.ut.amap.com
 .v6-adashx.ut.cainiao.com
 .v6-adashx.ut.ele.me
 .v6-adashx.ut.taobao.com
@@ -382,6 +387,14 @@ wlog.kuaishou.com
 .graph.whatsapp.net
 # End of whatsapp-ads
 # End of meta-ads
+# Included from microsoft-ads
+.browser.events.data.msn.cn
+.browser.events.data.msn.com
+.clarity.ms
+.microsoftads.com
+.msads.net
+.nelreports.net
+# End of microsoft-ads
 # Included from mopub-ads
 .mopub.com
 # End of mopub-ads
@@ -553,6 +566,7 @@ bloodhound.spotify.com
 .adsview2.qq.com
 .adv.app.qq.com
 .adver.qq.com
+.badjs.weixinbridge.com
 .beacon.cdn.qq.com
 .beacon.qq.com
 .beaconcdn.qq.com
@@ -586,8 +600,10 @@ bloodhound.spotify.com
 .uberads.com
 # End of uberads-ads
 # Included from umeng-ads
+.aaid.umeng.com
 .alog.umeng.com
 .alog.umengcloud.com
+.utoken.umeng.com
 
 # CNZZ
 .w.cnzz.com
@@ -631,29 +647,10 @@ bloodhound.spotify.com
 .gemini.yahoo.com
 .ysm.yahoo.com
 # End of yahoo-ads
-# Included from youku-ads
-.ad.api.3g.youku.com
-.ad.api.mobile.youku.com
-.ad.mobile.youku.com
-.adashx.ut.youku.com
-.atm.youku.com
-.e.stat.ykimg.com
-.ems.youku.com
-.guanggaoad.youku.com
-.h-adashx.ut.youku.com
-.lstat.youku.com
-.mobilemsg.youku.com
-.msg.youku.com
-.p-log.ykimg.com
-.passport-log.youku.com
-.pl.youku.com
-.s-adashx.ut.youku.com
-.stat.youku.com
-.statis.api.3g.youku.com
-.v6-adashx.ut.youku.com
-.yk-ssp.ad.youku.com
-.ykad-data.youku.com
-# End of youku-ads
+# Included from zhihu-ads
+.crash2.zhihu.com
+.zhihu-web-analytics.zhihu.com
+# End of zhihu-ads
 
 # Other domains for ads serving
 .51.la
