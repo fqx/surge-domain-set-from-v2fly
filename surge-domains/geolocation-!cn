@@ -10850,6 +10850,11 @@ misa-prod.s3.ap-northeast-1.amazonaws.com
 .nudevista.vip
 # End of nudevista
 # Included from picacg
+# Included from picacg-ads
+ad-channel.diwodiwo.xyz
+ad-display.diwodiwo.xyz
+# End of picacg-ads
+
 .bikaa.xyz
 .bikac.xyz
 .bikaios.xyz
@@ -10862,9 +10867,6 @@ misa-prod.s3.ap-northeast-1.amazonaws.com
 .wikawika.xyz
 
 # Image Resource Domain like `img.diwodiwo.xyz` `s3.diwodiwo.xyz` `storage.diwodiwo.xyz` `storage-b.diwodiwo.xyz`
-
-.ad-channel.diwodiwo.xyz
-.ad-display.diwodiwo.xyz
 .diwodiwo.xyz
 
 # End of picacg
@@ -10933,13 +10935,18 @@ misa-prod.s3.ap-northeast-1.amazonaws.com
 .60plusmilfs.com
 .analqts.com
 .ashleysageellison.com
+.asiancoochies.com
 .autumn-jade.com
 .beascoremodel.com
+.bigboobalexya.com
 .bigboobbundle.com
+.bigboobdaria.com
 .bigboobspov.com
+.bigboobvanessay.com
 .bigtitangelawhite.com
 .bigtithitomi.com
 .bigtithooker.com
+.bigtitkatiethornton.com
 .bigtitterrynova.com
 .bigtitvenera.com
 .blackandstacked.com
@@ -10952,11 +10959,13 @@ misa-prod.s3.ap-northeast-1.amazonaws.com
 .bustyinescudna.com
 .bustykellykay.com
 .bustykerrymarie.com
+.bustylezzies.com
 .bustylornamorgan.com
 .bustymerilyn.com
 .bustyoldsluts.com
 .bustysammieblack.com
 .cherrybrady.com
+.chicksonblackdicks.com
 .chloesworld.com
 .christymarks.com
 .cock4stepmom.com
@@ -10966,6 +10975,7 @@ misa-prod.s3.ap-northeast-1.amazonaws.com
 .daylenerio.com
 .desiraesworld.com
 .dianepoppos.com
+.ebonythots.com
 .eboobstore.com
 .evanottyvideos.com
 .feedherfuckher.com
@@ -10974,14 +10984,19 @@ misa-prod.s3.ap-northeast-1.amazonaws.com
 .grannygetsafacial.com
 .grannylovesbbc.com
 .grannylovesyoungcock.com
+.hairycoochies.com
 .homealonemilfs.com
+.hornyasianmilfs.com
 .ibonedyourmom.com
 .ifuckedtheboss.com
+.jessicaturner.co.uk
 .jessicaturner.com
 .joanabliss.com
 .juliamiles.com
 .karinahart.com
 .karlajames.com
+.latinacoochies.com
+.latinmommas.com
 .leannecrowvideos.com
 .legsex.com
 .linseysworld.com
@@ -11002,6 +11017,7 @@ misa-prod.s3.ap-northeast-1.amazonaws.com
 .pornloser.com
 .pornmegaload.com
 .reneerossvideos.com
+.roxired.com
 .sarennasworld.com
 .scoreclassics.com
 .scoregroup.com
@@ -23240,7 +23256,8 @@ firebaseremoteconfig.googleapis.com
 .urchin.com
 
 analytics.google.com
-fundingchoicesmessages.google.com
+# https://github.com/AdguardTeam/FiltersRegistry/pull/1154
+# full:fundingchoicesmessages.google.com @ads
 
 # End of google-ads
 # Included from google-deepmind

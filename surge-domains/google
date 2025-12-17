@@ -187,7 +187,8 @@ firebaseremoteconfig.googleapis.com
 .urchin.com
 
 analytics.google.com
-fundingchoicesmessages.google.com
+# https://github.com/AdguardTeam/FiltersRegistry/pull/1154
+# full:fundingchoicesmessages.google.com @ads
 
 # End of google-ads
 # Included from google-deepmind

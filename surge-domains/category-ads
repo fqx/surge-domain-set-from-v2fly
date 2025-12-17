@@ -305,7 +305,8 @@ rtlog5-applog.fqnovel.com
 .urchin.com
 
 analytics.google.com
-fundingchoicesmessages.google.com
+# https://github.com/AdguardTeam/FiltersRegistry/pull/1154
+# full:fundingchoicesmessages.google.com @ads
 
 # End of google-ads
 # Included from growingio-ads
@@ -432,6 +433,10 @@ wlog.kuaishou.com
 .openxenterprise.com
 .openxmarket.asia
 # End of openx-ads
+# Included from picacg-ads
+ad-channel.diwodiwo.xyz
+ad-display.diwodiwo.xyz
+# End of picacg-ads
 # Included from pocoiq-ads
 .cdn.pocoiq.cn
 .oct.pocoiq.cn
@@ -603,6 +608,24 @@ bloodhound.spotify.com
 .aaid.umeng.com
 .alog.umeng.com
 .alog.umengcloud.com
+.alogs.umeng.com
+.alogus.umeng.com
+.ar.umeng.com
+.aspect-upush.umeng.com
+.audid.umeng.com
+.ccs.umeng.com
+.cnlogs.umeng.com
+.cnlogs.umengcloud.com
+# https://github.com/TG-Twilight/AWAvenue-Ads-Rule/issues/185
+# errlog.umeng.com @ads
+# errnewlog.umeng.com @ads
+.new-aaid.umeng.com
+.new-aaid.umeng.com.gds.alibabadns.com
+.oc.umeng.com
+.plbslog.umeng.com
+.resolve.umeng.com
+.ulogs.umeng.com
+.ulogs.umengcloud.com
 .utoken.umeng.com
 
 # CNZZ
