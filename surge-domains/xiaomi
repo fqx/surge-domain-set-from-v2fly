@@ -15,6 +15,11 @@
 .tracker.ai.xiaomi.com
 .tracking.miui.com
 # End of xiaomi-ads
+# Included from xiaomi-ai
+.miaibox.com
+.xiaoaiassist.com
+.xiaomimimo.com
+# End of xiaomi-ai
 
 .mgslb.com
 .mi-idc.com

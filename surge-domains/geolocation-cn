@@ -249,6 +249,7 @@ p9-juejin.byteimg.com
 # End of ubuntukylin
 
 .jinrishici.com
+.openvela.com
 .tipdm.org
 # End of category-dev-cn
 # Electronic
@@ -3939,31 +3940,10 @@ www.libvideo.com # 武汉缘来文化-知识视界
 
 # Services & Softwares
 # Included from category-ai-cn
-# DeepSeek
 # Included from deepseek
 # Main domain
 .deepseek.com
 # End of deepseek
-
-# RWKV
-.rwkv.cn
-.rwkv.com
-
-# 通义千问
-.qianwen.aliyun.com
-.qianwen.com
-.qwen.ai
-.qwenlm.ai
-.tongyi.aliyun.com
-.tongyi.com
-
-# 文心一言
-.yiyan.baidu.com
-
-# 天工AI
-.tiangong.cn
-
-# 字节跳动：豆包、Trae(MarsCode)
 # Included from doubao
 # 北京春田知韵科技有限公司 京ICP备2023020373号
 # non-cn domains is added to bytedance-ai-!cn
@@ -3982,22 +3962,29 @@ www.libvideo.com # 武汉缘来文化-知识视界
 .picpic-ai.cn
 .pixeldance.com
 # End of doubao
-# Included from trae
-# 北京引力弹弓科技有限公司 京ICP备2024062284号
-# non-cn domains is added to bytedance-ai-!cn
-.doudou.com
-.marscode.cn
-.marscode.com.cn
-.mcbaas.work
-.mcdemo.show
-.mchost.guru
-.mcprev.cn
-.tcwqqdy.guru
-.trae.cn
-.trae.com.cn
-.trae.guru
-.yoma.cn
-# End of trae
+# Included from xiaomi-ai
+.miaibox.com
+.xiaoaiassist.com
+.xiaomimimo.com
+# End of xiaomi-ai
+
+# RWKV
+.rwkv.cn
+.rwkv.com
+
+# 通义千问
+.qianwen.aliyun.com
+.qianwen.com
+.qwen.ai
+.qwenlm.ai
+.tongyi.aliyun.com
+.tongyi.com
+
+# 文心一言
+.yiyan.baidu.com
+
+# 天工AI
+.tiangong.cn
 
 # 智谱清言
 .bigmodel.cn
@@ -7070,6 +7057,11 @@ wetv.qq.com
 .tracker.ai.xiaomi.com
 .tracking.miui.com
 # End of xiaomi-ads
+# Included from xiaomi-ai
+.miaibox.com
+.xiaoaiassist.com
+.xiaomimimo.com
+# End of xiaomi-ai
 
 .mgslb.com
 .mi-idc.com
