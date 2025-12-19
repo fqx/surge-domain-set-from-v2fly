@@ -38,4 +38,8 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 
 # Android Studio Gemini Code Assist
 .aida.googleapis.com
+
+# Opal
+.opal.google
+.opal.google.com
 # End of google-deepmind

@@ -380,6 +380,7 @@ wwis-dubc1-vip99.adobe.com
 .amplifyframework.com
 .aws-iot-hackathon.com
 .aws.com
+.aws.dev
 .awsapprunner.com
 .awsapps.com
 .awsautopilot.com
@@ -4249,6 +4250,10 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 
 # Android Studio Gemini Code Assist
 .aida.googleapis.com
+
+# Opal
+.opal.google
+.opal.google.com
 # End of google-deepmind
 # Included from google-gemini
 # This list is for backward compatibility
@@ -4291,6 +4296,10 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 
 # Android Studio Gemini Code Assist
 .aida.googleapis.com
+
+# Opal
+.opal.google
+.opal.google.com
 # End of google-deepmind
 # End of google-gemini
 # Included from google-play
