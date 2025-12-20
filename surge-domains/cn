@@ -2698,6 +2698,8 @@ wlog.kuaishou.com
 .lu.com
 .lufax.com
 .lufaxcdn.com
+## 银豹收银系统
+.pospal.cn
 
 # CDN or SDWAN
 # Included from aws-cn
@@ -5099,6 +5101,10 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 # End of alibaba
 # Included from baidu
 # Included from baidu-ads
+# Included from zuoyebang-ads
+.syh.zybang.com
+# End of zuoyebang-ads
+
 .adscdn.baidu.com
 .adx.xiaodutv.com
 .afd.baidu.com
@@ -5153,6 +5159,10 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .zz.bdstatic.com
 # End of baidu-ads
 # Included from zuoyebang
+# Included from zuoyebang-ads
+.syh.zybang.com
+# End of zuoyebang-ads
+
 .zuoyebang.cc
 .zuoyebang.com
 .zybang.com

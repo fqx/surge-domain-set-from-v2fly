@@ -1,4 +1,8 @@
 # Included from baidu-ads
+# Included from zuoyebang-ads
+.syh.zybang.com
+# End of zuoyebang-ads
+
 .adscdn.baidu.com
 .adx.xiaodutv.com
 .afd.baidu.com
@@ -53,6 +57,10 @@
 .zz.bdstatic.com
 # End of baidu-ads
 # Included from zuoyebang
+# Included from zuoyebang-ads
+.syh.zybang.com
+# End of zuoyebang-ads
+
 .zuoyebang.cc
 .zuoyebang.com
 .zybang.com
