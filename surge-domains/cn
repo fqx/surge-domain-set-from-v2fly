@@ -2052,8 +2052,15 @@ wlog.kuaishou.com
 .xhaiwai.com
 # End of sina
 # Included from xiaohongshu
+# Included from askdiandian
+# 点点 Ai
+.askdiandian.com
+.diandianlife.top
+# End of askdiandian
+
 .xhscdn.com
 .xhscdn.net
+.xhslink.com
 .xiaohongshu.com
 # End of xiaohongshu
 # Included from yy
@@ -3582,6 +3589,8 @@ ss.bjmu.edu.cn
 # 南方医科大学深圳医院
 .smuszh.com
 # End of category-hospital-cn
+## 安徽药品人才网
+.ahfda.com
 ## 丁香园
 .biomart.cn
 .dxy.com
@@ -3764,6 +3773,11 @@ study.163.com
 .dgjy.net
 # 在职研究生教育信息网
 .eduei.com
+# 中科大数据研究院，豫ICP备19023555号
+.ictbda.cn
+.ictbda.com
+.modex.com.cn
+.xir.cn
 # 日语测试
 .j-test.com
 .nattest-china.com
@@ -3886,6 +3900,9 @@ study.163.com
 
 .apabi.com
 
+# 北京百链网源信息技术有限公司
+
+
 # CCF 中国计算机学会
 .ccf.org.cn
 
@@ -3962,6 +3979,11 @@ www.libvideo.com # 武汉缘来文化-知识视界
 
 # Services & Softwares
 # Included from category-ai-cn
+# Included from askdiandian
+# 点点 Ai
+.askdiandian.com
+.diandianlife.top
+# End of askdiandian
 # Included from deepseek
 # Main domain
 .deepseek.com
@@ -4596,6 +4618,8 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .tq121.com.cn
 .weather.com.cn
 .weatherdt.com
+## 沉浸式翻译 (中国版)
+.immersivetranslate.cn
 ## 掌阅
 .ireader.com
 .zhangyue.com
@@ -7084,8 +7108,12 @@ wetv.qq.com
 .admob.xiaomi.com
 .adv.sec.intl.miui.com
 .adv.sec.miui.com
+.data.mistat.india.xiaomi.com
+.data.mistat.intl.xiaomi.com
+.data.mistat.rus.xiaomi.com
+.data.mistat.xiaomi.com
+.logupdate.avlyun.sec.miui.com
 .misc.in.duokanbox.com
-.mistat.xiaomi.com
 .sentry.d.mi.com
 .sentry.d.xiaomi.net
 .tjqonline.cn

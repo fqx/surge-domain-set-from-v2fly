@@ -6596,6 +6596,10 @@ gamer-cds.cdn.hinet.net
 .indazn.com
 .indaznlab.com
 # End of dazn
+# Included from deezer
+.deezer.com
+.dzcdn.net
+# End of deezer
 # Included from deviantart
 .deviantart.com
 .deviantart.net
@@ -10234,19 +10238,6 @@ zeenews-fonts.s3.amazonaws.com
 # Included from category-orgs
 # This list contains organizations outside China mainland.
 
-# Included from archive
-# Included from 4plebs
-.4pcdn.org
-.4plebs.org
-# End of 4plebs
-
-.archive-it.org
-.archive.md
-.archive.org
-.archive.ph
-.archive.today
-.openlibrary.org
-# End of archive
 # Included from creativecommons
 .ccstatic.org
 .creativecommons.org
@@ -17667,6 +17658,34 @@ ntp7.ntp-servers.net
 .roboform.com
 .strongboxsafe.com
 # End of category-password-management
+# Included from category-web-archive
+# Included from 4plebs
+.4pcdn.org
+.4plebs.org
+# End of 4plebs
+# Included from archivetoday
+.archive.today
+
+.archive.fo
+.archive.is
+.archive.li
+.archive.md
+.archive.ph
+.archive.vn
+# End of archivetoday
+# Included from internet-archive
+.archive-it.org
+.archive.org
+.openlibrary.org
+# End of internet-archive
+
+.eotarchive.org
+.ghostarchive.org
+.megalodon.jp
+.mementoweb.org
+.perma.cc
+.webcitation.org
+# End of category-web-archive
 
 # Included from rsshub
 .rsshub.app
@@ -23012,6 +23031,10 @@ www.dell.com
 .do.co
 .nginxconfig.io
 # End of digitalocean
+# Included from dmit
+.dmit.io
+.dmit.sh
+# End of dmit
 # Included from drweb
 .drweb.by
 .drweb.cn
@@ -28661,5 +28684,5 @@ nurofensk-prod-env.eu-west-1.elasticbeanstalk.com
 .xingrz.me
 # End of xingrz
 
-# 沉浸式翻译
+# 沉浸式翻译 (国际版)
 .immersivetranslate.com

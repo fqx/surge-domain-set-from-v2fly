@@ -3953,6 +3953,10 @@ www.dell.com
 .do.co
 .nginxconfig.io
 # End of digitalocean
+# Included from dmit
+.dmit.io
+.dmit.sh
+# End of dmit
 # Included from drweb
 .drweb.by
 .drweb.cn

@@ -58,10 +58,10 @@
 # Autonomous areas
 # End of category-gov-ru
 
-# Included from habr
-.habr.com
-.habrastorage.org
-# End of habr
+# Included from avito
+.avito.ru
+.avito.st
+# End of avito
 # Included from mailru-group
 # Included from dzen
 .dzen.ru

@@ -1129,6 +1129,10 @@ gamer-cds.cdn.hinet.net
 .indazn.com
 .indaznlab.com
 # End of dazn
+# Included from deezer
+.deezer.com
+.dzcdn.net
+# End of deezer
 # Included from deviantart
 .deviantart.com
 .deviantart.net
