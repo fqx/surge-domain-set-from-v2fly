@@ -2733,6 +2733,11 @@ venmo.s3.amazonaws.com
 .stackpath.com
 .stackpath.dev
 # End of stackpath
+# Included from vrcdn
+.vrcdn.cloud
+.vrcdn.live
+.vrcdn.video
+# End of vrcdn
 # Included from wistia
 # https://support.wistia.com/en/articles/8233530-firewall-and-network-allowlist-settings
 .embedwistia-a.akamaihd.net
@@ -6349,6 +6354,11 @@ ubisoft-orbit-savegames.s3.amazonaws.com
 ubistatic3-a.akamaihd.net
 uplaypc-s-ubisoft.cdn.ubi.com
 # End of ubisoft
+# Included from vrchat
+.vrchat.cloud
+.vrchat.com
+.vrchat.net
+# End of vrchat
 # Included from wbgames
 datarouter.apps.netherrealm.com
 wb-agora-hydra-file-storage-k1.s3.amazonaws.com

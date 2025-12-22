@@ -879,6 +879,11 @@ ubisoft-orbit-savegames.s3.amazonaws.com
 ubistatic3-a.akamaihd.net
 uplaypc-s-ubisoft.cdn.ubi.com
 # End of ubisoft
+# Included from vrchat
+.vrchat.cloud
+.vrchat.com
+.vrchat.net
+# End of vrchat
 # Included from wbgames
 datarouter.apps.netherrealm.com
 wb-agora-hydra-file-storage-k1.s3.amazonaws.com
