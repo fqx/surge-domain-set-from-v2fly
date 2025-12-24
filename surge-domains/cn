@@ -1853,6 +1853,9 @@ wlog.kuaishou.com
 .jianyuweb.com
 .wallstcn.com
 .wallstreetcn.com
+# 上观新闻/解放日报
+.jfdaily.com
+.shobserver.com
 # 机器之心
 .jiqizhixin.com
 # 金融界
@@ -3025,6 +3028,8 @@ wlog.kuaishou.com
 ## 即刻雾联（北京）
 ## https://github.com/v2fly/domain-list-community/pull/1352#issuecomment-1345476790
 .jikeiot.cloud
+## JSDMirror前端公共资源站
+.jsdmirror.com
 ## 开普云
 .kaipuyun.cn
 .kaipuyun.com
@@ -3773,6 +3778,8 @@ study.163.com
 .dgjy.net
 # 在职研究生教育信息网
 .eduei.com
+# 高考100
+.gk100.com
 # 中科大数据研究院，豫ICP备19023555号
 .ictbda.cn
 .ictbda.com
@@ -5439,6 +5446,11 @@ p9-juejin.byteimg.com
 .ttoverseaus.net
 .ttwstatic.com
 
+.tiktokcdn-us.com.edgesuite.net
+.tiktokcdn.com.akamaized.net
+.tiktokcdn.com.edgesuite.net
+.tiktokv.com.edgekey.net
+.tiktokv.com.edgesuite.net
 p16-tiktokcdn-com.akamaized.net
 roovza-launches.appsflyersdk.com
 roovza.inapps.appsflyersdk.com

@@ -1687,6 +1687,7 @@ tesla-cdn.thron.com
 .futuesop.com
 .futufin.com
 .futuhk.com
+.futuhkapp.com
 .futuhn.com
 .futuholdings.com
 .futuniuniu.com
@@ -7227,6 +7228,11 @@ i.jeded.com
 .ttoverseaus.net
 .ttwstatic.com
 
+.tiktokcdn-us.com.edgesuite.net
+.tiktokcdn.com.akamaized.net
+.tiktokcdn.com.edgesuite.net
+.tiktokv.com.edgekey.net
+.tiktokv.com.edgesuite.net
 p16-tiktokcdn-com.akamaized.net
 roovza-launches.appsflyersdk.com
 roovza.inapps.appsflyersdk.com
@@ -17966,10 +17972,6 @@ brightcove.imgix.net
 .liberapay.com
 .liberapay.org
 # End of liberapay
-# Included from linguee
-.linguee.com
-.deepl.com
-# End of linguee
 # Included from localizejs
 .localizecdn.com
 .localizejs.com
@@ -18222,9 +18224,6 @@ public-us-pingsx.api.clonoth.com
 .zeit.sh
 .zeitworld.com
 # End of vercel
-# Included from webflow
-.webflow.com
-# End of webflow
 # Included from wix
 .editorx.com
 .parastorage.com
@@ -18286,6 +18285,15 @@ public-us-pingsx.api.clonoth.com
 # Online LaTeX Editor
 .cloudlatex.io
 .overleaf.com
+
+# Translator & Dictionary
+# Included from linguee
+.linguee.com
+.deepl.com
+# End of linguee
+
+.collinsdictionary.com
+.ldoceonline.com
 
 # Aurora Open Source Software (https://gitlab.com/AuroraOSS)
 .auroraoss.com
@@ -18999,10 +19007,7 @@ amp.akamaized.net
 .artixlinux.org
 .atom.io
 .badgen.net
-
-# Bitvise official website.
 .bitvise.com
-
 .cdnjs.com
 .centos.org
 .chocolatey.org
@@ -19041,13 +19046,11 @@ amp.akamaized.net
 .macports.org
 .mariadb.org
 .mingw.org
-
-# Mobatek official website.
 .mobatek.net
-
 .mpv.io
 .mysql.com
 .neovim.io
+.newpipe.net
 .nixos.org
 .nodesource.com
 .notepad-plus-plus.org
@@ -19058,11 +19061,8 @@ amp.akamaized.net
 .pcre.org
 .phantomjs.org
 .php.net
-
-# PuTTY unofficial website, owned by Bitvise.
-.putty.org
-
 .postgresql.org
+.putty.org
 .r-project.org
 .raspberrypi.org
 .raspbian.org
@@ -19074,15 +19074,14 @@ amp.akamaized.net
 .shields.io
 .sqlite.org
 .sublimetext.com
-
-# Termius official website.
 .termius.com
-
 .unpkg.com
 .videojs.com
 .videolan.org
 .wapm.io
 .wasmer.io
+.webflow.com
+.weblate.org
 .wireshark.org
 .x.org
 .xposed.info
@@ -28693,6 +28692,3 @@ nurofensk-prod-env.eu-west-1.elasticbeanstalk.com
 # Included from xingrz
 .xingrz.me
 # End of xingrz
-
-# 沉浸式翻译 (国际版)
-.immersivetranslate.com
