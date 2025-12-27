@@ -1209,6 +1209,8 @@ wlog.kuaishou.com
 .17k.com
 # https://github.com/supzhang/epg
 .51zmt.top
+# 广东南方新媒体
+.aisee.tv
 # 暴风影音
 .baofeng.com
 .baofeng.net
@@ -1551,23 +1553,25 @@ wlog.kuaishou.com
 # Included from cctv
 .cctv.cn
 .cctv.com
+.cctvlib.cn
+.cctvlib.com.cn
+.cctvlibrary.cn
+.cctvlibrary.com.cn
 .cctvpic.com
+.cctvpro.cn
+.cctvpro.com.cn
 .chinaepg.cn
 .chinalive.com
+.chinaott.com
 .citv.net.cn
 .cnms.net.cn
 .cntv.cn
 .cntv.com.cn
-.cctvlib.cn
-.cctvlibrary.cn
-.cctvlib.com.cn
-.cctvlibrary.com.cn
-.cctvpro.cn
-.cctvpro.com.cn
 .cntvwb.cn
 .gjgbdszt.cn
 .gjgbdszt.com.cn
 .gjgbdszt.net.cn
+.icntvcdn.com
 .ipanda.cn
 .ipanda.com
 .ipanda.com.cn
@@ -1575,6 +1579,7 @@ wlog.kuaishou.com
 .livechina.cn
 .livechina.com
 .olympicchannelchina.cn
+.ottcn.com
 .tvcc.cn
 .tvcc.com.cn
 .yangshipin.cn
@@ -1884,6 +1889,8 @@ wlog.kuaishou.com
 .qingdaonews.com
 # 前瞻网
 .qianzhan.com
+# 青岛之窗
+.qingdaochina.org
 # 四川手机报
 .scsjb.cn
 # 安全内参
@@ -1894,6 +1901,8 @@ wlog.kuaishou.com
 .shangyexinzhi.com
 # 奇客资讯网
 .solidot.org
+# 南方新闻网
+.southcn.com
 # 少数派
 .sspai.com
 # 证券之星
@@ -3758,8 +3767,17 @@ study.163.com
 .dgjy.net
 # 在职研究生教育信息网
 .eduei.com
+# 中公
+.eoffcn.com
+.jinrongren.net
+.offcn.com
+.zggqzp.com
+.zgsydw.com
 # 高考100
 .gk100.com
+# 华图
+.huatu.com
+.sydw8.com
 # 中科大数据研究院，豫ICP备19023555号
 .ictbda.cn
 .ictbda.com
@@ -4585,6 +4603,8 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 ## BOSS 直聘
 .bosszhipin.com
 .zhipin.com
+## 天润融通 AI外呼 客服
+.clink.cn
 ## 当贝
 .dangbei.com
 .dangbei.net
@@ -6003,6 +6023,19 @@ bytedance.map.fastly.net
 .haier.net
 .haiersmarthomes.com
 # End of haier
+# Included from hikvision
+# 海康威视
+.hik-cloud.com
+.hik-express.com
+.hikiot.com
+.hikmall.com
+.hikvision.com
+
+# 萤石
+.eziot.com
+.ezviz.com
+.ys7.com
+# End of hikvision
 # Included from honor
 .hihonor.cn
 .hihonor.com
@@ -7246,9 +7279,11 @@ wetv.qq.com
 .speedtestbb.hk.chinamobile.com
 
 # Migu
-.migucloud.com
-.migu.cn
+.cmread.com
 .cmvideo.cn
+.migu.cn
+.migucloud.com
+.migufun.com
 .miguvideo.com
 
 # 中移互联
@@ -7777,7 +7812,6 @@ wetv.qq.com
 .houyuantuan.com
 .hteacher.net
 .huashengdaili.com
-.huatu.com
 .huize.com
 .hujia.org
 .huochepiao.com
@@ -7826,7 +7860,6 @@ wetv.qq.com
 .jiemeng8.com
 .jikexueyuan.com
 .jinianbi.com
-.jinrongren.net
 .jinse.com
 .jinti.com
 .jisuxia.com
@@ -7965,7 +7998,6 @@ wetv.qq.com
 .nzbdw.com
 .oadz.com
 .oeeee.com
-.offcn.com
 .officese.com
 .oicq88.com
 .okooo.com
@@ -8009,7 +8041,6 @@ wetv.qq.com
 .qie.tv
 .qifeiye.com
 .qijiayoudao.net
-.qingdaochina.org
 .qingsongchou.com
 .qiumibao.com
 .qizuang.com

@@ -7,23 +7,25 @@
 # Included from cctv
 .cctv.cn
 .cctv.com
+.cctvlib.cn
+.cctvlib.com.cn
+.cctvlibrary.cn
+.cctvlibrary.com.cn
 .cctvpic.com
+.cctvpro.cn
+.cctvpro.com.cn
 .chinaepg.cn
 .chinalive.com
+.chinaott.com
 .citv.net.cn
 .cnms.net.cn
 .cntv.cn
 .cntv.com.cn
-.cctvlib.cn
-.cctvlibrary.cn
-.cctvlib.com.cn
-.cctvlibrary.com.cn
-.cctvpro.cn
-.cctvpro.com.cn
 .cntvwb.cn
 .gjgbdszt.cn
 .gjgbdszt.com.cn
 .gjgbdszt.net.cn
+.icntvcdn.com
 .ipanda.cn
 .ipanda.com
 .ipanda.com.cn
@@ -31,6 +33,7 @@
 .livechina.cn
 .livechina.com
 .olympicchannelchina.cn
+.ottcn.com
 .tvcc.cn
 .tvcc.com.cn
 .yangshipin.cn
@@ -340,6 +343,8 @@
 .qingdaonews.com
 # 前瞻网
 .qianzhan.com
+# 青岛之窗
+.qingdaochina.org
 # 四川手机报
 .scsjb.cn
 # 安全内参
@@ -350,6 +355,8 @@
 .shangyexinzhi.com
 # 奇客资讯网
 .solidot.org
+# 南方新闻网
+.southcn.com
 # 少数派
 .sspai.com
 # 证券之星
