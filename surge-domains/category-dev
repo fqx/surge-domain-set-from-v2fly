@@ -85,6 +85,9 @@ p-events-delivery.akamaized.net
 # Included from archlinux
 .archlinux.org
 .archlinuxarm.org
+
+# Unofficial
+.archlinuxcn.org
 # End of archlinux
 # Included from bootstrap
 .bootstrapcdn.com
@@ -721,6 +724,7 @@ amp.akamaized.net
 .getzola.org
 .git-scm.com
 .gnu.org
+.godbolt.org
 
 # PuTTY and some software official websites.
 .greenend.org.uk
