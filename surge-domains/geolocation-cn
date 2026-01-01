@@ -2701,37 +2701,7 @@ wlog.kuaishou.com
 .pospal.cn
 
 # CDN or SDWAN
-# Included from aws-cn
-.a2z.org.cn
-.amazonaws.cn
-.amazonaws.com.cn
-.amazonwebservices.com.cn
-.amazonworkdocs.cn
-.amazonworkdocs.com.cn
-.asfiovnxocqpcry.com.cn
-.aws-border.cn
-.aws-icp-domain-manager.cn
-.awsapps.cn
-.awsapps.com.cn
-.awsstatic.cn
-.cloudfront-cn.net
-.cloudfront-test.cn
-.cloudfront.cn
-.nwcdcloud.cn
-.nwcdcloud.com.cn
-.nwcddns.cn
-.nwcdinfosec.cn
-.route53.cn
-.sagemaker.com.cn
-
-# AWS CN DNS
-# regexp:.+\.amzndns-cn\.(biz|cn|com|net)$ @cn
-.amzndns-cn.biz
-.amzndns-cn.cn
-.amzndns-cn.com
-.amzndns-cn.net
-
-# End of aws-cn
+# Included from category-cdn-cn
 # Included from baishancloud
 .bsclink.cn
 .qingcdn.com
@@ -2769,6 +2739,119 @@ wlog.kuaishou.com
 .cloudflarestaging.com
 .cloudflarestoragegw.com
 # End of cloudflare-cn
+# Included from dwion
+# 上海帝联网络科技有限公司
+.acadn.cn
+.acadn.com
+.bbbcdns.com
+.dlgslb.cn
+.dlgslb.net
+.dwion.com
+.fastcdn.com
+.fastcdn.com.cn
+.flxdns.cn
+.flxdns.com
+.globalcdn.cn
+.mcadn.cn
+.tlgslb.cn
+.tlgslb.com
+# End of dwion
+# Included from qiniu
+# Included from staticfile
+.staticfile.net
+.staticfile.org
+# End of staticfile
+
+.qbox.me
+.qiniu.com
+.qiniucdn.com
+.qiniudn.com
+.qiniudns.com
+.qiniup.com
+.qnsdk.com
+.qnssl.com
+# End of qiniu
+# Included from upai
+.aicdn.com
+.upai.com
+.upaiyun.com
+.upcdn.net
+.upyun.com
+.oncdp.com
+# End of upai
+# Included from wangsu
+.51cdn.com
+.8686c.com
+.cdn20.com
+.cdn30.org
+.cdnmg.com
+.chinanetcenter.com
+.lxdns.cn
+.lxdns.com
+.lxdns.info
+.lxdns.net
+.lxdns.org
+.mwcdns.com
+.mwcloudcdn.com
+.ourdvsss.com
+.qtlcdn.cn
+.qtlcdn.com
+.qtlcdn.net
+.speedws.info
+.speedws.org
+.wangsu.com
+.wscdns.com
+.wscdns.info
+.wscdns.org
+.wsdvs.com
+.wsglb.com
+.wsglb.net
+.wswebcdn.com
+.wswebpic.com
+# End of wangsu
+
+## 创世云
+.chuangcache.com
+.chuangcdn.com
+## FUNCDN
+.funcdn.com
+## 北京知道创宇信息技术股份有限公司
+.jiashule.com
+.jiasule.com
+.yunaq.com
+# End of category-cdn-cn
+
+# Included from aws-cn
+.a2z.org.cn
+.amazonaws.cn
+.amazonaws.com.cn
+.amazonwebservices.com.cn
+.amazonworkdocs.cn
+.amazonworkdocs.com.cn
+.asfiovnxocqpcry.com.cn
+.aws-border.cn
+.aws-icp-domain-manager.cn
+.awsapps.cn
+.awsapps.com.cn
+.awsstatic.cn
+.cloudfront-cn.net
+.cloudfront-test.cn
+.cloudfront.cn
+.nwcdcloud.cn
+.nwcdcloud.com.cn
+.nwcddns.cn
+.nwcdinfosec.cn
+.route53.cn
+.sagemaker.com.cn
+
+# AWS CN DNS
+# regexp:.+\.amzndns-cn\.(biz|cn|com|net)$ @cn
+.amzndns-cn.biz
+.amzndns-cn.cn
+.amzndns-cn.com
+.amzndns-cn.net
+
+# End of aws-cn
 # Included from ctyun
 # 天翼云
 # 京ICP备2021034386号
@@ -2840,23 +2923,6 @@ wlog.kuaishou.com
 .ynctyiptv.cn
 .ynjtyiptv.cn
 # End of ctyun
-# Included from dwion
-# 上海帝联网络科技有限公司
-.acadn.cn
-.acadn.com
-.bbbcdns.com
-.dlgslb.cn
-.dlgslb.net
-.dwion.com
-.fastcdn.com
-.fastcdn.com.cn
-.flxdns.cn
-.flxdns.com
-.globalcdn.cn
-.mcadn.cn
-.tlgslb.cn
-.tlgslb.com
-# End of dwion
 # Included from maocloud
 .maoyun.com
 .maoyuncloud.cn
@@ -2870,21 +2936,6 @@ wlog.kuaishou.com
 .routewize.com
 .yunify.com
 # End of qingcloud
-# Included from qiniu
-# Included from staticfile
-.staticfile.net
-.staticfile.org
-# End of staticfile
-
-.qbox.me
-.qiniu.com
-.qiniucdn.com
-.qiniudn.com
-.qiniudns.com
-.qiniup.com
-.qnsdk.com
-.qnssl.com
-# End of qiniu
 # Included from snodehome
 .szbdyd.com
 .snodehome.com
@@ -2946,44 +2997,6 @@ wlog.kuaishou.com
 .uslk.net
 .uucl.vip
 # End of ucloud
-# Included from upai
-.aicdn.com
-.upai.com
-.upaiyun.com
-.upcdn.net
-.upyun.com
-.oncdp.com
-# End of upai
-# Included from wangsu
-.51cdn.com
-.8686c.com
-.cdn20.com
-.cdn30.org
-.cdnmg.com
-.chinanetcenter.com
-.lxdns.cn
-.lxdns.com
-.lxdns.info
-.lxdns.net
-.lxdns.org
-.mwcdns.com
-.mwcloudcdn.com
-.ourdvsss.com
-.qtlcdn.cn
-.qtlcdn.com
-.qtlcdn.net
-.speedws.info
-.speedws.org
-.wangsu.com
-.wscdns.com
-.wscdns.info
-.wscdns.org
-.wsdvs.com
-.wsglb.com
-.wsglb.net
-.wswebcdn.com
-.wswebpic.com
-# End of wangsu
 # Included from yunfanjiasu
 .yfcache.com
 .yfcalc.com
@@ -2997,9 +3010,6 @@ wlog.kuaishou.com
 
 ## 百家云
 .baijiayun.com
-## 创世云
-.chuangcache.com
-.chuangcdn.com
 ## 123 云盘 CDN
 .cjjd19.com
 ## 明源云
@@ -3008,12 +3018,6 @@ wlog.kuaishou.com
 .mypaas.com
 .mypaas.com.cn
 .myypark.com
-## FUNCDN
-.funcdn.com
-## 北京知道创宇信息技术股份有限公司
-.jiashule.com
-.jiasule.com
-.yunaq.com
 ## 即刻雾联（北京）
 ## https://github.com/v2fly/domain-list-community/pull/1352#issuecomment-1345476790
 .jikeiot.cloud
