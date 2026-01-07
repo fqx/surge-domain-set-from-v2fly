@@ -339,6 +339,28 @@ pplx-res.cloudinary.com
 .zeronet.io
 .metacubex.one
 # End of category-anticensorship
+# Included from category-proxy-tunnels
+# Included from ngrok
+.ngrok-free.app
+.ngrok-free.dev
+.ngrok-free.pizza
+.ngrok.app
+.ngrok.com
+.ngrok.dev
+.ngrok.io
+.ngrok.pizza
+.ngrok.pro
+# End of ngrok
+# Included from pinggy
+.pinggy.io
+.pinggy.link
+# End of pinggy
+# Included from tailscale
+.tailscale.com
+.tailscale.io
+.ts.net
+# End of tailscale
+# End of category-proxy-tunnels
 
 # Art & Design & Photography
 # Included from artstation
@@ -2779,6 +2801,7 @@ ocsp.apple.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2.apple.com
 valid.apple.com
+valid.origin-apple.com.akadns.net
 # End of apple-pki
 # Included from buypass
 .buypass-ssl.com
@@ -19906,69 +19929,6 @@ www.amd.com
 .iad.apple.com
 .qwapi.com
 # End of apple-ads
-# Included from apple-dev
-
-# Calendar and Contact Server
-.calendarserver.org
-
-# CloudKit
-.apple-cloudkit.com
-
-# CUPS
-.cups.org
-
-# Developer
-.developer.apple.com
-.devimages-cdn.apple.com
-.devstreaming-cdn.apple.com
-.developerservices2.apple.com
-.timestamp.apple.com
-notary-submissions-prod.s3-accelerate.amazonaws.com
-notary-submissions-prod.s3.us-west-2.amazonaws.com
-
-# FoundationDB
-.foundationdb.org
-
-# macOS forge
-.macosforge.org
-
-# MacRuby
-.macruby.com
-.macruby.net
-.macruby.org
-
-# MapKit
-.apple-mapkit.com
-
-# Playgrounds
-.playgrounds-cdn.apple.com
-
-# Research & Care
-.carekit.org
-.researchandcare.org
-.researchkit.cn
-.researchkit.com.cn
-.researchkit.hk
-.researchkit.net
-.researchkit.org
-.researchkit.tv
-
-# ServiceTalk
-.servicetalk.io
-
-# WebKit
-.webkit.org
-.webkitgtk.org
-.wpewebkit.org
-
-# Other
-.webobjects.com
-
-appleworldwidedeveloper.hb-api.omtrdc.net
-appleworldwidedeveloper.sc.omtrdc.net
-p-events-delivery.akamaized.net
-
-# End of apple-dev
 # Not include:apple-intelligence
 # Included from apple-pki
 certs-lb.apple.com.akadns.net
@@ -19980,6 +19940,7 @@ ocsp.apple.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2.apple.com
 valid.apple.com
+valid.origin-apple.com.akadns.net
 # End of apple-pki
 # Included from apple-tvplus
 # Apple TV+
@@ -20851,12 +20812,6 @@ www-cdn.icloud.com.akadns.net
 .iutunes.com
 .wwwitunes.com
 # End of itunes
-# Included from swift
-.appleswift.com
-.swift.org
-.swiftui.cn
-.swiftui.com.cn
-# End of swift
 
 # All .apple domains
 .apple
@@ -21696,7 +21651,7 @@ s4.mzstatic.com
 s5.mzstatic.com
 
 # The rules below are from https://github.com/felixonmars/dnsmasq-china-list/blob/master/apple.china.conf
-# Revision: 4d392cc0a822ac5626bb97fef3fe5e04e86b28b0
+# Revision: f6a2093b254a7d2baca959bd16581666ca394303
 # Duplicates removed
 # According to the consensus in #503, do not include the domain name apps.apple.com directly.
 # Use in config file like this: "geosite:apple@cn"
@@ -21714,7 +21669,6 @@ cds-cdn.v.aaplimg.com
 cds.apple.com
 cds.apple.com.akadns.net
 cdsassets.apple.com
-certs.apple.com
 cl2-cn.apple.com
 cl4-cn.apple.com
 clientflow.apple.com
@@ -21722,7 +21676,6 @@ clientflow.apple.com.akadns.net
 cn-smp-paymentservices.apple.com
 configuration.apple.com
 configuration.apple.com.akadns.net
-crl.apple.com
 cstat.apple.com
 cstat.cdn-apple.com
 dd-cdn.origin-apple.com.akadns.net
@@ -21775,10 +21728,6 @@ mesu-china.apple.com.akadns.net
 mesu.apple.com
 ml.cdn-apple.com
 music.apple.com
-ocsp-lb.apple.com.akadns.net
-ocsp.apple.com
-ocsp2-lb.apple.com.akadns.net
-ocsp2.apple.com
 oscdn.apple.com
 oscdn.origin-apple.com.akadns.net
 osxapps.itunes.g.aaplimg.com
@@ -21821,8 +21770,6 @@ tj-pod1-smp-device.apple.com
 updates-http.cdn-apple.com
 updates-http.cdn-apple.com.akadns.net
 updates.cdn-apple.com
-valid.apple.com
-valid.origin-apple.com.akadns.net
 weather-data.apple.com
 weather-data.apple.com.akadns.net
 weather-map.apple.com
@@ -24421,11 +24368,13 @@ google-ohttp-relay-safebrowsing.fastly-edge.com
 
 # Domains and services below are available in China mainland
 # Use in config file like this: "geosite:google@cn"
+.gvt1-cn.com
+.gvt2-cn.com
 www.recaptcha.net
-safebrowsing-cache.google.com
 
 # The rules below are from https://github.com/felixonmars/dnsmasq-china-list/blob/master/google.china.conf
-# Revision: 1f28a2d5789f411c13de69837bb354f4b21e58ff
+# Revision: 1c2d107d4e7eaa0b192e08bb0beddde4aab247f6
+# Duplicates removed
 # Use in config file like this: "geosite:google@cn"
 265.com
 2mdn-cn.net
@@ -24455,7 +24404,6 @@ cnappinstall.googleadapis.com
 connectivitycheck.gstatic.com
 content.googleadapis.com
 crashlyticsreports-pa.googleapis.com
-crl.pki.goog
 csi.gstatic.com
 dartsearch-cn.net
 dg-meta.video.google.com
@@ -24467,7 +24415,6 @@ download.mlcc.google.com
 download.qatp1.net
 download.tensorflow.google.com
 emmapplecodevice.googleapis.com
-firebase-settings.crashlytics.com
 fontfiles.googleapis.com
 fonts.googleapis.com
 fonts.gstatic.com
@@ -24506,10 +24453,8 @@ logger-dev.corp.google.com
 logger.corp.google.com
 login.corp.google.com
 monitoring.qpdp1.net
-ocsp.pki.goog
 pagead-googlehosted.l.google.com
 performanceparameters.googleapis.com
-pki-goog.l.google.com
 prod-controlbe.floonet.goog
 prod-databe.floonet.goog
 prod.databe.floonet.goog
@@ -24528,7 +24473,6 @@ redirector.bdn.dev
 redirector.c.chat.google.com
 redirector.c.mail.google.com
 redirector.c.pack.google.com
-redirector.c.play.google.com
 redirector.c.youtubeeducation.com
 redirector.gcpcdn.gvt1.com
 redirector.gvt1.com
@@ -24567,9 +24511,6 @@ www.destinationurl.com
 www.gstatic.com
 www.pxcc.com
 xn--flw351e.com
-
-.gvt1-cn.com
-.gvt2-cn.com
 # End of google
 # Included from hetzner
 .first-ns.de
@@ -27493,11 +27434,6 @@ impala-media-production.s3.amazonaws.com
 .symantec.com
 .symantecliveupdate.com
 # End of symantec
-# Included from tailscale
-.tailscale.com
-.tailscale.io
-.ts.net
-# End of tailscale
 # Included from theboringcompany
 .boringcompany.com
 # End of theboringcompany

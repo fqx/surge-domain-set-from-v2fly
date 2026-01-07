@@ -20,6 +20,7 @@ ocsp.apple.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2.apple.com
 valid.apple.com
+valid.origin-apple.com.akadns.net
 # End of apple-pki
 # Included from buypass
 .buypass-ssl.com

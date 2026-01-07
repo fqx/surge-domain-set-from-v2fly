@@ -1,0 +1,20 @@
+# Included from ngrok
+.ngrok-free.app
+.ngrok-free.dev
+.ngrok-free.pizza
+.ngrok.app
+.ngrok.com
+.ngrok.dev
+.ngrok.io
+.ngrok.pizza
+.ngrok.pro
+# End of ngrok
+# Included from pinggy
+.pinggy.io
+.pinggy.link
+# End of pinggy
+# Included from tailscale
+.tailscale.com
+.tailscale.io
+.ts.net
+# End of tailscale

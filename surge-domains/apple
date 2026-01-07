@@ -4,75 +4,6 @@
 .iad.apple.com
 .qwapi.com
 # End of apple-ads
-# Included from apple-dev
-# Included from swift
-.appleswift.com
-.swift.org
-.swiftui.cn
-.swiftui.com.cn
-# End of swift
-
-# Calendar and Contact Server
-.calendarserver.org
-
-# CloudKit
-.apple-cloudkit.com
-
-# CUPS
-.cups.org
-
-# Developer
-.developer.apple.com
-.devimages-cdn.apple.com
-.devstreaming-cdn.apple.com
-.developerservices2.apple.com
-.timestamp.apple.com
-notary-submissions-prod.s3-accelerate.amazonaws.com
-notary-submissions-prod.s3.us-west-2.amazonaws.com
-
-# FoundationDB
-.foundationdb.org
-
-# macOS forge
-.macosforge.org
-
-# MacRuby
-.macruby.com
-.macruby.net
-.macruby.org
-
-# MapKit
-.apple-mapkit.com
-
-# Playgrounds
-.playgrounds-cdn.apple.com
-
-# Research & Care
-.carekit.org
-.researchandcare.org
-.researchkit.cn
-.researchkit.com.cn
-.researchkit.hk
-.researchkit.net
-.researchkit.org
-.researchkit.tv
-
-# ServiceTalk
-.servicetalk.io
-
-# WebKit
-.webkit.org
-.webkitgtk.org
-.wpewebkit.org
-
-# Other
-.webobjects.com
-
-appleworldwidedeveloper.hb-api.omtrdc.net
-appleworldwidedeveloper.sc.omtrdc.net
-p-events-delivery.akamaized.net
-
-# End of apple-dev
 # Not include:apple-intelligence
 # Included from apple-pki
 certs-lb.apple.com.akadns.net
@@ -84,6 +15,7 @@ ocsp.apple.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2.apple.com
 valid.apple.com
+valid.origin-apple.com.akadns.net
 # End of apple-pki
 # Included from apple-tvplus
 # Apple TV+
@@ -955,12 +887,6 @@ www-cdn.icloud.com.akadns.net
 .iutunes.com
 .wwwitunes.com
 # End of itunes
-# Included from swift
-.appleswift.com
-.swift.org
-.swiftui.cn
-.swiftui.com.cn
-# End of swift
 
 # All .apple domains
 .apple
@@ -1800,7 +1726,7 @@ s4.mzstatic.com
 s5.mzstatic.com
 
 # The rules below are from https://github.com/felixonmars/dnsmasq-china-list/blob/master/apple.china.conf
-# Revision: 4d392cc0a822ac5626bb97fef3fe5e04e86b28b0
+# Revision: f6a2093b254a7d2baca959bd16581666ca394303
 # Duplicates removed
 # According to the consensus in #503, do not include the domain name apps.apple.com directly.
 # Use in config file like this: "geosite:apple@cn"
@@ -1818,7 +1744,6 @@ cds-cdn.v.aaplimg.com
 cds.apple.com
 cds.apple.com.akadns.net
 cdsassets.apple.com
-certs.apple.com
 cl2-cn.apple.com
 cl4-cn.apple.com
 clientflow.apple.com
@@ -1826,7 +1751,6 @@ clientflow.apple.com.akadns.net
 cn-smp-paymentservices.apple.com
 configuration.apple.com
 configuration.apple.com.akadns.net
-crl.apple.com
 cstat.apple.com
 cstat.cdn-apple.com
 dd-cdn.origin-apple.com.akadns.net
@@ -1879,10 +1803,6 @@ mesu-china.apple.com.akadns.net
 mesu.apple.com
 ml.cdn-apple.com
 music.apple.com
-ocsp-lb.apple.com.akadns.net
-ocsp.apple.com
-ocsp2-lb.apple.com.akadns.net
-ocsp2.apple.com
 oscdn.apple.com
 oscdn.origin-apple.com.akadns.net
 osxapps.itunes.g.aaplimg.com
@@ -1925,8 +1845,6 @@ tj-pod1-smp-device.apple.com
 updates-http.cdn-apple.com
 updates-http.cdn-apple.com.akadns.net
 updates.cdn-apple.com
-valid.apple.com
-valid.origin-apple.com.akadns.net
 weather-data.apple.com
 weather-data.apple.com.akadns.net
 weather-map.apple.com
