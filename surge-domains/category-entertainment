@@ -1,5 +1,22 @@
 # This list contains services related to entertainment & games & music & podcasts & videos outside China mainland.
 
+# Included from category-entertainment-ru
+# Included from okko
+.playfamily.ru
+.okko.sport
+.okko.tv
+# End of okko
+# Included from rutube
+.rutube.ru
+.rutubelist.ru
+.rtbcdn.ru
+# End of rutube
+# Included from wink
+.ngenix.net
+.restream-media.net
+.wink.ru
+# End of wink
+# End of category-entertainment-ru
 # Included from category-games-!cn
 # Included from 2kgames
 .2k.com
@@ -1651,11 +1668,6 @@ netflix.com.edgesuite.net
 .now-tv.com
 .now-ashare.com
 # End of now
-# Included from okko
-.playfamily.ru
-.okko.sport
-.okko.tv
-# End of okko
 # Included from olevod
 .haiwaikan.com
 .iole.tv
@@ -1727,11 +1739,6 @@ static.siege-amazon.com
 .roku.com
 .rokutime.com
 # End of roku
-# Included from rutube
-.rutube.ru
-.rutubelist.ru
-.rtbcdn.ru
-# End of rutube
 # Included from showtimeanytime
 .showtimeanytime.com
 .showtime.com

@@ -1,3 +1,22 @@
+# Included from category-ecommerce-ru
+# Included from ozon
+.ozon.ru
+.ozone.ru
+.ozonusercontent.com
+# End of ozon
+# Included from wildberries
+.geobasket.ru
+.paywb.com
+.rwb.ru
+.wb-basket.ru
+.wb.ru
+.wbbasket.ru
+.wbpay.ru
+.wibes.ru
+.wildberries.ru
+# End of wildberries
+# End of category-ecommerce-ru
+
 # Included from adidas
 .adidas.ae
 .adidas.at
@@ -988,11 +1007,6 @@ ebay-25-assets.s3-us-west-1.amazonaws.com
 .nordstrom.com
 .nordstrommedia.com
 # End of nordstrom
-# Included from ozon
-.ozon.ru
-.ozone.ru
-.ozonusercontent.com
-# End of ozon
 # Included from pchome
 .ecimg.tw
 .pchome.com.tw

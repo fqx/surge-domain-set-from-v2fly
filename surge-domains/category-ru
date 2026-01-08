@@ -16,6 +16,41 @@
 .ru.com
 .ru.net
 
+# Included from category-ecommerce-ru
+# Included from ozon
+.ozon.ru
+.ozone.ru
+.ozonusercontent.com
+# End of ozon
+# Included from wildberries
+.geobasket.ru
+.paywb.com
+.rwb.ru
+.wb-basket.ru
+.wb.ru
+.wbbasket.ru
+.wbpay.ru
+.wibes.ru
+.wildberries.ru
+# End of wildberries
+# End of category-ecommerce-ru
+# Included from category-entertainment-ru
+# Included from okko
+.playfamily.ru
+.okko.sport
+.okko.tv
+# End of okko
+# Included from rutube
+.rutube.ru
+.rutubelist.ru
+.rtbcdn.ru
+# End of rutube
+# Included from wink
+.ngenix.net
+.restream-media.net
+.wink.ru
+# End of wink
+# End of category-entertainment-ru
 # Included from category-gov-ru
 # Federal Gov.
 .government.ru
@@ -118,38 +153,8 @@
 .boosty.to
 .donationalerts.com
 .memealerts.com
+.tamtam.chat
 # End of mailru-group
-# Included from okko
-.playfamily.ru
-.okko.sport
-.okko.tv
-# End of okko
-# Included from ozon
-.ozon.ru
-.ozone.ru
-.ozonusercontent.com
-# End of ozon
-# Included from rutube
-.rutube.ru
-.rutubelist.ru
-.rtbcdn.ru
-# End of rutube
-# Included from wildberries
-.geobasket.ru
-.paywb.com
-.rwb.ru
-.wb-basket.ru
-.wb.ru
-.wbbasket.ru
-.wbpay.ru
-.wibes.ru
-.wildberries.ru
-# End of wildberries
-# Included from wink
-.ngenix.net
-.restream-media.net
-.wink.ru
-# End of wink
 # Included from x5
 .5ka.ru
 .5post.market
@@ -246,7 +251,3 @@
 .kinopoisk.ru
 .kinopoisk-ru.clstorage.net
 # End of yandex
-
-# Anime
-.animevost.org
-.seasonvar.ru

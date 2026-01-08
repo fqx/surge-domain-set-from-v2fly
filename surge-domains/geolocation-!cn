@@ -3768,6 +3768,25 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
 # E-commerce
 # Included from category-ecommerce
+# Included from category-ecommerce-ru
+# Included from ozon
+.ozon.ru
+.ozone.ru
+.ozonusercontent.com
+# End of ozon
+# Included from wildberries
+.geobasket.ru
+.paywb.com
+.rwb.ru
+.wb-basket.ru
+.wb.ru
+.wbbasket.ru
+.wbpay.ru
+.wibes.ru
+.wildberries.ru
+# End of wildberries
+# End of category-ecommerce-ru
+
 # Included from adidas
 .adidas.ae
 .adidas.at
@@ -4758,11 +4777,6 @@ ebay-25-assets.s3-us-west-1.amazonaws.com
 .nordstrom.com
 .nordstrommedia.com
 # End of nordstrom
-# Included from ozon
-.ozon.ru
-.ozone.ru
-.ozonusercontent.com
-# End of ozon
 # Included from pchome
 .ecimg.tw
 .pchome.com.tw
@@ -5576,6 +5590,23 @@ chinapower.csis.org
 # Included from category-entertainment
 # This list contains services related to entertainment & games & music & podcasts & videos outside China mainland.
 
+# Included from category-entertainment-ru
+# Included from okko
+.playfamily.ru
+.okko.sport
+.okko.tv
+# End of okko
+# Included from rutube
+.rutube.ru
+.rutubelist.ru
+.rtbcdn.ru
+# End of rutube
+# Included from wink
+.ngenix.net
+.restream-media.net
+.wink.ru
+# End of wink
+# End of category-entertainment-ru
 # Included from category-games-!cn
 # Included from 2kgames
 .2k.com
@@ -7227,11 +7258,6 @@ netflix.com.edgesuite.net
 .now-tv.com
 .now-ashare.com
 # End of now
-# Included from okko
-.playfamily.ru
-.okko.sport
-.okko.tv
-# End of okko
 # Included from olevod
 .haiwaikan.com
 .iole.tv
@@ -7303,11 +7329,6 @@ static.siege-amazon.com
 .roku.com
 .rokutime.com
 # End of roku
-# Included from rutube
-.rutube.ru
-.rutubelist.ru
-.rtbcdn.ru
-# End of rutube
 # Included from showtimeanytime
 .showtimeanytime.com
 .showtime.com
@@ -25452,6 +25473,7 @@ lgelectronics.122.2o7.net
 .boosty.to
 .donationalerts.com
 .memealerts.com
+.tamtam.chat
 # End of mailru-group
 # Included from meta
 # Included from facebook
