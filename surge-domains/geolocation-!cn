@@ -90,6 +90,7 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 
 # Google AI Labs
 .labs.google
+.labs.google.com
 .aisandbox-pa.googleapis.com
 
 # Android Studio Gemini Code Assist
@@ -3711,6 +3712,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
 .1inch.io
 .aave.com
+.bingx.com
 .bitbank.cc
 .bitcoin.org
 .bitfinex.com
@@ -4854,6 +4856,17 @@ pchomeonline.com.tw
 .target.com
 .targetimg1.com
 # End of target
+# Included from technogym
+# data source: https://crt.sh/?id=17424181
+.letsmoveforabetterworld.com
+.technogym.bg
+.technogym.ch
+.technogym.com
+.technogym.com.br
+.technogym.ru
+.technogym.su
+.wellnessinstitute.com
+# End of technogym
 # Included from walmart
 # All .walmart domains
 .walmart
@@ -17863,6 +17876,7 @@ ntp7.ntp-servers.net
 .lputil.com
 # End of lastpass
 
+.authpass.app
 .authy.com
 .dashlane.com
 .enpass.io
@@ -19252,7 +19266,9 @@ amp.akamaized.net
 .mpv.io
 .mysql.com
 .neovim.io
+.netfilter.org
 .newpipe.net
+.nftables.org
 .nixos.org
 .nodesource.com
 .notepad-plus-plus.org
@@ -23467,6 +23483,7 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 
 # Google AI Labs
 .labs.google
+.labs.google.com
 .aisandbox-pa.googleapis.com
 
 # Android Studio Gemini Code Assist
@@ -23514,6 +23531,7 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 
 # Google AI Labs
 .labs.google
+.labs.google.com
 .aisandbox-pa.googleapis.com
 
 # Android Studio Gemini Code Assist

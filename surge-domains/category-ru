@@ -92,6 +92,20 @@
 
 # Autonomous areas
 # End of category-gov-ru
+# Included from category-retail-ru
+# Fix Price
+.fix-price.com
+
+# Lenta
+.lenta.com
+.lenta.tech
+# End of category-retail-ru
+
+# Public transportation
+# Included from mosmetro
+.mosmetro.ru
+.mosmetro.tech
+# End of mosmetro
 
 # Included from avito
 .avito.ru
@@ -251,3 +265,19 @@
 .kinopoisk.ru
 .kinopoisk-ru.clstorage.net
 # End of yandex
+
+# Dodo Pizza
+.dodopizza.ru
+.dodopizza.com
+.dodostatic.net
+.dodois.com
+.dodois.io
+
+# Rostics
+.rostics.ru
+.uni.rest
+.unirest.tech
+
+.trbcdn.net
+.tbank-online.com
+.taxsee.com
