@@ -1761,6 +1761,8 @@ wlog.kuaishou.com
 .21jingji.com
 # 站长网
 .admin5.com
+# 安徽新闻
+.anhuinews.com
 # 锋潮科技
 .anzhuo.cn
 # 鞭牛士
@@ -1800,6 +1802,8 @@ wlog.kuaishou.com
 .cztvcdn.com
 .cztvcloud.com
 .zjstv.com
+# 读特新闻
+.dutenews.com
 # 大智慧
 .dzh.com.cn
 .gw.com.cn
@@ -1912,6 +1916,9 @@ wlog.kuaishou.com
 .stockstar.com
 # 证券时报网
 .stcn.com
+# 深圳报业集团
+.sznews.com
+.szpgm.com
 # 大公网/大公报
 .takungpao.com
 # TechWeb
@@ -3618,8 +3625,12 @@ ss.bjmu.edu.cn
 .12306.cn
 .95306.cn
 .ccrgt.com
+## 车来了
+.chelaile.net.cn
 ## 跨境巴士
 .kuajing84.com
+## 掌上公交
+.mygolbs.com
 ## 宁停车
 .ningtingche.com
 ## 航旅纵横
@@ -4595,9 +4606,16 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .zdnscloud.org.cn
 # End of zdns
 # Included from zhangtao
+# 掌淘
 .mob.com
-.dutils.com
+.sharesdk.cn
+
+# 游昆
 .accuratead.cn
+.dutils.com
+.hiaiabc.com
+.mobsdks.com
+.yksdks.com
 # End of zhangtao
 # Included from zhubajie
 # 猪八戒网
@@ -6895,12 +6913,15 @@ community.oneplus.com
 .log.tbs.qq.com
 .mdt.qq.com
 .monitor.music.qq.com
+.monitor.uu.qq.com
 .mpush.qq.com
 .mtrace.qq.com
 .pgdt.gtimg.cn
 .pingjs.qq.com
+.pmir.3g.qq.com
 .push.qq.com
 .report.qqweb.qq.com
+.rmonitor.qq.com
 .sngmta.qq.com
 .stat.y.qq.com
 .tajs.qq.com
@@ -7164,6 +7185,7 @@ wetv.qq.com
 .stats.music.xiaomi.com
 .tjqonline.cn
 .tracker.ai.xiaomi.com
+.tracker.xiaomixiaoai.com
 .tracking.miui.com
 # End of xiaomi-ads
 # Included from xiaomi-ai
@@ -7311,11 +7333,18 @@ wetv.qq.com
 .migufun.com
 .miguvideo.com
 
+# 中移在线
+.cmcc-cs.cn
+.online-cmcc.cn
+
 # 中移互联
 .andfx.cn
 .andfx.net
+.cmicapm.com
 .cmicrwx.cn
+.cmicvip.cn
 .cmpassport.com
+.cytxl.com.cn
 .fetion-portal.com
 .fetionpic.com
 .mmarket.com
@@ -7373,6 +7402,7 @@ wetv.qq.com
 .wo116114.com
 .wocloud.com.cn
 .woread.com.cn
+.wosms.cn
 # End of chinaunicom
 
 # 在线工具

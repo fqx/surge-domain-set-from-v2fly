@@ -625,12 +625,15 @@ bloodhound.spotify.com
 .log.tbs.qq.com
 .mdt.qq.com
 .monitor.music.qq.com
+.monitor.uu.qq.com
 .mpush.qq.com
 .mtrace.qq.com
 .pgdt.gtimg.cn
 .pingjs.qq.com
+.pmir.3g.qq.com
 .push.qq.com
 .report.qqweb.qq.com
+.rmonitor.qq.com
 .sngmta.qq.com
 .stat.y.qq.com
 .tajs.qq.com
@@ -703,6 +706,7 @@ bloodhound.spotify.com
 .stats.music.xiaomi.com
 .tjqonline.cn
 .tracker.ai.xiaomi.com
+.tracker.xiaomixiaoai.com
 .tracking.miui.com
 # End of xiaomi-ads
 # Included from ximalaya-ads
@@ -855,4 +859,8 @@ pinggai9.caixin.com
 .zhugeapi.com
 .zhugeapi.net
 .zhugeio.com
+
+# 车来了
+.atrace.chelaile.net.cn
+.logs.chelaile.net.cn
 # End of category-ads
