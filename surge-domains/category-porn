@@ -447,11 +447,6 @@ misa-prod.s3.ap-northeast-1.amazonaws.com
 .nudevista.vip
 # End of nudevista
 # Included from picacg
-# Included from picacg-ads
-ad-channel.diwodiwo.xyz
-ad-display.diwodiwo.xyz
-# End of picacg-ads
-
 .bikaa.xyz
 .bikac.xyz
 .bikaios.xyz
@@ -466,6 +461,9 @@ ad-display.diwodiwo.xyz
 # Image Resource Domain like `img.diwodiwo.xyz` `s3.diwodiwo.xyz` `storage.diwodiwo.xyz` `storage-b.diwodiwo.xyz`
 .diwodiwo.xyz
 
+# Ad Domain
+ad-channel.diwodiwo.xyz
+ad-display.diwodiwo.xyz
 # End of picacg
 # Included from playboy
 .playboy.com

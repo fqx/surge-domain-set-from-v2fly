@@ -1588,6 +1588,8 @@ wlog.kuaishou.com
 .zggbdszt.com.cn
 .zggbdszt.net.cn
 .zygbdszt.net.cn
+
+.ad.cctv.com
 # End of cctv
 # Included from chinanews
 .chinanews.com
@@ -2073,13 +2075,11 @@ wlog.kuaishou.com
 .yystatic.com
 # End of yy
 # Included from zhihu
-# Included from zhihu-ads
-.crash2.zhihu.com
-.zhihu-web-analytics.zhihu.com
-# End of zhihu-ads
-
 .zhihu.com
 .zhimg.com
+
+.crash2.zhihu.com
+.zhihu-web-analytics.zhihu.com
 # End of zhihu
 
 .tieba.baidu.com
@@ -4563,6 +4563,8 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .talkingdata.com
 .talkinggame.com
 .cpatrk.net
+
+.tdsdk.cpatrk.net
 # End of tendcloud
 # Included from vaptcha
 .vaptcha.com
@@ -5363,12 +5365,15 @@ rtlog5-applog-hl.fqnovel.com
 rtlog5-applog.fqnovel.com
 # End of fqnovel-ads
 
+.ad.toutiao.com
+.analytics.tiktok.com
 .bds.snssdk.com
 .byteadverts.com
 .ctobsnssdk.com
 .dig.bdurl.net
 .extlog.snssdk.com
 .i.snssdk.com
+.log.zijieapi.com
 .mcs.snssdk.com
 .pangolin-dsp-toutiao-b.com
 .pangolin-dsp-toutiao.com
@@ -6920,6 +6925,7 @@ community.oneplus.com
 .pingjs.qq.com
 .pmir.3g.qq.com
 .push.qq.com
+.qqdata.ab.qq.com
 .report.qqweb.qq.com
 .rmonitor.qq.com
 .sngmta.qq.com
@@ -6928,6 +6934,7 @@ community.oneplus.com
 .tcss.qq.com
 .tmead.y.qq.com
 .tmeadcomm.y.qq.com
+.tpstelemetry.tencent.com
 .trace.qq.com
 .ugdtimg.com
 .wit.qq.com

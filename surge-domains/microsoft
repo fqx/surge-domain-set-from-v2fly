@@ -241,6 +241,11 @@ github-api.arkoselabs.com
 github-cloud.s3.amazonaws.com
 # End of github
 # Included from microsoft-ads
+# Included from github-ads
+.collector.github.com
+.copilot-telemetry.githubusercontent.com
+# End of github-ads
+
 .browser.events.data.msn.cn
 .browser.events.data.msn.com
 .clarity.ms

@@ -5,6 +5,7 @@
 .ad-delivery.net
 .adinplay.com
 .adnxs.com
+.adview.cn
 .ads.trafficjunky.net
 .advertserve.com
 .casalemedia.com
@@ -18,6 +19,7 @@
 .mgid.com
 .ns1p.net
 .pubmatic.com
+.sigmob.com
 .snapads.com
 .spotxchange.com
 .unimhk.com
@@ -127,6 +129,7 @@ apilog-web.acfun.cn
 .serving-sys.com
 # End of amazon-ads
 # Included from apple-ads
+.advertising.apple.com
 .api-adservices.apple.com
 .iadsdk.apple.com
 .iad.apple.com
@@ -218,12 +221,15 @@ rtlog5-applog-hl.fqnovel.com
 rtlog5-applog.fqnovel.com
 # End of fqnovel-ads
 
+.ad.toutiao.com
+.analytics.tiktok.com
 .bds.snssdk.com
 .byteadverts.com
 .ctobsnssdk.com
 .dig.bdurl.net
 .extlog.snssdk.com
 .i.snssdk.com
+.log.zijieapi.com
 .mcs.snssdk.com
 .pangolin-dsp-toutiao-b.com
 .pangolin-dsp-toutiao.com
@@ -286,10 +292,6 @@ rtlog5-applog.fqnovel.com
 # Included from flurry-ads
 .data.flurry.com
 # End of flurry-ads
-# Included from github-ads
-.collector.github.com
-.copilot-telemetry.githubusercontent.com
-# End of github-ads
 # Included from google-ads
 .2mdn-cn.net
 .2mdn.net
@@ -429,6 +431,11 @@ wlog.kuaishou.com
 # End of whatsapp-ads
 # End of meta-ads
 # Included from microsoft-ads
+# Included from github-ads
+.collector.github.com
+.copilot-telemetry.githubusercontent.com
+# End of github-ads
+
 .browser.events.data.msn.cn
 .browser.events.data.msn.com
 .clarity.ms
@@ -473,10 +480,6 @@ wlog.kuaishou.com
 .openxenterprise.com
 .openxmarket.asia
 # End of openx-ads
-# Included from picacg-ads
-ad-channel.diwodiwo.xyz
-ad-display.diwodiwo.xyz
-# End of picacg-ads
 # Included from pocoiq-ads
 .cdn.pocoiq.cn
 .oct.pocoiq.cn
@@ -576,6 +579,7 @@ bloodhound.spotify.com
 # End of tappx-ads
 # Included from television-ads
 .ad.hpplay.cn
+.adc.hpplay.cn
 .adeng.hpplay.cn
 .ads-uo.api.leiniao.com
 .ads-ut.api.leiniao.com
@@ -632,6 +636,7 @@ bloodhound.spotify.com
 .pingjs.qq.com
 .pmir.3g.qq.com
 .push.qq.com
+.qqdata.ab.qq.com
 .report.qqweb.qq.com
 .rmonitor.qq.com
 .sngmta.qq.com
@@ -640,6 +645,7 @@ bloodhound.spotify.com
 .tcss.qq.com
 .tmead.y.qq.com
 .tmeadcomm.y.qq.com
+.tpstelemetry.tencent.com
 .trace.qq.com
 .ugdtimg.com
 .wit.qq.com
@@ -719,10 +725,6 @@ bloodhound.spotify.com
 .gemini.yahoo.com
 .ysm.yahoo.com
 # End of yahoo-ads
-# Included from zhihu-ads
-.crash2.zhihu.com
-.zhihu-web-analytics.zhihu.com
-# End of zhihu-ads
 
 # Other domains for ads serving
 .51.la
@@ -736,6 +738,7 @@ bloodhound.spotify.com
 .addthisedge.com
 .ads.trafficjunky.net
 .ads.wteam.xyz
+.adservice.sigmob.cn
 .adtechus.com
 .adtrue.com
 .adxprtz.com

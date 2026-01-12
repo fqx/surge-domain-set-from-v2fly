@@ -11078,11 +11078,6 @@ misa-prod.s3.ap-northeast-1.amazonaws.com
 .nudevista.vip
 # End of nudevista
 # Included from picacg
-# Included from picacg-ads
-ad-channel.diwodiwo.xyz
-ad-display.diwodiwo.xyz
-# End of picacg-ads
-
 .bikaa.xyz
 .bikac.xyz
 .bikaios.xyz
@@ -11097,6 +11092,9 @@ ad-display.diwodiwo.xyz
 # Image Resource Domain like `img.diwodiwo.xyz` `s3.diwodiwo.xyz` `storage.diwodiwo.xyz` `storage-b.diwodiwo.xyz`
 .diwodiwo.xyz
 
+# Ad Domain
+ad-channel.diwodiwo.xyz
+ad-display.diwodiwo.xyz
 # End of picacg
 # Included from playboy
 .playboy.com
@@ -19961,6 +19959,7 @@ www.amd.com
 # End of anexia
 # Included from apple
 # Included from apple-ads
+.advertising.apple.com
 .api-adservices.apple.com
 .iadsdk.apple.com
 .iad.apple.com
@@ -26298,6 +26297,11 @@ github-api.arkoselabs.com
 github-cloud.s3.amazonaws.com
 # End of github
 # Included from microsoft-ads
+# Included from github-ads
+.collector.github.com
+.copilot-telemetry.githubusercontent.com
+# End of github-ads
+
 .browser.events.data.msn.cn
 .browser.events.data.msn.com
 .clarity.ms

@@ -1,3 +1,8 @@
+# Included from github-ads
+.collector.github.com
+.copilot-telemetry.githubusercontent.com
+# End of github-ads
+
 .browser.events.data.msn.cn
 .browser.events.data.msn.com
 .clarity.ms
