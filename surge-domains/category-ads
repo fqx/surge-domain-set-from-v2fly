@@ -453,6 +453,7 @@ wlog.kuaishou.com
 .ads.pubmatic.com
 # End of pubmatic-ads
 # Included from qihoo360-ads
+.c.sayhi.360.cn
 .fenxi.360.cn
 .fenxi.com
 .lianmeng.360.cn
@@ -562,6 +563,7 @@ bloodhound.spotify.com
 .ad.browser.qq.com
 .ad.qq.com
 .ad.qun.qq.com
+.ad.tencentmusic.com
 .ad.weixin.qq.com
 .adfilter.imtt.qq.com
 .adnet.qq.com
@@ -603,6 +605,7 @@ bloodhound.spotify.com
 .push.qq.com
 .qqdata.ab.qq.com
 .report.qqweb.qq.com
+.report.tencentmusic.com
 .rmonitor.qq.com
 .sngmta.qq.com
 .stat.y.qq.com
@@ -831,3 +834,7 @@ pinggai9.caixin.com
 # 车来了
 .atrace.chelaile.net.cn
 .logs.chelaile.net.cn
+
+# 航旅纵横
+.analytics.umetrip.com
+.sensors.umetrip.com.cn

@@ -1271,6 +1271,9 @@ wlog.kuaishou.com
 .zongheng.com
 
 # 娱乐资讯媒体
+# 该部分参考了中文维基百科的「来源考量」：
+# - https://zh.wikipedia.org/wiki/WikiProject:电子游戏/来源考量
+# - https://zh.wikipedia.org/wiki/WikiProject:ACG/來源考量
 
 # Included from tgbus
 .tgbus.com
@@ -1309,12 +1312,16 @@ wlog.kuaishou.com
 .nadianshi.com
 ## 游戏日报
 .news.yxrb.net
+## 手谈姬
+.shoutanjjj.com
 ## 游戏机实用技术
 .ucg.cn
 ## 游戏茶馆
 .youxichaguan.com
 ## 游戏葡萄
 .youxiputao.com
+## 游戏陀螺
+.youxituoluo.com
 ## 游研社
 .yystv.cn
 # End of category-entertainment-cn
@@ -3625,6 +3632,8 @@ ss.bjmu.edu.cn
 .12306.cn
 .95306.cn
 .ccrgt.com
+## 北京市政交通一卡通
+.bmac.com.cn
 ## 车来了
 .chelaile.net.cn
 ## 跨境巴士
@@ -4109,24 +4118,22 @@ ai.zhaomi.cn
 # Included from category-collaborate-cn
 # 远程桌面/远程组网
 
+## 连连控
+.asklink.com
+## EasyTier
+.easytier.cn
 ## Oray
 .oray.com
 .oray.net
 .orayer.com
 .orayimg.com
 .sunlogin.net
-
+## 叮当猫脚本管理系统 懒人精灵远程调试
+.privateapi.xyz
 ## ToDesk
 .todesk.cn
 .todesk.com
-
-## 连连控
-.asklink.com
-
-## 叮当猫脚本管理系统 懒人精灵远程调试
-.privateapi.xyz
-
-# xEdge干将互联
+## xEdge干将互联
 # Included from xedge
 # xEdge 干将互联
 # 苏州星汉云联网络技术有限公司 苏ICP备2022017953号
@@ -4138,23 +4145,19 @@ ai.zhaomi.cn
 
 # 文档协作
 
-## Tower 团队协作
-.tower.im
-
-## 秀米编辑器
-.tritoninfo.net
-.xiumi.us
-.xiumius.com
-
+## 语雀
+.nlark.com
+.yuque.com
 ## 石墨文档
 .shimo.im
 .shimonote.com
 .smgv.cn
-
-## 语雀
-.nlark.com
-.yuque.com
-
+## Tower 团队协作
+.tower.im
+## 秀米编辑器
+.tritoninfo.net
+.xiumi.us
+.xiumius.com
 ## 吾道
 .woodo.cn
 # End of category-collaborate-cn
@@ -6755,6 +6758,7 @@ community.oneplus.com
 # End of oppo
 # Included from qihoo360
 # Included from qihoo360-ads
+.c.sayhi.360.cn
 .fenxi.360.cn
 .fenxi.com
 .lianmeng.360.cn
@@ -6886,6 +6890,7 @@ community.oneplus.com
 .ad.browser.qq.com
 .ad.qq.com
 .ad.qun.qq.com
+.ad.tencentmusic.com
 .ad.weixin.qq.com
 .adfilter.imtt.qq.com
 .adnet.qq.com
@@ -6927,6 +6932,7 @@ community.oneplus.com
 .push.qq.com
 .qqdata.ab.qq.com
 .report.qqweb.qq.com
+.report.tencentmusic.com
 .rmonitor.qq.com
 .sngmta.qq.com
 .stat.y.qq.com
@@ -7154,6 +7160,17 @@ wetv.qq.com
 .fymallqa4.com
 .fymallqa7.com
 .fymallqa9.com
+
+.tdnsdl1.cn
+.tdnsdl1.com.cn
+.tdnsdl2.cn
+.tdnsdl2.com.cn
+.tdnsdl3.cn
+.tdnsdl3.com.cn
+.tdnsdl4.cn
+.tdnsdl4.com.cn
+.tdnsdl5.cn
+.tdnsdl5.com.cn
 # End of tencent
 # Included from tongfang
 # 同方股份

@@ -2669,33 +2669,44 @@ venmo.s3.amazonaws.com
 # End of cloudflare-ipfs
 
 .argotunnel.com
+.browser.run
 .cfargotunnel.com
+.cfdata.org
 .cfl.re
 .cloudflare-dns.com
 .cloudflare-ech.com
 .cloudflare-esni.com
 .cloudflare-gateway.com
 .cloudflare-quic.com
+.cloudflare-terms-of-service-abuse.com
 .cloudflare.com
+.cloudflare.dev
 .cloudflare.net
 .cloudflare.tv
 .cloudflareaccess.com
 .cloudflareapps.com
 .cloudflarebolt.com
+.cloudflarebrowser.com
+.cloudflarechallenge.com
 .cloudflareclient.com
+.cloudflarecp.com
 .cloudflareinsights.com
 .cloudflareok.com
 .cloudflarepartners.com
 .cloudflareportal.com
 .cloudflarepreview.com
 .cloudflareregistrar.com
+.cloudflareresearch.com
 .cloudflareresolve.com
 .cloudflaressl.com
 .cloudflarestatus.com
 .cloudflarestorage.com
 .cloudflarestream.com
+.cloudflaresupport.com
 .cloudflaretest.com
 .cloudflarewarp.com
+.cloudflareworkers.com
+.encryptedsni.com
 .every1dns.net
 .imagedelivery.net
 .isbgpsafeyet.com
@@ -7783,6 +7794,9 @@ yt3.googleusercontent.com
 .bookeeper.itunes.apple.com
 
 # Entertainment oriented media
+# This section references the "Source Considerations" page on the Chinese Wikipedia:
+# - https://zh.wikipedia.org/wiki/WikiProject:电子游戏/来源考量
+# - https://zh.wikipedia.org/wiki/WikiProject:ACG/來源考量
 ## 4Gamer.net
 .4gamer.net
 ## 4Gamers
@@ -7795,20 +7809,28 @@ yt3.googleusercontent.com
 .appmedia.jp
 ## Automaton
 .automaton-media.com
+## 橙心社
+.cxacg.com
 ## 电faminicogamer
 .denfaminicogamer.jp
 ## ASCII Media Works
 .dengekionline.com
 ## E-ROAD
 .eroge-road.com
+## esports.gg
+.esports.gg
 ## ファミ通
 .famitsu.com
+## GameApps.HK
+.gameapps.hk
 ## 遊戲基地
 .gamebase.com.tw
 ## IID, Inc.
 .gamebusiness.jp
 .gamespark.jp
 .inside-games.jp
+## Game Focus
+.gamefocus.co.kr
 ## GameMeca
 .gamemeca.com
 ## Gameover有機網
@@ -7820,6 +7842,8 @@ yt3.googleusercontent.com
 .greatgame.asia
 ## HobbiGame
 .hobbigame.com
+## ゲーム文化保存研究所
+.igcc.jp
 ## IGN
 .ign.com
 .ignimg.com
@@ -7831,18 +7855,30 @@ yt3.googleusercontent.com
 .maedahiroyuki.com
 ## MANTANWEB
 .mantan-web.jp
+## モエデジ
+.moedigi.com
 ## Moepedia
 .moepedia.net
+## マイナビニュース
+.mynavi.jp
+## Openbook阅读通
+.openbook.org.tw
 ## QooApp
 .qoo-app.com
 ## Real Sound
 .realsound.jp
+## れポたま！
+.repotama.com
 ## Saiga NAK
 .saiganak.com
+## SQOOL
+.sqool.net
 ## The Games Daily
 .tgdaily.co.kr
 ## Thisisgame
 .thisisgame.com
+## 玩具人
+.toy-people.com
 ## Wanuxi
 .wanuxi.com
 ## よろず〜
@@ -10393,6 +10429,7 @@ zeenews-fonts.s3.amazonaws.com
 .hkgpao.com
 .hongkongfp.com
 .inmediahk.net
+.inquirer.net
 .inside.com.tw
 .itmedia.co.jp
 .jfengtime.com
@@ -10401,6 +10438,7 @@ zeenews-fonts.s3.amazonaws.com
 .localpresshk.com
 .ltsports.com.tw
 .macaodaily.com
+.maidonanews.jp
 .mdnkids.com
 .mirrormedia.com.tw
 .mirrormedia.mg
@@ -19290,6 +19328,7 @@ amp.akamaized.net
 .shields.io
 .sqlite.org
 .sublimetext.com
+.tampermonkey.net
 .termius.com
 .unpkg.com
 .videojs.com

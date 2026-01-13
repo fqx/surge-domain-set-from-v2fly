@@ -2,6 +2,7 @@
 .ad.browser.qq.com
 .ad.qq.com
 .ad.qun.qq.com
+.ad.tencentmusic.com
 .ad.weixin.qq.com
 .adfilter.imtt.qq.com
 .adnet.qq.com
@@ -43,6 +44,7 @@
 .push.qq.com
 .qqdata.ab.qq.com
 .report.qqweb.qq.com
+.report.tencentmusic.com
 .rmonitor.qq.com
 .sngmta.qq.com
 .stat.y.qq.com
@@ -278,3 +280,14 @@ wetv.qq.com
 .fymallqa4.com
 .fymallqa7.com
 .fymallqa9.com
+
+.tdnsdl1.cn
+.tdnsdl1.com.cn
+.tdnsdl2.cn
+.tdnsdl2.com.cn
+.tdnsdl3.cn
+.tdnsdl3.com.cn
+.tdnsdl4.cn
+.tdnsdl4.com.cn
+.tdnsdl5.cn
+.tdnsdl5.com.cn
