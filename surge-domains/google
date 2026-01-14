@@ -219,7 +219,15 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 .gemini.google
 .gemini.google.com
 
+# Gemini Code Assist
+# https://docs.cloud.google.com/gemini/docs/codeassist/set-up-gemini
+cloudaicompanion.googleapis.com
+cloudcode-pa.googleapis.com
+daily-cloudcode-pa.googleapis.com
+
 # NotebookLM
+notebooklm-pa.googleapis.com
+notebooklm.googleapis.com
 .notebooklm.google
 .notebooklm.google.com
 
@@ -238,6 +246,12 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 # Opal
 .opal.google
 .opal.google.com
+
+# Antigravity
+antigravity-pa.googleapis.com
+antigravity.googleapis.com
+.antigravity.google
+.antigravity-unleash.goog
 # End of google-deepmind
 # Included from google-gemini
 # This list is for backward compatibility
@@ -267,7 +281,15 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 .gemini.google
 .gemini.google.com
 
+# Gemini Code Assist
+# https://docs.cloud.google.com/gemini/docs/codeassist/set-up-gemini
+cloudaicompanion.googleapis.com
+cloudcode-pa.googleapis.com
+daily-cloudcode-pa.googleapis.com
+
 # NotebookLM
+notebooklm-pa.googleapis.com
+notebooklm.googleapis.com
 .notebooklm.google
 .notebooklm.google.com
 
@@ -286,6 +308,12 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 # Opal
 .opal.google
 .opal.google.com
+
+# Antigravity
+antigravity-pa.googleapis.com
+antigravity.googleapis.com
+.antigravity.google
+.antigravity-unleash.goog
 # End of google-deepmind
 # End of google-gemini
 # Included from google-play

@@ -80,7 +80,15 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 .gemini.google
 .gemini.google.com
 
+# Gemini Code Assist
+# https://docs.cloud.google.com/gemini/docs/codeassist/set-up-gemini
+cloudaicompanion.googleapis.com
+cloudcode-pa.googleapis.com
+daily-cloudcode-pa.googleapis.com
+
 # NotebookLM
+notebooklm-pa.googleapis.com
+notebooklm.googleapis.com
 .notebooklm.google
 .notebooklm.google.com
 
@@ -99,6 +107,12 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 # Opal
 .opal.google
 .opal.google.com
+
+# Antigravity
+antigravity-pa.googleapis.com
+antigravity.googleapis.com
+.antigravity.google
+.antigravity-unleash.goog
 # End of google-deepmind
 # Included from groq
 .groq.com
@@ -6594,6 +6608,7 @@ prodforza.blob.core.windows.net
 .ynoproject.net
 # End of ynoproject
 
+.dinopoloclub.com
 .dodi-repacks.download
 .dodi-repacks.site
 .fabricmc.net
@@ -6604,8 +6619,10 @@ prodforza.blob.core.windows.net
 .joinsquad.com
 .loverslab.com
 .minecraft.wiki
+.mobimon.com.tw
 .nexus-cdn.com
 .nexusmods.com
+.noxygames.com
 .offworldindustries.com
 .offworldindustries.net
 .papermc.io
@@ -6613,6 +6630,8 @@ prodforza.blob.core.windows.net
 .prismlauncher.org
 .protondb.com
 .quiltmc.org
+.rayark.download
+.rayark.net
 .speedrun.com
 .steamdb.info
 # End of category-games-!cn
@@ -23511,7 +23530,15 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 .gemini.google
 .gemini.google.com
 
+# Gemini Code Assist
+# https://docs.cloud.google.com/gemini/docs/codeassist/set-up-gemini
+cloudaicompanion.googleapis.com
+cloudcode-pa.googleapis.com
+daily-cloudcode-pa.googleapis.com
+
 # NotebookLM
+notebooklm-pa.googleapis.com
+notebooklm.googleapis.com
 .notebooklm.google
 .notebooklm.google.com
 
@@ -23530,6 +23557,12 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 # Opal
 .opal.google
 .opal.google.com
+
+# Antigravity
+antigravity-pa.googleapis.com
+antigravity.googleapis.com
+.antigravity.google
+.antigravity-unleash.goog
 # End of google-deepmind
 # Included from google-gemini
 # This list is for backward compatibility
@@ -23559,7 +23592,15 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 .gemini.google
 .gemini.google.com
 
+# Gemini Code Assist
+# https://docs.cloud.google.com/gemini/docs/codeassist/set-up-gemini
+cloudaicompanion.googleapis.com
+cloudcode-pa.googleapis.com
+daily-cloudcode-pa.googleapis.com
+
 # NotebookLM
+notebooklm-pa.googleapis.com
+notebooklm.googleapis.com
 .notebooklm.google
 .notebooklm.google.com
 
@@ -23578,6 +23619,12 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 # Opal
 .opal.google
 .opal.google.com
+
+# Antigravity
+antigravity-pa.googleapis.com
+antigravity.googleapis.com
+.antigravity.google
+.antigravity-unleash.goog
 # End of google-deepmind
 # End of google-gemini
 # Included from google-play
