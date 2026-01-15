@@ -1,5 +1,20 @@
 # This list contains services related to entertainment & games & music & podcasts & videos outside China mainland.
 
+# Included from category-acg
+# Game
+.colorfulstage.com
+
+# Idol
+.crypton.co.jp
+.lapriere.jp
+.magicalmirai.com
+.mikuexpo.com
+.piapro.net
+.snowmiku.com
+
+# Resource sharing
+.bowlroll.net
+# End of category-acg
 # Included from category-entertainment-ru
 # Included from okko
 .playfamily.ru
@@ -858,6 +873,11 @@ xz.pphimalayanrt.com
 # 数云科技
 .gstore.val.manlaxy.com
 # End of steam
+# Included from steaminventoryhelper
+.sih-db.com
+.sih.app
+.steaminventoryhelper.com
+# End of steaminventoryhelper
 # Included from steamunlocked
 # Free Steam Games Pre-installed for PC with direct download links.
 

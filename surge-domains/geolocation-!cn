@@ -191,23 +191,6 @@ pplx-res.cloudinary.com
 .openrouter.ai
 # End of category-ai-!cn
 
-# Anime, Comics & Games
-# Included from category-acg
-# Game
-.colorfulstage.com
-
-# Idol
-.crypton.co.jp
-.lapriere.jp
-.magicalmirai.com
-.mikuexpo.com
-.piapro.net
-.snowmiku.com
-
-# Resource sharing
-.bowlroll.net
-# End of category-acg
-
 # Advertisment & Analytics
 # Included from pubmatic
 # Programmatic Digital Advertising Technology & Solutions | PubMatic
@@ -5628,6 +5611,21 @@ chinapower.csis.org
 # Included from category-entertainment
 # This list contains services related to entertainment & games & music & podcasts & videos outside China mainland.
 
+# Included from category-acg
+# Game
+.colorfulstage.com
+
+# Idol
+.crypton.co.jp
+.lapriere.jp
+.magicalmirai.com
+.mikuexpo.com
+.piapro.net
+.snowmiku.com
+
+# Resource sharing
+.bowlroll.net
+# End of category-acg
 # Included from category-entertainment-ru
 # Included from okko
 .playfamily.ru
@@ -6486,6 +6484,11 @@ xz.pphimalayanrt.com
 # 数云科技
 .gstore.val.manlaxy.com
 # End of steam
+# Included from steaminventoryhelper
+.sih-db.com
+.sih.app
+.steaminventoryhelper.com
+# End of steaminventoryhelper
 # Included from steamunlocked
 # Free Steam Games Pre-installed for PC with direct download links.
 
@@ -10496,6 +10499,7 @@ zeenews-fonts.s3.amazonaws.com
 .tvbs.com.tw
 .tvmost.com.hk
 .twgreatnews.com
+.twreporter.org
 .unwire.hk
 .upmedia.mg
 .vjmedia.com.hk

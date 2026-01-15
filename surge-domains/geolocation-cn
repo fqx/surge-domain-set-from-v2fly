@@ -1261,6 +1261,8 @@ wlog.kuaishou.com
 .motieimg.com
 # 梨视频
 .pearvideo.com
+# 皮皮网
+.pipi.cn
 # SF轻小说二次元
 .sfacg.com
 # 书海小说
@@ -2109,6 +2111,9 @@ wlog.kuaishou.com
 # 脉脉
 .maimai.cn
 .taou.com
+
+# 知识星球
+.zsxq.com
 # End of category-social-media-cn
 
 # Advertisment & Analytics
@@ -4644,6 +4649,8 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 ## 容联七陌 客服 营销
 .7moor-fs1.com
 .7moor.com
+## Alook 浏览器
+.alookweb.com
 ## 安兔兔
 .antutu.com
 .antutu.net
@@ -4661,14 +4668,27 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 ## 当贝
 .dangbei.com
 .dangbei.net
+## DCloud 数字天堂
+.dcloud.io
+.dcloud.net.cn
 ## 酷控
 .deepepg.com
 .kookong.com
 ## 滴答清单
 .dida365.com
+## 兑吧
+.dui88.com
+.duiba.com.cn
 ## 快应用
 .hapjs.org
 .quickapp.cn
+## 乐播投屏
+.hpplay.cn
+.lbtp.com
+.lebo.cn
+.lebo.com.cn
+.lebo.top
+.mirrorcast.cn
 ## 货拉拉
 .huolala.cn
 ## 火绒
@@ -4706,6 +4726,8 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .tacool.com
 ## Via 浏览器
 .viayoo.com
+## X 浏览器
+.xbext.com
 ## 印象笔记
 .yinxiang.com
 ## 智联招聘
@@ -7366,6 +7388,9 @@ wetv.qq.com
 .migucloud.com
 .migufun.com
 .miguvideo.com
+
+# 中移金科
+.cmft.com.cn
 
 # 中移在线
 .cmcc-cs.cn
