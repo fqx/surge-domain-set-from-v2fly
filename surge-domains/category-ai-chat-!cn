@@ -121,6 +121,10 @@ antigravity.googleapis.com
 .hf.space
 .huggingface.co
 # End of huggingface
+# Included from liveperson
+.liveperson.net
+.lpsnmedia.net
+# End of liveperson
 # Included from openai
 # Main domain
 .chatgpt.com

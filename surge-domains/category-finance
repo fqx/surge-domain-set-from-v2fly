@@ -238,6 +238,12 @@
 .schwabassetmanagement.com
 .schwabplan.com
 # End of schwab
+# Included from standardchartered
+.sc.com
+.standardchartered.com
+standchartbank.sc.omtrdc.net
+standchartbank.tt.omtrdc.net
+# End of standardchartered
 # Included from wise
 .transferwise.com
 .wise.com

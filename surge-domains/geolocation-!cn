@@ -122,6 +122,10 @@ antigravity.googleapis.com
 .hf.space
 .huggingface.co
 # End of huggingface
+# Included from liveperson
+.liveperson.net
+.lpsnmedia.net
+# End of liveperson
 # Included from openai
 # Main domain
 .chatgpt.com
@@ -1865,6 +1869,12 @@ tesla-cdn.thron.com
 .schwabassetmanagement.com
 .schwabplan.com
 # End of schwab
+# Included from standardchartered
+.sc.com
+.standardchartered.com
+standchartbank.sc.omtrdc.net
+standchartbank.tt.omtrdc.net
+# End of standardchartered
 # Included from wise
 .transferwise.com
 .wise.com
@@ -18563,30 +18573,33 @@ public-us-pingsx.api.clonoth.com
 .zoom.us
 # End of zoom
 
-
-# Graphing for Science and Engineering
-.originlab.com
-
-# Online LaTeX Editor
+## Aurora Open Source Software (https://gitlab.com/AuroraOSS)
+.auroraoss.com
+## BiliPlus
+.biliplus.com
+## CataBoom
+.cataboom.com
+## Consent Management Platforms / Cookie service
+.consentpro.com
+.cookiepro.com
+.cookielaw.org
+.onetrust.com
+.osano.com
+.usercentrics.eu
+## Greasy Fork
+.greasyfork.org
+## Online LaTeX Editor
 .cloudlatex.io
 .overleaf.com
-
-# Translator & Dictionary
+## Translator & Dictionary
 # Included from linguee
 .linguee.com
 .deepl.com
 # End of linguee
-
 .collinsdictionary.com
 .ldoceonline.com
-
-# Aurora Open Source Software (https://gitlab.com/AuroraOSS)
-.auroraoss.com
-
-# CookiePro, provides cookies and tracking
-.cookiepro.com
-.cookielaw.org
-.onetrust.com
+## OriginLab (Graphing for Science and Engineering)
+.originlab.com
 
 # Software development
 # Included from category-dev
@@ -28025,9 +28038,6 @@ teamviewer.com.cdn.cloudflare.net
 # End of rarbg
 .dmhy.org
 .rutor.info
-
-# User scripts
-.greasyfork.org
 
 # VPN services
 # Included from category-vpnservices
