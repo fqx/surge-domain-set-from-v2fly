@@ -168,6 +168,12 @@ pplx-res.cloudinary.com
 .grok.x.com
 .x.ai
 # End of xai
+# Included from youmind
+# Youmind
+.youmind.ai
+.youmind.com
+.youmind.site
+# End of youmind
 
 # CodeRabbit
 .coderabbit.ai
@@ -5616,6 +5622,8 @@ chinapower.csis.org
 .zotero.org
 # End of zotero
 
+.geogebra.org
+.wolframalpha.com
 
 # Entertainment & Games & Music & Podcasts & Videos
 # Included from category-entertainment
@@ -28215,6 +28223,7 @@ fandom.zendesk.com
 
 .atwiki.jp
 .touhouwiki.net
+.wiki.gg
 
 # Others
 # Included from avaxhome

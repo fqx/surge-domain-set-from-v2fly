@@ -164,6 +164,12 @@ pplx-res.cloudinary.com
 .grok.x.com
 .x.ai
 # End of xai
+# Included from youmind
+# Youmind
+.youmind.ai
+.youmind.com
+.youmind.site
+# End of youmind
 
 # CodeRabbit
 .coderabbit.ai

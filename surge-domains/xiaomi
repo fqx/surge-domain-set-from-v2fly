@@ -26,6 +26,13 @@
 .xiaoaiassist.com
 .xiaomimimo.com
 # End of xiaomi-ai
+# Included from xiaomi-iot
+# Xiaomi IoT Services
+.account.xiaomi.com
+.cn-ha.mqtt.io.mi.com
+.ha.api.io.mi.com
+.miot-spec.org
+# End of xiaomi-iot
 
 .mgslb.com
 .mi-idc.com

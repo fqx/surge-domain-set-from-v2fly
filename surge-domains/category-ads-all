@@ -505,9 +505,6 @@ wlog.kuaishou.com
 .segmenthub.com
 .segmentify.com
 # End of segment-ads
-# Included from sensorsdata-ads
-.static.sensorsdata.cn
-# End of sensorsdata-ads
 # Included from sina-ads
 .ad.sina.com.cn
 .ad.us.sinaimg.cn
@@ -860,6 +857,9 @@ pinggai9.caixin.com
 
 # 热云数据
 .reyun.com
+
+# 神策数据
+.static.sensorsdata.cn
 
 # 诸葛io
 .zhugeapi.com
