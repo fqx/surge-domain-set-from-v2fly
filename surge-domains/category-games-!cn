@@ -301,6 +301,10 @@ eaassets-a.akamaihd.net
 .embark.games
 .reachthefinals.com
 # End of embark
+# Included from eneba
+.eneba.com
+.eneba.games
+# End of eneba
 # Included from epicgames
 .3lateral.com
 .artstation.com

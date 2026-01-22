@@ -1916,6 +1916,7 @@ wlog.kuaishou.com
 .diandianlife.top
 # End of askdiandian
 
+.rednotecdn.com
 .xhscdn.com
 .xhscdn.net
 .xhslink.com
@@ -2941,6 +2942,9 @@ ss.bjmu.edu.cn
 
 # 南方医科大学深圳医院
 .smuszh.com
+
+# 四川大学华西医院
+.cd120.com
 # End of category-hospital-cn
 ## 安徽药品人才网
 .ahfda.com
