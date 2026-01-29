@@ -3,9 +3,6 @@
 # Included from acfun-ads
 apilog-web.acfun.cn
 # End of acfun-ads
-# Included from adcolony-ads
-.adcolony.com
-# End of adcolony-ads
 # Included from adjust-ads
 .adjust.com
 .adjust.net.in
@@ -100,15 +97,6 @@ apilog-web.acfun.cn
 .iad.apple.com
 .qwapi.com
 # End of apple-ads
-# Included from applovin-ads
-.applovin.com
-.applvn.com
-# End of applovin-ads
-# Included from atom-data-ads
-.atom-data.io
-.analytics-data.io
-.ironbeast.io
-# End of atom-data-ads
 # Included from baidu-ads
 # Included from zuoyebang-ads
 .syh.zybang.com
@@ -251,12 +239,6 @@ rtlog5-applog.fqnovel.com
 .metrics.duolingo.com
 .analytics.vpc.duolingo.com
 # End of duolingo-ads
-# Included from emogi-ads
-.emogi.com
-# End of emogi-ads
-# Included from flurry-ads
-.data.flurry.com
-# End of flurry-ads
 # Included from google-ads
 .2mdn-cn.net
 .2mdn.net
@@ -316,16 +298,6 @@ analytics.google.com
 # full:fundingchoicesmessages.google.com @ads
 
 # End of google-ads
-# Included from growingio-ads
-.assets.growingio.com
-# End of growingio-ads
-# Included from hiido-ads
-.mlog.hiido.com
-.ylog.hiido.com
-# End of hiido-ads
-# Included from hotjar-ads
-.static.hotjar.com
-# End of hotjar-ads
 # Included from hunantv-ads
 .click.hunantv.com
 .da.hunantv.com
@@ -334,9 +306,6 @@ analytics.google.com
 .log.v2.hunantv.com
 .res.hunantv.com
 # End of hunantv-ads
-# Included from inner-active-ads
-.inner-active.mobi
-# End of inner-active-ads
 # Included from iqiyi-ads
 .ad.m.iqiyi.com
 .afp.iqiyi.com
@@ -408,12 +377,6 @@ wlog.kuaishou.com
 .msads.net
 .nelreports.net
 # End of microsoft-ads
-# Included from mopub-ads
-.mopub.com
-# End of mopub-ads
-# Included from mxplayer-ads
-.evt.mxplay.com
-# End of mxplayer-ads
 # Included from netease-ads
 .a.youdao.com
 .admusicpic.music.126.net
@@ -428,9 +391,6 @@ wlog.kuaishou.com
 .iadmusicmatvideo.music.126.net
 .sentry.music.163.com
 # End of netease-ads
-# Included from newrelic-ads
-.js-agent.newrelic.com
-# End of newrelic-ads
 # Included from ogury-ads
 .ogury.com
 .presage.io
@@ -445,10 +405,6 @@ wlog.kuaishou.com
 .openxenterprise.com
 .openxmarket.asia
 # End of openx-ads
-# Included from pocoiq-ads
-.cdn.pocoiq.cn
-.oct.pocoiq.cn
-# End of pocoiq-ads
 # Included from pubmatic-ads
 .ads.pubmatic.com
 # End of pubmatic-ads
@@ -533,13 +489,6 @@ bloodhound.spotify.com
 .ssacdn.com
 .supersonicads-a.akamaihd.net
 # End of supersonic-ads
-# Included from tagtic-ads
-.g1.tagtic.cn
-.xy-log.tagtic.cn
-# End of tagtic-ads
-# Included from tappx-ads
-.ssp.api.tappx.com
-# End of tappx-ads
 # Included from television-ads
 .ad.hpplay.cn
 .adc.hpplay.cn
@@ -615,9 +564,6 @@ bloodhound.spotify.com
 .ugdtimg.com
 .wit.qq.com
 # End of tencent-ads
-# Included from uberads-ads
-.uberads.com
-# End of uberads-ads
 # Included from umeng-ads
 .aaid.umeng.com
 .alog.umeng.com
@@ -707,26 +653,32 @@ bloodhound.spotify.com
 .adtechus.com
 .adtrue.com
 .adxprtz.com
+.assets.growingio.com
 .cdn.advertserve.com
 .cdn.banclip.com
 .cfts1tifqr.com
 .contentabc.com
 .cretgate.com
+.data.flurry.com
 .decide.mixpanel.com
+.emogi.com
 .ero-advertising.com
 .eroadvertising.com
+.evt.mxplay.com
 .exoclick.com
 .exosrv.com
 .go2.global
 .gozendata.com
-.gzads.com
 .gz-data.com
+.gzads.com
 .img-bss.csdn.net
 .imglnkc.com
 .imglnkd.com
+.inner-active.mobi
 .innovid.com
 .jads.co
 .jl3.yjaxa.top
+.js-agent.newrelic.com
 .juicyads.com
 .kepler-37b.com
 .leanplum.com
@@ -734,21 +686,25 @@ bloodhound.spotify.com
 .moat.com
 .moatads.com
 .mobwithad.com
+.mopub.com
 .onesignal.com
 .realsrv.com
 .s4yxaqyq95.com
 .shhs-ydd8x2.yjrmss.cn
+.ssp.api.tappx.com
+.static.hotjar.com
 .static.javhd.com
 .tm-banners.gamingadult.com
 .trafficfactory.biz
 .tsyndicate.com
+.uberads.com
 .wwads.cn
-
-# 36Kr
-.adx.36kr.com
 
 # 12306
 .ad.12306.cn
+
+# 36Kr
+.adx.36kr.com
 
 # AdHub
 .hubcloud.com.cn
@@ -759,6 +715,10 @@ bloodhound.spotify.com
 # ali213
 .click.ali213.net
 .pbmp.ali213.net
+
+# AppLovin
+.applovin.com
+.applvn.com
 
 # Caixin
 # regexp:^pinggai\d\.caixin\.com$
@@ -777,11 +737,28 @@ pinggai9.caixin.com
 .adq.chinaso.com
 .stat.chinaso.com
 
+# hiido
+.mlog.hiido.com
+.ylog.hiido.com
+
 # Httpool
 .toboads.com
 
+# ironSource Atom
+.analytics-data.io
+.atom-data.io
+.ironbeast.io
+
+# pocoiq
+.cdn.pocoiq.cn
+.oct.pocoiq.cn
+
 # Qiniu
 .dn-growing.qbox.me
+
+# tagtic
+.g1.tagtic.cn
+.xy-log.tagtic.cn
 
 # UNI Marketing
 .ad.unimhk.com

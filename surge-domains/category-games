@@ -356,6 +356,17 @@ blznav.akamaized.net
 .bluearchive.nexon.com
 .bluearchive-cn.com
 # End of bluearchive
+# Included from bohemia
+.arma3.com
+.armaplatform.com
+.bistudio.com
+.bohemia.net
+.dayz.com
+.makearmanotwar.com
+.silicagame.com
+.vigorgame.com
+.ylands.com
+# End of bohemia
 # Included from curseforge
 .curseforge.com
 .forgecdn.net

@@ -14,6 +14,9 @@
 .tracker.network
 # End of trackernetwork
 
+# Anti-Cheat
+.battleye.com
+
 # Android Emulator
 .bluestacks.com
 .ldmnq.com
@@ -28,5 +31,5 @@
 .heavenlywind.cc
 .poi.moe
 
-
+# Steam++ / Watt Toolkit
 .steampp.net
