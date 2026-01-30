@@ -2514,16 +2514,20 @@ xp.apple.com
 .asuswebstorage.com
 # End of asus
 # Included from atlassian
-.atlassian.com
-.atlassian.net
-.bitbucket.io
-.bitbucket.org
-.statuspage.io
-
 # Included from trello
 .trello.com
 .trellocdn.com
 # End of trello
+
+.atl-paas.net
+.atlassian-dev.net
+.atlassian.com
+.atlassian.net
+.bitbucket.io
+.bitbucket.org
+.jira.com
+.ss-inf.net
+.statuspage.io
 # End of atlassian
 # Included from att
 # AT&T Inc.

@@ -5,12 +5,6 @@
 # Included from acfun-ads
 apilog-web.acfun.cn
 # End of acfun-ads
-# Included from adjust-ads
-.adjust.com
-.adjust.net.in
-.adjust.io
-.adjust.world
-# End of adjust-ads
 # Included from adobe-ads
 .advertising.adobe.com
 .tubemogul.com
@@ -215,11 +209,6 @@ rtlog5-applog.fqnovel.com
 .tapsell.ir
 .yektanet.com
 # End of category-ads-ir
-# Included from clearbit-ads
-.clearbit.com
-.clearbitjs.com
-.clearbitscripts.com
-# End of clearbit-ads
 # Included from dmm-ads
 # Refer: https://tonahazana.com/kancolle-2nd-weight-saving
 # If you use support tools to play DMM games(such as playing Kantai Collection by poi), this list maybe useful.
@@ -393,23 +382,8 @@ wlog.kuaishou.com
 .iadmusicmatvideo.music.126.net
 .sentry.music.163.com
 # End of netease-ads
-# Included from ogury-ads
-.ogury.com
-.presage.io
-.ogury.co
-# End of ogury-ads
 # Included from ookla-speedtest-ads
 # End of ookla-speedtest-ads
-# Included from openx-ads
-.openx.net
-.openxadexchange.com
-.openxcdn.net
-.openxenterprise.com
-.openxmarket.asia
-# End of openx-ads
-# Included from pubmatic-ads
-.ads.pubmatic.com
-# End of pubmatic-ads
 # Included from qihoo360-ads
 .c.sayhi.360.cn
 .fenxi.360.cn
@@ -422,12 +396,6 @@ wlog.kuaishou.com
 .s.so.360.cn
 .s.union.360.cn
 # End of qihoo360-ads
-# Included from segment-ads
-.segment.com
-.segment.io
-.segmenthub.com
-.segmentify.com
-# End of segment-ads
 # Included from sina-ads
 .ad.sina.com.cn
 .ad.us.sinaimg.cn
@@ -485,12 +453,6 @@ adeventtracker.spotify.com
 adstudio-assets.scdn.co
 bloodhound.spotify.com
 # End of spotify-ads
-# Included from supersonic-ads
-.supersonic.com
-.supersonicads.com
-.ssacdn.com
-.supersonicads-a.akamaihd.net
-# End of supersonic-ads
 # Included from television-ads
 .ad.hpplay.cn
 .adc.hpplay.cn
@@ -594,14 +556,6 @@ bloodhound.spotify.com
 .w.cnzz.com
 .z.gds.cnzz.com
 # End of umeng-ads
-# Included from unity-ads
-.ads.unitychina.cn
-.splash-ads.cdn.unity.cn
-.splash-ads.unitychina.cn
-.unityads.unity.cn
-.unityads.unity3d.com
-.unityads.unitychina.cn
-# End of unity-ads
 # Included from xhamster-ads
 .collector.xhamster.com
 # End of xhamster-ads
@@ -819,6 +773,48 @@ pinggai9.caixin.com
 .sensors.umetrip.com.cn
 # End of category-ads
 
+# Included from adjust
+.adjust.com
+.adjust.io
+.adjust.net.in
+.adjust.world
+# End of adjust
+# Included from clearbit
+.clearbit.com
+.clearbitjs.com
+.clearbitscripts.com
+# End of clearbit
+# Included from ogury
+.ogury.co
+.ogury.com
+.presage.io
+# End of ogury
+# Included from openx
+.openx.net
+.openxadexchange.com
+.openxcdn.net
+.openxenterprise.com
+.openxmarket.asia
+# End of openx
+# Included from pubmatic
+# Programmatic Digital Advertising Technology & Solutions | PubMatic
+
+.pubmatic.com
+.pubmatic.co.jp
+# End of pubmatic
+# Included from segment
+.segment.com
+.segment.io
+.segmenthub.com
+.segmentify.com
+# End of segment
+# Included from supersonic
+.ssacdn.com
+.supersonic.com
+.supersonicads.com
+
+.supersonicads-a.akamaihd.net
+# End of supersonic
 # Included from taboola
 # Taboola uses this single domain for both official website and ads serving.
 # Blocking the following domain will prevent taboola ads from displaying,
@@ -844,7 +840,6 @@ pinggai9.caixin.com
 .mfadsrvr.com
 .mgid.com
 .ns1p.net
-.pubmatic.com
 .sigmob.com
 .spotxchange.com
 .unimhk.com

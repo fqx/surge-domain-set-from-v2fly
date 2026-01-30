@@ -248,6 +248,19 @@ p9-juejin.byteimg.com
 .openkylin.top
 .ubuntukylin.com
 # End of ubuntukylin
+# Included from unitychina
+# 优三缔 / 优美缔 / 团结引擎
+.u3d.cn
+.unity.cn
+.unitychina.cn
+
+# Ads/tracking
+.ads.unitychina.cn
+.splash-ads.cdn.unity.cn
+.splash-ads.unitychina.cn
+.unityads.unity.cn
+.unityads.unitychina.cn
+# End of unitychina
 
 .jinrishici.com
 .openvela.com
@@ -1986,47 +1999,6 @@ wlog.kuaishou.com
 .pushcfg.com
 .s0n.cn
 # End of jiguang
-# Included from umeng
-# Included from umeng-ads
-.aaid.umeng.com
-.alog.umeng.com
-.alog.umengcloud.com
-.alogs.umeng.com
-.alogus.umeng.com
-.ar.umeng.com
-.aspect-upush.umeng.com
-.audid.umeng.com
-.ccs.umeng.com
-.cnlogs.umeng.com
-.cnlogs.umengcloud.com
-# https://github.com/TG-Twilight/AWAvenue-Ads-Rule/issues/185
-# errlog.umeng.com @ads
-# errnewlog.umeng.com @ads
-.new-aaid.umeng.com
-.new-aaid.umeng.com.gds.alibabadns.com
-.oc.umeng.com
-.plbslog.umeng.com
-.resolve.umeng.com
-.ulogs.umeng.com
-.ulogs.umengcloud.com
-.utoken.umeng.com
-
-# CNZZ
-.w.cnzz.com
-.z.gds.cnzz.com
-# End of umeng-ads
-
-.cnzz.com
-.mobmore.com
-.puata.info
-.shujupie.com
-.umeng.com
-.umengcloud.com
-.umsns.com
-.umtrack.com
-.uyunad.com
-.whalecloud.com
-# End of umeng
 
 # 神策数据
 .sensorsdata.cn

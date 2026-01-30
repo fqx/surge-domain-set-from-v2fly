@@ -208,10 +208,6 @@ pplx-res.cloudinary.com
 
 .pubmatic.com
 .pubmatic.co.jp
-
-# Included from pubmatic-ads
-.ads.pubmatic.com
-# End of pubmatic-ads
 # End of pubmatic
 # Included from taboola
 # Taboola uses this single domain for both official website and ads serving.
@@ -2722,6 +2718,9 @@ venmo.s3.amazonaws.com
 .cloudflareworkers.com
 .encryptedsni.com
 .every1dns.net
+.foundationdns.com
+.foundationdns.net
+.foundationdns.org
 .imagedelivery.net
 .isbgpsafeyet.com
 .one.one.one
@@ -19319,14 +19318,9 @@ amp.akamaized.net
 .unity.com
 .unity3d.com
 
-# Included from unity-ads
-.ads.unitychina.cn
-.splash-ads.cdn.unity.cn
-.splash-ads.unitychina.cn
-.unityads.unity.cn
+# Ads/tracking
+.iads.unity3d.com
 .unityads.unity3d.com
-.unityads.unitychina.cn
-# End of unity-ads
 # End of unity
 # Included from v8
 .v8.dev
@@ -21946,16 +21940,20 @@ xp.apple.com
 .asuswebstorage.com
 # End of asus
 # Included from atlassian
-.atlassian.com
-.atlassian.net
-.bitbucket.io
-.bitbucket.org
-.statuspage.io
-
 # Included from trello
 .trello.com
 .trellocdn.com
 # End of trello
+
+.atl-paas.net
+.atlassian-dev.net
+.atlassian.com
+.atlassian.net
+.bitbucket.io
+.bitbucket.org
+.jira.com
+.ss-inf.net
+.statuspage.io
 # End of atlassian
 # Included from att
 # AT&T Inc.

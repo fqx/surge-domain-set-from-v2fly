@@ -680,14 +680,9 @@ amp.akamaized.net
 .unity.com
 .unity3d.com
 
-# Included from unity-ads
-.ads.unitychina.cn
-.splash-ads.cdn.unity.cn
-.splash-ads.unitychina.cn
-.unityads.unity.cn
+# Ads/tracking
+.iads.unity3d.com
 .unityads.unity3d.com
-.unityads.unitychina.cn
-# End of unity-ads
 # End of unity
 # Included from v8
 .v8.dev
