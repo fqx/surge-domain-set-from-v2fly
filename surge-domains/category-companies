@@ -6158,6 +6158,13 @@ lgelectronics.122.2o7.net
 .logitechio.com.cn
 .worldsfastestgamer.net
 # End of logitech
+# Included from louisvuitton
+.louisvuitton.cn
+.louisvuitton.com
+.lvcampaign.com
+
+tp.louisvuitton.com
+# End of louisvuitton
 # Included from mailru-group
 # Included from dzen
 .dzen.ru
@@ -7113,6 +7120,7 @@ default.exp-tas.com
 developer.microsoft.com
 download.visualstudio.microsoft.com
 dtlgalleryint.cloudapp.net
+packages.microsoft.com
 poshtestgallery.cloudapp.net
 psg-int-centralus.cloudapp.net
 psg-int-eastus.cloudapp.net
