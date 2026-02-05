@@ -51,6 +51,9 @@ servd-anthropic-website.b-cdn.net
 .elevenlabs.com
 .elevenlabs.io
 # End of elevenlabs
+# Included from github-copilot
+.githubcopilot.com
+# End of github-copilot
 # Included from google-deepmind
 # Google DeepMind
 .deepmind.com

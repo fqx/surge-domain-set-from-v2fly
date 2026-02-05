@@ -55,6 +55,9 @@ servd-anthropic-website.b-cdn.net
 .elevenlabs.com
 .elevenlabs.io
 # End of elevenlabs
+# Included from github-copilot
+.githubcopilot.com
+# End of github-copilot
 # Included from google-deepmind
 # Google DeepMind
 .deepmind.com
@@ -18635,6 +18638,8 @@ public-us-pingsx.api.clonoth.com
 .ldoceonline.com
 ## OriginLab (Graphing for Science and Engineering)
 .originlab.com
+## OsmAnd
+.osmand.net
 
 # Software development
 # Included from category-dev
@@ -18927,6 +18932,9 @@ firebaseremoteconfig.googleapis.com
 .collector.github.com
 .copilot-telemetry.githubusercontent.com
 # End of github-ads
+# Included from github-copilot
+.githubcopilot.com
+# End of github-copilot
 # Included from npmjs
 .npm.community
 .npmjs.com
@@ -18946,7 +18954,6 @@ firebaseremoteconfig.googleapis.com
 .github.io
 .githubapp.com
 .githubassets.com
-.githubcopilot.com
 .githubhackathon.com
 .githubnext.com
 .githubpreview.dev
@@ -26437,7 +26444,6 @@ emoi-cncdn.bing.com
 .github.io
 .githubapp.com
 .githubassets.com
-.githubcopilot.com
 .githubhackathon.com
 .githubnext.com
 .githubpreview.dev

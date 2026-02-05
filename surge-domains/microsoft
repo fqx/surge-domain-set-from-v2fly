@@ -202,6 +202,9 @@ emoi-cncdn.bing.com
 .collector.github.com
 .copilot-telemetry.githubusercontent.com
 # End of github-ads
+# Included from github-copilot
+.githubcopilot.com
+# End of github-copilot
 # Included from npmjs
 .npm.community
 .npmjs.com
@@ -221,7 +224,6 @@ emoi-cncdn.bing.com
 .github.io
 .githubapp.com
 .githubassets.com
-.githubcopilot.com
 .githubhackathon.com
 .githubnext.com
 .githubpreview.dev
