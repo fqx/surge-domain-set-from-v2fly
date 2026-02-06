@@ -242,6 +242,7 @@ p9-juejin.byteimg.com
 .unityads.unitychina.cn
 # End of unitychina
 
+.aardio.com
 .jinrishici.com
 .openvela.com
 .tipdm.org
@@ -1734,6 +1735,8 @@ wlog.kuaishou.com
 .geekpark.net
 # 光明网
 .gmw.com
+# 硅谷网
+.guigu.org
 # 和讯
 .hexun.com
 # 河南广播电视台/大象网
@@ -1788,6 +1791,9 @@ wlog.kuaishou.com
 .xinhuaxmt.com
 # 维科网
 .ofweek.com
+# PChome电脑之家
+.pchome.net
+.pchpic.net
 # PConline 太平洋科技
 .3conline.com
 .pconline.com.cn
@@ -1941,6 +1947,9 @@ wlog.kuaishou.com
 .dandan818.com
 .dandanvoice.com
 
+# 饭否
+.fanfou.com
+
 # 脉脉
 .maimai.cn
 .taou.com
@@ -1960,6 +1969,15 @@ wlog.kuaishou.com
 .igetui.com
 .igexin.com
 # End of getui
+# Included from growingio
+# 北京易数科技
+.datayi.cn
+.gio.ren
+.giocdn.com
+.growin.cn
+.growingio.cn
+.growingio.com
+# End of growingio
 # Included from jiguang
 #极光推送
 .42r.cn
@@ -2464,12 +2482,14 @@ wlog.kuaishou.com
 .wswebpic.com
 # End of wangsu
 
-## 创世云
+# 创世云
 .chuangcache.com
 .chuangcdn.com
-## FUNCDN
+# 大风云CDN
+.dfyun.com.cn
+# FUNCDN
 .funcdn.com
-## 北京知道创宇信息技术股份有限公司
+# 北京知道创宇信息技术股份有限公司
 .jiashule.com
 .jiasule.com
 .yunaq.com
@@ -3083,6 +3103,8 @@ study.163.com
 .baicizhan.org
 .bczcdn.com
 .bczeducation.cn
+# 毕业之家科研服务平台
+.biyehome.net
 # Burning Vocabulary
 .burningvocabulary.cn
 .burningvocabulary.com
@@ -3261,6 +3283,9 @@ study.163.com
 .sec-wiki.com
 .shidianbaike.com
 
+# 叉子周 手机博物馆
+.chaz.fun
+
 # huijiwiki
 .huijistatic.com
 .huijiwiki.com
@@ -3416,6 +3441,8 @@ ai.zhaomi.cn
 .asklink.com
 ## EasyTier
 .easytier.cn
+## 飞衡HTTP
+.feihengip.com
 ## Oray
 .oray.com
 .oray.net
@@ -3485,6 +3512,10 @@ ai.zhaomi.cn
 .qichamao.com
 .qyyjt.cn
 .x315.com
+
+# 信查查
+.xcc.cn
+.xinchacha.com
 # End of category-enterprise-query-platform-cn
 # Included from category-game-accelerator-cn
 # 雷神加速器 鄂ICP备19027593号
@@ -4193,6 +4224,7 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .dji.ink
 .dji.net
 .djicdn.com
+.djigate.com
 .djiits.com
 .djiops.com
 .djiservice.org
@@ -4946,7 +4978,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .biodiscover.com
 .bishijie.com
 .bitecoin.com
-.biyehome.net
 .bjcathay.com
 .bobo.com
 .bojianger.com
@@ -5122,7 +5153,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .gdrc.com
 .gezida.com
 .gfan.com
-.giocdn.com
 .globrand.com
 .gm86.com
 .gmz88.com
@@ -5133,14 +5163,12 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .goosail.com
 .goufw.com
 .greenxiazai.com
-.growingio.com
 .gtags.net
 .guabu.com
 .guaiguai.com
 .guanaitong.com
 .guanhaobio.com
 .gucheng.com
-.guigu.org
 .guoxinmac.com
 .gupzs.com
 .gushiwen.org
@@ -5388,7 +5416,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .paipaibang.com
 .paopaoche.net
 .pc6.com
-.pchome.net
 .pcpop.com
 .peccn.com
 .pgzs.com

@@ -609,7 +609,6 @@ bloodhound.spotify.com
 .adtechus.com
 .adtrue.com
 .adxprtz.com
-.assets.growingio.com
 .cdn.advertserve.com
 .cdn.banclip.com
 .cfts1tifqr.com
@@ -784,6 +783,15 @@ pinggai9.caixin.com
 .clearbitjs.com
 .clearbitscripts.com
 # End of clearbit
+# Included from growingio
+# 北京易数科技
+.datayi.cn
+.gio.ren
+.giocdn.com
+.growin.cn
+.growingio.cn
+.growingio.com
+# End of growingio
 # Included from ogury
 .ogury.co
 .ogury.com
