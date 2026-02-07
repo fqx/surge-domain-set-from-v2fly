@@ -128,6 +128,10 @@ antigravity.googleapis.com
 .liveperson.net
 .lpsnmedia.net
 # End of liveperson
+# Included from manus
+.manus.im
+.manuscdn.com
+# End of manus
 # Included from openai
 # Main domain
 .chat.com

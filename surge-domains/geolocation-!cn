@@ -129,6 +129,10 @@ antigravity.googleapis.com
 .liveperson.net
 .lpsnmedia.net
 # End of liveperson
+# Included from manus
+.manus.im
+.manuscdn.com
+# End of manus
 # Included from openai
 # Main domain
 .chat.com
@@ -18542,6 +18546,7 @@ public-us-pingsx.api.clonoth.com
 .hyper.is
 .nextjs.org
 .now.sh
+.skills.sh
 .static.fun
 .title.sh
 .turborepo.org
