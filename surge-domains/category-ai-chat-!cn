@@ -170,6 +170,12 @@ pplx-res.cloudinary.com
 .poe.com
 .poecdn.net
 # End of poe
+# Included from windsurf
+.codeium.com
+.codeiumdata.com
+.windsurf.build
+.windsurf.com
+# End of windsurf
 # Included from xai
 .grok.com
 .grok.x.com

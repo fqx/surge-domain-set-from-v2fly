@@ -171,6 +171,12 @@ pplx-res.cloudinary.com
 .poe.com
 .poecdn.net
 # End of poe
+# Included from windsurf
+.codeium.com
+.codeiumdata.com
+.windsurf.build
+.windsurf.com
+# End of windsurf
 # Included from xai
 .grok.com
 .grok.x.com
@@ -28012,6 +28018,9 @@ cdn.js7k.com
 # Watching movies, included in the Yandex subscription
 .kinopoisk.ru
 .kinopoisk-ru.clstorage.net
+
+# Weather service
+yandex-pogoda.static-storage.net
 # End of yandex
 
 # Remote Control

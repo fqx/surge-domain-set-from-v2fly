@@ -102,6 +102,11 @@
 # End of category-retail-ru
 
 # Public transportation
+# Included from aviasales
+.avs.io
+.aviasales.ru
+.aviasales.com
+# End of aviasales
 # Included from mosmetro
 .mosmetro.ru
 .mosmetro.tech
@@ -264,6 +269,9 @@
 # Watching movies, included in the Yandex subscription
 .kinopoisk.ru
 .kinopoisk-ru.clstorage.net
+
+# Weather service
+yandex-pogoda.static-storage.net
 # End of yandex
 
 # Dodo Pizza

@@ -1738,6 +1738,13 @@ wlog.kuaishou.com
 .gmw.com
 # 硅谷网
 .guigu.org
+# 同花顺
+.0033.cn
+.10jqka.com.cn
+.hexin.cn
+.hexin.com.cn
+.ths123.com
+.thsi.cn
 # 和讯
 .hexun.com
 # 河南广播电视台/大象网
@@ -1758,6 +1765,8 @@ wlog.kuaishou.com
 .jianyuweb.com
 .wallstcn.com
 .wallstreetcn.com
+# 金十数据
+.jin10.com
 # 上观新闻/解放日报
 .jfdaily.com
 .shobserver.com
@@ -1845,10 +1854,6 @@ wlog.kuaishou.com
 .thecover.cn
 # 澎湃新闻
 .thepaper.cn
-# 同花顺
-.10jqka.com.cn
-.thsi.cn
-.ths123.com
 # 人人都是产品经理
 .woshipm.com
 # 新快报
@@ -4482,58 +4487,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .msmartlife.com
 .smartmidea.net
 # End of midea
-# Included from netease
-# Included from netease-ads
-.a.youdao.com
-.admusicpic.music.126.net
-.ads.music.126.net
-.analytics.163.com
-.crash.163.com
-.crashlytics.163.com
-.g.163.com
-.iadmat.nosdn.127.net
-.iadmatapk.nosdn.127.net
-.iadmusicmat.music.126.net
-.iadmusicmatvideo.music.126.net
-.sentry.music.163.com
-# End of netease-ads
-
-.126.com
-.126.link
-.126.net
-.127.com
-.127.net
-.163.com
-.163cn.tv
-.163industry.com
-.163jiasu.com
-.163mail.com
-.163qiyukf.com
-.163yun.com
-.166.com
-.166.net
-.188.com
-.321fenx.com
-.haowu.link
-.icourse163.org
-.lf126.net
-.lf127.net
-.lofter.com
-.nease.net
-.netease-inc.com
-.netease.com
-.netease.im
-.netstatic.net
-.qiyukf.com
-.qiyukf.net
-.qiyukf.net.cn
-.static163.net
-.ydstatic.com
-.yeah.net
-.youdao.com
-.yunxinfw.com
-.zhuanzfx.com
-# End of netease
 # Included from qihoo360
 # Included from qihoo360-ads
 .c.sayhi.360.cn
