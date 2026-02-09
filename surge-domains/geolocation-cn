@@ -1236,6 +1236,18 @@ wlog.kuaishou.com
 .lppz.com
 .lppzimg.com
 # End of bestore
+# Included from ddmaicai
+# 叮咚买菜 上海壹佰米网络科技有限公司
+.100.me
+.ddcorp.net
+.ddfresh.net
+.ddimg.mobi
+.ddmaicai.net
+.ddmc.mobi
+.dduser.mobi
+.ddxq.mobi
+.imaicai.mobi
+# End of ddmaicai
 # Included from lkcoffee
 .lkcoffee.com
 .luckincoffeecdn.com
@@ -2778,6 +2790,19 @@ wlog.kuaishou.com
 .ke.com
 # End of lianjia
 # Included from meituan
+# Included from ddmaicai
+# 叮咚买菜 上海壹佰米网络科技有限公司
+.100.me
+.ddcorp.net
+.ddfresh.net
+.ddimg.mobi
+.ddmaicai.net
+.ddmc.mobi
+.dduser.mobi
+.ddxq.mobi
+.imaicai.mobi
+# End of ddmaicai
+
 .dianping.com
 .maoyan.com
 .meituan.com
@@ -3401,6 +3426,8 @@ study.163.com
 .zhipuai.cn
 
 # 月之暗面
+.kimi.com
+.moonshot.ai
 .moonshot.cn
 
 # 讯飞星火

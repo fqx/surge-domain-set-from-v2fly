@@ -5678,12 +5678,6 @@ chinapower.csis.org
 # End of wink
 # End of category-entertainment-ru
 # Included from category-games-!cn
-# Included from 2kgames
-.2k.com
-.2kcoretech.online
-.2kgames.com
-.take2games.com
-# End of 2kgames
 # Included from blizzard
 .blizzard.com
 .blizzardgearstore.com
@@ -6036,6 +6030,21 @@ eaassets-a.akamaihd.net
 .faceit.com
 .faceit-cdn.net
 # End of faceit
+# Included from gaijin
+.acesofthunder.net
+.activematter.game
+.artstorm.com
+.crossout.net
+.crsed.net
+.cubicodyssey.game
+.enlisted.net
+.gaijin.net
+.gaijinent.com
+.modernwarships.com
+.star-conflict.com
+.warthunder.com
+.wtmobile.com
+# End of gaijin
 # Included from garena
 avatargarenanow-a.akamaihd.net
 cdngarenanow-a.akamaihd.net
@@ -6438,14 +6447,6 @@ roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
 roblox-poc.global.ssl.fastly.net
 robloxcorp.s.llnwi.net
 # End of roblox
-# Included from rockstar
-.rockstargames.com
-.rsg.sc
-
-gamedownloads-rockstargames-com.akamaized.net
-media-rockstargames-com.akamaized.net
-videos-rockstargames-com.akamaized.net
-# End of rockstar
 # Included from snk
 .snk-corp.co.jp
 .snk-corp.info
@@ -6575,6 +6576,32 @@ xz.pphimalayanrt.com
 .supercellid.com
 .supercellstore.com
 # End of supercell
+# Included from take-two
+# Included from 2kgames
+.2k.com
+.2kcoretech.online
+.2kct.onl
+.2kgames.com
+.2ksports.com
+.2kweb.online
+# End of 2kgames
+# Included from rockstar
+.rockstargames.com
+.rockstarnorth.com
+.rsg.sc
+
+gamedownloads-rockstargames-com.akamaized.net
+media-rockstargames-com.akamaized.net
+videos-rockstargames-com.akamaized.net
+# End of rockstar
+# Included from zynga
+.zynga.com
+.zyngaplayersupport.com
+.zyngapoker.com
+# End of zynga
+
+.take2games.com
+# End of take-two
 # Included from ubisoft
 .ubi.com
 .ubisoft.com
