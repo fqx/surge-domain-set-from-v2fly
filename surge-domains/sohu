@@ -31,33 +31,17 @@
 .yidianliulan.cn
 .yidianliulan.com
 .yuweikuijianzhan.com
-# End of sogou
-# Included from sohu-ads
-.adnet.sohu.com
-.ads.sohu.com
-.adv-sv-show.focus.cn
-.adv-sv-stat.focus.cn
-.assp.sohu.com
-.bdu.focus.cn
-.fpb.sohu.com
-.imp.go.sohu.com
+
+# Ads/tracking
 .inte.sogou.com
 .inte.sogoucdn.com
 .lu.sogou.com
 .lu.sogoucdn.com
-.m.aty.sohu.com
-.p.aty.sohu.com
 .pb.i.sogou.com
-.pv.hd.sohu.com
-.pv.sohu.com
-.qpb.sohu.com
-.qpb1.sohu.com
-.reke.at.sohu.com
 .theta.sogoucdn.com
-.track.sohu.com
 .uranus.sogou.com
 .wuliao.epro.sogou.com
-# End of sohu-ads
+# End of sogou
 
 # All .sohu domains
 .sohu
@@ -67,3 +51,21 @@
 .itc.cn
 .sohu.com
 .sohucs.com
+
+# Ads/tracking
+.adnet.sohu.com
+.ads.sohu.com
+.adv-sv-show.focus.cn
+.adv-sv-stat.focus.cn
+.assp.sohu.com
+.bdu.focus.cn
+.fpb.sohu.com
+.imp.go.sohu.com
+.m.aty.sohu.com
+.p.aty.sohu.com
+.pv.hd.sohu.com
+.pv.sohu.com
+.qpb.sohu.com
+.qpb1.sohu.com
+.reke.at.sohu.com
+.track.sohu.com

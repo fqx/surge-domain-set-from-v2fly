@@ -3147,11 +3147,6 @@ www.microsoft.com
 .flickr.net
 .staticflickr.com
 # End of flickr
-# Included from yahoo-ads
-.ads.yahoo.com
-.gemini.yahoo.com
-.ysm.yahoo.com
-# End of yahoo-ads
 
 # All .yahoo domains
 .yahoo
@@ -3325,6 +3320,11 @@ www.microsoft.com
 .yusercontent.com
 
 cdn.js7k.com
+
+# Ads/tracking
+.ads.yahoo.com
+.gemini.yahoo.com
+.ysm.yahoo.com
 # End of yahoo
 
 .oath.cloud
@@ -3548,11 +3548,6 @@ hammerandchisel.ssl.zendesk.com
 .vbcdn.net
 # End of viber
 # Included from whatsapp
-# Included from whatsapp-ads
-.graph.whatsapp.com
-.graph.whatsapp.net
-# End of whatsapp-ads
-
 .wa.me
 .whatsapp-plus.info
 .whatsapp-plus.me
@@ -3564,6 +3559,10 @@ hammerandchisel.ssl.zendesk.com
 .whatsapp.org
 .whatsapp.tv
 .whatsappbrand.com
+
+# Ads/tracking
+.graph.whatsapp.com
+.graph.whatsapp.net
 # End of whatsapp
 # End of category-communication
 
@@ -4035,10 +4034,19 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 .craigslist.org
 # End of craigslist
 # Included from dmm
-# Included from dmm-ads
+# Included from dmm-porn
+.dmm.co.jp
+.dmmrex.com
+# End of dmm-porn
+
+.dmm.com
+.dmm-extension.com
+.dmmapis.com
+api-p.videomarket.jp
+
+# Ads/tracking
 # Refer: https://tonahazana.com/kancolle-2nd-weight-saving
 # If you use support tools to play DMM games(such as playing Kantai Collection by poi), this list maybe useful.
-
 .ad.games.dmm.com
 .bluekai.com
 .fout.jp
@@ -4050,16 +4058,6 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 .microad.co.jp
 .microad.jp
 .socdm.com
-# End of dmm-ads
-# Included from dmm-porn
-.dmm.co.jp
-.dmmrex.com
-# End of dmm-porn
-
-.dmm.com
-.dmm-extension.com
-.dmmapis.com
-api-p.videomarket.jp
 # End of dmm
 # Included from ebay
 .21centuryaccess.com
@@ -6102,6 +6100,9 @@ gog-cdn.akamaized.net
 
 # 絕區零(Zenless Zone Zero)
 .zenlesszonezero.com
+
+# ads/tracking
+.log-upload-os.hoyoverse.com
 # End of hoyoverse
 # Included from illusion
 .illusion.co.jp
@@ -7523,6 +7524,11 @@ heads4-ak-spotify-com.akamaized.net
 spotify.com.edgesuite.net
 spotify.map.fastly.net
 spotify.map.fastlylb.net
+
+# Ads/tracking
+adeventtracker.spotify.com
+adstudio-assets.scdn.co
+bloodhound.spotify.com
 # End of spotify
 # Included from subscene
 # Subscene main site
@@ -7573,6 +7579,9 @@ roovza-launches.appsflyersdk.com
 roovza.inapps.appsflyersdk.com
 roovza.launches.appsflyersdk.com
 roovza.skadsdk.appsflyersdk.com
+
+# Ads/tracking
+.analytics.tiktok.com
 # End of tiktok
 # Included from tmdb
 .themoviedb.org
@@ -7866,6 +7875,9 @@ d2anahhhmp1ffz.cloudfront.net
 .yt.be
 .ytimg.com
 yt3.googleusercontent.com
+
+# Ads/tracking
+.ads.youtube.com
 # End of youtube
 # Included from zeetv
 .z5.app
@@ -8649,13 +8661,13 @@ bbs.boingboing.net
 .workplaceusecases.com
 
 fbcdn-a.akamaihd.net
+
+# Ads/tracking
+.analytics.facebook.com
+.facebookads.com
+.pixel.facebook.com
 # End of facebook
 # Included from instagram
-# Included from instagram-ads
-.graph.instagram.com
-.graph-fallback.instagram.com
-# End of instagram-ads
-
 .achat-followers-instagram.com
 .acheter-followers-instagram.com
 .acheterdesfollowersinstagram.com
@@ -8728,6 +8740,10 @@ fbcdn-a.akamaihd.net
 .onlineinstagram.com
 .web-instagram.net
 .wwwinstagram.com
+
+# Ads/tracking
+.graph.instagram.com
+.graph-fallback.instagram.com
 # End of instagram
 # Included from linkedin
 .bizographics.com
@@ -11463,11 +11479,6 @@ ad-display.diwodiwo.xyz
 .uux68.com
 # End of uu-chat
 # Included from xhamster
-# Included from xhamster-ads
-.collector.xhamster.com
-# End of xhamster-ads
-
-
 .xhamster.com
 .xhamster.desi
 .xhamster.xxx
@@ -11476,10 +11487,11 @@ ad-display.diwodiwo.xyz
 .xhamsterlive.com
 .xhcdn.com
 
-
 # xhamsterlive thumbnails
-
 widgets.stripst.com
+
+# Ads/tracking
+.collector.xhamster.com
 # End of xhamster
 # Included from xingkongwuxianmedia
 .avstar01.me
@@ -18973,10 +18985,6 @@ firebaseremoteconfig.googleapis.com
 .gitbook.io
 # End of gitbook
 # Included from github
-# Included from github-ads
-.collector.github.com
-.copilot-telemetry.githubusercontent.com
-# End of github-ads
 # Included from github-copilot
 .githubcopilot.com
 # End of github-copilot
@@ -19016,6 +19024,10 @@ firebaseremoteconfig.googleapis.com
 
 github-api.arkoselabs.com
 github-cloud.s3.amazonaws.com
+
+# Ads/tracking
+.collector.github.com
+.copilot-telemetry.githubusercontent.com
 # End of github
 # Included from github1s
 .github1s.com
@@ -19636,10 +19648,6 @@ wwis-dubc1-vip97.adobe.com
 wwis-dubc1-vip98.adobe.com
 wwis-dubc1-vip99.adobe.com
 # End of adobe-activation
-# Included from adobe-ads
-.advertising.adobe.com
-.tubemogul.com
-# End of adobe-ads
 # Included from typekit
 .typekit.com
 .typekit.net
@@ -19785,6 +19793,10 @@ wwis-dubc1-vip99.adobe.com
 
 # Adobe Stats IO
 .adobestats.io
+
+# Ads/tracking
+.advertising.adobe.com
+.tubemogul.com
 # End of adobe
 # Included from alibabacloud
 .alibabacloud.co.in
@@ -19797,10 +19809,6 @@ wwis-dubc1-vip99.adobe.com
 .alicloud.com
 # End of alibabacloud
 # Included from amazon
-# Included from amazon-ads
-.amazon-adsystem.com
-.serving-sys.com
-# End of amazon-ads
 # Included from amazontrust
 .amazontrust.com
 .awstrust.com
@@ -20082,6 +20090,10 @@ static.siege-amazon.com
 
 images-cn.ssl-images-amazon.com
 images-cn-8.ssl-images-amazon.com
+
+# Ads/tracking
+.amazon-adsystem.com
+.serving-sys.com
 # End of amazon
 # Included from amd
 .amd.com
@@ -20130,13 +20142,6 @@ www.amd.com
 .thirdns.de
 # End of anexia
 # Included from apple
-# Included from apple-ads
-.advertising.apple.com
-.api-adservices.apple.com
-.iadsdk.apple.com
-.iad.apple.com
-.qwapi.com
-# End of apple-ads
 # Not include:apple-intelligence
 # Included from apple-pki
 certs-lb.apple.com.akadns.net
@@ -21987,6 +21992,13 @@ weatherkit.apple.com
 www.apple.com
 www.apple.com.edgekey.net.globalredir.akadns.net
 xp.apple.com
+
+# Ads/tracking
+.advertising.apple.com
+.api-adservices.apple.com
+.iadsdk.apple.com
+.iad.apple.com
+.qwapi.com
 # End of apple
 # Included from asus
 .asus.com
@@ -23377,14 +23389,13 @@ www.dell.com
 .drweb-av.pl
 # End of drweb
 # Included from duolingo
-# Included from duolingo-ads
-.ads-api.duolingo.com
-.metrics.duolingo.com
-.analytics.vpc.duolingo.com
-# End of duolingo-ads
-
 .duolingo.com
 .duolingo.cn
+
+# Ads/tracking
+.ads-api.duolingo.com
+.analytics.vpc.duolingo.com
+.metrics.duolingo.com
 # End of duolingo
 # Included from faronics
 .clickedu.co.uk
@@ -23565,65 +23576,6 @@ firebaseremoteconfig.googleapis.com
 .golang.net
 .golang.org
 # End of golang
-# Included from google-ads
-.2mdn-cn.net
-.2mdn.net
-.admob-cn.com
-.admob.com
-.ads.youtube.com
-.adsense.com
-.adsensecustomsearchads.com
-.adsenseformobileapps.com
-.adservice.google.com
-.adtrafficquality.google
-.advertisercommunity.com
-.advertiserscommunity.com
-.adwords-community.com
-.adwords.com
-.adwordsexpress.com
-.analytics-alv.google.com
-.app-analytics-services.com
-.app-analytics-services-att.com
-.app-measurement-cn.com
-.app-measurement.com
-.doubleclick-cn.net
-.doubleclick.cn
-.doubleclick.com
-.doubleclick.net
-.fcmatch.google.com
-.google-analytics-cn.com
-.google-analytics.com
-.googleadapis.com
-.googleadapis.l.google.com
-.googleads-cn.com
-.googleads.com
-.googleadservices-cn.com
-.googleadservices.com
-.googleadsserving.cn
-.googleanalytics.com
-.googleoptimize-cn.com
-.googleoptimize.com
-.googlesyndication-cn.com
-.googlesyndication.com
-.googletagmanager-cn.com
-.googletagmanager.com
-.googletagservices-cn.com
-.googletagservices.com
-.googletraveladservices-cn.com
-.googletraveladservices.com
-.googlevads-cn.com
-.mail-ads.google.com
-.mobileads.google.com
-.marketingplatform.google.com
-.pagead.l.google.com
-.partnerad.l.google.com
-.urchin.com
-
-analytics.google.com
-# https://github.com/AdguardTeam/FiltersRegistry/pull/1154
-# full:fundingchoicesmessages.google.com @ads
-
-# End of google-ads
 # Included from google-deepmind
 # Google DeepMind
 .deepmind.com
@@ -24091,6 +24043,9 @@ mtalk4.google.com
 .yt.be
 .ytimg.com
 yt3.googleusercontent.com
+
+# Ads/tracking
+.ads.youtube.com
 # End of youtube
 
 # All .and domains
@@ -24608,6 +24563,62 @@ yt3.googleusercontent.com
 # Google safe browsing relay
 # https://www.fastly.com/press/press-releases/google-selects-Fastly-Oblivious-HTTP-Relay-for-Privacy-Sandbox/
 google-ohttp-relay-safebrowsing.fastly-edge.com
+
+# Ads/tracking
+.2mdn-cn.net
+.2mdn.net
+.admob-cn.com
+.admob.com
+.adsense.com
+.adsensecustomsearchads.com
+.adsenseformobileapps.com
+.adservice.google.com
+.adtrafficquality.google
+.advertisercommunity.com
+.advertiserscommunity.com
+.adwords-community.com
+.adwords.com
+.adwordsexpress.com
+.analytics-alv.google.com
+.app-analytics-services.com
+.app-analytics-services-att.com
+.app-measurement-cn.com
+.app-measurement.com
+.doubleclick-cn.net
+.doubleclick.cn
+.doubleclick.com
+.doubleclick.net
+.fcmatch.google.com
+.google-analytics-cn.com
+.google-analytics.com
+.googleadapis.com
+.googleadapis.l.google.com
+.googleads-cn.com
+.googleads.com
+.googleadservices-cn.com
+.googleadservices.com
+.googleadsserving.cn
+.googleanalytics.com
+.googleoptimize-cn.com
+.googleoptimize.com
+.googlesyndication-cn.com
+.googlesyndication.com
+.googletagmanager-cn.com
+.googletagmanager.com
+.googletagservices-cn.com
+.googletagservices.com
+.googletraveladservices-cn.com
+.googletraveladservices.com
+.googlevads-cn.com
+.mail-ads.google.com
+.mobileads.google.com
+.marketingplatform.google.com
+.pagead.l.google.com
+.partnerad.l.google.com
+.urchin.com
+analytics.google.com
+# https://github.com/AdguardTeam/FiltersRegistry/pull/1154
+# full:fundingchoicesmessages.google.com @ads
 
 # Domains and services below are available in China mainland
 # Use in config file like this: "geosite:google@cn"
@@ -26103,6 +26114,11 @@ tp.louisvuitton.com
 .workplaceusecases.com
 
 fbcdn-a.akamaihd.net
+
+# Ads/tracking
+.analytics.facebook.com
+.facebookads.com
+.pixel.facebook.com
 # End of facebook
 # Included from facebook-dev
 .accountkit.com
@@ -26152,7 +26168,6 @@ fbcdn-a.akamaihd.net
 developers.facebook.com
 # End of facebook-dev
 # Included from instagram
-
 .achat-followers-instagram.com
 .acheter-followers-instagram.com
 .acheterdesfollowersinstagram.com
@@ -26225,6 +26240,10 @@ developers.facebook.com
 .onlineinstagram.com
 .web-instagram.net
 .wwwinstagram.com
+
+# Ads/tracking
+.graph.instagram.com
+.graph-fallback.instagram.com
 # End of instagram
 # Included from messenger
 .fbmessenger.com
@@ -26256,7 +26275,6 @@ developers.facebook.com
 .threads.net
 # End of threads
 # Included from whatsapp
-
 .wa.me
 .whatsapp-plus.info
 .whatsapp-plus.me
@@ -26268,6 +26286,10 @@ developers.facebook.com
 .whatsapp.org
 .whatsapp.tv
 .whatsappbrand.com
+
+# Ads/tracking
+.graph.whatsapp.com
+.graph.whatsapp.net
 # End of whatsapp
 
 .llama.com
@@ -26506,20 +26528,11 @@ emoi-cncdn.bing.com
 
 github-api.arkoselabs.com
 github-cloud.s3.amazonaws.com
-# End of github
-# Included from microsoft-ads
-# Included from github-ads
+
+# Ads/tracking
 .collector.github.com
 .copilot-telemetry.githubusercontent.com
-# End of github-ads
-
-.browser.events.data.msn.cn
-.browser.events.data.msn.com
-.clarity.ms
-.microsoftads.com
-.msads.net
-.nelreports.net
-# End of microsoft-ads
+# End of github
 # Included from microsoft-dev
 .adaptivecards.io
 .api-extractor.com
@@ -26623,6 +26636,10 @@ www.microsoft.com
 .msnkids.com
 .microsoftstart.com
 .start.com
+
+# Ads/tracking
+.browser.events.data.msn.cn
+.browser.events.data.msn.com
 # End of msn
 # Included from onedrive
 .1drv.com
@@ -26966,6 +26983,12 @@ www.microsoft.com
 # Skype CDN
 .skype-edf.akadns.net
 .skypedata.akadns.net
+
+# Ads/tracking
+.clarity.ms
+.microsoftads.com
+.msads.net
+.nelreports.net
 
 # Domains and services below are available in China mainland
 # Use in config file like this: "geosite:microsoft@cn"
@@ -27981,6 +28004,11 @@ impala-media-production.s3.amazonaws.com
 .yusercontent.com
 
 cdn.js7k.com
+
+# Ads/tracking
+.ads.yahoo.com
+.gemini.yahoo.com
+.ysm.yahoo.com
 # End of yahoo
 # Included from yandex
 # All .yandex domains

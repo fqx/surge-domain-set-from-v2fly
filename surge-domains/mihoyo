@@ -22,6 +22,9 @@
 
 # 絕區零(Zenless Zone Zero)
 .zenlesszonezero.com
+
+# ads/tracking
+.log-upload-os.hoyoverse.com
 # End of hoyoverse
 # Included from mihoyo-cn
 # 米哈游
@@ -54,9 +57,7 @@
 .juequling.com
 
 # Akamai
-# End of mihoyo-cn
 
-# Included from mihoyo-ads
-.log-upload-os.hoyoverse.com
+# Ads/tracking
 .log-upload.mihoyo.com
-# End of mihoyo-ads
+# End of mihoyo-cn

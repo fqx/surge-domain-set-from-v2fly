@@ -147,10 +147,6 @@ wwis-dubc1-vip97.adobe.com
 wwis-dubc1-vip98.adobe.com
 wwis-dubc1-vip99.adobe.com
 # End of adobe-activation
-# Included from adobe-ads
-.advertising.adobe.com
-.tubemogul.com
-# End of adobe-ads
 # Included from typekit
 .typekit.com
 .typekit.net
@@ -296,3 +292,7 @@ wwis-dubc1-vip99.adobe.com
 
 # Adobe Stats IO
 .adobestats.io
+
+# Ads/tracking
+.advertising.adobe.com
+.tubemogul.com

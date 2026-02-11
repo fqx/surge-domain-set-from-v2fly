@@ -457,6 +457,9 @@ gog-cdn.akamaized.net
 
 # 絕區零(Zenless Zone Zero)
 .zenlesszonezero.com
+
+# ads/tracking
+.log-upload-os.hoyoverse.com
 # End of hoyoverse
 # Included from illusion
 .illusion.co.jp
@@ -1878,6 +1881,11 @@ heads4-ak-spotify-com.akamaized.net
 spotify.com.edgesuite.net
 spotify.map.fastly.net
 spotify.map.fastlylb.net
+
+# Ads/tracking
+adeventtracker.spotify.com
+adstudio-assets.scdn.co
+bloodhound.spotify.com
 # End of spotify
 # Included from subscene
 # Subscene main site
@@ -1928,6 +1936,9 @@ roovza-launches.appsflyersdk.com
 roovza.inapps.appsflyersdk.com
 roovza.launches.appsflyersdk.com
 roovza.skadsdk.appsflyersdk.com
+
+# Ads/tracking
+.analytics.tiktok.com
 # End of tiktok
 # Included from tmdb
 .themoviedb.org
@@ -2221,6 +2232,9 @@ d2anahhhmp1ffz.cloudfront.net
 .yt.be
 .ytimg.com
 yt3.googleusercontent.com
+
+# Ads/tracking
+.ads.youtube.com
 # End of youtube
 # Included from zeetv
 .z5.app

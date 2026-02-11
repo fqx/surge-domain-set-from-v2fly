@@ -283,10 +283,6 @@ firebaseremoteconfig.googleapis.com
 .gitbook.io
 # End of gitbook
 # Included from github
-# Included from github-ads
-.collector.github.com
-.copilot-telemetry.githubusercontent.com
-# End of github-ads
 # Included from github-copilot
 .githubcopilot.com
 # End of github-copilot
@@ -326,6 +322,10 @@ firebaseremoteconfig.googleapis.com
 
 github-api.arkoselabs.com
 github-cloud.s3.amazonaws.com
+
+# Ads/tracking
+.collector.github.com
+.copilot-telemetry.githubusercontent.com
 # End of github
 # Included from github1s
 .github1s.com

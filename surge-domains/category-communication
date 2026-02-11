@@ -166,11 +166,6 @@ hammerandchisel.ssl.zendesk.com
 .vbcdn.net
 # End of viber
 # Included from whatsapp
-# Included from whatsapp-ads
-.graph.whatsapp.com
-.graph.whatsapp.net
-# End of whatsapp-ads
-
 .wa.me
 .whatsapp-plus.info
 .whatsapp-plus.me
@@ -182,4 +177,8 @@ hammerandchisel.ssl.zendesk.com
 .whatsapp.org
 .whatsapp.tv
 .whatsappbrand.com
+
+# Ads/tracking
+.graph.whatsapp.com
+.graph.whatsapp.net
 # End of whatsapp

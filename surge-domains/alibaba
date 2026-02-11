@@ -13,79 +13,6 @@
 # Included from 9game
 .9game.cn
 # End of 9game
-# Included from alibaba-ads
-# Included from amap-ads
-.adashx.ut.amap.com
-.dualstack-logs.amap.com
-.logs.amap.com
-.optimus-ads.amap.com
-.v6-adashx.ut.amap.com
-# End of amap-ads
-# Included from youku-ads
-.ad.api.3g.youku.com
-.ad.api.mobile.youku.com
-.ad.mobile.youku.com
-.adashx.ut.youku.com
-.atm.youku.com
-.e.stat.ykimg.com
-.ems.youku.com
-.guanggaoad.youku.com
-.h-adashx.ut.youku.com
-.lstat.youku.com
-.mobilemsg.youku.com
-.msg.youku.com
-.p-log.ykimg.com
-.passport-log.youku.com
-.pl.youku.com
-.s-adashx.ut.youku.com
-.stat.youku.com
-.statis.api.3g.youku.com
-.v6-adashx.ut.youku.com
-.yk-ssp.ad.youku.com
-.ykad-data.youku.com
-# End of youku-ads
-
-.a.alimama.cn
-.acjs.aliyun.com
-.adash-c.m.taobao.com
-.adash-c.ut.taobao.com
-.adash-emas.cn-hangzhou.aliyuncs.com
-.adash.m.taobao.com
-.adash.man.aliyuncs.com
-.adashbc.m.taobao.com
-.adashbc.ut.taobao.com
-.adashx.m.taobao.com
-.adashx.ut.ele.me
-.adashx4ae.ut.taobao.com
-.adashx4yt.m.taobao.com
-.adashxgc.ut.taobao.com
-.ads.uc.cn
-.adsh.m.taobao.com
-.adslot.uc.cn
-.adtrack.quark.cn
-.alimama.alicdn.com
-.atanx.alicdn.com
-.atanx2.alicdn.com
-.baichuan-sdk.alicdn.com
-.c-adash.m.taobao.com
-.fourier.taobao.com
-.g.click.taobao.com
-.h-adashx.ut.ele.me
-.h-adashx.ut.taobao.com
-.h-adashx4yt.ut.taobao.com
-.log.umtrack.com
-.m-adash.m.taobao.com
-.marketing.alibaba.com
-.nbsdk-baichuan.alicdn.com
-.nbsdk-baichuan.taobao.com
-.retcode.taobao.com
-.tce.alicdn.com
-.tns.simba.taobao.com
-.track.lc.quark.cn
-.v6-adashx.ut.cainiao.com
-.v6-adashx.ut.ele.me
-.v6-adashx.ut.taobao.com
-# End of alibaba-ads
 # Included from alibabacloud
 .alibabacloud.co.in
 .alibabacloud.com
@@ -166,6 +93,17 @@
 .oss-me-east-1.aliyuncs.com
 .oss-us-east-1.aliyuncs.com
 .oss-us-west-1.aliyuncs.com
+
+# Ads/tracking
+.acjs.aliyun.com
+.adash-emas.cn-hangzhou.aliyuncs.com
+.adash.man.aliyuncs.com
+.alimama.alicdn.com
+.atanx.alicdn.com
+.atanx2.alicdn.com
+.baichuan-sdk.alicdn.com
+.nbsdk-baichuan.alicdn.com
+.tce.alicdn.com
 # End of aliyun
 # Included from aliyun-drive
 .alicloudccp.com
@@ -175,12 +113,34 @@
 .aliyundrive.net
 .yunpan.aliyun.com
 # End of aliyun-drive
+# Included from amap
+.a-map.cn
+.a-map.co
+.a-map.link
+.a-map.vip
+.acloudrender.com
+.amap.com
+.amapauto.com
+.anav.com
+.autonavi.com
+.gaode.com
+
+# Ads/tracking
+.adashx.ut.amap.com
+.dualstack-logs.amap.com
+.logs.amap.com
+.optimus-ads.amap.com
+.v6-adashx.ut.amap.com
+# End of amap
 # Included from cainiao
 .cainiao-inc.com
 .cainiao.com
 .cainiao.com.cn
 .cainiaoyizhan.com
 .guoguo-app.com
+
+# Ads/tracking
+.v6-adashx.ut.cainiao.com
 # End of cainiao
 # Included from dingtalk
 .ddurl.to
@@ -203,6 +163,11 @@
 .elemecdn.cn
 .elemecdn.com
 .elenet.me
+
+# Ads/tracking
+.adashx.ut.ele.me
+.h-adashx.ut.ele.me
+.v6-adashx.ut.ele.me
 # End of eleme
 # Included from teambition
 .teambition.com
@@ -214,9 +179,24 @@
 .uc123.com
 .ucweb.com
 .uczzd.cn
+
+# Ads/tracking
+.ads.uc.cn
+.adslot.uc.cn
 # End of uc
 # Included from umeng
-# Included from umeng-ads
+.cnzz.com
+.mobmore.com
+.puata.info
+.shujupie.com
+.umeng.com
+.umengcloud.com
+.umsns.com
+.umtrack.com
+.uyunad.com
+.whalecloud.com
+
+# Ads/tracking
 .aaid.umeng.com
 .alog.umeng.com
 .alog.umengcloud.com
@@ -228,9 +208,7 @@
 .ccs.umeng.com
 .cnlogs.umeng.com
 .cnlogs.umengcloud.com
-# https://github.com/TG-Twilight/AWAvenue-Ads-Rule/issues/185
-# errlog.umeng.com @ads
-# errnewlog.umeng.com @ads
+.log.umtrack.com
 .new-aaid.umeng.com
 .new-aaid.umeng.com.gds.alibabadns.com
 .oc.umeng.com
@@ -239,22 +217,12 @@
 .ulogs.umeng.com
 .ulogs.umengcloud.com
 .utoken.umeng.com
-
-# CNZZ
 .w.cnzz.com
 .z.gds.cnzz.com
-# End of umeng-ads
 
-.cnzz.com
-.mobmore.com
-.puata.info
-.shujupie.com
-.umeng.com
-.umengcloud.com
-.umsns.com
-.umtrack.com
-.uyunad.com
-.whalecloud.com
+# https://github.com/TG-Twilight/AWAvenue-Ads-Rule/issues/185
+# errlog.umeng.com @ads
+# errnewlog.umeng.com @ads
 # End of umeng
 # Included from youku
 # youku uses some alicdn services, so this must use with domain list "alibaba"
@@ -269,6 +237,29 @@
 
 # youku video cdn
 .cibntv.net
+
+# Ads/tracking
+.ad.api.3g.youku.com
+.ad.api.mobile.youku.com
+.ad.mobile.youku.com
+.adashx.ut.youku.com
+.atm.youku.com
+.e.stat.ykimg.com
+.ems.youku.com
+.guanggaoad.youku.com
+.h-adashx.ut.youku.com
+.lstat.youku.com
+.mobilemsg.youku.com
+.msg.youku.com
+.p-log.ykimg.com
+.passport-log.youku.com
+.pl.youku.com
+.s-adashx.ut.youku.com
+.stat.youku.com
+.statis.api.3g.youku.com
+.v6-adashx.ut.youku.com
+.yk-ssp.ad.youku.com
+.ykad-data.youku.com
 # End of youku
 
 .25pp.com
@@ -444,28 +435,6 @@
 .fliggy.hk
 .iuynfg.com
 
-# 高德地图
-# Included from amap
-# Included from amap-ads
-.adashx.ut.amap.com
-.dualstack-logs.amap.com
-.logs.amap.com
-.optimus-ads.amap.com
-.v6-adashx.ut.amap.com
-# End of amap-ads
-
-.a-map.cn
-.a-map.co
-.a-map.link
-.a-map.vip
-.acloudrender.com
-.amap.com
-.amapauto.com
-.anav.com
-.autonavi.com
-.gaode.com
-# End of amap
-
 # 虾米音乐
 .xiami.com
 .xiami.fm
@@ -495,3 +464,29 @@
 .lydass.cn
 .lydass.com.cn
 .lydass.net
+
+# Ads/tracking
+.a.alimama.cn
+.adash-c.m.taobao.com
+.adash-c.ut.taobao.com
+.adash.m.taobao.com
+.adashbc.m.taobao.com
+.adashbc.ut.taobao.com
+.adashx.m.taobao.com
+.adashx4ae.ut.taobao.com
+.adashx4yt.m.taobao.com
+.adashxgc.ut.taobao.com
+.adsh.m.taobao.com
+.adtrack.quark.cn
+.c-adash.m.taobao.com
+.fourier.taobao.com
+.g.click.taobao.com
+.h-adashx.ut.taobao.com
+.h-adashx4yt.ut.taobao.com
+.m-adash.m.taobao.com
+.marketing.alibaba.com
+.nbsdk-baichuan.taobao.com
+.retcode.taobao.com
+.tns.simba.taobao.com
+.track.lc.quark.cn
+.v6-adashx.ut.taobao.com

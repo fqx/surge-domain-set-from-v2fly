@@ -396,6 +396,11 @@
 .workplaceusecases.com
 
 fbcdn-a.akamaihd.net
+
+# Ads/tracking
+.analytics.facebook.com
+.facebookads.com
+.pixel.facebook.com
 # End of facebook
 # Included from facebook-dev
 .accountkit.com
@@ -445,11 +450,6 @@ fbcdn-a.akamaihd.net
 developers.facebook.com
 # End of facebook-dev
 # Included from instagram
-# Included from instagram-ads
-.graph.instagram.com
-.graph-fallback.instagram.com
-# End of instagram-ads
-
 .achat-followers-instagram.com
 .acheter-followers-instagram.com
 .acheterdesfollowersinstagram.com
@@ -522,6 +522,10 @@ developers.facebook.com
 .onlineinstagram.com
 .web-instagram.net
 .wwwinstagram.com
+
+# Ads/tracking
+.graph.instagram.com
+.graph-fallback.instagram.com
 # End of instagram
 # Included from messenger
 .fbmessenger.com
@@ -553,11 +557,6 @@ developers.facebook.com
 .threads.net
 # End of threads
 # Included from whatsapp
-# Included from whatsapp-ads
-.graph.whatsapp.com
-.graph.whatsapp.net
-# End of whatsapp-ads
-
 .wa.me
 .whatsapp-plus.info
 .whatsapp-plus.me
@@ -569,6 +568,10 @@ developers.facebook.com
 .whatsapp.org
 .whatsapp.tv
 .whatsappbrand.com
+
+# Ads/tracking
+.graph.whatsapp.com
+.graph.whatsapp.net
 # End of whatsapp
 
 .llama.com

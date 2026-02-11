@@ -130,6 +130,9 @@
 .juequling.com
 
 # Akamai
+
+# Ads/tracking
+.log-upload.mihoyo.com
 # End of mihoyo-cn
 # Included from tencent-games
 .battlecare.net
@@ -327,9 +330,8 @@
 .acfunchina.net
 .aixifan.com
 
-# Included from acfun-ads
+# Ads/tracking
 apilog-web.acfun.cn
-# End of acfun-ads
 # End of acfun
 # Included from acplay
 .acplay.net
@@ -453,24 +455,6 @@ apilog-web.acfun.cn
 .jvcsmart.com.cn
 # End of fengxing
 # Included from fqnovel
-# Included from fqnovel-ads
-ads3-normal-hl.zijieapi.com
-ads3-normal.zijieapi.com
-ads5-normal-hl.zijieapi.com
-ads5-normal.zijieapi.com
-log3-applog-hl.fqnovel.com
-log3-applog.fqnovel.com
-log5-applog-hl.fqnovel.com
-log5-applog.fqnovel.com
-p3-ad-sign.byteimg.com
-p6-ad-sign.byteimg.com
-p9-ad-sign.byteimg.com
-rtlog3-applog-hl.fqnovel.com
-rtlog3-applog.fqnovel.com
-rtlog5-applog-hl.fqnovel.com
-rtlog5-applog.fqnovel.com
-# End of fqnovel-ads
-
 .activity-zhendingtech.com
 .changdunovel.com
 .fanqienovel.com
@@ -502,6 +486,23 @@ rtlog5-applog.fqnovel.com
 
 p3-novel.byteimg.com
 p6-novel.byteimg.com
+
+# Ads/tracking
+ads3-normal-hl.zijieapi.com
+ads3-normal.zijieapi.com
+ads5-normal-hl.zijieapi.com
+ads5-normal.zijieapi.com
+log3-applog-hl.fqnovel.com
+log3-applog.fqnovel.com
+log5-applog-hl.fqnovel.com
+log5-applog.fqnovel.com
+p3-ad-sign.byteimg.com
+p6-ad-sign.byteimg.com
+p9-ad-sign.byteimg.com
+rtlog3-applog-hl.fqnovel.com
+rtlog3-applog.fqnovel.com
+rtlog5-applog-hl.fqnovel.com
+rtlog5-applog.fqnovel.com
 # End of fqnovel
 # Included from gamersky
 .gamersky.com
@@ -518,14 +519,6 @@ p6-novel.byteimg.com
 # End of gitv
 # Included from hunantv
 # 湖南广电（芒果TV）
-# Included from hunantv-ads
-.click.hunantv.com
-.da.hunantv.com
-.da.mgtv.com
-.log.hunantv.com
-.log.v2.hunantv.com
-.res.hunantv.com
-# End of hunantv-ads
 .hifuntv.com
 .hitv.com
 .hnbntv.com
@@ -533,6 +526,14 @@ p6-novel.byteimg.com
 .hunantv.com
 .imgo.tv
 .mgtv.com
+
+# Ads/tracking
+.click.hunantv.com
+.da.hunantv.com
+.da.mgtv.com
+.log.hunantv.com
+.log.v2.hunantv.com
+.res.hunantv.com
 # End of hunantv
 # Included from huya
 .huya.com
@@ -548,17 +549,6 @@ p6-novel.byteimg.com
 .kuaikanmanhua.com
 # End of kuaikan
 # Included from kuaishou
-# Included from kuaishou-ads
-.adbkwai.com
-.adkwai.com
-.adukwai.com
-.e.kuaishou.cn
-.e.kuaishou.com
-
-log-sdk.gifshow.com
-wlog.kuaishou.com
-# End of kuaishou-ads
-
 .ecukwai.com
 .gifshow.com
 .inkuai.com
@@ -575,14 +565,17 @@ wlog.kuaishou.com
 .kwimgs.com
 .wsukwai.com
 .yximgs.com
+
+# Ads/tracking
+.adbkwai.com
+.adkwai.com
+.adukwai.com
+.e.kuaishou.cn
+.e.kuaishou.com
+log-sdk.gifshow.com
+wlog.kuaishou.com
 # End of kuaishou
 # Included from kugou
-# Included from kugou-ads
-.ads.service.kugou.com
-.adserviceretry.kglink.cn
-.adserviceretry.kugou.com
-# End of kugou-ads
-
 .fanxingliveshow.com
 .kgimg.com
 .kglink.cn
@@ -599,6 +592,11 @@ wlog.kuaishou.com
 .kugoustore.com
 .kugouvoice.com
 .kugouyouth.com
+
+# Ads/tracking
+.ads.service.kugou.com
+.adserviceretry.kglink.cn
+.adserviceretry.kugou.com
 # End of kugou
 # Included from kuwo
 .koowo.cn
@@ -606,13 +604,6 @@ wlog.kuaishou.com
 .kuwo.cn
 # End of kuwo
 # Included from le
-# Included from letv-ads
-.apple.www.letv.com
-.ark.letv.com
-.dc.letv.com
-.g3.letv.com
-# End of letv-ads
-
 .le.com
 .leautolink.com
 .lecloud.com
@@ -622,6 +613,12 @@ wlog.kuaishou.com
 .letv.com
 .letvcdn.com
 .letvimg.com
+
+# Ads/tracking
+.apple.www.letv.com
+.ark.letv.com
+.dc.letv.com
+.g3.letv.com
 # End of le
 # Included from lizhi
 .lizhi.fm
@@ -696,6 +693,11 @@ wlog.kuaishou.com
 # Included from ximalaya
 .ximalaya.com
 .xmcdn.com
+
+# Ads/tracking
+.adbehavior.ximalaya.com
+.adse.wsa.ximalaya.com
+.adse.ximalaya.com
 # End of ximalaya
 # Included from youku
 # youku uses some alicdn services, so this must use with domain list "alibaba"
@@ -710,24 +712,30 @@ wlog.kuaishou.com
 
 # youku video cdn
 .cibntv.net
+
+# Ads/tracking
+.ad.api.3g.youku.com
+.ad.api.mobile.youku.com
+.ad.mobile.youku.com
+.adashx.ut.youku.com
+.atm.youku.com
+.e.stat.ykimg.com
+.ems.youku.com
+.guanggaoad.youku.com
+.h-adashx.ut.youku.com
+.lstat.youku.com
+.mobilemsg.youku.com
+.msg.youku.com
+.p-log.ykimg.com
+.passport-log.youku.com
+.pl.youku.com
+.s-adashx.ut.youku.com
+.stat.youku.com
+.statis.api.3g.youku.com
+.v6-adashx.ut.youku.com
+.yk-ssp.ad.youku.com
+.ykad-data.youku.com
 # End of youku
-# Included from yuewen
-.yuewen.com
-
-# webnovel is not serving for cn
-# include:webnovel
-
-.hongxiu.com
-.lrts.me
-.qdmm.com
-.qidian.com
-.readnovel.com
-.rongshuxia.com
-.tingbook.com
-.xs.cn
-.xs8.cn
-.xxsy.net
-# End of yuewen
 
 # Android Emulator
 .ldmnq.com

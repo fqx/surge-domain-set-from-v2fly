@@ -328,11 +328,6 @@ www.microsoft.com
 .flickr.net
 .staticflickr.com
 # End of flickr
-# Included from yahoo-ads
-.ads.yahoo.com
-.gemini.yahoo.com
-.ysm.yahoo.com
-# End of yahoo-ads
 
 # All .yahoo domains
 .yahoo
@@ -506,6 +501,11 @@ www.microsoft.com
 .yusercontent.com
 
 cdn.js7k.com
+
+# Ads/tracking
+.ads.yahoo.com
+.gemini.yahoo.com
+.ysm.yahoo.com
 # End of yahoo
 
 .oath.cloud

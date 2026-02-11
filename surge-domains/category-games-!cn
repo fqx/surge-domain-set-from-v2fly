@@ -422,6 +422,9 @@ gog-cdn.akamaized.net
 
 # 絕區零(Zenless Zone Zero)
 .zenlesszonezero.com
+
+# ads/tracking
+.log-upload-os.hoyoverse.com
 # End of hoyoverse
 # Included from illusion
 .illusion.co.jp

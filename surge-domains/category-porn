@@ -671,11 +671,6 @@ ad-display.diwodiwo.xyz
 .uux68.com
 # End of uu-chat
 # Included from xhamster
-# Included from xhamster-ads
-.collector.xhamster.com
-# End of xhamster-ads
-
-
 .xhamster.com
 .xhamster.desi
 .xhamster.xxx
@@ -684,10 +679,11 @@ ad-display.diwodiwo.xyz
 .xhamsterlive.com
 .xhcdn.com
 
-
 # xhamsterlive thumbnails
-
 widgets.stripst.com
+
+# Ads/tracking
+.collector.xhamster.com
 # End of xhamster
 # Included from xingkongwuxianmedia
 .avstar01.me
