@@ -22,6 +22,24 @@ csis-prod.s3.amazonaws.com
 .f-droid.org
 .fdroid.org
 # End of f-droid
+# Included from grapheneos
+.attestation.app
+.grapheneos.app
+.grapheneos.ca
+.grapheneos.com
+.grapheneos.dev
+.grapheneos.foundation
+.grapheneos.info
+.grapheneos.net
+.grapheneos.network
+.grapheneos.online
+.grapheneos.org
+.grapheneos.ovh
+.grapheneos.page
+.grapheneos.social
+.seamlessupdate.app
+.vanadium.app
+# End of grapheneos
 # Included from ieee
 .ieee.org
 .ieee.tv
