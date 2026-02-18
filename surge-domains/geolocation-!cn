@@ -3755,6 +3755,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 .bingx.com
 .bitbank.cc
 .bitcoin.org
+.bitcoincore.org
 .bitfinex.com
 .bitget.com
 .bitmex.com
@@ -6811,6 +6812,20 @@ prodforza.blob.core.windows.net
 # Included from ynoproject
 .ynoproject.net
 # End of ynoproject
+# Included from yostar
+# Yostar
+.yo-star.com
+.yostar.cn
+.yostar.co.jp
+.yostar.net
+.yostarplat.com
+# Yostar Pictures
+.yostar-pictures.co.jp
+# Stella Sora
+.stargazer-games.com
+.stellasora.global
+.stellasora.jp
+# End of yostar
 
 .dinopoloclub.com
 .dodi-repacks.download
@@ -28229,6 +28244,26 @@ cdn.js7k.com
 # Weather service
 yandex-pogoda.static-storage.net
 # End of yandex
+# Included from zscaler
+# https://crt.sh/?id=23639384976
+.securecloudtransformation.com
+.securitypreview.com
+.threatlabz.com
+.zdxbeta.net
+.zdxcloud.net
+.zpagov.net
+.zpath.com
+.zscaler.com
+.zscaler.jp
+.zscaler.net
+.zscalerbeta.net
+.zscalergov.net
+.zscalerone.net
+.zscalershift.com
+.zscalerthree.net
+.zscalertwo.net
+.zscloud.net
+# End of zscaler
 
 # Remote Control
 # Included from category-remote-control

@@ -8895,6 +8895,26 @@ cdn.js7k.com
 # Weather service
 yandex-pogoda.static-storage.net
 # End of yandex
+# Included from zscaler
+# https://crt.sh/?id=23639384976
+.securecloudtransformation.com
+.securitypreview.com
+.threatlabz.com
+.zdxbeta.net
+.zdxcloud.net
+.zpagov.net
+.zpath.com
+.zscaler.com
+.zscaler.jp
+.zscaler.net
+.zscalerbeta.net
+.zscalergov.net
+.zscalerone.net
+.zscalershift.com
+.zscalerthree.net
+.zscalertwo.net
+.zscloud.net
+# End of zscaler
 
 # Remote Control
 # Included from category-remote-control
