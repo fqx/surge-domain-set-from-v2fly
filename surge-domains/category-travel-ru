@@ -1,0 +1,45 @@
+# Aviasales
+# Included from aviasales
+.avs.io
+.aviasales.ru
+.aviasales.com
+# End of aviasales
+
+# BlaBlaCar
+.blablacar.ru
+
+# Bus stations
+.avtovokzaly.ru
+
+# Ostrovok
+.ostrovok.ru
+
+# Othello from 2GIS
+.otello.ru
+
+# Public transport and ticketing
+# Included from mosmetro
+.mosmetro.ru
+.mosmetro.tech
+# End of mosmetro
+bilet.nspk.ru
+metro.spb.ru
+mos.transport.vtb.ru
+podorozhnik.spb.ru
+transport.mos.ru
+.gorodpay.ru
+.rrtp.ru
+.sbertroika.ru
+
+# Russian Railways
+.rzd-bonus.ru
+.rzd.ru
+
+# Tutu
+.tutu.ru
+
+# Yandex Rent
+arenda.yandex.ru
+
+# Yandex Taxi
+taxi.yandex.ru

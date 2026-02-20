@@ -58,8 +58,10 @@
 .yastatic.net
 
 # Watching movies, included in the Yandex subscription
+# Included from kinopoisk
 .kinopoisk.ru
 .kinopoisk-ru.clstorage.net
+# End of kinopoisk
 
 # Weather service
 yandex-pogoda.static-storage.net

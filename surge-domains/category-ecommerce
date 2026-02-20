@@ -1,4 +1,8 @@
 # Included from category-ecommerce-ru
+# Included from avito
+.avito.ru
+.avito.st
+# End of avito
 # Included from ozon
 .ozon.ru
 .ozone.ru

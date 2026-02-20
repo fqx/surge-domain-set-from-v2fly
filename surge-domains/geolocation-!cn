@@ -1717,6 +1717,48 @@ tesla-cdn.thron.com
 .yomabank.com
 .ysx-mm.com
 # End of category-bank-mm
+# Included from category-bank-ru
+# Alfa Bank
+.alfabank.ru
+
+# GazpromBank
+.gazprombank.ru
+.gpb.ru
+
+# Mts dengi
+.dbo-dengi.online
+.mtsdengi.ru
+
+# PSB Bank
+.psbank.ru
+
+# RosBank
+.bankline.ru
+.rosbank.ru
+
+# RUSSIA Bank
+.abr.ru
+
+# Russian Agricultural Bank
+.rshb.ru
+
+# SberBank
+.sber.ru
+.sberbank.com
+.sberbank.ru
+
+# T-Bank (Tinkoff)
+.cdn-tinkoff.ru
+.tbank-online.com
+.tbank.ru
+
+# Tochka bank
+.tochka-tech.com
+.tochka.com
+
+# VTB Bank
+.vtb.ru
+# End of category-bank-ru
 
 # Included from fibank
 .fibank.bg
@@ -3815,6 +3857,10 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 # E-commerce
 # Included from category-ecommerce
 # Included from category-ecommerce-ru
+# Included from avito
+.avito.ru
+.avito.st
+# End of avito
 # Included from ozon
 .ozon.ru
 .ozone.ru
@@ -5752,21 +5798,42 @@ chinapower.csis.org
 .bowlroll.net
 # End of category-acg
 # Included from category-entertainment-ru
+# CDNvideo is a leading CDN provider in Russia and the CIS
+.cdnvideo.ru
+.trbcdn.net
+
+# Information about films and series
+.kinorium.com
+
+# Streaming services for watching TV series and movies
+# Included from kinopoisk
+.kinopoisk.ru
+.kinopoisk-ru.clstorage.net
+# End of kinopoisk
 # Included from okko
 .playfamily.ru
 .okko.sport
 .okko.tv
 # End of okko
+# Included from wink
+.restream-media.net
+.wink.ru
+# End of wink
+.24h.tv
+.amediateka.ru
+.ivi.ru
+.premier.one
+.smotreshka.tv
+.start.ru
+.tvigle.ru
+.viju.ru
+
+# Video hosting
 # Included from rutube
 .rutube.ru
 .rutubelist.ru
 .rtbcdn.ru
 # End of rutube
-# Included from wink
-.ngenix.net
-.restream-media.net
-.wink.ru
-# End of wink
 # End of category-entertainment-ru
 # Included from category-games-!cn
 # Included from blizzard
@@ -8033,6 +8100,7 @@ yt3.googleusercontent.com
 .kpacg.com
 .linetv.tw
 .megaphone.fm
+.megogo.net
 .mikanani.me
 .moov.hk
 .odysee.com
@@ -11384,6 +11452,7 @@ misa-prod.s3.ap-northeast-1.amazonaws.com
 # Included from missav
 .missav.ai
 .missav.com
+.missav.live
 .missav.uno
 .missav.vip
 .missav.ws
@@ -13850,6 +13919,8 @@ widgets.stripst.com
 .hegre.com
 .heiguab.top
 .heijidi.life
+.heiliao.com
+.heiliao88.com
 .heise360181.buzz
 .heise360182.buzz
 .helixstudios.net
@@ -25879,7 +25950,9 @@ tp.louisvuitton.com
 
 .boosty.to
 .donationalerts.com
+.max.ru
 .memealerts.com
+.oneme.ru
 .tamtam.chat
 # End of mailru-group
 # Included from meta
@@ -28238,8 +28311,10 @@ cdn.js7k.com
 .yastatic.net
 
 # Watching movies, included in the Yandex subscription
+# Included from kinopoisk
 .kinopoisk.ru
 .kinopoisk-ru.clstorage.net
+# End of kinopoisk
 
 # Weather service
 yandex-pogoda.static-storage.net

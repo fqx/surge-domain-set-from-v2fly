@@ -17,6 +17,10 @@
 .xn--p1ai
 # End of tld-ru
 # Included from category-ecommerce-ru
+# Included from avito
+.avito.ru
+.avito.st
+# End of avito
 # Included from ozon
 .ozon.ru
 .ozone.ru
@@ -35,21 +39,42 @@
 # End of wildberries
 # End of category-ecommerce-ru
 # Included from category-entertainment-ru
+# CDNvideo is a leading CDN provider in Russia and the CIS
+.cdnvideo.ru
+.trbcdn.net
+
+# Information about films and series
+.kinorium.com
+
+# Streaming services for watching TV series and movies
+# Included from kinopoisk
+.kinopoisk.ru
+.kinopoisk-ru.clstorage.net
+# End of kinopoisk
 # Included from okko
 .playfamily.ru
 .okko.sport
 .okko.tv
 # End of okko
+# Included from wink
+.restream-media.net
+.wink.ru
+# End of wink
+.24h.tv
+.amediateka.ru
+.ivi.ru
+.premier.one
+.smotreshka.tv
+.start.ru
+.tvigle.ru
+.viju.ru
+
+# Video hosting
 # Included from rutube
 .rutube.ru
 .rutubelist.ru
 .rtbcdn.ru
 # End of rutube
-# Included from wink
-.ngenix.net
-.restream-media.net
-.wink.ru
-# End of wink
 # End of category-entertainment-ru
 # Included from category-gov-ru
 # Federal Gov.
@@ -91,31 +116,160 @@
 # Regions / Provinces (Oblast)
 
 # Autonomous areas
+
+# Regional health services
 # End of category-gov-ru
 # Included from category-retail-ru
+# ABC of Taste
+.av.ru
+
+# Auchan
+.auchan.ru
+
+# Bristol
+.bristol.ru
+
+# Children's World
+.detmir.ru
+
+# Dixie
+.dixy.ru
+
+# Dodo Pizza
+.dodois.com
+.dodois.io
+.dodopizza.com
+.dodopizza.ru
+.dodostatic.net
+
+# Dostaevsky
+.dostaevsky.ru
+
+# Eurasia
+.evrasia.rest
+
+# Fast food restaurant chain "Vkusno i tochka"
+.vkusnoitochka.ru
+
 # Fix Price
 .fix-price.com
 
 # Lenta
 .lenta.com
 .lenta.tech
-# End of category-retail-ru
 
-# Public transportation
+# Magnet
+.magnit.ru
+
+# Metro
+.metro-cc.ru
+
+# Pyaterochka, Perekrestok, Chizhik
+# Included from x5
+.5ka.ru
+.5post.market
+.chizhik.club
+.clubx5.ru
+.dialogx5.ru
+.e5.ru
+.fivepost.ru
+.idx5.ru
+.jx5.ru
+.keyx5.ru
+.mnogolososya.ru
+.myapelsin.ru
+.okolo.app
+.perekrestok.com
+.perekrestok.ru
+.x5.ai
+.x5.com
+.x5.digital
+.x5.group
+.x5.media
+.x5.ru
+.x5.team
+.x5.tech
+.x5club.ru
+.x5id.ru
+.x5l.ru
+.x5paket.ru
+.x5q.ru
+.x5static.net
+.x5w.ru
+# End of x5
+
+# Red and White
+.krasnoeibeloe.ru
+
+# Rostics
+.rostics.ru
+.uni.rest
+.unirest.tech
+
+# Sakura
+.ilovesakura.ru
+
+# Spar
+.myspar.ru
+
+# Sushi Wok
+.sushiwok.ru
+
+# Vinlab
+.winelab.ru
+
+# VkusVill
+.vkusvill.ru
+# End of category-retail-ru
+# Included from category-travel-ru
+# Aviasales
 # Included from aviasales
 .avs.io
 .aviasales.ru
 .aviasales.com
 # End of aviasales
+
+# BlaBlaCar
+.blablacar.ru
+
+# Bus stations
+.avtovokzaly.ru
+
+# Ostrovok
+.ostrovok.ru
+
+# Othello from 2GIS
+.otello.ru
+
+# Public transport and ticketing
 # Included from mosmetro
 .mosmetro.ru
 .mosmetro.tech
 # End of mosmetro
+bilet.nspk.ru
+metro.spb.ru
+mos.transport.vtb.ru
+podorozhnik.spb.ru
+transport.mos.ru
+.gorodpay.ru
+.rrtp.ru
+.sbertroika.ru
 
-# Included from avito
-.avito.ru
-.avito.st
-# End of avito
+# Russian Railways
+.rzd-bonus.ru
+.rzd.ru
+
+# Tutu
+.tutu.ru
+
+# Yandex Rent
+arenda.yandex.ru
+
+# Yandex Taxi
+taxi.yandex.ru
+# End of category-travel-ru
+
+# Well-known companies
 # Included from mailru-group
 # Included from dzen
 .dzen.ru
@@ -171,41 +325,11 @@
 
 .boosty.to
 .donationalerts.com
+.max.ru
 .memealerts.com
+.oneme.ru
 .tamtam.chat
 # End of mailru-group
-# Included from x5
-.5ka.ru
-.5post.market
-.chizhik.club
-.clubx5.ru
-.dialogx5.ru
-.e5.ru
-.fivepost.ru
-.idx5.ru
-.jx5.ru
-.keyx5.ru
-.mnogolososya.ru
-.myapelsin.ru
-.okolo.app
-.perekrestok.com
-.perekrestok.ru
-.x5.ai
-.x5.com
-.x5.digital
-.x5.group
-.x5.media
-.x5.ru
-.x5.team
-.x5.tech
-.x5club.ru
-.x5id.ru
-.x5l.ru
-.x5paket.ru
-.x5q.ru
-.x5static.net
-.x5w.ru
-# End of x5
 # Included from yandex
 # All .yandex domains
 .yandex
@@ -267,25 +391,85 @@
 .yastatic.net
 
 # Watching movies, included in the Yandex subscription
+# Included from kinopoisk
 .kinopoisk.ru
 .kinopoisk-ru.clstorage.net
+# End of kinopoisk
 
 # Weather service
 yandex-pogoda.static-storage.net
 # End of yandex
 
-# Dodo Pizza
-.dodopizza.ru
-.dodopizza.com
-.dodostatic.net
-.dodois.com
-.dodois.io
+# Bank & Finance & Insurance & Securities
+# Included from category-bank-ru
+# Alfa Bank
+.alfabank.ru
 
-# Rostics
-.rostics.ru
-.uni.rest
-.unirest.tech
+# GazpromBank
+.gazprombank.ru
+.gpb.ru
 
-.trbcdn.net
+# Mts dengi
+.dbo-dengi.online
+.mtsdengi.ru
+
+# PSB Bank
+.psbank.ru
+
+# RosBank
+.bankline.ru
+.rosbank.ru
+
+# RUSSIA Bank
+.abr.ru
+
+# Russian Agricultural Bank
+.rshb.ru
+
+# SberBank
+.sber.ru
+.sberbank.com
+.sberbank.ru
+
+# T-Bank (Tinkoff)
+.cdn-tinkoff.ru
 .tbank-online.com
-.taxsee.com
+.tbank.ru
+
+# Tochka bank
+.tochka-tech.com
+.tochka.com
+
+# VTB Bank
+.vtb.ru
+# End of category-bank-ru
+# Credit History Bureaus
+.credistory.ru
+.nbki.ru
+# Currency and stock exchanges
+# Financial marketplace
+.banki.ru
+.finuslugi.ru
+# Investment
+.sistema-capital.com
+# Mir payment system
+.mirpayonline.ru
+# National Payment Card System
+.nspk.ru
+# Tipping service
+.netmonet.co
+.tips.tips
+
+# Telecom operators
+.beeline.ru
+.dom.ru
+.megafon.ru
+.mts.ru
+.mymts.ru
+.rostelecom.ru
+.rt.ru
+.t2.ru
+.tele2.ru
+.yota.ru
+
+# Other domains

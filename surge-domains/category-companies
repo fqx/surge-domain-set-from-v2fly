@@ -6236,7 +6236,9 @@ tp.louisvuitton.com
 
 .boosty.to
 .donationalerts.com
+.max.ru
 .memealerts.com
+.oneme.ru
 .tamtam.chat
 # End of mailru-group
 # Included from meta
@@ -8889,8 +8891,10 @@ cdn.js7k.com
 .yastatic.net
 
 # Watching movies, included in the Yandex subscription
+# Included from kinopoisk
 .kinopoisk.ru
 .kinopoisk-ru.clstorage.net
+# End of kinopoisk
 
 # Weather service
 yandex-pogoda.static-storage.net
