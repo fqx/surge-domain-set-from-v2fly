@@ -552,6 +552,11 @@ linkedin.sc.omtrdc.net
 .trpger.us
 # End of misskey-universe
 # End of misskey
+# Included from mixi
+.mixi.co.jp
+.mixi.jp
+.mixi.net
+# End of mixi
 # Included from ok
 .ok.ru
 .okcdn.ru

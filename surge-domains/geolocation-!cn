@@ -9010,6 +9010,11 @@ linkedin.sc.omtrdc.net
 .trpger.us
 # End of misskey-universe
 # End of misskey
+# Included from mixi
+.mixi.co.jp
+.mixi.jp
+.mixi.net
+# End of mixi
 # Included from ok
 .ok.ru
 .okcdn.ru
@@ -19683,6 +19688,7 @@ amp.akamaized.net
 .openresty.org
 .openssl.org
 .opensuse.org
+.packagecloud.io
 .packagist.org
 .pcre.org
 .phantomjs.org
