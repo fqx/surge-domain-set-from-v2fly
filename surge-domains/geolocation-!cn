@@ -165,6 +165,7 @@ browser-intake-datadoghq.com
 .perplexity.com
 .pplx.ai
 
+ppl-ai-file-upload.s3.amazonaws.com
 pplx-res.cloudinary.com
 # End of perplexity
 # Included from poe
@@ -22026,6 +22027,7 @@ push-apple.com.akadns.net
 amp-api-edge-lb-cn.itunes-apple.com.akadns.net
 amp-api-edge-lb.itunes-apple.com.akadns.net
 amp-api-edge.apps.apple.com
+amp-api-edge.music.apple.com
 amp-api-search-edge.apps.apple.com
 amp-api.apps.apple.com
 amp-api.music.apple.com
@@ -22056,6 +22058,8 @@ js-cdn.music.apple.com
 km.support.apple.com
 maps.apple.com
 misc-assets.itunes.apple.com
+musicstatus.music.apple.com
+mvod.itunes.apple.com
 myapp.itunes.apple.com
 np-edge.itunes.apple.com
 osxapps.itunes.apple.com
@@ -22068,6 +22072,7 @@ se2.itunes.apple.com
 search.itunes.apple.com
 sf-api-token-service.itunes.apple.com
 sp.itunes.apple.com
+speedysub.music.apple.com
 streamingaudio.itunes.apple.com
 su.itunes.apple.com
 sync.itunes.apple.com
@@ -28333,6 +28338,7 @@ cdn.js7k.com
 .yandexcloud.net
 .yandexcom.net
 .yandexmetrica.com
+.yandexwebcache.net
 .yandexwebcache.org
 .yastat.net
 .yastatic-net.ru
