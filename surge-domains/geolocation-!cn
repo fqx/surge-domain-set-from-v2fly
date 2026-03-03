@@ -9091,6 +9091,15 @@ linkedin.sc.omtrdc.net
 # End of vk
 
 .truthsocial.com
+
+# Mastodon
+# * We can not make a comprehensive domain list of all Mastodon instances.
+# * Many more dynamic/random instance domains are not listed here.
+# * geosite:mastodon is not provided to avoid creating excessive expectations among users.
+.joinmastodon.org
+.mastodon.online
+.mastodon.social
+.pawoo.net
 # End of category-social-media-!cn
 
 # IPFS
@@ -14406,6 +14415,7 @@ widgets.stripst.com
 .jav.la
 .jav.land
 .jav.place
+.jav.sb
 .jav.si
 .jav.wine
 .jav01.cc
@@ -14468,6 +14478,7 @@ widgets.stripst.com
 .javher.com
 .javheroine.com
 .javhihi.com
+.javhub.com
 .javhub.me
 .javhub.net
 .javidol.org
@@ -14501,6 +14512,7 @@ widgets.stripst.com
 .javpub.me
 .javpush.com
 .javqd.com
+.javquick.com
 .javrank.com
 .javrate.com
 .javrave.club
