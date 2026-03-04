@@ -482,10 +482,7 @@ gog-cdn.akamaized.net
 # ads/tracking
 .log-upload-os.hoyoverse.com
 # End of hoyoverse
-# Included from illusion
-.illusion.co.jp
-.illusion.jp
-# End of illusion
+# Dead include:illusion
 # Included from itchio
 .itch.io
 .itch.zone
@@ -1529,6 +1526,7 @@ disney.my.sentry.io
 .chobit.cc
 .ci-en.jp
 .ci-en.net
+.dlaf.jp
 .dlsite.com
 .dlsite.com.tw
 .dlsite.jp
@@ -1981,6 +1979,7 @@ i.jeded.com
 .tiktokv.us
 .tiktokw.eu
 .tiktokw.us
+.ttcdn-us.com
 .ttlivecdn.com
 .ttoverseaus.net
 .ttwstatic.com

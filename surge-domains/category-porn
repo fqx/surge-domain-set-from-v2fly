@@ -138,6 +138,7 @@
 .chobit.cc
 .ci-en.jp
 .ci-en.net
+.dlaf.jp
 .dlsite.com
 .dlsite.com.tw
 .dlsite.jp
@@ -239,10 +240,7 @@ misa-prod.s3.ap-northeast-1.amazonaws.com
 .smutstone.com
 .townofsins.com
 # End of hooligapps
-# Included from illusion
-.illusion.co.jp
-.illusion.jp
-# End of illusion
+# Dead include:illusion
 # Included from illusion-nonofficial
 .acgcf.com
 .acgdg.com
@@ -274,6 +272,11 @@ misa-prod.s3.ap-northeast-1.amazonaws.com
 .wnoaissulli1.com
 .zzycdz.com
 # End of illusion-nonofficial
+# Included from illgames
+# Also known as "Illusion"
+.illgames.jp
+.japan-illgames.com
+# End of illgames
 # Included from jable
 .cdnlab.live
 .jable.tv

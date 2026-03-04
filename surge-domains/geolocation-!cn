@@ -206,6 +206,7 @@ pplx-res.cloudinary.com
 .copilot.microsoft.com
 .devin.ai
 .diabrowser.com
+.diabrowser.engineering
 .dify.ai
 .duck.ai
 .gateway.ai.cloudflare.com
@@ -6266,10 +6267,7 @@ gog-cdn.akamaized.net
 # ads/tracking
 .log-upload-os.hoyoverse.com
 # End of hoyoverse
-# Included from illusion
-.illusion.co.jp
-.illusion.jp
-# End of illusion
+# Dead include:illusion
 # Included from itchio
 .itch.io
 .itch.zone
@@ -7313,6 +7311,7 @@ disney.my.sentry.io
 .chobit.cc
 .ci-en.jp
 .ci-en.net
+.dlaf.jp
 .dlsite.com
 .dlsite.com.tw
 .dlsite.jp
@@ -7765,6 +7764,7 @@ i.jeded.com
 .tiktokv.us
 .tiktokw.eu
 .tiktokw.us
+.ttcdn-us.com
 .ttlivecdn.com
 .ttoverseaus.net
 .ttwstatic.com
@@ -11179,6 +11179,7 @@ spectator.ppy.sh
 .chobit.cc
 .ci-en.jp
 .ci-en.net
+.dlaf.jp
 .dlsite.com
 .dlsite.com.tw
 .dlsite.jp
@@ -11280,10 +11281,7 @@ misa-prod.s3.ap-northeast-1.amazonaws.com
 .smutstone.com
 .townofsins.com
 # End of hooligapps
-# Included from illusion
-.illusion.co.jp
-.illusion.jp
-# End of illusion
+# Dead include:illusion
 # Included from illusion-nonofficial
 .acgcf.com
 .acgdg.com
@@ -11315,6 +11313,11 @@ misa-prod.s3.ap-northeast-1.amazonaws.com
 .wnoaissulli1.com
 .zzycdz.com
 # End of illusion-nonofficial
+# Included from illgames
+# Also known as "Illusion"
+.illgames.jp
+.japan-illgames.com
+# End of illgames
 # Included from jable
 .cdnlab.live
 .jable.tv
@@ -18308,6 +18311,19 @@ ntp7.ntp-servers.net
 .roboform.com
 .strongboxsafe.com
 # End of category-password-management
+# Included from category-urlshortner
+# Included from bitly
+.bit.ly
+.bitly.com
+.bitly.is
+# End of bitly
+# Included from shorturl
+.shorturl.at
+# End of shorturl
+# Included from tinyurl
+.tinyurl.com
+# End of tinyurl
+# End of category-urlshortner
 # Included from category-web-archive
 # Included from 4plebs
 .4pcdn.org
@@ -18417,11 +18433,6 @@ yangzhi.app
 # iFontCloud
 .ifontcloud.com
 # End of arphic
-# Included from bitly
-.bit.ly
-.bitly.com
-.bitly.is
-# End of bitly
 # Included from blender
 .bigbuckbunny.org
 .blender.org
@@ -18727,9 +18738,6 @@ public-us-pingsx.api.clonoth.com
 .shopifystatus.com
 .shopifysvc.com
 # End of shopify
-# Included from shorturl
-.shorturl.at
-# End of shorturl
 # Included from slideshare
 .slideshare.com
 .slideshare.net
@@ -18812,9 +18820,6 @@ public-us-pingsx.api.clonoth.com
 # Included from tidelift
 .tidelift.com
 # End of tidelift
-# Included from tinyurl
-.tinyurl.com
-# End of tinyurl
 # Included from trello
 .trello.com
 .trellocdn.com
@@ -21203,6 +21208,7 @@ beatselectronicsllc.tt.omtrdc.net
 .icloud-isupport.com
 .icloud-sandbox.com
 .icloud.ch
+.icloud.cn
 .icloud.com
 .icloud.com.cn
 .icloud.de
@@ -28666,17 +28672,6 @@ fandom.zendesk.com
 .xsava.xyz
 .zavat.pw
 # End of avaxhome
-# Included from dlsite
-.chobit.cc
-.ci-en.jp
-.ci-en.net
-.dlsite.com
-.dlsite.com.tw
-.dlsite.jp
-.dlsitestudio.com
-.nijiyome.jp
-.triokini.com
-# End of dlsite
 # Included from espressif
 .espressif.com
 .esp32.com
