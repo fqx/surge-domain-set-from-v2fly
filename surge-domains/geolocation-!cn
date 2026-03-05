@@ -19354,19 +19354,21 @@ homebrew.bintray.com
 .java.net
 # End of java
 # Included from jetbrains
+.datalore.io
 .intellij.com
 .intellij.net
 .intellij.org
+.jb.gg
+.jetbrains.cloud
 .jetbrains.com
 .jetbrains.net
 .jetbrains.space
 .jetbrains.team
-.datalore.io
 .kotlinlang.org
+.youtrack.cloud
+
 .cdn.jetbrains.com
 .download-cdn.jetbrains.com.cn
-.jb.gg
-.youtrack.cloud
 # End of jetbrains
 # Included from jetbrains-ai
 .grazie.ai
