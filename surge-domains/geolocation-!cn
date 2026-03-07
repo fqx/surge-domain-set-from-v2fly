@@ -211,6 +211,7 @@ pplx-res.cloudinary.com
 .duck.ai
 .gateway.ai.cloudflare.com
 .kiro.dev
+.lovart.ai
 .meta.ai
 .mistral.ai
 .openart.ai
@@ -2618,6 +2619,8 @@ venmo.s3.amazonaws.com
 .visasignature.co.kr
 .visb.org
 # End of visa
+## アプリペイ
+.app-pay.jp
 
 # CDN companies & Services
 # Included from category-cdn-!cn
@@ -6906,6 +6909,7 @@ prodforza.blob.core.windows.net
 .loverslab.com
 .minecraft.wiki
 .mobimon.com.tw
+.muvluv-girls-garden.com
 .nexus-cdn.com
 .nexusmods.com
 .noxygames.com
@@ -8110,6 +8114,7 @@ yt3.googleusercontent.com
 .oranum.com
 .overcast.fm
 .qobuz.com
+.sendvid.com
 .syosetu.com
 .weverse.io
 .yande.re
@@ -9020,6 +9025,9 @@ linkedin.sc.omtrdc.net
 .ok.ru
 .okcdn.ru
 .mycdn.me
+
+st-ok-pts.cdn-vk.ru
+st-ok.cdn-vk.ru
 # End of ok
 # Included from threads
 .threads.com
@@ -9090,6 +9098,7 @@ linkedin.sc.omtrdc.net
 .vkvideo.ru
 # End of vk
 
+.onlyfans.com
 .truthsocial.com
 
 # Mastodon
@@ -17824,6 +17833,8 @@ anime-rule34-world.b-cdn.net
 # End of apkcombo
 # Included from apkmirror
 .apkmirror.com
+
+apkmirror.disqus.com
 # End of apkmirror
 # Included from apkpure
 .apkpure.com
@@ -17833,6 +17844,10 @@ anime-rule34-world.b-cdn.net
 .pureapk.com
 .winudf.com
 # End of apkpure
+
+# Uptodown
+.uptodown.com
+.utdstc.com
 # End of category-android-app-download
 # Included from category-antivirus
 # Included from comodo
@@ -25959,6 +25974,9 @@ tp.louisvuitton.com
 .ok.ru
 .okcdn.ru
 .mycdn.me
+
+st-ok-pts.cdn-vk.ru
+st-ok.cdn-vk.ru
 # End of ok
 # Included from vk
 .cdn-vk.ru
@@ -26005,6 +26023,10 @@ tp.louisvuitton.com
 .memealerts.com
 .oneme.ru
 .tamtam.chat
+.youla.io
+.youla.ru
+
+youla-web-static.mrgcdn.ru
 # End of mailru-group
 # Included from meta
 # Included from facebook
@@ -27363,12 +27385,6 @@ statics-marketingsites-wcus-ms-com.akamaized.net
 
 mdn.mozillademos.org
 # End of mdn
-# Included from rust
-.rust-lang.org
-.rustup.rs
-.crates.io
-.docs.rs
-# End of rust
 
 .mozgcp.net
 .mozilla.com
@@ -27392,10 +27408,13 @@ mdn.mozillademos.org
 .thunderbird.net
 
 # Mozilla Location Service
-.location.services.mozilla.com
+# * Overrided by above `mozilla.com`
+# * In March 2024, Mozilla announced the project was being discontinued
+#location.services.mozilla.com
 
 # Mozilla Push Service
-.push.services.mozilla.com
+# * Overrided by above `mozilla.com`
+#push.services.mozilla.com
 # End of mozilla
 # Included from msi
 .msi.cn

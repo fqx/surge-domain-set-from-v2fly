@@ -3,6 +3,8 @@
 # End of apkcombo
 # Included from apkmirror
 .apkmirror.com
+
+apkmirror.disqus.com
 # End of apkmirror
 # Included from apkpure
 .apkpure.com
@@ -12,3 +14,7 @@
 .pureapk.com
 .winudf.com
 # End of apkpure
+
+# Uptodown
+.uptodown.com
+.utdstc.com
