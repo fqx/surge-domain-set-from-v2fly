@@ -2808,6 +2808,11 @@ venmo.s3.amazonaws.com
 .imgix.com
 .imgix.net
 # End of imgix
+# Included from jsdelivr
+.esm.run
+.jsdelivr.com
+.jsdelivr.net
+# End of jsdelivr
 # Included from limelight
 .delvenetworks.com
 .limelight.com
@@ -2839,6 +2844,9 @@ venmo.s3.amazonaws.com
 .b-cdn.net
 .bunny.net
 .bunnycdn.com
+
+# cdnjs
+.cdnjs.com
 # End of category-cdn-!cn
 
 # Included from awempire
@@ -5342,9 +5350,6 @@ scholar.l.google.com
 .technologyandsociety.org
 .vtsociety.org
 # End of ieee
-# Included from knovel
-.knovel.com
-# End of knovel
 # Included from mit
 # All .mit domains
 .mit
@@ -5618,9 +5623,6 @@ chinapower.csis.org
 .khanacademy.org
 .kastatic.org
 # End of khanacademy
-# Included from knovel
-.knovel.com
-# End of knovel
 # Included from laracasts
 .laracasts.com
 # End of laracasts
@@ -18946,6 +18948,10 @@ public-us-pingsx.api.clonoth.com
 .onetrust.com
 .osano.com
 .usercentrics.eu
+## Dynatrace
+.dynatrace.com
+## FamilySearch
+.familysearch.org
 ## Greasy Fork
 .greasyfork.org
 ## Online LaTeX Editor
@@ -19397,13 +19403,6 @@ homebrew.bintray.com
 
 d29vzk4ow07wi7.cloudfront.net
 # End of jfrog
-# Included from jsdelivr
-.jsdelivr.com
-.jsdelivr.net
-.esm.run
-
-cdn.jsdelivr.net
-# End of jsdelivr
 # Included from kubernetes
 .kubernetes.io
 .k8s.io
@@ -19490,16 +19489,10 @@ vsmarketplacebadge.apphb.com
 .nginx.com
 .nginx.org
 # End of nginx
-# Included from nixos
-.nixos.org
-# End of nixos
 # Included from openwrt
 .openwrt.org
 .lede-project.org
 # End of openwrt
-# Included from osdn
-.osdn.net
-# End of osdn
 # Included from perl
 .perl.apache.org
 .perl.org
@@ -19519,9 +19512,6 @@ vsmarketplacebadge.apphb.com
 .python.org
 .pythonhosted.org
 # End of python
-# Included from python-community
-.piwheels.org
-# End of python-community
 # Included from qt
 .qt.io
 .qt-project.org
@@ -19536,9 +19526,6 @@ vsmarketplacebadge.apphb.com
 .redis.io
 .redislabs.com
 # End of redis
-# Included from remirepo
-.remirepo.net
-# End of remirepo
 # Included from ruby
 .ruby-lang.org
 .rubygems.org
@@ -19645,9 +19632,6 @@ amp.akamaized.net
 .lfai.foundation
 .linuxfoundation.org
 # End of thelinuxfoundation
-# Included from topcoder
-.topcoder.com
-# End of topcoder
 # Included from unity
 .unity.com
 .unity3d.com
@@ -19660,9 +19644,6 @@ amp.akamaized.net
 .v8.dev
 .v8project.org
 # End of v8
-# Included from vim
-.vim.org
-# End of vim
 
 .adventofcode.com
 .alpinelinux.org
@@ -19671,11 +19652,11 @@ amp.akamaized.net
 .atom.io
 .badgen.net
 .bitvise.com
-.cdnjs.com
 .centos.org
 .chocolatey.org
 .clojure.org
 .cnpmjs.org
+.cve.org
 .cygwin.com
 .cython.org
 .deno.com
@@ -19723,17 +19704,20 @@ amp.akamaized.net
 .openresty.org
 .openssl.org
 .opensuse.org
+.osdn.net
 .packagecloud.io
 .packagist.org
 .pcre.org
 .phantomjs.org
 .php.net
+.piwheels.org
 .postgresql.org
 .putty.org
 .r-project.org
 .raspberrypi.org
 .raspbian.org
 .regex101.com
+.remirepo.net
 .rpmfusion.org
 .scientificlinux.org
 .scoop.sh
@@ -19743,9 +19727,11 @@ amp.akamaized.net
 .sublimetext.com
 .tampermonkey.net
 .termius.com
+.topcoder.com
 .unpkg.com
 .videojs.com
 .videolan.org
+.vim.org
 .wapm.io
 .wasmer.io
 .webflow.com

@@ -182,6 +182,11 @@
 .imgix.com
 .imgix.net
 # End of imgix
+# Included from jsdelivr
+.esm.run
+.jsdelivr.com
+.jsdelivr.net
+# End of jsdelivr
 # Included from limelight
 .delvenetworks.com
 .limelight.com
@@ -213,3 +218,6 @@
 .b-cdn.net
 .bunny.net
 .bunnycdn.com
+
+# cdnjs
+.cdnjs.com
