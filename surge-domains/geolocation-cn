@@ -807,6 +807,9 @@ apilog-web.acfun.cn
 .ultracachenode.com
 .woaihuoshan.com
 .wohst8.com
+
+# 抖音支付
+.douyinpay.com
 # End of douyin
 # Included from douyu
 .douyu.com
@@ -2405,6 +2408,8 @@ wlog.kuaishou.com
 
 ## 航财通·校园付
 .cc-pay.cn
+## 合利宝
+.helipay.com
 ## 徽商期货有限责任公司
 .hsqh.net
 ## 上海陆金所
@@ -2413,6 +2418,8 @@ wlog.kuaishou.com
 .lufaxcdn.com
 ## 银豹收银系统
 .pospal.cn
+## 上海付费通
+.shfft.com
 
 # CDN or SDWAN
 # Included from category-cdn-cn
@@ -3897,7 +3904,10 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .jinshujucdn.com
 # End of jinshuju
 # Included from keep
+.calorietech.com
 .gotokeep.com
+.keep.com
+.keep.com.cn
 .keepcdn.com
 # End of keep
 # Included from lagou
