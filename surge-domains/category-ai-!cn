@@ -1,9 +1,10 @@
 # Included from anthropic
 .anthropic.com
+.clau.de
 .claude.ai
 .claude.com
-.claudeusercontent.com
 .claudemcpclient.com
+.claudeusercontent.com
 
 # CDN
 servd-anthropic-website.b-cdn.net
@@ -199,6 +200,7 @@ pplx-res.cloudinary.com
 .jasper.ai
 
 .chutes.ai
+.clawhub.ai
 .copilot.microsoft.com
 .devin.ai
 .diabrowser.com
@@ -206,9 +208,11 @@ pplx-res.cloudinary.com
 .dify.ai
 .duck.ai
 .gateway.ai.cloudflare.com
+.h2o.ai
 .kiro.dev
 .lovart.ai
 .meta.ai
 .mistral.ai
 .openart.ai
+.openclaw.ai
 .openrouter.ai

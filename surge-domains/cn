@@ -270,6 +270,7 @@ p9-juejin.byteimg.com
 .openvela.com
 .pingcode.com
 .tipdm.org
+.zuidaima.com
 # End of category-dev-cn
 # Electronic
 # Included from category-electronic-cn
@@ -1682,6 +1683,10 @@ wlog.kuaishou.com
 .sohu.com
 .sohucs.com
 
+# 56网
+.56.com
+.56img.com
+
 # Ads/tracking
 .adnet.sohu.com
 .ads.sohu.com
@@ -3030,8 +3035,73 @@ ss.bjmu.edu.cn
 .nmc.cn
 
 # Public transportation
+## 中国国际航空
+# Included from airchina
+# End of airchina
+## 海南航空
+# Included from hainanairlines
+.hainanairlines.com
+.hnacargo.com
+.hnair.com
 
-# 中国民航局 caac.gov.cn
+# HNA Telecom
+.10044.cn
+# End of hainanairlines
+## 长安航空
+.airchangan.com
+## 桂林航空
+.airguilin.com
+## 中国东方航空
+.ceair.com
+## 春秋航空
+.ch.com
+.china-sss.com
+.springairlines.com
+## 华夏航空
+.chinaexpressair.com
+## 中国南方航空
+.csair.com
+## 中国联合航空
+.flycua.com
+## 广西北部湾航空
+.gxairlines.com
+## 河北航空
+.hbhk.com.cn
+## 首都航空
+.jdair.net
+## 吉祥航空
+.juneyaoair.com
+## 长龙航空
+.loongair.cn
+## 祥鹏航空
+.luckyair.net
+## 山东航空
+.sda.cn
+## 深圳航空
+.shenzhenair.com
+## 四川航空
+.sichuanair.com
+## 天津航空
+.tianjin-air.com
+## 西藏航空
+.tibetairlines.com.cn
+## 乌鲁木齐航空
+.urumqi-air.com
+## 厦门航空
+.xiamenair.com
+
+## 中国民航局
+.caac.gov.cn
+## 信天游（航空电子客票验真）
+.travelskymobile.cn
+## 航旅纵横
+.umetrip.com
+.umetrip.com.cn
+.umetrip.net.cn
+.ume-trip.cn
+## 飞常准
+.variflight.com
+
 ## Railway
 .12306.cn
 .95306.cn
@@ -3046,11 +3116,6 @@ ss.bjmu.edu.cn
 .mygolbs.com
 ## 宁停车
 .ningtingche.com
-## 航旅纵横
-.umetrip.com
-.umetrip.com.cn
-.umetrip.net.cn
-.ume-trip.cn
 
 # Science & Technology & Knowledge & Scholar & Press & E-learning & Education
 # Included from category-education-cn
@@ -3240,6 +3305,11 @@ study.163.com
 .llsserver.com
 # 马哥教育
 .magedu.com
+# 墨墨背单词
+.maimemo.com
+.maimemostatus.com
+# 墨墨记忆卡
+.markji.com
 # CIS NanoMasters
 .neoscholar.com
 .neoschool.com
@@ -3367,6 +3437,7 @@ study.163.com
 
 # End of category-scholar-cn
 # Included from category-wiki-cn
+.allhistory.com
 .fgo.wiki
 .jikipedia.com
 .mbalib.com
@@ -4151,6 +4222,7 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .yinxiang.com
 ## 智联招聘
 .zhaopin.cn
+.zhaopin.com
 
 # Tech companies & Orginations
 # Included from baidu
@@ -4952,7 +5024,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .52z.com
 .53kf.com
 .55.com
-.56.com
 .5577.com
 .55bbs.com
 .58pic.com
@@ -4996,8 +5067,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .aiketour.com
 .aiops.com
 .aipai.com
-.airchangan.com
-.airguilin.com
 .aiskycn.com
 .aizhan.com
 .alittle-tea.com
@@ -5060,7 +5129,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .cecport.com
 .centanet.com
 .cerambath.org
-.ch.com
 .chachaba.com
 .changba.com
 .chaojituzi.net
@@ -5238,7 +5306,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .gushiwen.org
 .guzhangting.com
 .gwdang.com
-.gxairlines.com
 .gxb.io
 .gzcqs.com
 .gzwanju.com
@@ -5584,7 +5651,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .te5.com
 .tenxcloud.com
 .tianjimedia.com
-.tianjin-air.com
 .tianlailive.com
 .tietuku.com
 .tiexue.net
@@ -5620,7 +5686,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .uggame.com
 .uoko.com
 .urselect.com
-.urumqi-air.com
 .useso.com
 .uuu9.com
 .uzzf.com
@@ -5778,7 +5843,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .zhanzhang.net
 .zhaodanji.com
 .zhaokao.net
-.zhaopin.com
 .zhcw.com
 .zhenai.com
 .zhibo8.cc
@@ -5789,15 +5853,11 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .zhuangjiba.com
 .zhuanyewanjia.com
 .zhuayoukong.com
-.zimuzu.io
 .zixiaomao.com
 .zixuntop.com
 .zmengzhu.com
 .zpb365.com
-.zrblog.net
-.zsxq.com
 .zuhaowan.com
-.zuidaima.com
 .zuowen.com
 .zuowen8.com
 .zuowenwang.net
