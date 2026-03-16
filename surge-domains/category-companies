@@ -7912,6 +7912,7 @@ mdn.mozillademos.org
 .tegrazone.jp
 .tegrazone.kr
 
+nvidia.custhelp.com
 nvidia.tt.omtrdc.net
 
 # NVIDIA 文件下载服务器中国镜像
@@ -7925,18 +7926,6 @@ cn.download.nvidia.com
 # All .oracle domains
 .oracle
 
-.ateam-oracle.com
-.bronto.com
-.covid19-rx.org
-.covid19rx.org
-.oracle.com
-.oraclecloud.com
-.oraclefoundation.org
-.oracleimg.com
-.oracleinfinity.io
-.sun.com
-.virtualbox.org
-
 # Included from addthis
 .addthis.com
 .addthiscdn.com
@@ -7949,6 +7938,19 @@ cn.download.nvidia.com
 .java.com
 .java.net
 # End of java
+
+.ateam-oracle.com
+.bronto.com
+.covid19-rx.org
+.covid19rx.org
+.custhelp.com
+.oracle.com
+.oraclecloud.com
+.oraclefoundation.org
+.oracleimg.com
+.oracleinfinity.io
+.sun.com
+.virtualbox.org
 # End of oracle
 # Included from panasonic
 # All .panasonic domains

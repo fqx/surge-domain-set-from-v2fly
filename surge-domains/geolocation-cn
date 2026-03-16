@@ -1135,10 +1135,14 @@ wlog.kuaishou.com
 # 暴风影音
 .baofeng.com
 .baofeng.net
+# 街机地图
+.bemanicn.com
 # 布咕阅读
 .bgwxc.com
 # B站空降助手
 .bsbsb.top
+# CdkeyNoGap
+.cdkeynogap.com
 # 动漫之家 #703
 .dmzj.com
 .muwai.com
@@ -3174,6 +3178,8 @@ study.163.com
 .fenbilantian.com
 # End of yuanfudao
 
+.edu.cn
+
 # 雨课堂
 # Included from yuketang
 .rainclassroom.com
@@ -3185,8 +3191,6 @@ study.163.com
 .yushiyan.net
 ## 学堂在线
 .xuetangx.com
-
-.edu.cn
 
 # 国家智慧教育公共服务平台
 .cbern.com.cn
@@ -3299,6 +3303,8 @@ study.163.com
 .pigai.org
 # 公考知识库
 .saduck.top
+# 外研在线
+.unipus.cn
 # 未来云校
 .weilaiyunxiao.com
 # 北京嘉瑞新创教育咨询有限公司
@@ -3476,6 +3482,10 @@ study.163.com
 .zyh365.com
 ## 温州市图书馆
 .wzlib.cn
+## 中国大百科全书
+.zgbk.com
+## 浙江图书馆
+.zjlib.cn
 
 # Services & Softwares
 # Included from category-ai-cn
@@ -4279,6 +4289,7 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .smartapps.cn
 .tieba.com
 .tiebaimg.com
+.xdrtc.com
 .xianfae.com
 .xiaodutv.com
 .yoojia.com
