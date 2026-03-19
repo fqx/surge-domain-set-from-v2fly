@@ -19639,6 +19639,13 @@ amp.akamaized.net
 .lfai.foundation
 .linuxfoundation.org
 # End of thelinuxfoundation
+# Included from tilda
+.tilda.cc
+.tilda.ru
+.tilda.ws
+.tildaapi.com
+.tildacdn.com
+# End of tilda
 # Included from unity
 .unity.com
 .unity3d.com
