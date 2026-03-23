@@ -1723,6 +1723,7 @@ wlog.kuaishou.com
 # Included from weiphone
 .feng.com
 .fengimg.com
+.weiphone.net
 .wfdata.club
 # End of weiphone
 # Included from xueqiu
@@ -1861,6 +1862,10 @@ wlog.kuaishou.com
 .statickksmg.com
 # 晚点
 .latepost.com
+# 雷科技
+.leikeji.com
+# 雷峰网
+.leiphone.com
 # 今日观察网
 .miercn.com
 # 快科技
@@ -1932,14 +1937,21 @@ wlog.kuaishou.com
 .thecover.cn
 # 澎湃新闻
 .thepaper.cn
+# 潮新闻/浙江日报
+.8531.cn
+.tidenews.com.cn
 # 人人都是产品经理
 .woshipm.com
+# 新华日报
+.xhby.net
 # 西陆网
 .xilu.com
 # 新快报
 .xkb.com.cn
 # 第一财经
 .yicai.com
+# 扬子晚报
+.yzwb.net
 # ZEALER
 .zealer.com
 # 知产力
@@ -3034,8 +3046,12 @@ ss.bjmu.edu.cn
 .gov.cn
 ## 中国气象局
 .cma.cn
+## 政务和公益机构域名注册管理中心
+.conac.cn
 ## 中央气象台
 .nmc.cn
+## 中国互联网联合辟谣平台
+.piyao.org.cn
 
 # Public transportation
 ## 中国国际航空
@@ -3281,6 +3297,7 @@ study.163.com
 .jinrongren.net
 .offcn.com
 .zggqzp.com
+.zgjsks.com
 .zgsydw.com
 # 高考100
 .gk100.com
@@ -3295,6 +3312,9 @@ study.163.com
 # 日语测试
 .j-test.com
 .nattest-china.com
+# 菁优网
+.jyeoo.com
+.jyeoo.net
 # 课播云校
 .keboyunxiao.com
 # 课堂派
@@ -3497,14 +3517,14 @@ study.163.com
 ## 国学大师网
 .guoxuedashi.com
 .guoxuemi.com
-## 志愿汇
-.zyh365.com
 ## 温州市图书馆
 .wzlib.cn
 ## 中国大百科全书
 .zgbk.com
 ## 浙江图书馆
 .zjlib.cn
+## 志愿汇
+.zyh365.com
 
 # Services & Softwares
 # Included from category-ai-cn
@@ -5447,8 +5467,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .lawxp.com
 .leangoo.com
 .leanote.com
-.leikeji.com
-.leiphone.com
 .leiting.com
 .leju.com
 .leturich.org
@@ -5721,7 +5739,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .weavatar.com
 .weicaifu.com
 .weilaicaijing.com
-.weiphone.net
 .weixing.com
 .weiyangx.com
 .welltrend-edu.com
@@ -5845,7 +5862,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .zczj.com
 .zdfans.com
 .zgjm.org
-.zgjsks.com
 .zglxw.com
 .zgzcw.com
 .zhanbuba.com
