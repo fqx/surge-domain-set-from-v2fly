@@ -3881,8 +3881,15 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 .avito.st
 # End of avito
 # Included from ozon
+.ozon.by
+.ozon.com
+.ozon.com.by
+.ozon.com.kz
+.ozon.kz
 .ozon.ru
+.ozon.tm
 .ozone.ru
+.ozonru.me
 .ozonusercontent.com
 # End of ozon
 # Included from wildberries
@@ -6906,6 +6913,7 @@ prodforza.blob.core.windows.net
 .stellasora.jp
 # End of yostar
 
+.chunkbase.com
 .dinopoloclub.com
 .dodi-repacks.download
 .dodi-repacks.site
@@ -6917,13 +6925,17 @@ prodforza.blob.core.windows.net
 .joinsquad.com
 .loverslab.com
 .minecraft.wiki
+.minecraftforge.net
 .mobimon.com.tw
 .muvluv-girls-garden.com
+.namemc.com
+.neoforged.net
 .nexus-cdn.com
 .nexusmods.com
 .noxygames.com
 .offworldindustries.com
 .offworldindustries.net
+.optifine.net
 .papermc.io
 .planetminecraft.com
 .prismlauncher.org
@@ -6932,6 +6944,7 @@ prodforza.blob.core.windows.net
 .rayark.download
 .rayark.net
 .speedrun.com
+.spigotmc.org
 .steamdb.info
 # End of category-games-!cn
 # Included from category-novel
@@ -18981,6 +18994,8 @@ public-us-pingsx.api.clonoth.com
 .originlab.com
 ## OsmAnd
 .osmand.net
+## Xiaomi Flash (not affiliated with the official Xiaomi)
+.xiaomiflash.com
 
 # Software development
 # Included from category-dev
