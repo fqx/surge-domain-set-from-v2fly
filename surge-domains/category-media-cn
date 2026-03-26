@@ -225,6 +225,7 @@
 .admin5.com
 # 安徽新闻
 .anhuinews.com
+.anhuiyun.com
 # 锋潮科技
 .anzhuo.cn
 # 鞭牛士
@@ -257,6 +258,11 @@
 .cqsjb.com
 # 中证网
 .cs.com.cn
+# 极目新闻/楚天都市报
+.ctdsb.net
+ctdsb.clouddiffuse.xyz
+# 创头条
+.ctoutiao.com
 # 创业邦
 .cyzone.cn
 # 浙江广播电视集团/浙江卫视/新蓝网
@@ -285,6 +291,8 @@
 .geekpark.net
 # 光明网
 .gmw.com
+# 观察者网
+.guancha.cn
 # 硅谷网
 .guigu.org
 # 同花顺
@@ -306,8 +314,12 @@
 .huxiucdn.com
 # 电脑报
 .icpcw.com
+# 长沙晚报
+.icswb.com
 # 中国IDC圈
 .idcquan.com
+# 砍柴网
+.ikanchai.com
 # 艾瑞咨询
 .iresearch.cn
 # IT168
@@ -321,6 +333,8 @@
 # 上观新闻/解放日报
 .jfdaily.com
 .shobserver.com
+# 新黄河/济南时报
+.jinantimes.com.cn
 # 机器之心
 .jiqizhixin.com
 # 金融界
@@ -329,6 +343,8 @@
 # 江苏省广播电视总台
 .jsbc.com
 .jstv.com
+# 大江网/江西日报社
+.jxnews.com.cn
 # 江西省出版传媒集团
 .jxpp.com
 # 晋中广播电视台视听网
@@ -338,6 +354,8 @@
 .kankannews.com
 .kksmg.com
 .statickksmg.com
+# 新智派
+.knewsmart.com
 # 晚点
 .latepost.com
 # 雷科技
@@ -363,6 +381,8 @@
 .pchpic.net
 # PConline 太平洋科技
 .3conline.com
+.pcauto.com.cn
+.pchouse.com.cn
 .pconline.com.cn
 # 泡泡网
 .pcpop.com
@@ -392,6 +412,8 @@
 .shangyexinzhi.com
 # 奇客资讯网
 .solidot.org
+# 速途网
+.sootoo.com
 # 南方新闻网
 .southcn.com
 # 南方财富网
@@ -411,6 +433,8 @@
 .takungpao.com
 # TechWeb
 .techweb.com.cn
+# 科技行者
+.techwalker.com
 # 封面新闻
 .thecover.cn
 # 澎湃新闻
@@ -426,6 +450,8 @@
 .xilu.com
 # 新快报
 .xkb.com.cn
+# 金羊网/羊城晚报
+.ycwb.com
 # 第一财经
 .yicai.com
 # 扬子晚报
@@ -434,6 +460,8 @@
 .zealer.com
 # 知产力
 .zhichanli.com
+# 至顶网
+.zhiding.cn
 # 中关村在线
 .zol-img.com.cn
 .zol.com.cn
