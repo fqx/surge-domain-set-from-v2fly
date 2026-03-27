@@ -18180,6 +18180,8 @@ time.amazonaws.cn
 # Qualcomm
 time.izatcloud.net
 time.xtracloud.net
+izattime.qcomgeo2.com
+xtratime.qcomgeo2.com
 
 # Tencent
 # regexp:^ntp([1-5])?\.tencent\.com$ @cn
@@ -27728,9 +27730,11 @@ d2anahhhmp1ffz.cloudfront.net
 .patenttruth.org
 .pixtronix.com
 .qceventscenter.com.cn
+.qcomgeo2.com
 .qctconnect.com
 .qprize.com
 .qualcomm-email.com
+.qualcomm-inc.com
 .qualcomm.cn
 .qualcomm.cn.cdn.cloudflare.net
 .qualcomm.co.id
