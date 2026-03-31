@@ -963,6 +963,19 @@ uplaypc-s-ubisoft.cdn.ubi.com
 .vrchat.com
 .vrchat.net
 # End of vrchat
+# Included from wargaming
+.masteroforion.com
+.wargaming.com
+.wargaming.net
+.wgcdn.co
+.wgcrowd.io
+.worldoftanks.com
+.worldoftanks.eu
+.worldofwarplanes.com
+.worldofwarships.com
+.wotblitz.com
+.wowsblitz.com
+# End of wargaming
 # Included from wbgames
 datarouter.apps.netherrealm.com
 wb-agora-hydra-file-storage-k1.s3.amazonaws.com
