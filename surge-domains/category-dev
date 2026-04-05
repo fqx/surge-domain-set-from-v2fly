@@ -85,6 +85,7 @@ p-events-delivery.akamaized.net
 # Included from archlinux
 .archlinux.org
 .archlinuxarm.org
+.pkgbuild.com
 
 # Unofficial
 .archlinuxcn.org

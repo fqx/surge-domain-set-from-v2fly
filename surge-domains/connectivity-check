@@ -29,6 +29,11 @@ connectivitycheck.platform.hicloud.com
 # MIUI
 connect.rom.miui.com
 
+# Steam
+.ipv6check-http.steamserver.net
+.ipv6check-udp.steamserver.net
+.test.steampowered.com
+
 # Ubuntu
 connectivity-check.ubuntu.com
 

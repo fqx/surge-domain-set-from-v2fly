@@ -2855,6 +2855,9 @@ venmo.s3.amazonaws.com
 # cdnjs
 .cdnjs.com
 
+# ESM
+.esm.sh
+
 # Gcore
 .gcdn.co
 .gcore.com
@@ -7542,6 +7545,9 @@ hulu.playback.edge.bamgrid.com
 .last.fm
 
 lastfm.freetls.fastly.net
+
+# API endpoint
+ws.audioscrobbler.com
 # End of lastfm
 # Included from litv
 # TGC Taiwan Inc.
@@ -19152,6 +19158,7 @@ p-events-delivery.akamaized.net
 # Included from archlinux
 .archlinux.org
 .archlinuxarm.org
+.pkgbuild.com
 
 # Unofficial
 .archlinuxcn.org

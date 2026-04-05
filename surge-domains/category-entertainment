@@ -1733,6 +1733,9 @@ hulu.playback.edge.bamgrid.com
 .last.fm
 
 lastfm.freetls.fastly.net
+
+# API endpoint
+ws.audioscrobbler.com
 # End of lastfm
 # Included from litv
 # TGC Taiwan Inc.
