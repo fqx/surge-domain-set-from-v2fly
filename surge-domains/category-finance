@@ -71,39 +71,132 @@
 .ysx-mm.com
 # End of category-bank-mm
 # Included from category-bank-ru
+# Included from sber
+# Included from 2gis
+# https://crt.sh/?id=24119301132
+.2gis.ae
+.2gis.am
+.2gis.az
+.2gis.by
+.2gis.com
+.2gis.com.cy
+.2gis.cz
+.2gis.ge
+.2gis.kg
+.2gis.kz
+.2gis.ru
+.2gis.tj
+.2gis.ua
+.2gis.uz
+# End of 2gis
+# Included from okko
+.playfamily.ru
+.okko.sport
+.okko.tv
+# End of okko
+
+.bps-sberbank.by
+.sber-bank.by
+.sber.ru
+.sberbank.com
+.sberbank.ru
+
+# Business ecosystem
+.21-school.ru
+.afisha.ru
+.citydrive.ru
+.cloud.ru
+.cloudru.cn
+.eapteka.ru
+.giga.chat
+.id.ru
+.kuper.ru
+.megamarket.ru
+.megamarket.tech
+.otello.ru
+.samokat.ru
+.sberauto.com
+.sberbank-insurance.ru
+.sbercloud.ru
+.sbercloud.tech
+.sberdevices.ru
+.sberdisk.ru
+.sberindex.ru
+.sberbankins.ru
+.sberhealth.ru
+.sberleasing.ru
+.sberlogistics.ru
+.sbermegamarket.ru
+.sbermobile.ru
+.sberpb.ru
+.sbertroika.ru
+.spasibosb.ru
+.spasibosberbank.ru
+.zvuk-b2b.com
+.zvuk.com
+
+# Sber Pro
+.sber.pro
+sberpro.vedomosti.ru
+
+# Ads/tracking
+.sbermarketing.ru
+clickstream.sberbank.ru
+error-tracking.megamarket.tech
+sentry.sberauto.com
+tracing-http.megamarket.tech
+visor.sberbank.ru
+# End of sber
+# Included from tbank-ru
+.bankline.ru
+.cdn-tinkoff.ru
+.dolyame.ru
+.phoenix-ca.ru
+.rosbank.ru
+.t-bank-app.ru
+.t-j.ru
+.t-static.ru
+.t-technologies.ru
+.tbank-online.com
+.tbank.ru
+.tinkoff-group.com
+.tinkoff.ru
+.tinkoffjournal.ru
+.tinsurance.ru
+.unidraw.io
+
+# Education
+.centraluniversity.ru
+.cu.ru
+edu.tinkoff.ru
+education.tbank.ru
+# End of tbank-ru
+
 # Alfa Bank
 .alfabank.ru
+.alfabank.st
 
 # GazpromBank
+.gazprombank.com
+.gazprombank.investments
 .gazprombank.ru
 .gpb.ru
 
-# Mts dengi
+# MTS Dengi
 .dbo-dengi.online
 .mtsdengi.ru
 
 # PSB Bank
+.payment.ru
+.psb-ocenka.ru
+.psb.ru
 .psbank.ru
-
-# RosBank
-.bankline.ru
-.rosbank.ru
 
 # RUSSIA Bank
 .abr.ru
 
 # Russian Agricultural Bank
 .rshb.ru
-
-# SberBank
-.sber.ru
-.sberbank.com
-.sberbank.ru
-
-# T-Bank (Tinkoff)
-.cdn-tinkoff.ru
-.tbank-online.com
-.tbank.ru
 
 # Tochka bank
 .tochka-tech.com

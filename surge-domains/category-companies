@@ -9059,19 +9059,23 @@ cdn.js7k.com
 # яндекс.рф
 .xn--d1acpjx3f.xn--p1ai
 
-.adfox.ru
-.admetrica.ru
+.berizaryad.ru
+.clck.ru
+.clstorage.net
+.elama.ru
+.meteum.ai
 .naydex.net
 .rostaxi.org
+.shedevrum.ai
+.sourcecraft.dev
+.static-storage.net
 .turbopages.org
-.webvisor.com
-.webvisor.org
+.ya.cc
 .ya.ru
-.yads.tech
 .yandex-bank.net
-.yandex-images.clstorage.net
 .yandex-team.ru
 .yandex.aero
+.yandex.asia
 .yandex.az
 .yandex.by
 .yandex.cloud
@@ -9093,6 +9097,7 @@ cdn.js7k.com
 .yandex.lt
 .yandex.lv
 .yandex.md
+.yandex.mobi
 .yandex.net
 .yandex.org
 .yandex.pl
@@ -9107,12 +9112,13 @@ cdn.js7k.com
 .yandexadexchange.net
 .yandexcloud.net
 .yandexcom.net
-.yandexmetrica.com
+.yandexlyceum.ru
 .yandexwebcache.net
 .yandexwebcache.org
 .yastat.net
 .yastatic-net.ru
 .yastatic.net
+.yccdn.ru
 
 # Watching movies, included in the Yandex subscription
 # Included from kinopoisk
@@ -9120,8 +9126,42 @@ cdn.js7k.com
 .kinopoisk-ru.clstorage.net
 # End of kinopoisk
 
-# Weather service
-yandex-pogoda.static-storage.net
+#Ads/tracking
+.adfox.ru
+.admetrica.ru
+.ads.yandex
+.webvisor.com
+.webvisor.org
+.yads.tech
+.yandex-metrica.ru
+.yandexmetrica.com
+adfox.yandex.ru
+adfstat.yandex.ru
+ads.yandex.com
+ads.yandex.ru
+adsdk.yandex.ru
+adv.yandex.com
+adv.yandex.ru
+amc.yandex.ru
+an.yandex.ru
+analytics.mobile.yandex.net
+api.appmetrica.yandex.ru
+browser-updater.yandex.net
+bs.yandex.ru
+clck.yandex.net
+clck.yandex.ru
+counter.yandex.net
+counter.yandex.ru
+informer.yandex.ru
+mc.yandex.com
+mc.yandex.ru
+metrika.yandex.ru
+pix.yandex.ru
+pixel.yandex.net
+report-partners.appmetrica.yandex.net
+report.ap.yandex-net.ru
+report.appmetrica.yandex.net
+yabs.yandex.ru
 # End of yandex
 # Included from zscaler
 # https://crt.sh/?id=23639384976
