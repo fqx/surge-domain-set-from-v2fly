@@ -378,15 +378,25 @@ youla-web-static.mrgcdn.ru
 .xn--d1acpjx3f.xn--p1ai
 
 .berizaryad.ru
+.cabconnect.org
 .clck.ru
 .clstorage.net
+.driveawaytaxi.org
 .elama.ru
+.gogettaxi.org
+.goup.ai
+.hayya.ae
 .meteum.ai
+.my-manager-account.com
 .naydex.net
 .rostaxi.org
 .shedevrum.ai
 .sourcecraft.dev
 .static-storage.net
+.support-uber.com
+.taxiaid.org
+.taxiguru.org
+.taxitax.org
 .turbopages.org
 .ya.cc
 .ya.ru
@@ -430,9 +440,23 @@ youla-web-static.mrgcdn.ru
 .yandexadexchange.net
 .yandexcloud.net
 .yandexcom.net
+.yandexgo.com
 .yandexlyceum.ru
 .yandexwebcache.net
 .yandexwebcache.org
+.yango-b2b.com
+.yango-team.com
+.yango-tech.com
+.yango.africa
+.yango.ao
+.yango.bh
+.yango.co.il
+.yango.com
+.yango.fi
+.yango.qa
+.yango.taxi
+.yango.tech
+.yangofellowship.com
 .yastat.net
 .yastatic-net.ru
 .yastatic.net
@@ -444,7 +468,7 @@ youla-web-static.mrgcdn.ru
 .kinopoisk-ru.clstorage.net
 # End of kinopoisk
 
-#Ads/tracking
+# Ads/tracking
 .adfox.ru
 .admetrica.ru
 .ads.yandex
@@ -453,33 +477,40 @@ youla-web-static.mrgcdn.ru
 .yads.tech
 .yandex-metrica.ru
 .yandexmetrica.com
-adfox.yandex.ru
-adfstat.yandex.ru
-ads.yandex.com
-ads.yandex.ru
-adsdk.yandex.ru
-adv.yandex.com
-adv.yandex.ru
-amc.yandex.ru
-an.yandex.ru
-analytics.mobile.yandex.net
-api.appmetrica.yandex.ru
-browser-updater.yandex.net
-bs.yandex.ru
-clck.yandex.net
-clck.yandex.ru
-counter.yandex.net
-counter.yandex.ru
-informer.yandex.ru
-mc.yandex.com
-mc.yandex.ru
-metrika.yandex.ru
-pix.yandex.ru
-pixel.yandex.net
-report-partners.appmetrica.yandex.net
-report.ap.yandex-net.ru
-report.appmetrica.yandex.net
-yabs.yandex.ru
+.yango-ads.com
+.adfox.yandex.ru
+.adfstat.yandex.ru
+.ads.yandex.com
+.ads.yandex.ru
+.ads.yango.com
+.adsdk.yandex.ru
+.adv.yandex.com
+.adv.yandex.ru
+.amc.yandex.ru
+.an.yandex.ru
+.analytics.mobile.yandex.net
+.appmetrica.yandex.com
+.appmetrica.yandex.net
+.appmetrica.yandex.ru
+.appmetrica.yango.com
+.browser-updater.yandex.net
+.bs.yandex.ru
+.clck.yandex.com
+.clck.yandex.net
+.clck.yandex.ru
+.clck.yango.com
+.counter.yandex.net
+.counter.yandex.ru
+.informer.yandex.ru
+.mc.yandex.com
+.mc.yandex.net
+.mc.yandex.ru
+.mc.yango.com
+.metrika.yandex.ru
+.pix.yandex.ru
+.pixel.yandex.net
+.report.ap.yandex-net.ru
+.yabs.yandex.ru
 # End of yandex
 
 # Bank & Finance & Insurance & Securities
@@ -551,6 +582,23 @@ yabs.yandex.ru
 # Sber Pro
 .sber.pro
 sberpro.vedomosti.ru
+
+# Jivo/Jivochat/Jivosite
+.jivo.chat
+.jivo.ru
+.jivochat.com
+.jivochat.co.in
+.jivochat.co.za
+.jivochat.com.br
+.jivochat.com.co
+.jivochat.com.pe
+.jivochat.com.tr
+.jivochat.de
+.jivochat.es
+.jivochat.ng
+.jivochat.ru
+.jivosite.com
+.jivosite.ru
 
 # Ads/tracking
 .sbermarketing.ru

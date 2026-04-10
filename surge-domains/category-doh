@@ -38,31 +38,15 @@ internetsehat.bebasid.com
 dns.cfiec.net
 
 # Cisco OpenDNS
-
-## Standard
-doh.opendns.com
-
-## FamilyShield
-doh.familyshield.opendns.com
-
-## Sandbox
-doh.sandbox.opendns.com
+.opendns.com
 
 # CleanBrowsing
 doh.cleanbrowsing.org
 
 # Cloudflare DNS
-
-## Standard
 one.one.one.one
 dns.cloudflare.com
-cloudflare-dns.com
-
-## Malware blocking only
-security.cloudflare-dns.com
-
-## Malware and adult content blocking
-family.cloudflare-dns.com
+.cloudflare-dns.com
 
 # ControlD
 freedns.controld.com
@@ -141,12 +125,7 @@ family.dns.mullvad.net
 all.dns.mullvad.net
 
 # NextDNS
-
-## Ultra-low latency
-dns.nextdns.io
-
-## Anycast
-anycast.dns.nextdns.io
+.nextdns.io
 
 # OpenBLD.net DNS
 

@@ -52,6 +52,12 @@ servd-anthropic-website.b-cdn.net
 .elevenlabs.com
 .elevenlabs.io
 # End of elevenlabs
+# Included from envato
+.envato-static.com
+.envato.com
+.envatousercontent.com
+.themeforest.net
+# End of envato
 # Included from github-copilot
 .githubcopilot.com
 # End of github-copilot

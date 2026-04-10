@@ -56,6 +56,12 @@ servd-anthropic-website.b-cdn.net
 .elevenlabs.com
 .elevenlabs.io
 # End of elevenlabs
+# Included from envato
+.envato-static.com
+.envato.com
+.envatousercontent.com
+.themeforest.net
+# End of envato
 # Included from github-copilot
 .githubcopilot.com
 # End of github-copilot
@@ -564,6 +570,7 @@ fontshop-prod-responsive-images.s3.amazonaws.com
 # End of webtype
 
 .bunka.go.jp
+.uxthemes.com
 
 # Automobile
 # Included from bmw
@@ -1795,6 +1802,23 @@ tesla-cdn.thron.com
 # Sber Pro
 .sber.pro
 sberpro.vedomosti.ru
+
+# Jivo/Jivochat/Jivosite
+.jivo.chat
+.jivo.ru
+.jivochat.com
+.jivochat.co.in
+.jivochat.co.za
+.jivochat.com.br
+.jivochat.com.co
+.jivochat.com.pe
+.jivochat.com.tr
+.jivochat.de
+.jivochat.es
+.jivochat.ng
+.jivochat.ru
+.jivosite.com
+.jivosite.ru
 
 # Ads/tracking
 .sbermarketing.ru
@@ -18484,6 +18508,13 @@ ntp5.ntp-servers.net
 ntp6.ntp-servers.net
 ntp7.ntp-servers.net
 
+# TimeNL
+ntp.time.nl
+ntp1.time.nl
+ntp2.time.nl
+ntppool1.time.nl
+ntppool2.time.nl
+
 .clock.isc.org
 .ntp.fiord.ru
 .ntp.nat.ms
@@ -19130,6 +19161,8 @@ public-us-pingsx.api.clonoth.com
 .auroraoss.com
 ## BiliPlus
 .biliplus.com
+## Canny (Customer Feedback Management)
+.canny.io
 ## CataBoom
 .cataboom.com
 ## Consent Management Platforms / Cookie service
@@ -28715,15 +28748,25 @@ cdn.js7k.com
 .xn--d1acpjx3f.xn--p1ai
 
 .berizaryad.ru
+.cabconnect.org
 .clck.ru
 .clstorage.net
+.driveawaytaxi.org
 .elama.ru
+.gogettaxi.org
+.goup.ai
+.hayya.ae
 .meteum.ai
+.my-manager-account.com
 .naydex.net
 .rostaxi.org
 .shedevrum.ai
 .sourcecraft.dev
 .static-storage.net
+.support-uber.com
+.taxiaid.org
+.taxiguru.org
+.taxitax.org
 .turbopages.org
 .ya.cc
 .ya.ru
@@ -28767,9 +28810,23 @@ cdn.js7k.com
 .yandexadexchange.net
 .yandexcloud.net
 .yandexcom.net
+.yandexgo.com
 .yandexlyceum.ru
 .yandexwebcache.net
 .yandexwebcache.org
+.yango-b2b.com
+.yango-team.com
+.yango-tech.com
+.yango.africa
+.yango.ao
+.yango.bh
+.yango.co.il
+.yango.com
+.yango.fi
+.yango.qa
+.yango.taxi
+.yango.tech
+.yangofellowship.com
 .yastat.net
 .yastatic-net.ru
 .yastatic.net
@@ -28781,7 +28838,7 @@ cdn.js7k.com
 .kinopoisk-ru.clstorage.net
 # End of kinopoisk
 
-#Ads/tracking
+# Ads/tracking
 .adfox.ru
 .admetrica.ru
 .ads.yandex
@@ -28790,33 +28847,40 @@ cdn.js7k.com
 .yads.tech
 .yandex-metrica.ru
 .yandexmetrica.com
-adfox.yandex.ru
-adfstat.yandex.ru
-ads.yandex.com
-ads.yandex.ru
-adsdk.yandex.ru
-adv.yandex.com
-adv.yandex.ru
-amc.yandex.ru
-an.yandex.ru
-analytics.mobile.yandex.net
-api.appmetrica.yandex.ru
-browser-updater.yandex.net
-bs.yandex.ru
-clck.yandex.net
-clck.yandex.ru
-counter.yandex.net
-counter.yandex.ru
-informer.yandex.ru
-mc.yandex.com
-mc.yandex.ru
-metrika.yandex.ru
-pix.yandex.ru
-pixel.yandex.net
-report-partners.appmetrica.yandex.net
-report.ap.yandex-net.ru
-report.appmetrica.yandex.net
-yabs.yandex.ru
+.yango-ads.com
+.adfox.yandex.ru
+.adfstat.yandex.ru
+.ads.yandex.com
+.ads.yandex.ru
+.ads.yango.com
+.adsdk.yandex.ru
+.adv.yandex.com
+.adv.yandex.ru
+.amc.yandex.ru
+.an.yandex.ru
+.analytics.mobile.yandex.net
+.appmetrica.yandex.com
+.appmetrica.yandex.net
+.appmetrica.yandex.ru
+.appmetrica.yango.com
+.browser-updater.yandex.net
+.bs.yandex.ru
+.clck.yandex.com
+.clck.yandex.net
+.clck.yandex.ru
+.clck.yango.com
+.counter.yandex.net
+.counter.yandex.ru
+.informer.yandex.ru
+.mc.yandex.com
+.mc.yandex.net
+.mc.yandex.ru
+.mc.yango.com
+.metrika.yandex.ru
+.pix.yandex.ru
+.pixel.yandex.net
+.report.ap.yandex-net.ru
+.yabs.yandex.ru
 # End of yandex
 # Included from zscaler
 # https://crt.sh/?id=23639384976
