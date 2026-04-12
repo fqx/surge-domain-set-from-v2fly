@@ -225,11 +225,12 @@ developers.facebook.com
 .fastlane.tools
 # End of fastlane
 # Included from fedora
-.getfedora.org
 .fedoraforum.org
+.fedorainfracloud.org
+.fedoramagazine.org
 .fedorapeople.org
 .fedoraproject.org
-.fedoramagazine.org
+.getfedora.org
 # End of fedora
 # Included from firebase
 .firebase.com

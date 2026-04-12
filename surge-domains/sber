@@ -32,13 +32,14 @@
 .afisha.ru
 .citydrive.ru
 .cloud.ru
-.cloudru.cn
+.eaptechka.online
 .eapteka.ru
 .giga.chat
 .id.ru
 .kuper.ru
 .megamarket.ru
 .megamarket.tech
+.neon.click
 .otello.ru
 .samokat.ru
 .sberauto.com
@@ -84,8 +85,9 @@ sberpro.vedomosti.ru
 
 # Ads/tracking
 .sbermarketing.ru
-clickstream.sberbank.ru
-error-tracking.megamarket.tech
-sentry.sberauto.com
-tracing-http.megamarket.tech
-visor.sberbank.ru
+.ads.neon.click
+.clickstream.sberbank.ru
+.error-tracking.megamarket.tech
+.sentry.sberauto.com
+.tracing-http.megamarket.tech
+.visor.sberbank.ru

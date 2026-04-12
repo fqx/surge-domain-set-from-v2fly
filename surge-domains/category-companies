@@ -3498,6 +3498,33 @@ vmware.tt.omtrdc.net
 .canva.com
 .canvastatus.com
 # End of canva
+# Included from carrotquest
+.carrot-mail.io
+.carrotquest-mail.io
+.carrotquest.app
+.carrotquest.io
+.carrottrack.app
+.dashly.app
+.dashly.help
+.dashly.io
+.dashly.me
+.dashlytrack.app
+.mail-carrotquest.io
+.pushgrow.io
+
+# Tracking
+.api-eu.carrotquest.app
+.api-eu.carrotquest.io
+.api-ru.carrotquest.app
+.api-ru.carrotquest.io
+.api-secure.carrotquest.app
+.api-secure.carrottrack.app
+.api.carrotquest.app
+.api.carrotquest.io
+.api.carrottrack.app
+.api.dashly.app
+.api.dashlytrack.app
+# End of carrotquest
 # Included from chegg
 .chegg.com
 .cheggcdn.com
@@ -7809,6 +7836,31 @@ statics-marketingsites-wcus-ms-com.akamaized.net
 .mynetname.net
 .routerboard.com
 # End of mikrotik
+# Included from mindbox
+.botmechanic.io
+.ceosummit.ru
+.mind-box.ru
+.mindbox-notifications.ru
+.mindbox.cloud
+.mindbox.group
+.mindbox.ru
+.mindbox.site
+.mindbox.so
+.popmechanic.io
+.popmechanic.ru
+.summitceo.ru
+
+# Tracking
+.api-js.mindbox.ru
+.api-ru.mindbox.cloud
+.api-staging.mindbox.ru
+.api.mindbox.cloud
+.api.mindbox.ru
+.api.e.mindbox.ru
+.api.s.mindbox.ru
+.sentry.mindbox.ru
+.sentry.popmechanic.ru
+# End of mindbox
 # Included from mindgeek
 # Included from mindgeek-porn
 # Included from brazzers
@@ -8349,6 +8401,32 @@ qualcomm.sc.omtrdc.net
 .samsungrs.com
 .smartthings.com
 # End of samsung
+# Included from selectel
+.chipcore.com
+.chipcore.ru
+.haicomdc.com
+.haicomdc.ru
+.haicomgroup.ru
+.itirex.ru
+.selcdn.net
+.selectel.academy
+.selectel.blog
+.selectel.com
+.selectel.dev
+.selectel.info
+.selectel.io
+.selectel.live
+.selectel.ru
+.selectelix.ru
+.selectelpro.ru
+.servercore.com
+.servercore.live
+.slc.tl
+.tehnodom.com
+.vscale.blog
+.vscale.io
+.vscale.ru
+# End of selectel
 # Included from skyperfect
 # SKY Perfect JSAT Holdings Inc.
 .skyperfectjsat.space
