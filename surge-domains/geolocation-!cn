@@ -1764,29 +1764,32 @@ tesla-cdn.thron.com
 .sber.ru
 .sberbank.com
 .sberbank.ru
+.sbrf.ru
+
+# Ads/tracking
+.neon.click
+.sbermarketing.ru
+.ads.sber.ru
+.clickstream.sberbank.ru
+.error-tracking.megamarket.tech
+.metrics.21-school.ru
+.sentry.sberauto.com
+.tracing-http.megamarket.tech
+.visor.sberbank.ru
 
 # Business ecosystem
-.21-school.ru
-.afisha.ru
-.citydrive.ru
-.cloud.ru
-.eaptechka.online
-.eapteka.ru
-.giga.chat
 .id.ru
-.kuper.ru
 .megamarket.ru
 .megamarket.tech
-.neon.click
-.otello.ru
-.samokat.ru
 .sberauto.com
 .sberbank-insurance.ru
 .sbercloud.ru
 .sbercloud.tech
 .sberdevices.ru
 .sberdisk.ru
+.sberfactoring.ru
 .sberindex.ru
+.sberbankaktivno.ru
 .sberbankins.ru
 .sberhealth.ru
 .sberleasing.ru
@@ -1795,21 +1798,44 @@ tesla-cdn.thron.com
 .sbermobile.ru
 .sberpb.ru
 .sbertroika.ru
-.spasibosb.ru
-.spasibosberbank.ru
-.zvuk-b2b.com
-.zvuk.com
 
-# Sber Pro
-.sber.pro
-sberpro.vedomosti.ru
+## Afisha
+.afisha.ru
 
-# Jivo/Jivochat/Jivosite
+## Citydrive (carsharing)
+.citydrive.ru
+
+## cloud.ru
+.cloud.ru
+
+## EApteka (pharmacy)
+.eaptechka.online
+.eapteka.ru
+
+## Education
+.21-school.ru
+
+## Food delivery
+
+### Kuper
+.kuper.ru
+.restnproducts.ru
+
+### Samokat (food delivery)
+.samokat.ru
+
+## GigaChat (AI chat)
+.giga.chat
+
+## GitVerse
+.gitverse.ru
+
+## Jivo/Jivochat/Jivosite (chat for website)
 .jivo.chat
 .jivo.ru
-.jivochat.com
 .jivochat.co.in
 .jivochat.co.za
+.jivochat.com
 .jivochat.com.br
 .jivochat.com.co
 .jivochat.com.pe
@@ -1821,14 +1847,34 @@ sberpro.vedomosti.ru
 .jivosite.com
 .jivosite.ru
 
-# Ads/tracking
-.sbermarketing.ru
-.ads.neon.click
-.clickstream.sberbank.ru
-.error-tracking.megamarket.tech
-.sentry.sberauto.com
-.tracing-http.megamarket.tech
-.visor.sberbank.ru
+## Online payment service
+.payecom.ru
+.platiecom.ru
+
+## Ottelo (travel agency)
+.otello.ru
+
+## Sber Pro
+.sber.pro
+sberpro.vedomosti.ru
+
+## Sber Spasibo (loyalty service)
+.cplsb.ru
+.sberspasibo.ru
+.spasibo.digital
+.spasibo.market
+.spasibobonus.ru
+.spasibosb.ru
+.spasibosberbank.ru
+
+## Sber Tech
+.accesspoint.uz
+.getsynapse.io
+.sbertech.ru
+
+# Zvuk (music streaming)
+.zvuk-b2b.com
+.zvuk.com
 # End of sber
 # Included from tbank-ru
 # IDN ccTLD domains (.рф)
@@ -1889,6 +1935,7 @@ sberpro.vedomosti.ru
 .sgcheck.ru
 .t-access.ru
 .t-bank-app.ru
+.t-bank-app.su
 .t-bank.by
 .t-calls.ru
 .t-capital-funds.ru
@@ -1947,12 +1994,23 @@ education.tbank.ru
 # Alfa Bank
 .alfabank.ru
 .alfabank.st
+.alfadirect.ru
+.myapelsin.ru
+.alfabank.oavdo.amc
+
+# BCS bank
+.bcs.ru
+.bcs-bank.ru
+.broker.ru
 
 # GazpromBank
 .gazprombank.com
 .gazprombank.investments
 .gazprombank.ru
 .gpb.ru
+
+# MKB
+.mkb.ru
 
 # MTS Dengi
 .dbo-dengi.online
@@ -4264,56 +4322,6 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 .wldberris.ru
 .wolfberries.ru
 
-# Promotions (presumably)
-.bansi.ru
-.baumi.ru
-.bokerama.ru
-.bonbon.am
-.caronino.com
-.contessa.ru
-.epilprofy.ru
-.ewotech.ru
-.fixgoodsport.ru
-.foralice.online
-.foxx-shop.ru
-.gerronfox.com
-.gondol.ru
-.ikakids.ru
-.jieshang.online
-.jieshang.ru
-.jieshang.shop
-.jieshang.store
-.katrn.ru
-.kiddiekorner.ru
-.lizageld.de
-.lizageld.ru
-.made-in-altai.ru
-.magic-mix.ru
-.maoshop.ru
-.megapolis.llc
-.mimile.ru
-.nemocoffee.ru
-.nuwjon.online
-.nuwjon.ru
-.nuwjon.shop
-.nuwjon.store
-.papertole.by
-.perfect-market.ru
-.pleamo.ru
-.qnails.ru
-.rugg.ru
-.skandia-shoes.ru
-.soomkosh.ru
-.temka37.ru
-.thebutik.ru
-.tigrenok.toys
-.tigrenoktoys.ru
-.trendysocks.ru
-.ucsan.ru
-.westranger.ru
-.xbs24.ru
-.zanmarket.ru
-
 # IDN ccTLDs
 
 # Advertising and tracking
@@ -4328,6 +4336,8 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 .advert-media-api.wildberries.ru
 .analytics-stage.wildberries.ru
 .analytics.wildberries.ru
+.marketing-info.wildberries.ru
+.marketplace-sentry.wb.ru
 .sentry.wb.ru
 .web-analytics.wildberries.ru
 # End of wildberries
@@ -24386,6 +24396,7 @@ crl.globalsign.net
 .gmoask.jp
 .gmobb.jp
 .gmocloud.com
+.gmopg.jp
 .gmosign.com
 .gmossp.jp
 .good-apps.jp
@@ -25794,6 +25805,16 @@ www.gstatic.com
 www.pxcc.com
 xn--flw351e.com
 # End of google
+# Included from headhunter
+.hh.by
+.hh.kz
+.hh.ru
+.hhcdn.ru
+.rabota.by
+.setka.ru
+.talantix.ru
+.zarplata.ru
+# End of headhunter
 # Included from hetzner
 .first-ns.de
 .hetzner-cloud.de
@@ -28098,8 +28119,9 @@ statics-marketingsites-wcus-ms-com.akamaized.net
 .api-staging.mindbox.ru
 .api.mindbox.cloud
 .api.mindbox.ru
-.api.e.mindbox.ru
-.api.s.mindbox.ru
+.e.mindbox.ru
+.g.mindbox.ru
+.s.mindbox.ru
 .sentry.mindbox.ru
 .sentry.popmechanic.ru
 # End of mindbox

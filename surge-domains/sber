@@ -26,29 +26,32 @@
 .sber.ru
 .sberbank.com
 .sberbank.ru
+.sbrf.ru
+
+# Ads/tracking
+.neon.click
+.sbermarketing.ru
+.ads.sber.ru
+.clickstream.sberbank.ru
+.error-tracking.megamarket.tech
+.metrics.21-school.ru
+.sentry.sberauto.com
+.tracing-http.megamarket.tech
+.visor.sberbank.ru
 
 # Business ecosystem
-.21-school.ru
-.afisha.ru
-.citydrive.ru
-.cloud.ru
-.eaptechka.online
-.eapteka.ru
-.giga.chat
 .id.ru
-.kuper.ru
 .megamarket.ru
 .megamarket.tech
-.neon.click
-.otello.ru
-.samokat.ru
 .sberauto.com
 .sberbank-insurance.ru
 .sbercloud.ru
 .sbercloud.tech
 .sberdevices.ru
 .sberdisk.ru
+.sberfactoring.ru
 .sberindex.ru
+.sberbankaktivno.ru
 .sberbankins.ru
 .sberhealth.ru
 .sberleasing.ru
@@ -57,21 +60,44 @@
 .sbermobile.ru
 .sberpb.ru
 .sbertroika.ru
-.spasibosb.ru
-.spasibosberbank.ru
-.zvuk-b2b.com
-.zvuk.com
 
-# Sber Pro
-.sber.pro
-sberpro.vedomosti.ru
+## Afisha
+.afisha.ru
 
-# Jivo/Jivochat/Jivosite
+## Citydrive (carsharing)
+.citydrive.ru
+
+## cloud.ru
+.cloud.ru
+
+## EApteka (pharmacy)
+.eaptechka.online
+.eapteka.ru
+
+## Education
+.21-school.ru
+
+## Food delivery
+
+### Kuper
+.kuper.ru
+.restnproducts.ru
+
+### Samokat (food delivery)
+.samokat.ru
+
+## GigaChat (AI chat)
+.giga.chat
+
+## GitVerse
+.gitverse.ru
+
+## Jivo/Jivochat/Jivosite (chat for website)
 .jivo.chat
 .jivo.ru
-.jivochat.com
 .jivochat.co.in
 .jivochat.co.za
+.jivochat.com
 .jivochat.com.br
 .jivochat.com.co
 .jivochat.com.pe
@@ -83,11 +109,31 @@ sberpro.vedomosti.ru
 .jivosite.com
 .jivosite.ru
 
-# Ads/tracking
-.sbermarketing.ru
-.ads.neon.click
-.clickstream.sberbank.ru
-.error-tracking.megamarket.tech
-.sentry.sberauto.com
-.tracing-http.megamarket.tech
-.visor.sberbank.ru
+## Online payment service
+.payecom.ru
+.platiecom.ru
+
+## Ottelo (travel agency)
+.otello.ru
+
+## Sber Pro
+.sber.pro
+sberpro.vedomosti.ru
+
+## Sber Spasibo (loyalty service)
+.cplsb.ru
+.sberspasibo.ru
+.spasibo.digital
+.spasibo.market
+.spasibobonus.ru
+.spasibosb.ru
+.spasibosberbank.ru
+
+## Sber Tech
+.accesspoint.uz
+.getsynapse.io
+.sbertech.ru
+
+# Zvuk (music streaming)
+.zvuk-b2b.com
+.zvuk.com

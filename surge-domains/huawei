@@ -332,6 +332,7 @@
 .dbankcdn.com
 .dbankcloud.cn
 .dbankcloud.com
+.dbankcloud.ru
 .dbankedge.cn
 .dbankedge.net
 .hicloud.com
@@ -350,3 +351,6 @@
 .shanhaitujian.com
 .vmall.com
 .vmallres.com
+
+# Tracking
+.dt.dbankcloud.ru
