@@ -35,6 +35,12 @@
 # End of dslreports
 # Included from dzen
 .dzen.ru
+
+# Ads and tracking
+.log.dzen.ru
+.ms.dzen.ru
+
+# CDN
 .dzeninfra.ru
 # End of dzen
 # Included from habr

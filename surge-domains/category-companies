@@ -6413,73 +6413,327 @@ lgelectronics.122.2o7.net
 tp.louisvuitton.com
 # End of louisvuitton
 # Included from mailru-group
+# VK Group, formerly known as Mail.ru Group, a Russian technology company
 # Included from dzen
 .dzen.ru
+
+# Ads and tracking
+.log.dzen.ru
+.ms.dzen.ru
+
+# CDN
 .dzeninfra.ru
 # End of dzen
-# Included from mailru
-.imgsmail.ru
-.mail.ru
-# End of mailru
 # Included from ok
+.apiok.ru
+.insideok.ru
+.odkl.ru
+.odnoklassniki.ru
+.ok.me
 .ok.ru
-.okcdn.ru
-.mycdn.me
+.okl.lt
+.oktech.ru
 
 st-ok-pts.cdn-vk.ru
 st-ok.cdn-vk.ru
+
+# CDN
+.okcdn.ru
 # End of ok
 # Included from vk
-.cdn-vk.ru
-.mradx.net
+# Use `geosite:mailru-group` if you want to match the entire VK Group
 .mvk.com
-.userapi.com
-.vk-analytics.ru
-.vk-apps.com
-.vk-apps.ru
-.vk-cdn.me
-.vk-cdn.net
-.vkcloud-static.ru
-.vk-portal.net
 .vk.cc
 .vk.com
-.vk.company
 .vk.design
 .vk.link
-.vk.me
 .vk.ru
-.vk.team
-.vkcache.com
-.vkgo.app
-.vklive.app
-.vkmessenger.app
-.vkmessenger.com
+.vkontakte.com
 .vkontakte.ru
+
+# Ads and tracking
+.vk-analytics.ru
+.adblogger.vk.com
+.ads.vk.com
+.ads.vk.ru
+.analytics.vk.ru
+.analytics.vk.com
+.ms.vk.com
+.ms.vk.ru
+.stats.vk-portal.net
+.target.vk.com
+.target.vk.ru
+
+# CDNs
+.cdn-vk.net
+.cdn-vk.ru
+.userapi.com
+.userapi.ru
+.vk-cdn.me
+.vk-cdn.net
+.vk-portal.net
+.vkcache.com
+.vkcdnservice.com
+.vkcloud-static.ru
+.vktech-static.ru
 .vkuser.net
+.vkusercdn.ru
+.vkuserphoto.ru
 .vkuseraudio.com
 .vkuseraudio.net
 .vkuseraudio.ru
-.vkusercdn.ru
+.vkuserlive.com
 .vkuserlive.net
-.vkuserphoto.ru
 .vkuservideo.com
 .vkuservideo.net
 .vkuservideo.ru
-.vkvideo.ru
+
+# VK Messenger
+.vk.me
+.vkmessenger.app
+.vkmessenger.com
+
+# VK Pay
+.vkpay.app
+.vkpay.com
+.vkpay.io
+.vkpay.ru
 # End of vk
 
+.armgs.team
+.bargipsy.com
+.boom.ru
 .boosty.to
 .donationalerts.com
-.max.ru
+.hrtek.ru
+.koddobra.ru
+.lovina.app
+.mail.ru
+.mediumquality.ru
 .memealerts.com
-.oneme.ru
+.movika.com
+.sportmail.ru
+.summerstage.ru
 .tamtam.chat
+.tech-mail.ru
+.vk-apps.com
+.vk-apps.ru
+.vk-records.ru
+.vk-stadium.ru
+.vk.company
+.vk.team
+.vkclips.app
+.vkcs.cloud
+.vkfest.ru
+.vkgo.app
+.vklive.app
+.vkvideo.ru
+.yclients.com
+
+# IDN ccTLD
+
+# Ads and tracking
+.adsadvisor.io
+.apptracer.ru
+.cxhub.ru
+.myadx.net
+.1l-hit.mail.ru
+.1l-hit.vkplay.ru
+.ad.mail.ru
+.ad4.mail.ru
+.ads-integration.rustore.ru
+.ads.dahlmessenger.com
+.ads.icq.com
+.ads.rustore.ru
+.ads.viqeo.tv
+.adsapp.dahlmessenger.com
+.adsapp.telega.info
+.adsapp.stage.telega.info
+.adv.rustore.ru
+.alt-r.my.com
+.an.mail.ru
+.b2.mail.ru
+.bs.mail.ru
+.click.rustore.ru
+.metrics.viqeo.tv
+.pixel.rustore.ru
+.r.mail.ru
+.r.my.com
+.r0.mail.ru
+.r0.mradx.net
+.r1.mail.ru
+.radar.imgsmail.ru
+.reklama.mail.ru
+.relap.mail.ru
+.rs.mail.ru
+.sentry-ng.g.smailru.net
+.sentry.dev-my.com
+.sentry.dev-my.games
+.sentry.rustore.ru
+.sentry.viqeo.tv
+.stacks.vk-portal.net
+.stats.dahlmessenger.com
+.stats.dev.telega.info
+.stats.rustore.ru
+.stats.telega.info
+.t.mail.ru
+.target.my.com
+.top-fwz1.mail.ru
+.top-staging.mail.ru
+.tracker-api.my.com
+.tracker.my.com
+.whiteline.mail.ru
+.xray.mail.ru
+
+# CDNs
+.appsmail.ru
+.attachmy.com
+.bizmrg.com
+.cdnmail.ru
+.datacloudmy.com
+.imgsmail.ru
+.mpgw-my.com
+.mradx.net
+.mrgcdn.ru
+.mycdn.me
+.mytopf.com
+.smailru.net
+.staticmy.com
+.vmailru.net
+
+# Ecosystem
+
+## Additional mail.ru mail domains
+.bk.ru
+.inbox.ru
+.internet.ru
+.list.ru
+
+## All Cups
+.cups.online
+.gamescup.ru
+.mlbootcamp.ru
+.russiandesigncup.ru
+
+## Education
+.algoritmika.org
+.code-class.ru
+.gb.ru
+.lerna.ru
+.skillbox.pro
+.skillbox.ru
+.skillfactory.ru
+.tetrika-school.ru
+.uchi.ru
+.umschool.net
+.yaklass.ru
+
+## ESforce
+.cybersport.ru
+.epicevents.gg
+.esforce.com
+.esforce.ru
+.ruhub.tv
+
+## ICQ (deprecated)
+.ciciq.net
+.goicq.org
+.icq-download.com
+.icq-mobile.com
+.icq-online.com
+.icq-phone.com
+.icq-phone.org
+.icq.asia
+.icq.at
+.icq.biz
+.icq.com
+.icq.de
+.icq.fr
+.icq.eu
+.icq.im
+.icq.lt
+.icq.mobi
+.icq.org
+.icq.ru
+.icq.sg
+.icq2mobile.com
+.icq5.com
+.icqanywhere.com
+.icqbrasil.com
+.icqbrazil.com
+.icqchat.com
+.icqflirting.com
+.icqgame.com
+.icqgames.com
+.icqkids.com
+.icqmail.com
+.icqmail.net
+.icqonline.com
+.icqpassword.com
+.icqpeople.com
+.icqservers.com
+.icqservice.com
+.icqsupportteam.com
+.icqsystem.com
+.icqsystems.com
+.icqtoday.com
+.icqtutor.com
+.icqvideo.com
+.mailicq.org
+.mirabilis.com
+.mirandaicq.com
+.mobile-icq.com
+.mobileicq.com
+
+## Messenger MAX
+.max.ru
+.oneme.ru
+.sferum-dev.ru
+.sferum.ru
+
+## my.com
+.dev-my.com
+.my.com
+
+## my.games (formally left Russian market)
+.dev-my.games
+.it-territory.com
+.knightspeak.com
+.my.games
+.pixonic.com
+.prod-my.games
+
+## RuStore
+.rustore.ru
+.rustore.team
+.rustore.tv
+
+## Tarantool
+.tarantool.io
+.tarantoolplus.ru
+
+## Telega, an alternative Telegram client
+### CAUTION: SUSPECTED SPYWARE
+### For details see: https://dontusetelega.lol/analysis
+.aodahl.com
+.dahl.su
+.dahlmessenger.com
 .telega.info
 .telega.me
+.tusco.ru
+
+## Viqeo
+.viqeo.tv
+.viqeotv.com
+
+## VK Play
+.vkplay-arena.ru
+.vkplay.ru
+.vkplay.live
+
+## Youla
 .youla.io
 .youla.ru
-
-youla-web-static.mrgcdn.ru
 # End of mailru-group
 # Included from meta
 # Included from facebook
@@ -8259,6 +8513,16 @@ d2anahhhmp1ffz.cloudfront.net
 # plex.direct
 # v4.plex.tv
 # End of plex
+# Included from progress
+# Progress Software Corporation
+# https://www.progress.com/products
+.chef.io
+.getfiddler.com
+.kemptechnologies.com
+.progress.com
+.sharefile.com
+.telerik.com
+# End of progress
 # Included from qnap
 # Global
 .myqnapcloud.com

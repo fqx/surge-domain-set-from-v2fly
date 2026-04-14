@@ -504,10 +504,6 @@ e122475.dscg.akamaiedge.net
 licdn.cn.cdn20.com
 linkedin.sc.omtrdc.net
 # End of linkedin
-# Included from mailru
-.imgsmail.ru
-.mail.ru
-# End of mailru
 # Included from misskey
 .misskey.io
 .misskeyusercontent.jp
@@ -558,12 +554,20 @@ linkedin.sc.omtrdc.net
 .mixi.net
 # End of mixi
 # Included from ok
+.apiok.ru
+.insideok.ru
+.odkl.ru
+.odnoklassniki.ru
+.ok.me
 .ok.ru
-.okcdn.ru
-.mycdn.me
+.okl.lt
+.oktech.ru
 
 st-ok-pts.cdn-vk.ru
 st-ok.cdn-vk.ru
+
+# CDN
+.okcdn.ru
 # End of ok
 # Included from threads
 .threads.com
@@ -596,42 +600,63 @@ st-ok.cdn-vk.ru
 .x.com
 # End of twitter
 # Included from vk
-.cdn-vk.ru
-.mradx.net
+# Use `geosite:mailru-group` if you want to match the entire VK Group
 .mvk.com
-.userapi.com
-.vk-analytics.ru
-.vk-apps.com
-.vk-apps.ru
-.vk-cdn.me
-.vk-cdn.net
-.vkcloud-static.ru
-.vk-portal.net
 .vk.cc
 .vk.com
-.vk.company
 .vk.design
 .vk.link
-.vk.me
 .vk.ru
-.vk.team
-.vkcache.com
-.vkgo.app
-.vklive.app
-.vkmessenger.app
-.vkmessenger.com
+.vkontakte.com
 .vkontakte.ru
+
+# Ads and tracking
+.vk-analytics.ru
+.adblogger.vk.com
+.ads.vk.com
+.ads.vk.ru
+.analytics.vk.ru
+.analytics.vk.com
+.ms.vk.com
+.ms.vk.ru
+.stats.vk-portal.net
+.target.vk.com
+.target.vk.ru
+
+# CDNs
+.cdn-vk.net
+.cdn-vk.ru
+.userapi.com
+.userapi.ru
+.vk-cdn.me
+.vk-cdn.net
+.vk-portal.net
+.vkcache.com
+.vkcdnservice.com
+.vkcloud-static.ru
+.vktech-static.ru
 .vkuser.net
+.vkusercdn.ru
+.vkuserphoto.ru
 .vkuseraudio.com
 .vkuseraudio.net
 .vkuseraudio.ru
-.vkusercdn.ru
+.vkuserlive.com
 .vkuserlive.net
-.vkuserphoto.ru
 .vkuservideo.com
 .vkuservideo.net
 .vkuservideo.ru
-.vkvideo.ru
+
+# VK Messenger
+.vk.me
+.vkmessenger.app
+.vkmessenger.com
+
+# VK Pay
+.vkpay.app
+.vkpay.com
+.vkpay.io
+.vkpay.ru
 # End of vk
 
 .onlyfans.com
