@@ -563,11 +563,10 @@ linkedin.sc.omtrdc.net
 .okl.lt
 .oktech.ru
 
-st-ok-pts.cdn-vk.ru
-st-ok.cdn-vk.ru
-
 # CDN
 .okcdn.ru
+st-ok-pts.cdn-vk.ru
+st-ok.cdn-vk.ru
 # End of ok
 # Included from threads
 .threads.com
@@ -611,17 +610,21 @@ st-ok.cdn-vk.ru
 .vkontakte.ru
 
 # Ads and tracking
-.vk-analytics.ru
-.adblogger.vk.com
-.ads.vk.com
-.ads.vk.ru
-.analytics.vk.ru
+.adv.vk.com
 .analytics.vk.com
 .ms.vk.com
 .ms.vk.ru
-.stats.vk-portal.net
-.target.vk.com
 .target.vk.ru
+.vk-analytics.ru
+adblogger.vk.com
+adblogger.vk.ru
+ads.vk.com
+ads.vk.ru
+adv.vk.ru
+advk.vk.ru
+analytics.vk.ru
+stats.vk-portal.net
+target.vk.com
 
 # CDNs
 .cdn-vk.net
