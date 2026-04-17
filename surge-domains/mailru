@@ -178,6 +178,7 @@ xray.mail.ru
 
 # CDNs
 .appsmail.ru
+.attachmail.ru
 .attachmy.com
 .bizmrg.com
 .cdnmail.ru
@@ -199,6 +200,7 @@ xray.mail.ru
 .inbox.ru
 .internet.ru
 .list.ru
+.xmail.ru
 
 ## All Cups
 .cups.online
@@ -282,11 +284,11 @@ xray.mail.ru
 .sferum-dev.ru
 .sferum.ru
 
-## my.com
+## My.com, myMail
 .dev-my.com
 .my.com
 
-## my.games (formally left Russian market)
+## My.Games (formally left Russian market)
 .dev-my.games
 .it-territory.com
 .knightspeak.com
@@ -312,6 +314,9 @@ xray.mail.ru
 .telega.info
 .telega.me
 .tusco.ru
+
+## UMA (United Media Agency), music distributor
+.uma.media
 
 ## Viqeo
 .viqeo.tv

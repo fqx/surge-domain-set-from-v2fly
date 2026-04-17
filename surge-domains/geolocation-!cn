@@ -123,6 +123,9 @@ antigravity-pa.googleapis.com
 antigravity.googleapis.com
 .antigravity.google
 .antigravity-unleash.goog
+
+# Stitch
+.stitch.withgoogle.com
 # End of google-deepmind
 # Included from groq
 .groq.com
@@ -1735,6 +1738,45 @@ tesla-cdn.thron.com
 .ysx-mm.com
 # End of category-bank-mm
 # Included from category-bank-ru
+# Alfa Bank
+.alfabank.ru
+.alfabank.st
+.alfadirect.ru
+.myapelsin.ru
+.alfabank.oavdo.amc
+
+# BCS bank
+.bcs.ru
+.bcs-bank.ru
+.broker.ru
+
+# GazpromBank
+.gazprombank.com
+.gazprombank.investments
+.gazprombank.ru
+.gid.ru
+.gpb.ru
+
+# MKB
+.mkb.ru
+
+# MTS Dengi
+.dbo-dengi.online
+.mtsdengi.ru
+
+# PSB Bank
+.payment.ru
+.psb-ocenka.ru
+.psb.ru
+.psbank.ru
+
+# RUSSIA Bank
+.abr.ru
+
+# Russian Agricultural Bank
+.rshb.ru
+
+# SberBank
 # Included from sber
 # Included from 2gis
 # https://crt.sh/?id=24119301132
@@ -1750,10 +1792,11 @@ tesla-cdn.thron.com
 .2gis.kz
 .2gis.ru
 .2gis.tj
-.2gis.ua
 .2gis.uz
+.2gis.tech
 # End of 2gis
 # Included from okko
+.okkoapi.tv
 .playfamily.ru
 .okko.sport
 .okko.tv
@@ -1767,15 +1810,15 @@ tesla-cdn.thron.com
 .sbrf.ru
 
 # Ads/tracking
-.neon.click
-.sbermarketing.ru
 .ads.sber.ru
 .clickstream.sberbank.ru
-.error-tracking.megamarket.tech
-.metrics.21-school.ru
-.sentry.sberauto.com
-.tracing-http.megamarket.tech
-.visor.sberbank.ru
+.neon.click
+.sbermarketing.ru
+error-tracking.megamarket.tech
+metrics.21-school.ru
+sentry.sberauto.com
+tracing-http.megamarket.tech
+visor.sberbank.ru
 
 # Business ecosystem
 .id.ru
@@ -1876,6 +1919,8 @@ sberpro.vedomosti.ru
 .zvuk-b2b.com
 .zvuk.com
 # End of sber
+
+# T-Bank (Tinkoff) and RosBank
 # Included from tbank-ru
 # IDN ccTLD domains (.рф)
 
@@ -1990,43 +2035,6 @@ sberpro.vedomosti.ru
 edu.tinkoff.ru
 education.tbank.ru
 # End of tbank-ru
-
-# Alfa Bank
-.alfabank.ru
-.alfabank.st
-.alfadirect.ru
-.myapelsin.ru
-.alfabank.oavdo.amc
-
-# BCS bank
-.bcs.ru
-.bcs-bank.ru
-.broker.ru
-
-# GazpromBank
-.gazprombank.com
-.gazprombank.investments
-.gazprombank.ru
-.gpb.ru
-
-# MKB
-.mkb.ru
-
-# MTS Dengi
-.dbo-dengi.online
-.mtsdengi.ru
-
-# PSB Bank
-.payment.ru
-.psb-ocenka.ru
-.psb.ru
-.psbank.ru
-
-# RUSSIA Bank
-.abr.ru
-
-# Russian Agricultural Bank
-.rshb.ru
 
 # Tochka bank
 .tochka-tech.com
@@ -4200,24 +4208,24 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 # IDN ccTLD
 
 # Advertising and tracking
-.ad.ozone.ru
-.adv.ozon.ru
-.agency-adv.ozon.ru
-.analytics-adv.ozon.ru
-.beginners-adv.ozon.ru
-.google-analytics-suite.ozon.ru
-.loyalnost-adv.ozon.ru
-.new-adv.ozon.ru
-.prodvizhenie-adv.ozon.ru
-.questions-adv.ozon.ru
-.sentry.ozon.ru
-.xapi.ozon.by
-.xapi.ozon.com
-.xapi.ozon.com.by
-.xapi.ozon.com.kz
-.xapi.ozon.kz
-.xapi.ozon.ru
-.xapi.ozonru.me
+ad.ozone.ru
+adv.ozon.ru
+agency-adv.ozon.ru
+analytics-adv.ozon.ru
+beginners-adv.ozon.ru
+google-analytics-suite.ozon.ru
+loyalnost-adv.ozon.ru
+new-adv.ozon.ru
+prodvizhenie-adv.ozon.ru
+questions-adv.ozon.ru
+sentry.ozon.ru
+xapi.ozon.by
+xapi.ozon.com
+xapi.ozon.com.by
+xapi.ozon.com.kz
+xapi.ozon.kz
+xapi.ozon.ru
+xapi.ozonru.me
 # End of ozon
 # Included from wildberries
 .digital-wb.ru
@@ -4274,7 +4282,6 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 .wildberries.tj
 .wildberries.tm
 .wildberries.uz
-.xn--90ab.com
 
 # Typesquatting domains
 .velberis.ru
@@ -4322,21 +4329,21 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 # IDN ccTLDs
 
 # Advertising and tracking
-.ads-gate.wildberries.ru
-.ads-media.wildberries.ru
-.ads.wildberries.ru
-.advert-api.wb.ru
-.advert-api-sandbox.wb.ru
-.advert-media-api.wb.ru
-.advert-api.wildberries.ru
-.advert-api-sandbox.wildberries.ru
-.advert-media-api.wildberries.ru
-.analytics-stage.wildberries.ru
-.analytics.wildberries.ru
-.marketing-info.wildberries.ru
-.marketplace-sentry.wb.ru
-.sentry.wb.ru
-.web-analytics.wildberries.ru
+ads-gate.wildberries.ru
+ads-media.wildberries.ru
+ads.wildberries.ru
+advert-api.wb.ru
+advert-api-sandbox.wb.ru
+advert-media-api.wb.ru
+advert-api.wildberries.ru
+advert-api-sandbox.wildberries.ru
+advert-media-api.wildberries.ru
+analytics-stage.wildberries.ru
+analytics.wildberries.ru
+marketing-info.wildberries.ru
+marketplace-sentry.wb.ru
+sentry.wb.ru
+web-analytics.wildberries.ru
 # End of wildberries
 # End of category-ecommerce-ru
 
@@ -6270,6 +6277,7 @@ chinapower.csis.org
 .kinopoisk-ru.clstorage.net
 # End of kinopoisk
 # Included from okko
+.okkoapi.tv
 .playfamily.ru
 .okko.sport
 .okko.tv
@@ -6287,6 +6295,8 @@ chinapower.csis.org
 .start.ru
 .tvigle.ru
 .viju.ru
+
+# Music
 
 # Video hosting
 # Included from rutube
@@ -20342,8 +20352,8 @@ amp.akamaized.net
 .2gis.kz
 .2gis.ru
 .2gis.tj
-.2gis.ua
 .2gis.uz
+.2gis.tech
 # End of 2gis
 # Included from acer
 .acer-group.com
@@ -23605,6 +23615,10 @@ xp.apple.com
 .bwh89.net
 .bwhstatus.com
 # End of bandwagonhost
+# Included from beget
+.beget.com
+.beget.ru
+# End of beget
 # Included from blurams
 .blurams.com
 # End of blurams
@@ -23841,17 +23855,17 @@ vmware.tt.omtrdc.net
 .pushgrow.io
 
 # Tracking
-.api-eu.carrotquest.app
-.api-eu.carrotquest.io
-.api-ru.carrotquest.app
-.api-ru.carrotquest.io
-.api-secure.carrotquest.app
-.api-secure.carrottrack.app
-.api.carrotquest.app
-.api.carrotquest.io
-.api.carrottrack.app
-.api.dashly.app
-.api.dashlytrack.app
+api-eu.carrotquest.app
+api-eu.carrotquest.io
+api-ru.carrotquest.app
+api-ru.carrotquest.io
+api-secure.carrotquest.app
+api-secure.carrottrack.app
+api.carrotquest.app
+api.carrotquest.io
+api.carrottrack.app
+api.dashly.app
+api.dashlytrack.app
 # End of carrotquest
 # Included from chegg
 .chegg.com
@@ -24707,6 +24721,9 @@ antigravity-pa.googleapis.com
 antigravity.googleapis.com
 .antigravity.google
 .antigravity-unleash.goog
+
+# Stitch
+.stitch.withgoogle.com
 # End of google-deepmind
 # Included from google-gemini
 # This list is for backward compatibility
@@ -24769,6 +24786,9 @@ antigravity-pa.googleapis.com
 antigravity.googleapis.com
 .antigravity.google
 .antigravity-unleash.goog
+
+# Stitch
+.stitch.withgoogle.com
 # End of google-deepmind
 # End of google-gemini
 # Included from google-play
@@ -26919,6 +26939,7 @@ xray.mail.ru
 
 # CDNs
 .appsmail.ru
+.attachmail.ru
 .attachmy.com
 .bizmrg.com
 .cdnmail.ru
@@ -26940,6 +26961,7 @@ xray.mail.ru
 .inbox.ru
 .internet.ru
 .list.ru
+.xmail.ru
 
 ## All Cups
 .cups.online
@@ -27023,11 +27045,11 @@ xray.mail.ru
 .sferum-dev.ru
 .sferum.ru
 
-## my.com
+## My.com, myMail
 .dev-my.com
 .my.com
 
-## my.games (formally left Russian market)
+## My.Games (formally left Russian market)
 .dev-my.games
 .it-territory.com
 .knightspeak.com
@@ -27053,6 +27075,9 @@ xray.mail.ru
 .telega.info
 .telega.me
 .tusco.ru
+
+## UMA (United Media Agency), music distributor
+.uma.media
 
 ## Viqeo
 .viqeo.tv
@@ -28406,16 +28431,16 @@ statics-marketingsites-wcus-ms-com.akamaized.net
 .summitceo.ru
 
 # Tracking
-.api-js.mindbox.ru
-.api-ru.mindbox.cloud
-.api-staging.mindbox.ru
-.api.mindbox.cloud
-.api.mindbox.ru
 .e.mindbox.ru
 .g.mindbox.ru
 .s.mindbox.ru
-.sentry.mindbox.ru
-.sentry.popmechanic.ru
+api-js.mindbox.ru
+api-ru.mindbox.cloud
+api-staging.mindbox.ru
+api.mindbox.cloud
+api.mindbox.ru
+sentry.mindbox.ru
+sentry.popmechanic.ru
 # End of mindbox
 # Included from mindgeek
 # Included from mindgeek-porn
@@ -29152,6 +29177,11 @@ impala-media-production.s3.amazonaws.com
 # Included from theboringcompany
 .boringcompany.com
 # End of theboringcompany
+# Included from timeweb
+.timeweb.cloud
+.timeweb.com
+.twcstorage.ru
+# End of timeweb
 # Included from tonec
 .internetdownloadmanager.com
 .registeridm.com
@@ -29177,6 +29207,52 @@ impala-media-production.s3.amazonaws.com
 .uwn.com
 .wifiman.com
 # End of ubiquiti
+# Included from ucoz
+# ucoz
+
+# Included from ucoz-ru
+.scripts-for-ucoz.ru
+.ucoz.ru
+.ucozmedia.ru
+.uguide.ru
+# End of ucoz-ru
+.ucoz.ae
+.ucoz.club
+.ucoz.co
+.ucoz.co.il
+.ucoz.co.uk
+.ucoz.com
+.ucoz.com.br
+.ucoz.com.ro
+.ucoz.de
+.ucoz.es
+.ucoz.fr
+.ucoz.hu
+.ucoz.kz
+.ucoz.lv
+.ucoz.md
+.ucoz.net
+.ucoz.org
+.ucoz.pl
+.ucoz.site
+.ucoz.ua
+
+# ucozmedia
+
+.ucozmedia.com
+
+# ukit
+
+.ukit.ai
+.ukit.com
+.ukit.group
+.ukit.me
+
+# other
+
+.at.ua
+.ucoztemplates.com
+# End of ucoz
 # Included from verisign
 .verisign.asia
 .verisign.biz
@@ -29445,6 +29521,11 @@ cdn.js7k.com
 .ysm.yahoo.com
 # End of yahoo
 # Included from yandex
+# Included from kinopoisk
+.kinopoisk.ru
+.kinopoisk-ru.clstorage.net
+# End of kinopoisk
+
 # All .yandex domains
 .yandex
 
@@ -29536,55 +29617,48 @@ cdn.js7k.com
 .yastatic.net
 .yccdn.ru
 
-# Watching movies, included in the Yandex subscription
-# Included from kinopoisk
-.kinopoisk.ru
-.kinopoisk-ru.clstorage.net
-# End of kinopoisk
-
-# Ads/tracking
+# Ads and tracking
 .adfox.ru
+.adfox.yandex.ru
 .admetrica.ru
 .ads.yandex
-.webvisor.com
-.webvisor.org
-.yads.tech
-.yandex-metrica.ru
-.yandexmetrica.com
-.yango-ads.com
-.adfox.yandex.ru
-.adfstat.yandex.ru
-.ads.yandex.com
 .ads.yandex.ru
-.ads.yango.com
-.adsdk.yandex.ru
 .adv.yandex.com
 .adv.yandex.ru
-.amc.yandex.ru
 .an.yandex.ru
-.analytics.mobile.yandex.net
 .appmetrica.yandex.com
 .appmetrica.yandex.net
 .appmetrica.yandex.ru
 .appmetrica.yango.com
-.browser-updater.yandex.net
 .bs.yandex.ru
-.clck.yandex.com
-.clck.yandex.net
 .clck.yandex.ru
-.clck.yango.com
-.counter.yandex.net
 .counter.yandex.ru
-.informer.yandex.ru
-.mc.yandex.com
-.mc.yandex.net
 .mc.yandex.ru
-.mc.yango.com
+.metrika.yandex.com
+.metrika.yandex.net
 .metrika.yandex.ru
-.pix.yandex.ru
-.pixel.yandex.net
-.report.ap.yandex-net.ru
+.webvisor.com
+.webvisor.org
 .yabs.yandex.ru
+.yads.tech
+.yandex-metrica.ru
+.yandexmetrica.com
+.yango-ads.com
+adfstat.yandex.ru
+ads.yandex.com
+ads.yango.com
+adsdk.yandex.ru
+amc.yandex.ru
+analytics.mobile.yandex.net
+clck.yandex.com
+clck.yandex.net
+clck.yango.com
+informer.yandex.ru
+mc.yandex.com
+mc.yandex.net
+mc.yango.com
+pixel.yandex.com
+report.ap.yandex-net.ru
 # End of yandex
 # Included from zscaler
 # https://crt.sh/?id=23639384976

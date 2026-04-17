@@ -36,11 +36,29 @@
 .lenta.com
 .lenta.tech
 
-# Magnet
+# Magnit
+# Included from magnit
+.kazanexpress.ru
+.magnit.com
 .magnit.ru
+.mm.ru
+# End of magnit
+
+# M.Video
+# Included from mvideo
+.acmvid.com
+.mvideo.ru
+mvideo.edna.io
+# End of mvideo
 
 # Metro
 .metro-cc.ru
+
+# OSKELLY
+# Included from oskelly
+.oskelly.co
+.oskelly.ru
+# End of oskelly
 
 # Pyaterochka, Perekrestok, Chizhik
 # Included from x5
@@ -77,9 +95,10 @@
 .x5static.net
 .x5w.ru
 
-# Ads/tracking
-.ads.x5media.ru
-.sentry.x5.ru
+# Ads and tracking
+ads.x5.ru
+ads.x5media.ru
+sentry.x5.ru
 # End of x5
 
 # Red and White
@@ -95,6 +114,12 @@
 
 # Spar
 .myspar.ru
+
+# SOKOLOV
+# Included from sokolov
+.sokolov.io
+.sokolov.ru
+# End of sokolov
 
 # Sushi Wok
 .sushiwok.ru

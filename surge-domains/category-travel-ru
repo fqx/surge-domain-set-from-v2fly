@@ -14,6 +14,11 @@
 # Ostrovok
 .ostrovok.ru
 
+# Othello / Otello from 2GIS and Sber
+.2gis.ru
+.otello.ru
+.sber.ru
+
 # Public transport and ticketing
 # Included from mosmetro
 .mosmetro.ru
@@ -39,3 +44,4 @@ arenda.yandex.ru
 
 # Yandex Taxi
 taxi.yandex.ru
+.fasten.ru

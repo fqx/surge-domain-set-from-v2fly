@@ -16,6 +16,29 @@
 .xn--p1acf
 .xn--p1ai
 # End of tld-ru
+# Included from category-betting-ru
+# Included from betboom
+.betboom.ru
+.mobile-bb.com
+# End of betboom
+# Included from fonbet
+.bk6bba-resources.com
+.bk6bba-resources.ru
+.fon.bet
+.fon.promo
+# End of fonbet
+# Included from ligastavok
+.ligadobra.ru
+.ligastavok-csr.ru
+.ligastavok.ru
+.sozvezdie-dobra.ru
+# End of ligastavok
+# Included from winline
+.win-line.ru
+.winline.ru
+.winlinebet.ru
+# End of winline
+# End of category-betting-ru
 # Included from category-ecommerce-ru
 # Included from avito
 .avito.ru
@@ -65,24 +88,24 @@
 # IDN ccTLD
 
 # Advertising and tracking
-.ad.ozone.ru
-.adv.ozon.ru
-.agency-adv.ozon.ru
-.analytics-adv.ozon.ru
-.beginners-adv.ozon.ru
-.google-analytics-suite.ozon.ru
-.loyalnost-adv.ozon.ru
-.new-adv.ozon.ru
-.prodvizhenie-adv.ozon.ru
-.questions-adv.ozon.ru
-.sentry.ozon.ru
-.xapi.ozon.by
-.xapi.ozon.com
-.xapi.ozon.com.by
-.xapi.ozon.com.kz
-.xapi.ozon.kz
-.xapi.ozon.ru
-.xapi.ozonru.me
+ad.ozone.ru
+adv.ozon.ru
+agency-adv.ozon.ru
+analytics-adv.ozon.ru
+beginners-adv.ozon.ru
+google-analytics-suite.ozon.ru
+loyalnost-adv.ozon.ru
+new-adv.ozon.ru
+prodvizhenie-adv.ozon.ru
+questions-adv.ozon.ru
+sentry.ozon.ru
+xapi.ozon.by
+xapi.ozon.com
+xapi.ozon.com.by
+xapi.ozon.com.kz
+xapi.ozon.kz
+xapi.ozon.ru
+xapi.ozonru.me
 # End of ozon
 # Included from wildberries
 .digital-wb.ru
@@ -139,7 +162,6 @@
 .wildberries.tj
 .wildberries.tm
 .wildberries.uz
-.xn--90ab.com
 
 # Typesquatting domains
 .velberis.ru
@@ -187,21 +209,21 @@
 # IDN ccTLDs
 
 # Advertising and tracking
-.ads-gate.wildberries.ru
-.ads-media.wildberries.ru
-.ads.wildberries.ru
-.advert-api.wb.ru
-.advert-api-sandbox.wb.ru
-.advert-media-api.wb.ru
-.advert-api.wildberries.ru
-.advert-api-sandbox.wildberries.ru
-.advert-media-api.wildberries.ru
-.analytics-stage.wildberries.ru
-.analytics.wildberries.ru
-.marketing-info.wildberries.ru
-.marketplace-sentry.wb.ru
-.sentry.wb.ru
-.web-analytics.wildberries.ru
+ads-gate.wildberries.ru
+ads-media.wildberries.ru
+ads.wildberries.ru
+advert-api.wb.ru
+advert-api-sandbox.wb.ru
+advert-media-api.wb.ru
+advert-api.wildberries.ru
+advert-api-sandbox.wildberries.ru
+advert-media-api.wildberries.ru
+analytics-stage.wildberries.ru
+analytics.wildberries.ru
+marketing-info.wildberries.ru
+marketplace-sentry.wb.ru
+sentry.wb.ru
+web-analytics.wildberries.ru
 # End of wildberries
 # End of category-ecommerce-ru
 # Included from category-entertainment-ru
@@ -219,6 +241,7 @@
 .kinopoisk-ru.clstorage.net
 # End of kinopoisk
 # Included from okko
+.okkoapi.tv
 .playfamily.ru
 .okko.sport
 .okko.tv
@@ -236,6 +259,8 @@
 .start.ru
 .tvigle.ru
 .viju.ru
+
+# Music
 
 # Video hosting
 # Included from rutube
@@ -351,11 +376,29 @@
 .lenta.com
 .lenta.tech
 
-# Magnet
+# Magnit
+# Included from magnit
+.kazanexpress.ru
+.magnit.com
 .magnit.ru
+.mm.ru
+# End of magnit
+
+# M.Video
+# Included from mvideo
+.acmvid.com
+.mvideo.ru
+mvideo.edna.io
+# End of mvideo
 
 # Metro
 .metro-cc.ru
+
+# OSKELLY
+# Included from oskelly
+.oskelly.co
+.oskelly.ru
+# End of oskelly
 
 # Pyaterochka, Perekrestok, Chizhik
 # Included from x5
@@ -392,9 +435,10 @@
 .x5static.net
 .x5w.ru
 
-# Ads/tracking
-.ads.x5media.ru
-.sentry.x5.ru
+# Ads and tracking
+ads.x5.ru
+ads.x5media.ru
+sentry.x5.ru
 # End of x5
 
 # Red and White
@@ -410,6 +454,12 @@
 
 # Spar
 .myspar.ru
+
+# SOKOLOV
+# Included from sokolov
+.sokolov.io
+.sokolov.ru
+# End of sokolov
 
 # Sushi Wok
 .sushiwok.ru
@@ -437,6 +487,11 @@
 # Ostrovok
 .ostrovok.ru
 
+# Othello / Otello from 2GIS and Sber
+.2gis.ru
+.otello.ru
+.sber.ru
+
 # Public transport and ticketing
 # Included from mosmetro
 .mosmetro.ru
@@ -462,9 +517,14 @@ arenda.yandex.ru
 
 # Yandex Taxi
 taxi.yandex.ru
+.fasten.ru
 # End of category-travel-ru
 
 # Russian companies
+# Included from beget
+.beget.com
+.beget.ru
+# End of beget
 # Included from carrotquest
 .carrot-mail.io
 .carrotquest-mail.io
@@ -480,18 +540,23 @@ taxi.yandex.ru
 .pushgrow.io
 
 # Tracking
-.api-eu.carrotquest.app
-.api-eu.carrotquest.io
-.api-ru.carrotquest.app
-.api-ru.carrotquest.io
-.api-secure.carrotquest.app
-.api-secure.carrottrack.app
-.api.carrotquest.app
-.api.carrotquest.io
-.api.carrottrack.app
-.api.dashly.app
-.api.dashlytrack.app
+api-eu.carrotquest.app
+api-eu.carrotquest.io
+api-ru.carrotquest.app
+api-ru.carrotquest.io
+api-secure.carrotquest.app
+api-secure.carrottrack.app
+api.carrotquest.app
+api.carrotquest.io
+api.carrottrack.app
+api.dashly.app
+api.dashlytrack.app
 # End of carrotquest
+# Included from cdek
+.ad-cdek.ru
+.cdek.shopping
+.cdek.ru
+# End of cdek
 # Included from headhunter
 .hh.by
 .hh.kz
@@ -641,6 +706,13 @@ s17.upd.kaspersky.com
 s18.upd.kaspersky.com
 s19.upd.kaspersky.com
 # End of kaspersky
+# Included from kontur
+.kontur.ru
+.kontur.host
+.kontur-inc.com
+metrika.kontur.ru
+sentry.kontur.host
+# End of kontur
 # Included from mailru-group
 # VK Group, formerly known as Mail.ru Group, a Russian technology company
 # Included from dzen
@@ -820,6 +892,7 @@ xray.mail.ru
 
 # CDNs
 .appsmail.ru
+.attachmail.ru
 .attachmy.com
 .bizmrg.com
 .cdnmail.ru
@@ -841,6 +914,7 @@ xray.mail.ru
 .inbox.ru
 .internet.ru
 .list.ru
+.xmail.ru
 
 ## All Cups
 .cups.online
@@ -924,11 +998,11 @@ xray.mail.ru
 .sferum-dev.ru
 .sferum.ru
 
-## my.com
+## My.com, myMail
 .dev-my.com
 .my.com
 
-## my.games (formally left Russian market)
+## My.Games (formally left Russian market)
 .dev-my.games
 .it-territory.com
 .knightspeak.com
@@ -954,6 +1028,9 @@ xray.mail.ru
 .telega.info
 .telega.me
 .tusco.ru
+
+## UMA (United Media Agency), music distributor
+.uma.media
 
 ## Viqeo
 .viqeo.tv
@@ -983,17 +1060,21 @@ xray.mail.ru
 .summitceo.ru
 
 # Tracking
-.api-js.mindbox.ru
-.api-ru.mindbox.cloud
-.api-staging.mindbox.ru
-.api.mindbox.cloud
-.api.mindbox.ru
 .e.mindbox.ru
 .g.mindbox.ru
 .s.mindbox.ru
-.sentry.mindbox.ru
-.sentry.popmechanic.ru
+api-js.mindbox.ru
+api-ru.mindbox.cloud
+api-staging.mindbox.ru
+api.mindbox.cloud
+api.mindbox.ru
+sentry.mindbox.ru
+sentry.popmechanic.ru
 # End of mindbox
+# Included from myoffice-ru
+.myoffice.ru
+.myoffice.team
+# End of myoffice-ru
 # Included from selectel
 .chipcore.com
 .chipcore.ru
@@ -1020,11 +1101,38 @@ xray.mail.ru
 .vscale.io
 .vscale.ru
 # End of selectel
+# Included from skyeng
+.sky.pro
+.skyeng.ru
+# End of skyeng
+# Included from tilda
+.tilda.cc
+.tilda.ru
+.tilda.ws
+.tildaapi.com
+.tildacdn.com
+# End of tilda
+# Included from timeweb
+.timeweb.cloud
+.timeweb.com
+.twcstorage.ru
+# End of timeweb
+# Included from ucoz-ru
+.scripts-for-ucoz.ru
+.ucoz.ru
+.ucozmedia.ru
+.uguide.ru
+# End of ucoz-ru
 # Included from whoosh
 .whoosh-bike.ru
 .whoosh.bike
 # End of whoosh
 # Included from yandex
+# Included from kinopoisk
+.kinopoisk.ru
+.kinopoisk-ru.clstorage.net
+# End of kinopoisk
+
 # All .yandex domains
 .yandex
 
@@ -1116,59 +1224,91 @@ xray.mail.ru
 .yastatic.net
 .yccdn.ru
 
-# Watching movies, included in the Yandex subscription
-# Included from kinopoisk
-.kinopoisk.ru
-.kinopoisk-ru.clstorage.net
-# End of kinopoisk
-
-# Ads/tracking
+# Ads and tracking
 .adfox.ru
+.adfox.yandex.ru
 .admetrica.ru
 .ads.yandex
-.webvisor.com
-.webvisor.org
-.yads.tech
-.yandex-metrica.ru
-.yandexmetrica.com
-.yango-ads.com
-.adfox.yandex.ru
-.adfstat.yandex.ru
-.ads.yandex.com
 .ads.yandex.ru
-.ads.yango.com
-.adsdk.yandex.ru
 .adv.yandex.com
 .adv.yandex.ru
-.amc.yandex.ru
 .an.yandex.ru
-.analytics.mobile.yandex.net
 .appmetrica.yandex.com
 .appmetrica.yandex.net
 .appmetrica.yandex.ru
 .appmetrica.yango.com
-.browser-updater.yandex.net
 .bs.yandex.ru
-.clck.yandex.com
-.clck.yandex.net
 .clck.yandex.ru
-.clck.yango.com
-.counter.yandex.net
 .counter.yandex.ru
-.informer.yandex.ru
-.mc.yandex.com
-.mc.yandex.net
 .mc.yandex.ru
-.mc.yango.com
+.metrika.yandex.com
+.metrika.yandex.net
 .metrika.yandex.ru
-.pix.yandex.ru
-.pixel.yandex.net
-.report.ap.yandex-net.ru
+.webvisor.com
+.webvisor.org
 .yabs.yandex.ru
+.yads.tech
+.yandex-metrica.ru
+.yandexmetrica.com
+.yango-ads.com
+adfstat.yandex.ru
+ads.yandex.com
+ads.yango.com
+adsdk.yandex.ru
+amc.yandex.ru
+analytics.mobile.yandex.net
+clck.yandex.com
+clck.yandex.net
+clck.yango.com
+informer.yandex.ru
+mc.yandex.com
+mc.yandex.net
+mc.yango.com
+pixel.yandex.com
+report.ap.yandex-net.ru
 # End of yandex
 
 # Bank & Finance & Insurance & Securities
 # Included from category-bank-ru
+# Alfa Bank
+.alfabank.ru
+.alfabank.st
+.alfadirect.ru
+.myapelsin.ru
+.alfabank.oavdo.amc
+
+# BCS bank
+.bcs.ru
+.bcs-bank.ru
+.broker.ru
+
+# GazpromBank
+.gazprombank.com
+.gazprombank.investments
+.gazprombank.ru
+.gid.ru
+.gpb.ru
+
+# MKB
+.mkb.ru
+
+# MTS Dengi
+.dbo-dengi.online
+.mtsdengi.ru
+
+# PSB Bank
+.payment.ru
+.psb-ocenka.ru
+.psb.ru
+.psbank.ru
+
+# RUSSIA Bank
+.abr.ru
+
+# Russian Agricultural Bank
+.rshb.ru
+
+# SberBank
 # Included from sber
 # Included from 2gis
 # https://crt.sh/?id=24119301132
@@ -1184,10 +1324,11 @@ xray.mail.ru
 .2gis.kz
 .2gis.ru
 .2gis.tj
-.2gis.ua
 .2gis.uz
+.2gis.tech
 # End of 2gis
 # Included from okko
+.okkoapi.tv
 .playfamily.ru
 .okko.sport
 .okko.tv
@@ -1201,15 +1342,15 @@ xray.mail.ru
 .sbrf.ru
 
 # Ads/tracking
-.neon.click
-.sbermarketing.ru
 .ads.sber.ru
 .clickstream.sberbank.ru
-.error-tracking.megamarket.tech
-.metrics.21-school.ru
-.sentry.sberauto.com
-.tracing-http.megamarket.tech
-.visor.sberbank.ru
+.neon.click
+.sbermarketing.ru
+error-tracking.megamarket.tech
+metrics.21-school.ru
+sentry.sberauto.com
+tracing-http.megamarket.tech
+visor.sberbank.ru
 
 # Business ecosystem
 .id.ru
@@ -1310,6 +1451,8 @@ sberpro.vedomosti.ru
 .zvuk-b2b.com
 .zvuk.com
 # End of sber
+
+# T-Bank (Tinkoff) and RosBank
 # Included from tbank-ru
 # IDN ccTLD domains (.рф)
 
@@ -1425,43 +1568,6 @@ edu.tinkoff.ru
 education.tbank.ru
 # End of tbank-ru
 
-# Alfa Bank
-.alfabank.ru
-.alfabank.st
-.alfadirect.ru
-.myapelsin.ru
-.alfabank.oavdo.amc
-
-# BCS bank
-.bcs.ru
-.bcs-bank.ru
-.broker.ru
-
-# GazpromBank
-.gazprombank.com
-.gazprombank.investments
-.gazprombank.ru
-.gpb.ru
-
-# MKB
-.mkb.ru
-
-# MTS Dengi
-.dbo-dengi.online
-.mtsdengi.ru
-
-# PSB Bank
-.payment.ru
-.psb-ocenka.ru
-.psb.ru
-.psbank.ru
-
-# RUSSIA Bank
-.abr.ru
-
-# Russian Agricultural Bank
-.rshb.ru
-
 # Tochka bank
 .tochka-tech.com
 .tochka.com
@@ -1469,23 +1575,27 @@ education.tbank.ru
 # VTB Bank
 .vtb.ru
 # End of category-bank-ru
-# Credit History Bureaus
+## Credit History Bureaus
 .credistory.ru
 .nbki.ru
-# Currency and stock exchanges
-# Financial marketplace
+## Currency and stock exchanges
+## Financial marketplace
 .banki.ru
 .finuslugi.ru
-# Investment
+## Investment
 .sistema-capital.com
-# Mir payment system
+## Mir payment system
 .mironline.ru
 .mirpayonline.ru
-# National Payment Card System
+## National Payment Card System
 .nspk.ru
-# Tipping service
+## Tipping service
 .netmonet.co
 .tips.tips
+
+# Media
+# NOT include category-media-ru, it's for media blocked in Russia now.
+.russiatoday.com
 
 # Telecom operators
 .beeline.ru
@@ -1512,6 +1622,13 @@ education.tbank.ru
 
 # Other domains
 .roistat.com
+
+# Other services
+.envybox.io
+.flocktory.com
+.saas-support.com
+.targetads.io
+.whitesaas.com
 
 ## COMSS.ONE "Computer Security Software Russia"
 .comss.club
