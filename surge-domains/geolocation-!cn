@@ -18990,12 +18990,13 @@ yangzhi.app
 .addtoany.com
 # End of addtoany
 # Included from adguard
-.adguardaccount.com
 .adguard.app
 .adguard.com
 .adguard.info
 .adguard.io
 .adguard.org
+.adguardaccount.com
+.adguardcdn.com
 .adtidy.net
 .adtidy.org
 .agrd.eu
@@ -19010,9 +19011,9 @@ yangzhi.app
 .mask.me
 
 # adguard vpn
-.adguardvpn.com
 .adguard-vpn.com
 .adguard-vpn.online
+.adguardvpn.com
 # End of adguard
 # Included from aptoide
 .aptoide.com
