@@ -312,6 +312,10 @@ web-analytics.wildberries.ru
 
 # Regional health services
 # End of category-gov-ru
+# Included from category-media-ru
+# Media sites in Russia
+.russiatoday.com
+# End of category-media-ru
 # Included from category-medicine-ru
 # BudZdorov
 .klinikabudzdorov.ru
@@ -344,11 +348,17 @@ web-analytics.wildberries.ru
 # Auchan
 .auchan.ru
 
+# AudioHead
+.audiohead.ru
+
 # Bristol
 .bristol.ru
 
 # Children's World
 .detmir.ru
+
+# Coolera
+.coolera.ru
 
 # Dixie
 .dixy.ru
@@ -363,6 +373,9 @@ web-analytics.wildberries.ru
 # Dostaevsky
 .dostaevsky.ru
 
+# Dr.Head / Doctorhead
+.doctorhead.ru
+
 # Eurasia
 .evrasia.rest
 
@@ -371,6 +384,9 @@ web-analytics.wildberries.ru
 
 # Fix Price
 .fix-price.com
+
+# Lamoda
+.lamoda.ru
 
 # Lenta
 .lenta.com
@@ -393,6 +409,9 @@ mvideo.edna.io
 
 # Metro
 .metro-cc.ru
+
+# NOTIK
+.notik.ru
 
 # OSKELLY
 # Included from oskelly
@@ -443,6 +462,9 @@ sentry.x5.ru
 
 # Red and White
 .krasnoeibeloe.ru
+
+# Regard
+.regard.ru
 
 # Rostics
 .rostics.ru
@@ -1593,10 +1615,6 @@ education.tbank.ru
 .netmonet.co
 .tips.tips
 
-# Media
-# NOT include category-media-ru, it's for media blocked in Russia now.
-.russiatoday.com
-
 # Telecom operators
 .beeline.ru
 .dom.ru
@@ -1629,28 +1647,3 @@ education.tbank.ru
 .saas-support.com
 .targetads.io
 .whitesaas.com
-
-## COMSS.ONE "Computer Security Software Russia"
-.comss.club
-.comss.info
-.comss.me
-.comss.net
-.comss.news
-.comss.one
-.comss.online
-.comss.org
-.comss.ru
-
-## Genotek
-.eligens.cl
-.eligens.com.br
-.eligens.io
-.genetic-technologies.am
-.genotek.am
-.genotek.health
-.genotek.ru
-
-## Ideco, NGFW developer
-.ideco.dev
-.ideco.ru
-.idecosoftware.ru

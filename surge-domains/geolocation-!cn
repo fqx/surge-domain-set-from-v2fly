@@ -225,6 +225,7 @@ pplx-res.cloudinary.com
 .kiro.dev
 .lovart.ai
 .meta.ai
+.minimax.io
 .mistral.ai
 .openart.ai
 .openclaw.ai
@@ -245,6 +246,8 @@ pplx-res.cloudinary.com
 # but also cut the connection to Taboola website.
 .taboola.com
 # End of taboola
+
+.scorecardresearch.com
 
 # Anti-censorship & Anti-GFW & Privacy protection & VPN tools
 # Included from category-anticensorship
@@ -6648,6 +6651,7 @@ eaassets-a.akamaihd.net
 .unrealtournament.com
 
 .egdownload.fastly-edge.com
+.fortnite-vod.akamaized.net
 # End of epicgames
 # Included from escapefromtarkov
 .tarkov.com
