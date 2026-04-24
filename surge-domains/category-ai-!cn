@@ -108,6 +108,7 @@ notebooklm.googleapis.com
 .aisandbox-pa.googleapis.com
 
 # Android Studio Gemini Code Assist
+.aicode.googleapis.com
 .aida.googleapis.com
 
 # Opal
@@ -208,6 +209,7 @@ pplx-res.cloudinary.com
 .clipdrop.co
 .jasper.ai
 
+.agentclientprotocol.com
 .chutes.ai
 .clawhub.ai
 .copilot.microsoft.com
@@ -230,4 +232,5 @@ pplx-res.cloudinary.com
 .openart.ai
 .openclaw.ai
 .openrouter.ai
+.plannotator.ai
 .spicywriter.com
