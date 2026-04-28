@@ -3596,18 +3596,36 @@ study.163.com
 # non-cn domains is added to bytedance-ai-!cn
 .butterfly-static.cn
 .butterflyai.cn
+.coze-dns-01.com
 .coze.cn
+.coze.email
 .coze.site
+.cozeapp.net
 .cozebaas.cn
+.cozebuild.com
+.cozecdn.com
+.cozedeploy.com
 .cozefn.cn
 .cozeide.cn
+.cozesdk.com
+.cozetest.cn
+.cozetest2.cn
+.cozetest3.cn
+.dbbuilding.fun
+.building.fun
+.instreet.com
+.doubao-dev.com
 .doubao.com
 .doubaocdn.com
 .hi-butterfly.cn
 .maoxiangai.com
 .myparallelstory.com
+.oceancloudapi.com
+.obriccloud.com
+.obricclouddw.com
 .picpic-ai.cn
 .pixeldance.com
+.api-building.fun
 # End of doubao
 # Included from xiaomi-ai
 .miaibox.com
@@ -3702,6 +3720,9 @@ ai.zhaomi.cn
 
 # Skillhub (tencent)
 .skillhub.cn
+
+# SafeSkill (微步在线)
+.safeskill.cn
 
 # 智合 AI 沪ICP备2024060320号-4
 .zhiexa.com
@@ -4319,8 +4340,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .moseeker.com
 ## 小能智慧云客服
 .ntalker.com
-## OneDNS 微步在线
-.onedns.net
 ## 心知天气
 .sencdn.com
 .seniverse.com
@@ -4782,6 +4801,12 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .msmartlife.com
 .smartmidea.net
 # End of midea
+# Included from qianxin
+# 奇安信 奇安信科技集团股份有限公司 京ICP备16020626号
+.95015.com
+.qianxin.com
+.qianxincdn.com
+# End of qianxin
 # Included from qihoo360
 # Included from starworld
 # StarWorld Games is a wholly owned subsidiary of Qihoo 360
@@ -4946,6 +4971,10 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 # 星域云
 .xycloud.com
 .xycdn.com
+
+# 光鸭云盘
+.guangyacdn.com
+.guangyapan.com
 # End of xunlei
 # Included from zte
 .nubia.cn
@@ -4958,23 +4987,29 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 # End of zte
 
 
-# 飞牛
+## 飞牛
 .fnnas.com
 .fnnas.net
 .fnos.net
-# 稿定（厦门）信息服务有限公司
-## 花瓣网 闽ICP备2021013850号
+## 稿定（厦门）信息服务有限公司
+### 花瓣网 闽ICP备2021013850号
 .huaban.com
 .huabanimg.com
-## 闽ICP备12002004号
+### 闽ICP备12002004号
 .dancf.com
 .hlgdata.com
 .huanleguang.com
 .ttxsapp.com.cn
 .xsbapp.cn
-# 凯迪仕
+## 凯迪仕
 .juziwulian.com
 .kaadas.com
+## 微步在线 / 步刻科技
+.onedns.net
+#safeskill.cn
+.shellpub.com
+.threatbook.cn
+.threatbook.com
 
 # Telecommunication
 # Included from chinabroadnet
