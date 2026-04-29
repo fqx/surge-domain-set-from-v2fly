@@ -22702,6 +22702,7 @@ streamingaudio.itunes.apple.com
 su.itunes.apple.com
 sync.itunes.apple.com
 tf-feedback.itunes.apple.com
+universal-activity-service.itunes.apple.com
 upp.itunes.apple.com
 www.support.apple.com
 
@@ -27637,10 +27638,6 @@ developers.facebook.com
 .graph.instagram.com
 .graph-fallback.instagram.com
 # End of instagram
-# Included from manus
-.manus.im
-.manuscdn.com
-# End of manus
 # Included from messenger
 .fbmessenger.com
 .m.me

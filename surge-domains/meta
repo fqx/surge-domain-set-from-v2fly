@@ -527,10 +527,6 @@ developers.facebook.com
 .graph.instagram.com
 .graph-fallback.instagram.com
 # End of instagram
-# Included from manus
-.manus.im
-.manuscdn.com
-# End of manus
 # Included from messenger
 .fbmessenger.com
 .m.me
