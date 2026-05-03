@@ -19080,6 +19080,7 @@ brightcove.imgix.net
 # End of cuttly
 # Included from digitalocean
 .digitalocean.com
+.digitalocean-ui.com
 .digitaloceanspaces.com
 .do.co
 .nginxconfig.io
@@ -24293,6 +24294,7 @@ www.dell.com
 # End of dell
 # Included from digitalocean
 .digitalocean.com
+.digitalocean-ui.com
 .digitaloceanspaces.com
 .do.co
 .nginxconfig.io
