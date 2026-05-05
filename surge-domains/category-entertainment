@@ -38,6 +38,9 @@
 # End of okko
 # Included from wink
 .restream-media.net
+.restream.ru
+.more.tv
+.wink.am
 .wink.ru
 # End of wink
 .24h.tv
@@ -2063,6 +2066,7 @@ tmdb-web-image-prod.b-cdn.net
 d1g1f25tn8m2e6.cloudfront.net
 d1m7jfoe9zdc1j.cloudfront.net
 d1mhjrowxxagfy.cloudfront.net
+d1ndex63qxojbr.cloudfront.net
 d1oca24q5dwo6d.cloudfront.net
 d1w2poirtb3as9.cloudfront.net
 d1xhnb4ptk05mw.cloudfront.net

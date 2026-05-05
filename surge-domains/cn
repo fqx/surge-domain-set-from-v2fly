@@ -965,6 +965,7 @@ rtlog5-applog.fqnovel.com
 .kwaicdn.com
 .kwaizt.com
 .kwimgs.com
+.viviv.com
 .wsukwai.com
 .yximgs.com
 
@@ -1323,6 +1324,14 @@ wlog.kuaishou.com
 # 美餐
 .meican.com
 .meicanstatic.com
+
+# 农夫山泉/养生堂
+.nongfuspring.com
+.yst.com.cn
+
+# 娃哈哈
+.wahaha.com.cn
+.whhhealth.com
 # End of category-food-cn
 # 快递物流
 # Included from category-logistics-cn
@@ -1783,6 +1792,8 @@ wlog.kuaishou.com
 .cqliving.com
 .cqnews.net
 .cqsjb.com
+# 中国质量新闻网
+.cqn.com.cn
 # 中证网
 .cs.com.cn
 # 极目新闻/楚天都市报
@@ -1900,6 +1911,8 @@ ctdsb.clouddiffuse.xyz
 .nanyuenews.com
 # 每日经济新闻报社
 .nbd.com.cn
+# 新周刊
+.neweekly.com.cn
 # 新华社
 .news.cn
 .xinhuanet.com
@@ -3094,6 +3107,8 @@ ss.bjmu.edu.cn
 .12315.cn
 .12321.cn
 .gov.cn
+## 中华全国总工会
+.acftu.org
 ## 中国气象局
 .cma.cn
 ## 政务和公益机构域名注册管理中心
@@ -3102,6 +3117,8 @@ ss.bjmu.edu.cn
 .nmc.cn
 ## 中国互联网联合辟谣平台
 .piyao.org.cn
+## 中国红十字会
+.redcross.org.cn
 ## 中国殡葬网
 .zgbznet.com.cn
 
@@ -3329,6 +3346,9 @@ study.163.com
 .baicizhan.org
 .bczcdn.com
 .bczeducation.cn
+# 班小二
+.banxiaoer.com
+.banxiaoer.net
 # 毕业之家科研服务平台
 .biyehome.net
 # Burning Vocabulary
@@ -3402,8 +3422,13 @@ study.163.com
 .weilaiyunxiao.com
 # 北京嘉瑞新创教育咨询有限公司
 .winyoungreading.com
+# 博茂择优
+.wjwai.com
+.zysn.net
 # 时代行云
 .x-cloud.cc
+# 西柚英语
+.xiyouyingyu.com
 # 学科网
 .xkw.com
 .zxxk.com
@@ -3417,9 +3442,6 @@ study.163.com
 .zhihuishu.com
 # 浙江省教育考试院
 .zjzs.net
-# 班小二
-.banxiaoer.com
-.banxiaoer.net
 # End of category-education-cn
 # Included from category-olympiad-in-informatics
 # LeetCode 中国站
@@ -4702,6 +4724,7 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .ksosoft.com
 
 # Kingsoft Cloud
+.kcdnvip.com
 .ks-cdn.com
 .ks-cdn1.com
 .ksyun.com

@@ -6295,6 +6295,9 @@ chinapower.csis.org
 # End of okko
 # Included from wink
 .restream-media.net
+.restream.ru
+.more.tv
+.wink.am
 .wink.ru
 # End of wink
 .24h.tv
@@ -8320,6 +8323,7 @@ tmdb-web-image-prod.b-cdn.net
 d1g1f25tn8m2e6.cloudfront.net
 d1m7jfoe9zdc1j.cloudfront.net
 d1mhjrowxxagfy.cloudfront.net
+d1ndex63qxojbr.cloudfront.net
 d1oca24q5dwo6d.cloudfront.net
 d1w2poirtb3as9.cloudfront.net
 d1xhnb4ptk05mw.cloudfront.net
@@ -24327,6 +24331,30 @@ www.dell.com
 .analytics.vpc.duolingo.com
 .metrics.duolingo.com
 # End of duolingo
+# Included from envybox
+.bananacall.ru
+.beesbfl.ru
+.beescrm.ru
+.bimsaas.ru
+.callbackkiller.com
+.cbkiller.com
+.envybox.company
+.envybox.family
+.envybox.io
+.envybox.kg
+.envybox.su
+.envycdp.com
+.envycdp.ru
+.envycrm.com
+.envyday.ru
+.killercb.ru
+.myenvy.ru
+.quizlink.ru
+.saas-support.com
+.whitesaas.com
+
+# IDN ccTLD
+# End of envybox
 # Included from faronics
 .clickedu.co.uk
 .deepfreeze.co.uk
@@ -24348,6 +24376,19 @@ www.dell.com
 
 faronics.kayako.com
 # End of faronics
+# Included from genotek-ru
+.genetic-technologies.am
+.genotek.am
+.genotek.es
+.genotek.eu
+.genotek.health
+.genotek.ru
+
+# Eligens
+.eligens.cl
+.eligens.com.br
+.eligens.io
+# End of genotek-ru
 # Included from giffgaff
 .giffgaff.com
 .giffgaff.design
@@ -25879,6 +25920,40 @@ www.gstatic.com
 www.pxcc.com
 xn--flw351e.com
 # End of google
+# Included from group-ib
+.antiphishing.nl
+.antiphishing.ru
+.cert-gib.com
+.cert-gib.ru
+.cybercrimecon.com
+.gibdev.net
+.g-ib.ae
+.g-ib.ru
+.g-ib.sg
+.g-ib.us
+.gib-global.com
+.gib.sg
+.gibtds.ru
+.group-ib.ae
+.group-ib.co.uk
+.group-ib.com
+.group-ib.de
+.group-ib.eu
+.group-ib.ru
+.group-ib.sg
+.group-ib.us
+.groupib.ae
+.groupib.sg
+.groupib.us
+
+# F.A.C.C.T.
+.f6.dev
+.f6.ru
+.f6.security
+.facct.email
+.facct.ru
+.future-cs.ru
+# End of group-ib
 # Included from headhunter
 .hh.by
 .hh.kz
@@ -26170,6 +26245,11 @@ hpefonts.s3.amazonaws.com
 .interactivebrokers.eu
 .interactivebrokers.ie
 # End of ibkr
+# Included from ideco-ru
+.ideco.dev
+.ideco.ru
+.idecosoftware.ru
+# End of ideco-ru
 # Included from inshot
 .inshot.cc
 .inshot.com
@@ -27112,6 +27192,19 @@ xray.mail.ru
 .youla.io
 .youla.ru
 # End of mailru-group
+# Included from megafon
+.inplat.ru
+.megafon.com
+.megafon.ru
+.megafonpro.ru
+.mgfn.ru
+.report-megafon.ru
+.scartel.ru
+.yota.ru
+.yotagamer.ru
+
+# IDN ccTLD
+# End of megafon
 # Included from meta
 # Included from facebook
 .aboutfacebook.com
@@ -28530,6 +28623,30 @@ mdn.mozillademos.org
 .msi.cn
 .msi.com
 # End of msi
+# Included from mts-ru
+.mts-ws.net
+.mts.ru
+.mymts.ru
+
+# Ads and tracking
+.a.mts.ru
+.obs.mts.ru
+
+# Ecosystem
+
+## Finance
+.dbo-dengi.online
+.mtsbank.ru
+.mtsdengi.ru
+.tvoyodbo.online
+
+## Kion
+.kion.ru
+
+## ON Media (MTS Media)
+.mtsmedia.ru
+.on-media.ru
+# End of mts-ru
 # Included from musixmatch
 .musixmatch.com
 .mxmcdn.net
@@ -28877,6 +28994,22 @@ qualcomm.sc.omtrdc.net
 .respawnbyrazer.com
 .rzr.to
 # End of razer
+# Included from rostelecom
+# Included from wink
+.restream-media.net
+.restream.ru
+.more.tv
+.wink.am
+.wink.ru
+# End of wink
+
+.azbukainterneta.ru
+.rostelecom.ru
+.rt.ru
+
+# Tracking
+sentry.iptv.rt.ru
+# End of rostelecom
 # Included from salesforce
 .appcloud.com
 .appexchange.com
@@ -29194,6 +29327,11 @@ impala-media-production.s3.amazonaws.com
 .symantec.com
 .symantecliveupdate.com
 # End of symantec
+# Included from t2-ru
+.b2c-digest.ru
+.t2.ru
+.tele2.ru
+# End of t2-ru
 # Included from theboringcompany
 .boringcompany.com
 # End of theboringcompany
