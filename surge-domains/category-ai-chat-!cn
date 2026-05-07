@@ -63,6 +63,16 @@ servd-anthropic-website.b-cdn.net
 # End of envato
 # Included from github-copilot
 .githubcopilot.com
+
+copilot-proxy.githubusercontent.com
+copilot-workspace.githubnext.com
+
+# Azure Blob Storage
+copilotprodattachments.blob.core.windows.net
+
+# Ads/tracking
+copilot-telemetry-service.githubusercontent.com
+copilot-telemetry.githubusercontent.com
 # End of github-copilot
 # Included from google-deepmind
 # Google DeepMind
@@ -213,6 +223,7 @@ pplx-res.cloudinary.com
 .jasper.ai
 
 .agentclientprotocol.com
+.anythingllm.com
 .chutes.ai
 .clawhub.ai
 .copilot.microsoft.com
@@ -235,6 +246,7 @@ pplx-res.cloudinary.com
 .openart.ai
 .openclaw.ai
 .openrouter.ai
+.openspec.dev
 .plannotator.ai
 .spicywriter.com
 # End of category-ai-!cn

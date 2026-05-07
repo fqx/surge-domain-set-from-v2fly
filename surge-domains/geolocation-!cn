@@ -64,6 +64,16 @@ servd-anthropic-website.b-cdn.net
 # End of envato
 # Included from github-copilot
 .githubcopilot.com
+
+copilot-proxy.githubusercontent.com
+copilot-workspace.githubnext.com
+
+# Azure Blob Storage
+copilotprodattachments.blob.core.windows.net
+
+# Ads/tracking
+copilot-telemetry-service.githubusercontent.com
+copilot-telemetry.githubusercontent.com
 # End of github-copilot
 # Included from google-deepmind
 # Google DeepMind
@@ -214,6 +224,7 @@ pplx-res.cloudinary.com
 .jasper.ai
 
 .agentclientprotocol.com
+.anythingllm.com
 .chutes.ai
 .clawhub.ai
 .copilot.microsoft.com
@@ -236,6 +247,7 @@ pplx-res.cloudinary.com
 .openart.ai
 .openclaw.ai
 .openrouter.ai
+.openspec.dev
 .plannotator.ai
 .spicywriter.com
 # End of category-ai-!cn
@@ -7218,6 +7230,7 @@ xz.pphimalayanrt.com
 .supercellgames.com
 .supercellid.com
 .supercellstore.com
+.supr.cl
 # End of supercell
 # Included from take-two
 # Included from 2kgames
@@ -8726,16 +8739,7 @@ yt3.googleusercontent.com
 # End of category-entertainment
 
 # File & Image & Video hosting
-# Included from 0x0
-.0x0.st
-# End of 0x0
-# Included from casimages
-.casimages.com
-# End of casimages
-# Included from cloudinary
-.cloudinary.com
-.cloudinary.net
-# End of cloudinary
+# Included from category-netdisk-!cn
 # Included from dropbox
 # List of all domains being operated by Dorpbox Inc.
 # Source: https://help.dropbox.com/zh-cn/accounts-billing/security/official-domains
@@ -8757,6 +8761,64 @@ yt3.googleusercontent.com
 
 paper-attachments.s3.amazonaws.com
 # End of dropbox
+# Included from mega
+.mega.co.nz
+.mega.io
+.mega.nz
+# End of mega
+# Included from onedrive
+.1drv.com
+.1drv.ms
+.livefilestore.com
+.onedrive.co
+.onedrive.co.uk
+.onedrive.com
+.onedrive.eu
+.onedrive.net
+.onedrive.org
+
+.onedrive.live.com
+.storage.live.com
+# End of onedrive
+# Included from pikpak
+.mypikpak.com
+.mypikpak.net
+.pickpackapp.com
+.pikpak.io
+.pikpak.me
+.pikpakdrive.com
+
+# tracking
+o4504926511693824.ingest.sentry.io
+# End of pikpak
+# Included from terabox
+.1024terabox.com
+.bestclouddrive.com
+.freeterabox.com
+.nephobox.com
+.terabox.com
+.terabox1024.com
+.teraboxcdn.com
+# End of terabox
+# Included from usersdrive
+#Domain for generated download links:
+.userdrive.org
+
+#Main website:
+.usersdrive.com
+# End of usersdrive
+# End of category-netdisk-!cn
+
+# Included from 0x0
+.0x0.st
+# End of 0x0
+# Included from casimages
+.casimages.com
+# End of casimages
+# Included from cloudinary
+.cloudinary.com
+.cloudinary.net
+# End of cloudinary
 # Included from gfycat
 .gfycat.com
 # End of gfycat
@@ -8785,17 +8847,6 @@ paper-attachments.s3.amazonaws.com
 .imgur.io
 .imgurinc.com
 # End of imgur
-# Included from pikpak
-.mypikpak.com
-.mypikpak.net
-.pickpackapp.com
-.pikpak.io
-.pikpak.me
-.pikpakdrive.com
-
-# tracking
-o4504926511693824.ingest.sentry.io
-# End of pikpak
 # Included from pixhost
 .pixhost.to
 # End of pixhost
@@ -8814,15 +8865,6 @@ o4504926511693824.ingest.sentry.io
 .embed-cdn.com
 .streamable.com
 # End of streamable
-# Included from terabox
-.1024terabox.com
-.bestclouddrive.com
-.freeterabox.com
-.nephobox.com
-.terabox.com
-.terabox1024.com
-.teraboxcdn.com
-# End of terabox
 
 # Forums & Social network
 # Included from category-forums
@@ -11621,6 +11663,7 @@ spectator.ppy.sh
 .change.org
 .globalsecurity.org
 .iana.org
+.iccf.com
 .ietf.org
 .itu.int
 .opte.org
@@ -19089,6 +19132,7 @@ brightcove.imgix.net
 .digitaloceanspaces.com
 .do.co
 .nginxconfig.io
+.ondigitalocean.com
 # End of digitalocean
 # Included from disqus
 # Disqus, Inc.
@@ -19244,11 +19288,6 @@ brightcove.imgix.net
 .mapbox.cn
 .mapbox.com
 # End of mapbox
-# Included from mega
-.mega.co.nz
-.mega.io
-.mega.nz
-# End of mega
 # Included from netlify
 .bitballoon.com
 .netlify.app
@@ -19447,6 +19486,11 @@ public-us-pingsx.api.clonoth.com
 .tutanota.com
 .tutanota.de
 # End of tutanota
+# Included from twilio
+.twilio.com
+.twilio.jp
+.tytch.com
+# End of twilio
 # Included from vercel
 .ai-sdk.dev
 .err.sh
@@ -19535,6 +19579,8 @@ public-us-pingsx.api.clonoth.com
 .auroraoss.com
 ## BiliPlus
 .biliplus.com
+## Calibre
+.calibre-ebook.com
 ## Canny (Customer Feedback Management)
 .canny.io
 ## CataBoom
@@ -19861,6 +19907,16 @@ firebaseremoteconfig.googleapis.com
 # Included from github
 # Included from github-copilot
 .githubcopilot.com
+
+copilot-proxy.githubusercontent.com
+copilot-workspace.githubnext.com
+
+# Azure Blob Storage
+copilotprodattachments.blob.core.windows.net
+
+# Ads/tracking
+copilot-telemetry-service.githubusercontent.com
+copilot-telemetry.githubusercontent.com
 # End of github-copilot
 # Included from npmjs
 .npm.community
@@ -19893,15 +19949,40 @@ firebaseremoteconfig.googleapis.com
 .repo.new
 .thegithubshop.com
 
-# GitHub Actions Artifacts
-.blob.core.windows.net
-
 github-api.arkoselabs.com
+
+# Amazon S3
 github-cloud.s3.amazonaws.com
+github-production-release-asset-2e65be.s3.amazonaws.com
+github-production-repository-file-5c1aeb.s3.amazonaws.com
+github-production-repository-image-32fea6.s3.amazonaws.com
+github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
+github-production-user-asset-6210df.s3.amazonaws.com
+
+# Azure Blob Storage
+productionresultssa0.blob.core.windows.net
+productionresultssa1.blob.core.windows.net
+productionresultssa2.blob.core.windows.net
+productionresultssa3.blob.core.windows.net
+productionresultssa4.blob.core.windows.net
+productionresultssa5.blob.core.windows.net
+productionresultssa6.blob.core.windows.net
+productionresultssa7.blob.core.windows.net
+productionresultssa8.blob.core.windows.net
+productionresultssa9.blob.core.windows.net
+productionresultssa10.blob.core.windows.net
+productionresultssa11.blob.core.windows.net
+productionresultssa12.blob.core.windows.net
+productionresultssa13.blob.core.windows.net
+productionresultssa14.blob.core.windows.net
+productionresultssa15.blob.core.windows.net
+productionresultssa16.blob.core.windows.net
+productionresultssa17.blob.core.windows.net
+productionresultssa18.blob.core.windows.net
+productionresultssa19.blob.core.windows.net
 
 # Ads/tracking
 .collector.github.com
-.copilot-telemetry.githubusercontent.com
 # End of github
 # Included from github1s
 .github1s.com
@@ -24303,6 +24384,7 @@ www.dell.com
 .digitaloceanspaces.com
 .do.co
 .nginxconfig.io
+.ondigitalocean.com
 # End of digitalocean
 # Included from dmit
 .dmit.io
@@ -28013,15 +28095,40 @@ emoi-cncdn.bing.com
 .repo.new
 .thegithubshop.com
 
-# GitHub Actions Artifacts
-.blob.core.windows.net
-
 github-api.arkoselabs.com
+
+# Amazon S3
 github-cloud.s3.amazonaws.com
+github-production-release-asset-2e65be.s3.amazonaws.com
+github-production-repository-file-5c1aeb.s3.amazonaws.com
+github-production-repository-image-32fea6.s3.amazonaws.com
+github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
+github-production-user-asset-6210df.s3.amazonaws.com
+
+# Azure Blob Storage
+productionresultssa0.blob.core.windows.net
+productionresultssa1.blob.core.windows.net
+productionresultssa2.blob.core.windows.net
+productionresultssa3.blob.core.windows.net
+productionresultssa4.blob.core.windows.net
+productionresultssa5.blob.core.windows.net
+productionresultssa6.blob.core.windows.net
+productionresultssa7.blob.core.windows.net
+productionresultssa8.blob.core.windows.net
+productionresultssa9.blob.core.windows.net
+productionresultssa10.blob.core.windows.net
+productionresultssa11.blob.core.windows.net
+productionresultssa12.blob.core.windows.net
+productionresultssa13.blob.core.windows.net
+productionresultssa14.blob.core.windows.net
+productionresultssa15.blob.core.windows.net
+productionresultssa16.blob.core.windows.net
+productionresultssa17.blob.core.windows.net
+productionresultssa18.blob.core.windows.net
+productionresultssa19.blob.core.windows.net
 
 # Ads/tracking
 .collector.github.com
-.copilot-telemetry.githubusercontent.com
 # End of github
 # Included from microsoft-dev
 .adaptivecards.io

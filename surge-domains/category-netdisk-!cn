@@ -1,0 +1,67 @@
+# Included from dropbox
+# List of all domains being operated by Dorpbox Inc.
+# Source: https://help.dropbox.com/zh-cn/accounts-billing/security/official-domains
+.db.tt
+.dropbox-dns.com
+.dropbox.com
+.dropbox.tech
+.dropboxapi.com
+.dropboxbusiness.com
+.dropboxcaptcha.com
+.dropboxforum.com
+.dropboxforums.com
+.dropboxinsiders.com
+.dropboxmail.com
+.dropboxpartners.com
+.dropboxstatic.com
+.dropboxusercontent.com
+.getdropbox.com
+
+paper-attachments.s3.amazonaws.com
+# End of dropbox
+# Included from mega
+.mega.co.nz
+.mega.io
+.mega.nz
+# End of mega
+# Included from onedrive
+.1drv.com
+.1drv.ms
+.livefilestore.com
+.onedrive.co
+.onedrive.co.uk
+.onedrive.com
+.onedrive.eu
+.onedrive.net
+.onedrive.org
+
+.onedrive.live.com
+.storage.live.com
+# End of onedrive
+# Included from pikpak
+.mypikpak.com
+.mypikpak.net
+.pickpackapp.com
+.pikpak.io
+.pikpak.me
+.pikpakdrive.com
+
+# tracking
+o4504926511693824.ingest.sentry.io
+# End of pikpak
+# Included from terabox
+.1024terabox.com
+.bestclouddrive.com
+.freeterabox.com
+.nephobox.com
+.terabox.com
+.terabox1024.com
+.teraboxcdn.com
+# End of terabox
+# Included from usersdrive
+#Domain for generated download links:
+.userdrive.org
+
+#Main website:
+.usersdrive.com
+# End of usersdrive
