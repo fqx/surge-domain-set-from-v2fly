@@ -9580,7 +9580,15 @@ linkedin.sc.omtrdc.net
 .apiok.ru
 .insideok.ru
 .odkl.ru
+.odnoklasniki.by
+.odnoklasniki.ua
+.odnoklassniki.am
+.odnoklassniki.by
+.odnoklassniki.co.ee
+.odnoklassniki.eu
+.odnoklassniki.lv
 .odnoklassniki.ru
+.odnoklassniki.tj
 .ok.me
 .ok.ru
 .okl.lt
@@ -15091,6 +15099,7 @@ widgets.stripst.com
 .javdove.com
 .javdove8.xyz
 .javextreme.net
+.javfc2.xyz
 .javfilms.com
 .javfor.me
 .javforme.ninja
@@ -26959,7 +26968,15 @@ tp.louisvuitton.com
 .apiok.ru
 .insideok.ru
 .odkl.ru
+.odnoklasniki.by
+.odnoklasniki.ua
+.odnoklassniki.am
+.odnoklassniki.by
+.odnoklassniki.co.ee
+.odnoklassniki.eu
+.odnoklassniki.lv
 .odnoklassniki.ru
+.odnoklassniki.tj
 .ok.me
 .ok.ru
 .okl.lt
@@ -27065,6 +27082,12 @@ target.vk.com
 .yclients.com
 
 # IDN ccTLD
+
+# Unknown-purpose domains with DGA subdomains
+.justveryok.com
+.keyboardmen.com
+.rabbitcounter.com
+.sayeasy.eu
 
 # Ads and tracking
 .ad.mail.ru
@@ -30271,6 +30294,7 @@ fandom.zendesk.com
 # McDonald's China
 .4008-517-517.cn
 .mcd.cn
+.mcdchina.net
 .mcdonalds.com.cn
 
 # McDonald's Hong Kong

@@ -1292,8 +1292,14 @@ wlog.kuaishou.com
 .yyds.co
 # End of lkcoffee
 
+# 麦当劳中国
+
 .3songshu.com
+
+# 海底捞
 .haidilao.com
+.hdlcdns.com
+.kiwa-tech.com
 
 # 喜茶
 .heytea.com
@@ -1315,6 +1321,39 @@ wlog.kuaishou.com
 # 娃哈哈
 .wahaha.com.cn
 .whhhealth.com
+
+# 茶百道（四川蜀信云茶）
+.shuxinyc.com
+
+# 蜜雪冰城
+.mxbc.com
+.mxbc.net
+
+# 北京吉野家/DQ
+.hophing.cn
+.hophing.com.cn
+
+# 汉堡王
+.bkchina.cn
+
+# 肯德基/百胜中国
+.hwwt8.com
+.kfc.com.cn
+.yumchina.com
+
+# 企迈/智迈（一堆餐饮企业在用的 CRM）
+.qmai.com
+.qmai.cn
+.qmimg.cn
+
+# 德克士
+.dicos.com.cn
+
+# Tracking
+.logger.qmai.cn
+.tracking.mcdonalds.com.cn
+.trackingprd.hwwt8.com
+.trackserver.shuxinyc.com
 # End of category-food-cn
 # 快递物流
 # Included from category-logistics-cn

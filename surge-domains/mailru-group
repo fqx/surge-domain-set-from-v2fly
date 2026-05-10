@@ -13,7 +13,15 @@
 .apiok.ru
 .insideok.ru
 .odkl.ru
+.odnoklasniki.by
+.odnoklasniki.ua
+.odnoklassniki.am
+.odnoklassniki.by
+.odnoklassniki.co.ee
+.odnoklassniki.eu
+.odnoklassniki.lv
 .odnoklassniki.ru
+.odnoklassniki.tj
 .ok.me
 .ok.ru
 .okl.lt
@@ -119,6 +127,12 @@ target.vk.com
 .yclients.com
 
 # IDN ccTLD
+
+# Unknown-purpose domains with DGA subdomains
+.justveryok.com
+.keyboardmen.com
+.rabbitcounter.com
+.sayeasy.eu
 
 # Ads and tracking
 .ad.mail.ru
