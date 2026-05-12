@@ -98,6 +98,12 @@ hammerandchisel.ssl.zendesk.com
 .messenger.com
 .nbabot.net
 # End of messenger
+# Included from nicegram
+.nicegram.app
+.nicegram.cloud
+# Ads
+.adsgram.ai
+# End of nicegram
 # Included from protonmail
 .pm.me
 .proton.me
