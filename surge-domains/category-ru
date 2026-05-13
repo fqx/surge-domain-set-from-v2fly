@@ -944,6 +944,7 @@ target.vk.com
 .koddobra.ru
 .lovina.app
 .mail.ru
+.mcs.st
 .mediumquality.ru
 .memealerts.com
 .movika.com
@@ -956,6 +957,7 @@ target.vk.com
 .vk-records.ru
 .vk-stadium.ru
 .vk.company
+.vk.kz
 .vk.team
 .vkclips.app
 .vkcs.cloud
@@ -963,6 +965,7 @@ target.vk.com
 .vkgo.app
 .vklive.app
 .vkvideo.ru
+.vkworkspace.kz
 .yclients.com
 
 # IDN ccTLD
@@ -1173,6 +1176,10 @@ xray.mail.ru
 .viqeo.tv
 .viqeotv.com
 
+## VK Cloud KZ (joint venture with QazCloud)
+.vkcloud-static.kz
+.vkcloud.kz
+
 ## VK Play
 .vkplay-arena.ru
 .vkplay.ru
@@ -1254,12 +1261,55 @@ sentry.popmechanic.ru
 .timeweb.com
 .twcstorage.ru
 # End of timeweb
-# Included from ucoz-ru
-.scripts-for-ucoz.ru
+# Included from ucoz
+# uCoz, a Russian free web hosting with a built-in content management system
+
+.ucoz.ae
+.ucoz.club
+.ucoz.co
+.ucoz.co.il
+.ucoz.co.uk
+.ucoz.com
+.ucoz.com.br
+.ucoz.com.ro
+.ucoz.de
+.ucoz.es
+.ucoz.fr
+.ucoz.hu
+.ucoz.kz
+.ucoz.lv
+.ucoz.md
+.ucoz.net
+.ucoz.org
+.ucoz.pl
 .ucoz.ru
+.ucoz.site
+.ucoz.ua
+.ukoz.ru
+
+# uCozmedia
+.ucozmedia.com
 .ucozmedia.ru
+
+# uGuide
 .uguide.ru
-# End of ucoz-ru
+.uguide.su
+
+# uKit
+.ukit.ai
+.ukit.com
+.ukit.group
+.ukit.me
+
+# Other
+.at.ua
+.narod.ru
+.scripts-for-ucoz.ru
+.ucozmail.com
+.ucoztemplates.com
+.usocial.pro
+.uweb.ru
+# End of ucoz
 # Included from whoosh
 .whoosh-bike.ru
 .whoosh.bike
@@ -1414,10 +1464,22 @@ report.ap.yandex-net.ru
 .myapelsin.ru
 .alfabank.oavdo.amc
 
+# BBR
+.bbr.ru
+
 # BCS bank
 .bcs.ru
 .bcs-bank.ru
 .broker.ru
+
+# Deutsche Bank
+.dbmoscow.ru
+.deutsche-bank.ru
+.deutschebank.ru
+
+# DOM.RF
+.domrfbank.ru
+.xn--d1aqf.xn--p1ai
 
 # GazpromBank
 .gazprombank.com
@@ -1426,12 +1488,21 @@ report.ap.yandex-net.ru
 .gid.ru
 .gpb.ru
 
+# Mizuho Bank
+.mhcb.ru
+.mhcbr.ru
+
 # MKB
 .mkb.ru
 
-# MTS Dengi
+# MTS
 .dbo-dengi.online
+.mtsbank.ru
 .mtsdengi.ru
+
+# OTP Bank
+# Feature request: implement @ru in otpbank category
+.otpbank.ru
 
 # PSB Bank
 .payment.ru
@@ -1441,6 +1512,11 @@ report.ap.yandex-net.ru
 
 # RUSSIA Bank
 .abr.ru
+
+# Raiffeisen
+# Feature request: implement @ru in raiffeisenbank category
+.raiffeisen-media.ru
+.raiffeisen.ru
 
 # Russian Agricultural Bank
 .rshb.ru
@@ -1589,6 +1665,9 @@ sberpro.vedomosti.ru
 .zvuk.com
 # End of sber
 
+# Sovcombank
+.sovcombank.ru
+
 # T-Bank (Tinkoff) and RosBank
 # Included from tbank-ru
 # IDN ccTLD domains (.рф)
@@ -1710,7 +1789,69 @@ education.tbank.ru
 .tochka.com
 
 # VTB Bank
+.vtb-direct.com
+.vtb-grants.fut.ru
 .vtb.ru
+.vtbglobalperspectives.com
+
+# Zenit
+.credit-zenit.ru
+.zenit-card.ru
+.zenit.ru
+
+# Other
+.absolutbank.ru
+.akbars.ru
+.alefbank.com
+.ankb.ru
+.asia-pay.ru
+.atb.su
+.autokreditbank.ru
+.avangard.ru
+.aversbank.ru
+.bank-arzamas.ru
+.bank-credit-suisse-moscow.ru
+.bank131.com
+.bankermak.ru
+.bfa.ru
+.bm-bank.ru
+.bspb.ru
+.commerzbank.ru
+.finambank.ru
+.forshtadt.ru
+.homecredit.ru
+.ibamoscow.ru
+.jpmorgan.ru
+.korona.com
+.kubankredit.ru
+.mfk-bank.ru
+.mvs-bank.ru
+.noosferabank.ru
+.primbank.ru
+.prvbank.ru
+.pskb.ru
+.pvubank.com
+.rencapbank.ru
+.rencredit.ru
+.rncoluminis.ru
+.ru.ccb.com
+.sbibankllc.ru
+.seb.ru
+.selkombank.ru
+.sinara.ru
+.slavbank.ru
+.smbcr-bank.ru
+.solid.ru
+.ssb.msk.ru
+.tagbank.ru
+.tatsotsbank.ru
+.tkbbank.ru
+.ubs.com
+.uralsib.ru
+.vlb100.ru
+.westernunion.ru
+.yoobusiness.ru
+.ziraatbank.ru
 # End of category-bank-ru
 ## Credit History Bureaus
 .credistory.ru

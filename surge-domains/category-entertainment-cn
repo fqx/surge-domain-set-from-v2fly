@@ -342,16 +342,6 @@ apilog-web.acfun.cn
 .acplay.net
 .dandanplay.com
 # End of acplay
-# Included from bestv
-# 百视通
-.bbtv.cn
-.bestv.com.cn
-.bestvcdn.cn
-.bestvcdn.com
-.bestvcdn.com.cn
-.bestvcdn.net
-.smgbb.cn
-# End of bestv
 # Included from ciweimao
 .ciweimao.com
 .hbooker.com
@@ -465,6 +455,7 @@ apilog-web.acfun.cn
 # Included from fqnovel
 .activity-zhendingtech.com
 .changdunovel.com
+.fanqiecopyright.com
 .fanqienovel.com
 .fanqieopen.com
 .fanqieopenpic.com
@@ -481,6 +472,7 @@ apilog-web.acfun.cn
 .fqnovelpic.com
 .fqnovelstatic.com
 .fqnovelvod.com
+.fqopenplatform.com
 .ihaohaoxuexi.com
 .muyewx.com
 .novelfm.com
@@ -521,28 +513,6 @@ rtlog5-applog.fqnovel.com
 .ja2.gamersky.com
 .wmbd.gamersky.com
 # End of gamersky
-# Included from gitv
-.gitv.cn
-.gitv.tv
-# End of gitv
-# Included from hunantv
-# 湖南广电（芒果TV）
-.hifuntv.com
-.hitv.com
-.hnbntv.com
-.hunaniptv.com
-.hunantv.com
-.imgo.tv
-.mgtv.com
-
-# Ads/tracking
-.click.hunantv.com
-.da.hunantv.com
-.da.mgtv.com
-.log.hunantv.com
-.log.v2.hunantv.com
-.res.hunantv.com
-# End of hunantv
 # Included from huya
 .huya.com
 .msstatic.com
@@ -669,15 +639,6 @@ wlog.kuaishou.com
 .u17i.com
 .u17t.com
 # End of u17
-# Included from wasu
-# 华数传媒
-.aichongzoo.cn
-.hzdtv.tv
-.hzman.net
-.wasu.cn
-.wasu.tv
-.wasumedia.cn
-# End of wasu
 # Included from xiaoheihe
 # 清枫（北京）科技有限公司
 # 京ICP备15018522号
@@ -719,9 +680,6 @@ wlog.kuaishou.com
 
 .soku.com
 
-# youku video cdn
-.cibntv.net
-
 # Ads/tracking
 .ad.api.3g.youku.com
 .ad.api.mobile.youku.com
@@ -745,11 +703,73 @@ wlog.kuaishou.com
 .yk-ssp.ad.youku.com
 .ykad-data.youku.com
 # End of youku
+# Included from yy
+# Included from duowan
+.duowan.com
+.dwstatic.com
+# End of duowan
+
+.yy.com
+.yystatic.com
+# End of yy
 
 # Android Emulator
 .ldmnq.com
 .lsplayer.com
 .yeshen.com
+
+# 互联网电视
+## 广东南方新媒体/SMC
+.aisee.tv
+.atianqi.com
+## 百视通
+# Included from bestv
+# 百视通
+.bbtv.cn
+.bestv.com.cn
+.bestvcdn.cn
+.bestvcdn.com
+.bestvcdn.com.cn
+.bestvcdn.net
+.smgbb.cn
+# End of bestv
+## 国广东方/CIBN
+.cibn.cc
+.cibntv.net
+## 银河电视
+# Included from gitv
+.gitv.cn
+.gitv.tv
+# End of gitv
+## 芒果TV‌
+# Included from hunantv
+# 湖南广电（芒果TV）
+.hifuntv.com
+.hitv.com
+.hnbntv.com
+.hunaniptv.com
+.hunantv.com
+.imgo.tv
+.mgtv.com
+
+# Ads/tracking
+.click.hunantv.com
+.da.hunantv.com
+.da.mgtv.com
+.log.hunantv.com
+.log.v2.hunantv.com
+.res.hunantv.com
+# End of hunantv
+## 华数TV
+# Included from wasu
+# 华数传媒
+.aichongzoo.cn
+.hzdtv.tv
+.hzman.net
+.wasu.cn
+.wasu.tv
+.wasumedia.cn
+# End of wasu
 
 # 172Mix 舞曲音乐
 .172mix.com
@@ -757,13 +777,14 @@ wlog.kuaishou.com
 .17k.com
 # https://github.com/supzhang/epg
 .51zmt.top
-# 广东南方新媒体
-.aisee.tv
 # 动画巡礼
 .anitabi.cn
 # 暴风影音
 .baofeng.com
 .baofeng.net
+# 暴走漫画
+.baozou.com
+.baozoumanhua.com
 # 街机地图
 .bemanicn.com
 # 布咕阅读
@@ -791,8 +812,15 @@ wlog.kuaishou.com
 .hongshu.com
 # 火星小说
 .hotread.com
+# 花椒直播
+.huajiao.com
+# 映客直播
+.inke.cn
+.ikstatic.cn
 # 晋江文学城
 .jjwxc.net
+# 咔叽相机
+.kajicam.com
 # 酷匠网
 .kjcdn.com
 .kujiang.com

@@ -1767,10 +1767,22 @@ tesla-cdn.thron.com
 .myapelsin.ru
 .alfabank.oavdo.amc
 
+# BBR
+.bbr.ru
+
 # BCS bank
 .bcs.ru
 .bcs-bank.ru
 .broker.ru
+
+# Deutsche Bank
+.dbmoscow.ru
+.deutsche-bank.ru
+.deutschebank.ru
+
+# DOM.RF
+.domrfbank.ru
+.xn--d1aqf.xn--p1ai
 
 # GazpromBank
 .gazprombank.com
@@ -1779,12 +1791,21 @@ tesla-cdn.thron.com
 .gid.ru
 .gpb.ru
 
+# Mizuho Bank
+.mhcb.ru
+.mhcbr.ru
+
 # MKB
 .mkb.ru
 
-# MTS Dengi
+# MTS
 .dbo-dengi.online
+.mtsbank.ru
 .mtsdengi.ru
+
+# OTP Bank
+# Feature request: implement @ru in otpbank category
+.otpbank.ru
 
 # PSB Bank
 .payment.ru
@@ -1794,6 +1815,11 @@ tesla-cdn.thron.com
 
 # RUSSIA Bank
 .abr.ru
+
+# Raiffeisen
+# Feature request: implement @ru in raiffeisenbank category
+.raiffeisen-media.ru
+.raiffeisen.ru
 
 # Russian Agricultural Bank
 .rshb.ru
@@ -1942,6 +1968,9 @@ sberpro.vedomosti.ru
 .zvuk.com
 # End of sber
 
+# Sovcombank
+.sovcombank.ru
+
 # T-Bank (Tinkoff) and RosBank
 # Included from tbank-ru
 # IDN ccTLD domains (.рф)
@@ -2063,7 +2092,69 @@ education.tbank.ru
 .tochka.com
 
 # VTB Bank
+.vtb-direct.com
+.vtb-grants.fut.ru
 .vtb.ru
+.vtbglobalperspectives.com
+
+# Zenit
+.credit-zenit.ru
+.zenit-card.ru
+.zenit.ru
+
+# Other
+.absolutbank.ru
+.akbars.ru
+.alefbank.com
+.ankb.ru
+.asia-pay.ru
+.atb.su
+.autokreditbank.ru
+.avangard.ru
+.aversbank.ru
+.bank-arzamas.ru
+.bank-credit-suisse-moscow.ru
+.bank131.com
+.bankermak.ru
+.bfa.ru
+.bm-bank.ru
+.bspb.ru
+.commerzbank.ru
+.finambank.ru
+.forshtadt.ru
+.homecredit.ru
+.ibamoscow.ru
+.jpmorgan.ru
+.korona.com
+.kubankredit.ru
+.mfk-bank.ru
+.mvs-bank.ru
+.noosferabank.ru
+.primbank.ru
+.prvbank.ru
+.pskb.ru
+.pvubank.com
+.rencapbank.ru
+.rencredit.ru
+.rncoluminis.ru
+.ru.ccb.com
+.sbibankllc.ru
+.seb.ru
+.selkombank.ru
+.sinara.ru
+.slavbank.ru
+.smbcr-bank.ru
+.solid.ru
+.ssb.msk.ru
+.tagbank.ru
+.tatsotsbank.ru
+.tkbbank.ru
+.ubs.com
+.uralsib.ru
+.vlb100.ru
+.westernunion.ru
+.yoobusiness.ru
+.ziraatbank.ru
 # End of category-bank-ru
 
 # Included from fibank
@@ -7843,7 +7934,12 @@ disney.my.sentry.io
 .triokini.com
 # End of dlsite
 # Included from ficbook
+.fanfictionero.com
+.fic.fan
+.ficador.com
 .ficbook.net
+.ficmania.com
+.teinon.net
 # End of ficbook
 # Included from gimy
 .gimy.cc
@@ -7866,6 +7962,9 @@ tvcastlive-hamivideo.cdn.hinet.net
 weblive-hamivideo.cdn.hinet.net
 # End of hamivideo
 # Included from hbo
+# All .hbo domains
+.hbo
+
 .beforeigners.com
 .brightline.tv
 .cinemax.com
@@ -27067,6 +27166,7 @@ target.vk.com
 .koddobra.ru
 .lovina.app
 .mail.ru
+.mcs.st
 .mediumquality.ru
 .memealerts.com
 .movika.com
@@ -27079,6 +27179,7 @@ target.vk.com
 .vk-records.ru
 .vk-stadium.ru
 .vk.company
+.vk.kz
 .vk.team
 .vkclips.app
 .vkcs.cloud
@@ -27086,6 +27187,7 @@ target.vk.com
 .vkgo.app
 .vklive.app
 .vkvideo.ru
+.vkworkspace.kz
 .yclients.com
 
 # IDN ccTLD
@@ -27295,6 +27397,10 @@ xray.mail.ru
 ## Viqeo
 .viqeo.tv
 .viqeotv.com
+
+## VK Cloud KZ (joint venture with QazCloud)
+.vkcloud-static.kz
+.vkcloud.kz
 
 ## VK Play
 .vkplay-arena.ru
@@ -29504,14 +29610,8 @@ impala-media-production.s3.amazonaws.com
 .wifiman.com
 # End of ubiquiti
 # Included from ucoz
-# ucoz
+# uCoz, a Russian free web hosting with a built-in content management system
 
-# Included from ucoz-ru
-.scripts-for-ucoz.ru
-.ucoz.ru
-.ucozmedia.ru
-.uguide.ru
-# End of ucoz-ru
 .ucoz.ae
 .ucoz.club
 .ucoz.co
@@ -29530,24 +29630,33 @@ impala-media-production.s3.amazonaws.com
 .ucoz.net
 .ucoz.org
 .ucoz.pl
+.ucoz.ru
 .ucoz.site
 .ucoz.ua
+.ukoz.ru
 
-# ucozmedia
-
+# uCozmedia
 .ucozmedia.com
+.ucozmedia.ru
 
-# ukit
+# uGuide
+.uguide.ru
+.uguide.su
 
+# uKit
 .ukit.ai
 .ukit.com
 .ukit.group
 .ukit.me
 
-# other
-
+# Other
 .at.ua
+.narod.ru
+.scripts-for-ucoz.ru
+.ucozmail.com
 .ucoztemplates.com
+.usocial.pro
+.uweb.ru
 # End of ucoz
 # Included from verisign
 .verisign.asia

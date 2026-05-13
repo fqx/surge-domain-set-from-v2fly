@@ -6611,6 +6611,7 @@ target.vk.com
 .koddobra.ru
 .lovina.app
 .mail.ru
+.mcs.st
 .mediumquality.ru
 .memealerts.com
 .movika.com
@@ -6623,6 +6624,7 @@ target.vk.com
 .vk-records.ru
 .vk-stadium.ru
 .vk.company
+.vk.kz
 .vk.team
 .vkclips.app
 .vkcs.cloud
@@ -6630,6 +6632,7 @@ target.vk.com
 .vkgo.app
 .vklive.app
 .vkvideo.ru
+.vkworkspace.kz
 .yclients.com
 
 # IDN ccTLD
@@ -6839,6 +6842,10 @@ xray.mail.ru
 ## Viqeo
 .viqeo.tv
 .viqeotv.com
+
+## VK Cloud KZ (joint venture with QazCloud)
+.vkcloud-static.kz
+.vkcloud.kz
 
 ## VK Play
 .vkplay-arena.ru
@@ -9163,14 +9170,8 @@ impala-media-production.s3.amazonaws.com
 .wifiman.com
 # End of ubiquiti
 # Included from ucoz
-# ucoz
+# uCoz, a Russian free web hosting with a built-in content management system
 
-# Included from ucoz-ru
-.scripts-for-ucoz.ru
-.ucoz.ru
-.ucozmedia.ru
-.uguide.ru
-# End of ucoz-ru
 .ucoz.ae
 .ucoz.club
 .ucoz.co
@@ -9189,24 +9190,33 @@ impala-media-production.s3.amazonaws.com
 .ucoz.net
 .ucoz.org
 .ucoz.pl
+.ucoz.ru
 .ucoz.site
 .ucoz.ua
+.ukoz.ru
 
-# ucozmedia
-
+# uCozmedia
 .ucozmedia.com
+.ucozmedia.ru
 
-# ukit
+# uGuide
+.uguide.ru
+.uguide.su
 
+# uKit
 .ukit.ai
 .ukit.com
 .ukit.group
 .ukit.me
 
-# other
-
+# Other
 .at.ua
+.narod.ru
+.scripts-for-ucoz.ru
+.ucozmail.com
 .ucoztemplates.com
+.usocial.pro
+.uweb.ru
 # End of ucoz
 # Included from verisign
 .verisign.asia

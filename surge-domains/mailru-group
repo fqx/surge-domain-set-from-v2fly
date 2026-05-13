@@ -105,6 +105,7 @@ target.vk.com
 .koddobra.ru
 .lovina.app
 .mail.ru
+.mcs.st
 .mediumquality.ru
 .memealerts.com
 .movika.com
@@ -117,6 +118,7 @@ target.vk.com
 .vk-records.ru
 .vk-stadium.ru
 .vk.company
+.vk.kz
 .vk.team
 .vkclips.app
 .vkcs.cloud
@@ -124,6 +126,7 @@ target.vk.com
 .vkgo.app
 .vklive.app
 .vkvideo.ru
+.vkworkspace.kz
 .yclients.com
 
 # IDN ccTLD
@@ -333,6 +336,10 @@ xray.mail.ru
 ## Viqeo
 .viqeo.tv
 .viqeotv.com
+
+## VK Cloud KZ (joint venture with QazCloud)
+.vkcloud-static.kz
+.vkcloud.kz
 
 ## VK Play
 .vkplay-arena.ru

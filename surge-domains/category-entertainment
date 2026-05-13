@@ -1567,7 +1567,12 @@ disney.my.sentry.io
 .triokini.com
 # End of dlsite
 # Included from ficbook
+.fanfictionero.com
+.fic.fan
+.ficador.com
 .ficbook.net
+.ficmania.com
+.teinon.net
 # End of ficbook
 # Included from gimy
 .gimy.cc
@@ -1590,6 +1595,9 @@ tvcastlive-hamivideo.cdn.hinet.net
 weblive-hamivideo.cdn.hinet.net
 # End of hamivideo
 # Included from hbo
+# All .hbo domains
+.hbo
+
 .beforeigners.com
 .brightline.tv
 .cinemax.com
