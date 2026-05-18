@@ -6867,6 +6867,30 @@ gog-cdn.akamaized.net
 .itch.io
 .itch.zone
 # End of itchio
+# Included from konami
+# All .konami domains
+.konami
+
+.573.jp
+.kgisystems.com
+.kiwi.jp
+.konami-igaming.online
+.konami.co.jp
+.konami.com
+.konami.net
+.konami.org
+.konamicrossmedia.com
+.konamigaming.com
+.konamigaming.net
+.konamigaming.online
+.konamionline.com
+.konamiopen.jp
+.konamisportsclub.jp
+.konamistyle.jp
+.resella.jp
+.resellablue.com
+.yugioh-card.com
+# End of konami
 # Included from lowiro
 .lowiro.com
 # End of lowiro
