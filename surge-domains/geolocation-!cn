@@ -1761,6 +1761,7 @@ tesla-cdn.thron.com
 # End of category-bank-mm
 # Included from category-bank-ru
 # Alfa Bank
+.alfa.me
 .alfabank.ru
 .alfabank.st
 .alfadirect.ru
@@ -3981,6 +3982,11 @@ hammerandchisel.ssl.zendesk.com
 .slackdemo.com
 .slackhq.com
 # End of slack
+# Included from teamspeak
+.myteamspeak.com
+.teamspeak.com
+.teamspeak-services.com
+# End of teamspeak
 # Included from telegram
 .cdn-telegram.org
 .comments.app
@@ -7980,13 +7986,18 @@ disney.my.sentry.io
 # End of goodreads
 # Included from hamivideo
 apl-hamivideo.cdn.hinet.net
+favoritescc-hamivideo2.cdn.hinet.net
 hamivideo.hinet.net
+lgcscc-hamivideo2.cdn.hinet.net
 mobilelive-hamivideo.cdn.hinet.net
 pvr-hamivideo.cdn.hinet.net
 scc.ott.hinet.net
 static-hamivideo.cdn.hinet.net
+thumbnail-hamivideo.cdn.hinet.net
+tlmr-hamivideo2.cdn.hinet.net
 tvcastlive-hamivideo.cdn.hinet.net
 weblive-hamivideo.cdn.hinet.net
+webvodad-hamivideo.cdn.hinet.net
 # End of hamivideo
 # Included from hbo
 # All .hbo domains
@@ -20926,6 +20937,7 @@ wwis-dubc1-vip99.adobe.com
 .a2z.org.cn
 .amazonaws.cn
 .amazonaws.com.cn
+.amazonwebservices.cn
 .amazonwebservices.com.cn
 .amazonworkdocs.cn
 .amazonworkdocs.com.cn
@@ -26007,7 +26019,7 @@ analytics.google.com
 www.recaptcha.net
 
 # The rules below are from https://github.com/felixonmars/dnsmasq-china-list/blob/master/google.china.conf
-# Revision: 1c2d107d4e7eaa0b192e08bb0beddde4aab247f6
+# Revision: 94f89bb5065cdff0777ef3a116ecfecb14ca1f56
 # Duplicates removed
 # Use in config file like this: "geosite:google@cn"
 265.com
@@ -26034,9 +26046,7 @@ clickserve.dartsearch.net
 clickserver.googleads.com
 clientservices.googleapis.com
 cn.widevine.com
-cnappinstall.googleadapis.com
 connectivitycheck.gstatic.com
-content.googleadapis.com
 crashlyticsreports-pa.googleapis.com
 csi.gstatic.com
 dartsearch-cn.net
@@ -26046,9 +26056,7 @@ dl.l.google.com
 doubleclick-cn.net
 doubleclick.net
 download.mlcc.google.com
-download.qatp1.net
 download.tensorflow.google.com
-emmapplecodevice.googleapis.com
 fontfiles.googleapis.com
 fonts.googleapis.com
 fonts.gstatic.com
@@ -26056,7 +26064,6 @@ g0.gstatic.com
 g1.gstatic.com
 g2.gstatic.com
 g3.gstatic.com
-go.corp.google.com
 gonglchuangl.net
 gongyichuangyi.net
 google-analytics-cn.com
@@ -26082,25 +26089,13 @@ gstatic-cn.com
 gstaticadssl.l.google.com
 gtm.oasisfeng.com
 imasdk.googleapis.com
-l2-uberproxy.corp.google.com
-logger-dev.corp.google.com
-logger.corp.google.com
-login.corp.google.com
-monitoring.qpdp1.net
 pagead-googlehosted.l.google.com
 performanceparameters.googleapis.com
 prod-controlbe.floonet.goog
 prod-databe.floonet.goog
 prod.databe.floonet.goog
-proxyconfig.corp.google.com
-qagpublic.qatp1.net
-qgadmin.qcpp1.net
 qiao-cn.com
 qpx.googleflights.net
-qualysapi.qatp1.net
-qualysguard.qpdp1.net
-r.cert.corp.google.com
-rapture-prod.corp.google.com
 recaptcha-cn.net
 recaptcha.net
 redirector.bdn.dev
@@ -26115,27 +26110,14 @@ redirector.snap.gvt1.com
 redirector.xn--ngstr-lra8j.com
 safebrowsing-cache.google.com
 safebrowsing.googleapis.com
-scanservice1.qcpp1.net
 service.urchin.com
 ssl-google-analytics.l.google.com
 ssl.gstatic.com
-sslredirect.corp.google.com
 staging-controlbe.floonet.goog
 staging-databe.floonet.goog
 staging.databe.floonet.goog
-streaming-uberproxy-rotation.corp.google.com
-streaming-uberproxy.corp.google.com
-sup-ssh-relay.corp.google.com
-sup-ssh-relay2.corp.google.com
-sup.corp.google.com
-sup.l.google.com
 tac.googleapis.com
-test.gbugs-qa.chromium.org
 tools.google.com
-tools.l.google.com
-uberproxy-debug4.corp.google.com
-uberproxy.corp.google.com
-uberproxy6.corp.google.com
 update.crashlytics.com
 update.googleapis.com
 wear.googleapis.com
@@ -26144,7 +26126,6 @@ www-googletagmanager.l.google.com
 www.destinationurl.com
 www.gstatic.com
 www.pxcc.com
-xn--flw351e.com
 # End of google
 # Included from group-ib
 .antiphishing.nl
@@ -31110,3 +31091,4 @@ nurofensk-prod-env.eu-west-1.elasticbeanstalk.com
 # End of xingrz
 
 .sinyalee.com
+.zhangzhehan.net

@@ -138,6 +138,11 @@ hammerandchisel.ssl.zendesk.com
 .slackdemo.com
 .slackhq.com
 # End of slack
+# Included from teamspeak
+.myteamspeak.com
+.teamspeak.com
+.teamspeak-services.com
+# End of teamspeak
 # Included from telegram
 .cdn-telegram.org
 .comments.app

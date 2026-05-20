@@ -2715,6 +2715,7 @@ ctdsb.clouddiffuse.xyz
 .a2z.org.cn
 .amazonaws.cn
 .amazonaws.com.cn
+.amazonwebservices.cn
 .amazonwebservices.com.cn
 .amazonworkdocs.cn
 .amazonworkdocs.com.cn
@@ -3764,6 +3765,10 @@ study.163.com
 .tongyi.aliyun.com
 .tongyi.com
 
+# 蚂蚁阿福
+.antafu.com
+.antaq.com
+
 # 文心一言
 .yiyan.baidu.com
 
@@ -3893,18 +3898,26 @@ ai.zhaomi.cn
 # Included from category-documents-cn
 .1ppt.com
 .360doc.com
+.51pptmoban.com
 .51wendang.com
 .52ppt.com
 .badou.com
 .book118.com
+.daodoc.com
 .doc88.com
 .docin.com
 .douding.cn
+.goldhoe.com
 .haohaodoc.com
+.jinchutou.com
 .lazyer.net
 .renrendoc.com
+.safewk.com
+.taodocs.com
 .wenkeju.com
+.wenkub.com
 .ypppt.com
+.zhijidoc.com
 # End of category-documents-cn
 # Included from category-enterprise-query-platform-cn
 # Included from aiqicha
@@ -4116,19 +4129,20 @@ ai.zhaomi.cn
 # End of wenshushu
 
 # 123云盘
+.123245.com
+.123254.com
+.123278.com
+.123294.com
+.123624.com
+.123641.com
+.123842.com
+.123860.com
+.123912.com
+.123952.com
+.123957.com
 .123pan.cn
 .123pan.com
 .123panpay.com
-.123957.com
-.123912.com
-.123860.com
-.123842.com
-.123641.com
-.123624.com
-.123294.com
-.123254.com
-.123245.com
-.123952.com
 
 # End of category-netdisk-cn
 # Included from category-ntp-cn

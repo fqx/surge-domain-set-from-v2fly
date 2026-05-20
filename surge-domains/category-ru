@@ -1458,6 +1458,7 @@ report.ap.yandex-net.ru
 # Bank & Finance & Insurance & Securities
 # Included from category-bank-ru
 # Alfa Bank
+.alfa.me
 .alfabank.ru
 .alfabank.st
 .alfadirect.ru
@@ -1857,6 +1858,8 @@ education.tbank.ru
 .credistory.ru
 .nbki.ru
 ## Currency and stock exchanges
+## Card & Document delivery
+.efin.ru
 ## Financial marketplace
 .banki.ru
 .finuslugi.ru
