@@ -243,6 +243,7 @@ pplx-res.cloudinary.com
 .meta.ai
 .minimax.io
 .mistral.ai
+.mozilla.ai
 .ollama.com
 .openart.ai
 .openclaw.ai
@@ -250,6 +251,7 @@ pplx-res.cloudinary.com
 .openspec.dev
 .plannotator.ai
 .spicywriter.com
+.tapnow.ai
 # End of category-ai-!cn
 
 # Advertisment & Analytics
@@ -28842,35 +28844,19 @@ sentry.popmechanic.ru
 mdn.mozillademos.org
 # End of mdn
 
+.bugzilla.org
+.extensionworkshop.com
+.getpocket.com
 .mozgcp.net
+.mozilla.ai
 .mozilla.com
 .mozilla.community
 .mozilla.net
 .mozilla.org
-
-# Add-ons
-.extensionworkshop.com
-
-# Bugzilla
-.bugzilla.org
-
-# Pocket
-.getpocket.com
-
-# SeaMonkey
+.mozillafoundation.org
+.mzl.la
 .seamonkey-project.org
-
-# Thunderbird
 .thunderbird.net
-
-# Mozilla Location Service
-# * Overrided by above `mozilla.com`
-# * In March 2024, Mozilla announced the project was being discontinued
-#location.services.mozilla.com
-
-# Mozilla Push Service
-# * Overrided by above `mozilla.com`
-#push.services.mozilla.com
 # End of mozilla
 # Included from msi
 .msi.cn
