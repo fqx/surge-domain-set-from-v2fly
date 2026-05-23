@@ -645,6 +645,13 @@ education.tbank.ru
 standchartbank.sc.omtrdc.net
 standchartbank.tt.omtrdc.net
 # End of standardchartered
+# Included from stripe
+.link.com
+.stripe-terminal-local-reader.net
+.stripe.com
+.stripe.network
+.stripecdn.com
+# End of stripe
 # Included from wise
 .transferwise.com
 .wise.com
