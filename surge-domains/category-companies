@@ -4390,6 +4390,7 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 .bard.google.com
 .gemini.google
 .gemini.google.com
+.gemini.gstatic.com
 
 # Gemini Code Assist
 # https://docs.cloud.google.com/gemini/docs/codeassist/set-up-gemini
@@ -4456,6 +4457,7 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 .bard.google.com
 .gemini.google
 .gemini.google.com
+.gemini.gstatic.com
 
 # Gemini Code Assist
 # https://docs.cloud.google.com/gemini/docs/codeassist/set-up-gemini
@@ -6627,6 +6629,7 @@ target.vk.com
 .relap.mail.ru
 .target.my.com
 .top-fwz1.mail.ru
+.trace-flow.ru
 .tracker-api.my.com
 .tracker.my.com
 1l-hit.mail.ru
