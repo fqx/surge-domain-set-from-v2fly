@@ -1176,6 +1176,11 @@ wlog.kuaishou.com
 .ccw.site
 # CdkeyNoGap
 .cdkeynogap.com
+# 酷音铃声
+.diyring.cc
+.kuyin123.com
+.kuyinxiu.com
+.kuyinyun.com
 # 动漫之家 #703
 .dmzj.com
 .muwai.com
@@ -1384,6 +1389,9 @@ wlog.kuaishou.com
 
 # 德克士
 .dicos.com.cn
+
+# 陈克明食品
+.kemen.cn
 
 # Tracking
 .logger.qmai.cn
@@ -1822,6 +1830,8 @@ wlog.kuaishou.com
 .anhuiyun.com
 # 锋潮科技
 .anzhuo.cn
+# 北京商报
+.bbtnews.com.cn
 # 鞭牛士
 .bianews.com
 # 财经网
@@ -1834,12 +1844,16 @@ wlog.kuaishou.com
 # 参考消息
 .cankaoxiaoxi.com
 .ckxx.net
+# 改革网
+.cfgw.net.cn
 # AET 电子技术应用
 .chinaaet.com
 # 天极网
 .chinabyte.com
 .tianjimedia.com
 .yesky.com
+# 中国发展网
+.chinadevelopment.com.cn
 # 中金在线
 .cnfol.com
 .cnfolimg.com
@@ -1863,6 +1877,9 @@ wlog.kuaishou.com
 ctdsb.clouddiffuse.xyz
 # 创头条
 .ctoutiao.com
+# 中青在线/中国青年报
+.cyol.com
+.cyol.net
 # 创业邦
 .cyzone.cn
 # 浙江广播电视集团/浙江卫视/新蓝网
@@ -1886,6 +1903,10 @@ ctdsb.clouddiffuse.xyz
 # 大众日报
 .dzng.com
 .dzwww.com
+# 东方网
+.eastday.com
+# 经济观察网
+.eeo.com.cn
 # 超能网
 .expreview.com
 # FreeBuf 网络安全行业门户
@@ -3168,6 +3189,8 @@ ss.bjmu.edu.cn
 .mingxuan.store
 ## 牙医管家
 .yayi360.com
+## 有来医生
+.youlai.cn
 
 # Party and government offices & Public units
 .12315.cn
@@ -3327,9 +3350,19 @@ study.163.com
 .shanbay.com
 # End of shanbay
 # Included from xueersi
+# 学而思
+.100tal.com
+.aoshu.com
+.eduu.com
+.eduuu.com
+.gaokao.com
 .speiyou.com
+.tal.com
 .xesimg.com
 .xueersi.com
+.youjiao.com
+.zhongkao.com
+.zuowen.com
 # End of xueersi
 # Included from yuanfudao
 .banmaaike.com
@@ -3400,6 +3433,8 @@ study.163.com
 .neea.cn
 # neea.edu.cn
 
+# 二一教育
+.21cnjy.com
 # 云校
 .91yunxiao.com
 # 爱云校/好分数
@@ -3493,6 +3528,8 @@ study.163.com
 .zysn.net
 # 时代行云
 .x-cloud.cc
+# 西瓜创客
+.xiguacity.cn
 # 西柚英语
 .xiyouyingyu.com
 # 学科网
@@ -3508,6 +3545,11 @@ study.163.com
 .zhihuishu.com
 # 浙江省教育考试院
 .zjzs.net
+# 作文素材类
+.zuowen8.com
+.zuowenjun.com
+.zuowenku.net
+.zuowenwang.net
 # End of category-education-cn
 # Included from category-olympiad-in-informatics
 # LeetCode 中国站
@@ -3654,14 +3696,13 @@ study.163.com
 # End of bjyouth
 ### 知藏（北京）数据技术有限公司
 .zzdtec.com
-## 青年大学习
-### 北京中青在线网络信息技术有限公司
-.cyol.com
-### 北京天润基业科技发展股份有限公司
-.webterren.com
 ## 国学大师网
 .guoxuedashi.com
 .guoxuemi.com
+## 科普中国
+.kepuchina.cn
+## 四川省文物考古研究院
+.sckg.com
 ## 温州市图书馆
 .wzlib.cn
 ## 中国大百科全书
@@ -4483,6 +4524,11 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .zhaopin.cn
 .zhaopin.com
 
+## 上海东方怡动信息技术有限公司
+.ewdcloud.com
+## 北京天润基业科技发展股份有限公司
+.webterren.com
+
 # State Owned Companies
 # Included from chinapost
 .chinapost.com.cn
@@ -4873,6 +4919,8 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .ksyungslb.com
 # End of kingsoft
 # Included from lenovo
+# include:motorola
+
 # 北京联想调频科技有限公司 京ICP备2023017858号
 .lenovo.net
 
@@ -5565,7 +5613,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .dzw3.com
 .easesale.com
 .easiu.com
-.eastday.com
 .eastsoo.com
 .eayyou.com
 .ebico.com
@@ -6117,7 +6164,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .ynhr.com
 .yocajr.com
 .youboy.com
-.youjiao.com
 .youke.co
 .youlian.fun
 .youshang.com
@@ -6161,7 +6207,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .zhidx.com
 .zhifang.com
 .zhiziyun.com
-.zhongkao.com
 .zhuangjiba.com
 .zhuanyewanjia.com
 .zhuayoukong.com
@@ -6170,9 +6215,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .zmengzhu.com
 .zpb365.com
 .zuhaowan.com
-.zuowen.com
-.zuowen8.com
-.zuowenwang.net
 .zztfly.com
 
 # 爱赞助 粤ICP备18040645号

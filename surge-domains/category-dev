@@ -735,6 +735,7 @@ amp.akamaized.net
 .deno.com
 .deno.land
 .dev.to
+.elementary.io
 .elixir-lang.org
 .elrepo.org
 .erlang.org
@@ -744,12 +745,9 @@ amp.akamaized.net
 .getcomposer.org
 .getzola.org
 .git-scm.com
+.gnome.org
 .gnu.org
 .godbolt.org
-
-# PuTTY and some software official websites.
-.greenend.org.uk
-
 .hex.pm
 .hexdocs.pm
 .imageglass.org
@@ -758,11 +756,14 @@ amp.akamaized.net
 .js.org
 .jupyter.org
 .kali.org
+.kde.org
 .linuxfromscratch.org
 .linuxmint.com
 .lua.org
+.lxqt-project.org
 .macports.org
 .mariadb.org
+.mate-desktop.org
 .mingw.org
 .mobatek.net
 .mpv.io
@@ -784,6 +785,7 @@ amp.akamaized.net
 .phantomjs.org
 .php.net
 .piwheels.org
+.plasma-mobile.org
 .postgresql.org
 .putty.org
 .r-project.org
@@ -798,6 +800,7 @@ amp.akamaized.net
 .shields.io
 .sqlite.org
 .sublimetext.com
+.system76.com
 .tampermonkey.net
 .termius.com
 .topcoder.com
@@ -811,6 +814,7 @@ amp.akamaized.net
 .weblate.org
 .wireshark.org
 .x.org
+.xfce.org
 .xposed.info
 .yarnpkg.com
 .ziglang.org
