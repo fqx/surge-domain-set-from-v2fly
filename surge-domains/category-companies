@@ -8408,6 +8408,12 @@ mdn.mozillademos.org
 .mzl.la
 .seamonkey-project.org
 .thunderbird.net
+
+# Ads/tracking
+ads-img.mozilla.org
+ads.mozilla.org
+incoming.telemetry.mozilla.org
+incoming-telemetry.thunderbird.net
 # End of mozilla
 # Included from msi
 .msi.cn

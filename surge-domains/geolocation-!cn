@@ -5753,6 +5753,13 @@ imperial.insendi.com
 .universitypressscholarship.com
 .veryshortintroductions.com
 # End of oup
+# Included from uoliv
+# University of liverpool
+.liv.ac.uk
+.liverpool.ac.uk
+.livinno.org
+.opac-project.eu
+# End of uoliv
 
 # https://iridis.uk/ac-uk-domain-registration/
 # https://community.jisc.ac.uk/library/janet-services-documentation/terms-and-conditions-acuk
@@ -28903,6 +28910,12 @@ mdn.mozillademos.org
 .mzl.la
 .seamonkey-project.org
 .thunderbird.net
+
+# Ads/tracking
+ads-img.mozilla.org
+ads.mozilla.org
+incoming.telemetry.mozilla.org
+incoming-telemetry.thunderbird.net
 # End of mozilla
 # Included from msi
 .msi.cn

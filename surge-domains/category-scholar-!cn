@@ -61,6 +61,13 @@ imperial.insendi.com
 .universitypressscholarship.com
 .veryshortintroductions.com
 # End of oup
+# Included from uoliv
+# University of liverpool
+.liv.ac.uk
+.liverpool.ac.uk
+.livinno.org
+.opac-project.eu
+# End of uoliv
 
 # https://iridis.uk/ac-uk-domain-registration/
 # https://community.jisc.ac.uk/library/janet-services-documentation/terms-and-conditions-acuk
