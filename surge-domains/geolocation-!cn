@@ -18854,6 +18854,8 @@ s19.upd.kaspersky.com
 # Included from firefox
 .firefox.com
 .firefoxusercontent.com
+
+mozilla-ohttp.fastly-edge.com
 # End of firefox
 # Included from torproject
 .torproject.org
@@ -19315,6 +19317,7 @@ brightcove.imgix.net
 # Disqus, Inc.
 # Disqus offers the best add-on tools for websites to increase engagement.
 
+.disq.us
 .disqus.com
 .disquscdn.com
 .disqusservice.com
@@ -28887,6 +28890,8 @@ sentry.popmechanic.ru
 # Included from firefox
 .firefox.com
 .firefoxusercontent.com
+
+mozilla-ohttp.fastly-edge.com
 # End of firefox
 # Included from mdn
 .developer.allizom.org

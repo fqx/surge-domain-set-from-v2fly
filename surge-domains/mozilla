@@ -1,6 +1,8 @@
 # Included from firefox
 .firefox.com
 .firefoxusercontent.com
+
+mozilla-ohttp.fastly-edge.com
 # End of firefox
 # Included from mdn
 .developer.allizom.org
