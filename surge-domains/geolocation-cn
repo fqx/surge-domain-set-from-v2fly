@@ -1649,9 +1649,13 @@ wlog.kuaishou.com
 # Included from chinanews
 .chinanews.com
 .chinanews.com.cn
+.chinaqw.com
 .cns.com.cn
+.cnsimg.net
 .ecns.cn
 .inewsweek.cn
+.jwview.com
+.xinmeng.info
 # End of chinanews
 # Included from ifanr
 .coolbuy.com
@@ -1998,6 +2002,7 @@ ctdsb.clouddiffuse.xyz
 .neweekly.com.cn
 # 新华社
 .news.cn
+.newsimg.cn
 .xinhuanet.com
 .xinhuaxmt.com
 # 维科网
@@ -3210,6 +3215,8 @@ ss.bjmu.edu.cn
 .redcross.org.cn
 ## 中国殡葬网
 .zgbznet.com.cn
+## 中国记协网
+.zgjx.cn
 
 # Public transportation
 ## 中国国际航空
