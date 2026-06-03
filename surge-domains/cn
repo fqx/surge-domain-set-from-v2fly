@@ -266,6 +266,7 @@ p9-juejin.byteimg.com
 # End of unitychina
 
 .aardio.com
+.ejoy.com
 .jinrishici.com
 .kaihong.com
 .openvela.com
@@ -463,9 +464,13 @@ p9-juejin.byteimg.com
 .yxhhdl.com
 .yxhimg.com
 # End of 4399
-# Included from 9game
+# Included from aligames
 .9game.cn
-# End of 9game
+.aligames.com
+.jiaoyimao.cn
+.jiaoyimao.com
+.lingxigames.com
+# End of aligames
 # Included from bilibili-game
 .bilibiligame.cn
 .bilibiligame.co
@@ -934,6 +939,7 @@ rtlog5-applog.fqnovel.com
 .inkwai.com
 .ksapisrv.com
 .kskwai.com
+.kspkg.com
 .kuaishou.cn
 .kuaishou.com
 .kuaishouapps.com
@@ -1031,6 +1037,18 @@ wlog.kuaishou.com
 
 # 普通节点(内地)
 # End of sakurafrp
+# Included from shuqi
+# 书旗/阿里文学
+.11222.cn
+.aliwx.com.cn
+.aliwx.net
+.ishuqi.com
+.shuqi.com
+.shuqiapi.com
+.shuqiread.com
+.shuqireader.com
+.sqreader.com
+# End of shuqi
 # Included from taomee
 .61.com
 .taomee.com
@@ -1072,14 +1090,14 @@ wlog.kuaishou.com
 # End of ximalaya
 # Included from youku
 # youku uses some alicdn services, so this must use with domain list "alibaba"
-
+.9xsecndns.cn
 .kumiao.com
-.youku.com
-
-.ykimg.com
 .mmstat.com
-
 .soku.com
+.tudou.com
+.ykimg.com
+.youku.com
+.zimgs.cn
 
 # Ads/tracking
 .ad.api.3g.youku.com
@@ -1258,6 +1276,8 @@ wlog.kuaishou.com
 .tadu.com
 # 江山文学
 .vsread.com
+# 树梦
+.xinlishumeng.com
 # 祥云游社
 .xyys.com
 # 百合会
@@ -1455,10 +1475,14 @@ wlog.kuaishou.com
 .youyiwms.com
 # End of 800best
 # Included from cainiao
+.56xiniao.com
 .cainiao-inc.com
 .cainiao.com
 .cainiao.com.cn
 .cainiaoyizhan.com
+.danniao.com
+.dianwoda.cn
+.dianwoda.com
 .guoguo-app.com
 
 # Ads/tracking
@@ -3113,6 +3137,10 @@ ctdsb.clouddiffuse.xyz
 .appvipshop.com
 .vip.com
 .vipstatic.com
+## 首旅如家/和美酒店
+.btghotels.com
+.bthhotels.com
+.homeinns.com
 ## 多点新鲜
 .dmall.com
 .dmallcdn.com
@@ -3121,8 +3149,17 @@ ctdsb.clouddiffuse.xyz
 .weidian.com
 ## 闲管家（深圳市收收科技）
 .goofish.pro
+## 华住集团
+.huazhu.com
+.huazhucorp.com
+.hworld.com
 ## 货摊网
 .huotan.net
+## 锦江国际
+.jinjiang.com
+.jinjianghotels.com.cn
+.jinjiangonline.net
+.jjtravel.com
 ## 聚美优品
 .jmstatic.com
 .jumei.com
@@ -3146,6 +3183,8 @@ ctdsb.clouddiffuse.xyz
 .ruseer.com
 ## 瞎买
 .xiamai.net
+## 亚朵
+.yaduo.com
 
 # Forums
 # Included from b3log
@@ -3171,10 +3210,10 @@ ctdsb.clouddiffuse.xyz
 # End of stage1st
 
 
-# 51CTO
+## 51CTO
 .51cto.com
 .51ctocdn.cn
-# DCC Forum（心跳文学部中文论坛）
+## DCC Forum（心跳文学部中文论坛）
 .monika.love
 
 
@@ -3297,6 +3336,7 @@ ss.bjmu.edu.cn
 ## 中国民航局
 .caac.gov.cn
 ## 信天游（航空电子客票验真）
+.travelsky.com.cn
 .travelskymobile.cn
 ## 航旅纵横
 .umetrip.com
@@ -4344,6 +4384,18 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .meitu.com
 .meitudata.com
 .meitustat.com
+
+# https://www.meitu.com/zh/business
+.designkit.cn
+.kaipai.com
+.meipai.com
+.meituxiuxiu.com
+.meiyan.com
+.miraclevision.com
+.roboneo.com
+.whee.com
+.wink.cn
+.zcool.com.cn
 # End of meitu
 # Included from moji
 .moji.com
@@ -4524,6 +4576,8 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .moseeker.com
 ## 小能智慧云客服
 .ntalker.com
+## 排队网
+.paidui.com
 ## 心知天气
 .sencdn.com
 .seniverse.com
@@ -5518,7 +5572,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .bokecc.com
 .boosj.com
 .btgtravel.com
-.bthhotels.com
 .btime.com
 .cabbagebox.com
 .caijingwu.com
@@ -5778,7 +5831,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .jianbihua.com
 .jianzhi8.com
 .jiaodong.net
-.jiaoyimao.com
 .jiasuhui.com
 .jiathis.com
 .jiayuan.com
@@ -6058,13 +6110,10 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .topthink.com
 .touqikan.com
 .touzid.com
-.travelsky.com
 .trjcn.com
 .trunktech.com
 .trustexporter.com
 .trustutn.org
-.tudou.com
-.tudouui.com
 .tuicool.com
 .tuiwen.net
 .tujia.com

@@ -66,9 +66,13 @@
 .yxhhdl.com
 .yxhimg.com
 # End of 4399
-# Included from 9game
+# Included from aligames
 .9game.cn
-# End of 9game
+.aligames.com
+.jiaoyimao.cn
+.jiaoyimao.com
+.lingxigames.com
+# End of aligames
 # Included from bilibili-game
 .bilibiligame.cn
 .bilibiligame.co
@@ -537,6 +541,7 @@ rtlog5-applog.fqnovel.com
 .inkwai.com
 .ksapisrv.com
 .kskwai.com
+.kspkg.com
 .kuaishou.cn
 .kuaishou.com
 .kuaishouapps.com
@@ -634,6 +639,18 @@ wlog.kuaishou.com
 
 # 普通节点(内地)
 # End of sakurafrp
+# Included from shuqi
+# 书旗/阿里文学
+.11222.cn
+.aliwx.com.cn
+.aliwx.net
+.ishuqi.com
+.shuqi.com
+.shuqiapi.com
+.shuqiread.com
+.shuqireader.com
+.sqreader.com
+# End of shuqi
 # Included from taomee
 .61.com
 .taomee.com
@@ -675,14 +692,14 @@ wlog.kuaishou.com
 # End of ximalaya
 # Included from youku
 # youku uses some alicdn services, so this must use with domain list "alibaba"
-
+.9xsecndns.cn
 .kumiao.com
-.youku.com
-
-.ykimg.com
 .mmstat.com
-
 .soku.com
+.tudou.com
+.ykimg.com
+.youku.com
+.zimgs.cn
 
 # Ads/tracking
 .ad.api.3g.youku.com
@@ -861,6 +878,8 @@ wlog.kuaishou.com
 .tadu.com
 # 江山文学
 .vsread.com
+# 树梦
+.xinlishumeng.com
 # 祥云游社
 .xyys.com
 # 百合会

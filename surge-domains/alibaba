@@ -10,9 +10,6 @@
 # All .tmall domains
 .tmall
 
-# Included from 9game
-.9game.cn
-# End of 9game
 # Included from alibabacloud
 .alibabacloud.co.in
 .alibabacloud.com
@@ -23,6 +20,13 @@
 .alibabacloud.com.tw
 .alicloud.com
 # End of alibabacloud
+# Included from aligames
+.9game.cn
+.aligames.com
+.jiaoyimao.cn
+.jiaoyimao.com
+.lingxigames.com
+# End of aligames
 # Included from aliyun
 .alibabadns.com
 .alicdn.com
@@ -38,6 +42,7 @@
 .aliyuncdn.com
 .aliyuncdn.net
 .aliyunfile.com
+.aliyunidaas.com
 .aliyunpds.com
 .cdngslb.com
 .fcapp.run
@@ -133,10 +138,14 @@
 .v6-adashx.ut.amap.com
 # End of amap
 # Included from cainiao
+.56xiniao.com
 .cainiao-inc.com
 .cainiao.com
 .cainiao.com.cn
 .cainiaoyizhan.com
+.danniao.com
+.dianwoda.cn
+.dianwoda.com
 .guoguo-app.com
 
 # Ads/tracking
@@ -169,6 +178,18 @@
 .h-adashx.ut.ele.me
 .v6-adashx.ut.ele.me
 # End of eleme
+# Included from shuqi
+# 书旗/阿里文学
+.11222.cn
+.aliwx.com.cn
+.aliwx.net
+.ishuqi.com
+.shuqi.com
+.shuqiapi.com
+.shuqiread.com
+.shuqireader.com
+.sqreader.com
+# End of shuqi
 # Included from teambition
 .teambition.com
 .teambition.net
@@ -226,14 +247,14 @@
 # End of umeng
 # Included from youku
 # youku uses some alicdn services, so this must use with domain list "alibaba"
-
+.9xsecndns.cn
 .kumiao.com
-.youku.com
-
-.ykimg.com
 .mmstat.com
-
 .soku.com
+.tudou.com
+.ykimg.com
+.youku.com
+.zimgs.cn
 
 # Ads/tracking
 .ad.api.3g.youku.com
@@ -276,7 +297,7 @@
 .alibabaued.com
 .alibabausercontent.com
 .alifanyi.com
-.aligames.com
+.alihealth.cn
 .alihealth.com.cn
 .alihealth.hk
 .aliimg.com
@@ -333,6 +354,7 @@
 .liangxinyao.com
 .m-now.cn
 .maitix.com
+.mappcloud.com
 .mdeer.com
 .mei.com
 .miaostreet.com
@@ -341,12 +363,11 @@
 .philanthropy.xin
 .phpwind.com
 .phpwind.net
+.pp.cn
 .qingtingtrip.com
 .rexpos.cn
 .saee.org.cn
 .shenjing.com
-.shuqi.com
-.shuqireader.com
 .sparenode.com
 .supet.com
 .tanx.com
