@@ -1,3 +1,31 @@
+# Included from kugou
+.fanxingliveshow.com
+.kgimg.com
+.kglink.cn
+.ktv.com
+.kugoo.com
+.kugou.com
+.kugou.net
+.kugouaudio.com
+.kugouipv6.com
+.kugoukid.com
+.kugouliveshow.com
+.kugouringtone.com
+.kugousenior.com
+.kugoustore.com
+.kugouvoice.com
+.kugouyouth.com
+
+# Ads/tracking
+.ads.service.kugou.com
+.adserviceretry.kglink.cn
+.adserviceretry.kugou.com
+# End of kugou
+# Included from kuwo
+.koowo.cn
+.koowo.com
+.kuwo.cn
+# End of kuwo
 # Included from tencent-dev
 # Included from cnb
 # 腾讯 云原生构建
@@ -131,6 +159,15 @@
 .17roco.com
 .roco.qq.com
 # End of tencent-games
+# Included from ximalaya
+.ximalaya.com
+.xmcdn.com
+
+# Ads/tracking
+.adbehavior.ximalaya.com
+.adse.wsa.ximalaya.com
+.adse.ximalaya.com
+# End of ximalaya
 # Included from yuewen
 
 .hongxiu.com

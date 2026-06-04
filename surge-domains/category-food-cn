@@ -3,18 +3,6 @@
 .lppz.com
 .lppzimg.com
 # End of bestore
-# Included from ddmaicai
-# 叮咚买菜 上海壹佰米网络科技有限公司
-.100.me
-.ddcorp.net
-.ddfresh.net
-.ddimg.mobi
-.ddmaicai.net
-.ddmc.mobi
-.dduser.mobi
-.ddxq.mobi
-.imaicai.mobi
-# End of ddmaicai
 # Included from lkcoffee
 .lkcoffee.com
 .luckincoffeecdn.com
@@ -23,7 +11,13 @@
 
 # 麦当劳中国
 
+# 星巴克中国
+
+# 三只松鼠
 .3songshu.com
+
+# 百草味
+.vipbcw.com
 
 # 海底捞
 .haidilao.com
@@ -80,6 +74,39 @@
 
 # 陈克明食品
 .kemen.cn
+
+# 中粮集团
+.chinatea.com.cn
+.cofco.com
+.greatwallwine.com.cn
+
+# 北大荒
+.chinabdh.com
+.hacl.cn
+
+# 光明乳业
+.4008117117.com
+.brightdairy.com
+.brighticecream.com
+.chinacow.com
+
+# 伊利
+.yili.com
+
+# 蒙牛
+.mengniu.com.cn
+
+# 君乐宝
+.junlebaoruye.com
+
+# 益海嘉里金龙鱼
+.yihaikerry.net.cn
+
+# 鲁花
+.luhua.cn
+
+# 双汇集团
+.shuanghui.net
 
 # Tracking
 .logger.qmai.cn

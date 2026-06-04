@@ -1097,7 +1097,6 @@ wlog.kuaishou.com
 .tudou.com
 .ykimg.com
 .youku.com
-.zimgs.cn
 
 # Ads/tracking
 .ad.api.3g.youku.com
@@ -1355,18 +1354,6 @@ wlog.kuaishou.com
 .lppz.com
 .lppzimg.com
 # End of bestore
-# Included from ddmaicai
-# 叮咚买菜 上海壹佰米网络科技有限公司
-.100.me
-.ddcorp.net
-.ddfresh.net
-.ddimg.mobi
-.ddmaicai.net
-.ddmc.mobi
-.dduser.mobi
-.ddxq.mobi
-.imaicai.mobi
-# End of ddmaicai
 # Included from lkcoffee
 .lkcoffee.com
 .luckincoffeecdn.com
@@ -1375,7 +1362,13 @@ wlog.kuaishou.com
 
 # 麦当劳中国
 
+# 星巴克中国
+
+# 三只松鼠
 .3songshu.com
+
+# 百草味
+.vipbcw.com
 
 # 海底捞
 .haidilao.com
@@ -1432,6 +1425,39 @@ wlog.kuaishou.com
 
 # 陈克明食品
 .kemen.cn
+
+# 中粮集团
+.chinatea.com.cn
+.cofco.com
+.greatwallwine.com.cn
+
+# 北大荒
+.chinabdh.com
+.hacl.cn
+
+# 光明乳业
+.4008117117.com
+.brightdairy.com
+.brighticecream.com
+.chinacow.com
+
+# 伊利
+.yili.com
+
+# 蒙牛
+.mengniu.com.cn
+
+# 君乐宝
+.junlebaoruye.com
+
+# 益海嘉里金龙鱼
+.yihaikerry.net.cn
+
+# 鲁花
+.luhua.cn
+
+# 双汇集团
+.shuanghui.net
 
 # Tracking
 .logger.qmai.cn
@@ -1653,6 +1679,7 @@ wlog.kuaishou.com
 # Included from cctv
 .cctv.cn
 .cctv.com
+.cctv4g.com
 .cctvlib.cn
 .cctvlib.com.cn
 .cctvlibrary.cn
@@ -2982,6 +3009,10 @@ ctdsb.clouddiffuse.xyz
 .rainyun.com
 ## 深圳市狐蒂云网络科技有限公司 粤ICP备2025387186号-1
 .szhdy.com
+## 中企动力
+.300.cn
+.thefastfile.com
+.thefastimg.com
 
 # E-commerce
 # Included from 58tongcheng
@@ -3022,6 +3053,7 @@ ctdsb.clouddiffuse.xyz
 .roomeet.cn
 .xgo-img.com.cn
 .xinchong.com
+.xueche.com
 
 # 转转
 .zhuancorp.com
@@ -3030,6 +3062,10 @@ ctdsb.clouddiffuse.xyz
 .zhuanspirit.com
 .zhuanstatic.com
 .zhuanzhuan.com
+
+# 考试宝
+.kaoshibao.com
+.zaixiankaoshi.com
 # End of 58tongcheng
 # Included from dangdang
 .dangdang.com
@@ -3144,6 +3180,10 @@ ctdsb.clouddiffuse.xyz
 ## 多点新鲜
 .dmall.com
 .dmallcdn.com
+## 大润发
+.feiniu.com
+.fn-mart.com
+.rt-mart.com.cn
 ## 微店
 .geilicdn.com
 .weidian.com
@@ -3166,6 +3206,9 @@ ctdsb.clouddiffuse.xyz
 ## 孔夫子旧书网
 .kongfz.com
 .kfzimg.com
+## 银泰百货
+.intime.com.cn
+.linkheer.com
 ## 慢慢买
 .manmanbuy.com
 ## 美物清单
