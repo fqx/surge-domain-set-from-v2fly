@@ -477,6 +477,7 @@ p9-juejin.byteimg.com
 # End of herogame
 # Included from kurogames
 .kurogames.com
+.kurogames.net
 
 # Wuthering Waves
 .aki-game.com
@@ -941,34 +942,6 @@ rtlog5-applog.fqnovel.com
 log-sdk.gifshow.com
 wlog.kuaishou.com
 # End of kuaishou
-# Included from kugou
-.fanxingliveshow.com
-.kgimg.com
-.kglink.cn
-.ktv.com
-.kugoo.com
-.kugou.com
-.kugou.net
-.kugouaudio.com
-.kugouipv6.com
-.kugoukid.com
-.kugouliveshow.com
-.kugouringtone.com
-.kugousenior.com
-.kugoustore.com
-.kugouvoice.com
-.kugouyouth.com
-
-# Ads/tracking
-.ads.service.kugou.com
-.adserviceretry.kglink.cn
-.adserviceretry.kugou.com
-# End of kugou
-# Included from kuwo
-.koowo.cn
-.koowo.com
-.kuwo.cn
-# End of kuwo
 # Included from le
 .le.com
 .leautolink.com
@@ -1033,6 +1006,68 @@ wlog.kuaishou.com
 .61.com
 .taomee.com
 # End of taomee
+# Included from tencent-tme
+# 腾讯音乐娱乐集团/TME
+# Included from kugou
+.fanxingliveshow.com
+.kgimg.com
+.kglink.cn
+.ktv.com
+.kugoo.com
+.kugou.com
+.kugou.net
+.kugouaudio.com
+.kugouipv6.com
+.kugoukid.com
+.kugouliveshow.com
+.kugouringtone.com
+.kugousenior.com
+.kugoustore.com
+.kugouvoice.com
+.kugouyouth.com
+
+# Ads/tracking
+.ads.service.kugou.com
+.adserviceretry.kglink.cn
+.adserviceretry.kugou.com
+# End of kugou
+# Included from kuwo
+.koowo.cn
+.koowo.com
+.kuwo.cn
+# End of kuwo
+# Included from ximalaya
+.ximalaya.com
+.xmcdn.com
+
+# Ads/tracking
+.adbehavior.ximalaya.com
+.adse.wsa.ximalaya.com
+.adse.ximalaya.com
+# End of ximalaya
+
+.lrts.me
+.qqmusic.com
+.tencentmusic.com
+
+.kg.qq.com
+.music.qq.com
+.y.qq.com
+
+# 爱听卓乐
+.97ting.com
+.tingmall.com
+.ultimatemusic.cn
+
+# Ads/tracking
+.ad.tencentmusic.com
+.adstats.tencentmusic.com
+.monitor.music.qq.com
+.report.tencentmusic.com
+.stat.y.qq.com
+.tmead.y.qq.com
+.tmeadcomm.y.qq.com
+# End of tencent-tme
 # Included from u17
 .u17.com
 .u17i.com
@@ -1059,48 +1094,6 @@ wlog.kuaishou.com
 .xiaoyuzhoufm.com
 .podcast.xyz
 # End of xiaoyuzhou
-# Included from ximalaya
-.ximalaya.com
-.xmcdn.com
-
-# Ads/tracking
-.adbehavior.ximalaya.com
-.adse.wsa.ximalaya.com
-.adse.ximalaya.com
-# End of ximalaya
-# Included from youku
-# youku uses some alicdn services, so this must use with domain list "alibaba"
-.9xsecndns.cn
-.kumiao.com
-.mmstat.com
-.soku.com
-.tudou.com
-.ykimg.com
-.youku.com
-
-# Ads/tracking
-.ad.api.3g.youku.com
-.ad.api.mobile.youku.com
-.ad.mobile.youku.com
-.adashx.ut.youku.com
-.atm.youku.com
-.e.stat.ykimg.com
-.ems.youku.com
-.guanggaoad.youku.com
-.h-adashx.ut.youku.com
-.lstat.youku.com
-.mobilemsg.youku.com
-.msg.youku.com
-.p-log.ykimg.com
-.passport-log.youku.com
-.pl.youku.com
-.s-adashx.ut.youku.com
-.stat.youku.com
-.statis.api.3g.youku.com
-.v6-adashx.ut.youku.com
-.yk-ssp.ad.youku.com
-.ykad-data.youku.com
-# End of youku
 # Included from yy
 # Included from duowan
 .duowan.com
@@ -3910,6 +3903,8 @@ study.163.com
 .codebuddy.cn
 # 腾讯混元
 .hunyuan.tencent.com
+# 元宝
+.yuanbao.tencent.com
 # 腾讯元器
 .yuanqi.tencent.com
 
@@ -6388,3 +6383,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 
 # 广州市雅望互联网服务有限公司
 .gzyowin.com
+
+# 杭州烨彬科技有限公司 浙ICP备2024084590号
+.yebinnet.com

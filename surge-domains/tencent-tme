@@ -1,0 +1,60 @@
+# 腾讯音乐娱乐集团/TME
+# Included from kugou
+.fanxingliveshow.com
+.kgimg.com
+.kglink.cn
+.ktv.com
+.kugoo.com
+.kugou.com
+.kugou.net
+.kugouaudio.com
+.kugouipv6.com
+.kugoukid.com
+.kugouliveshow.com
+.kugouringtone.com
+.kugousenior.com
+.kugoustore.com
+.kugouvoice.com
+.kugouyouth.com
+
+# Ads/tracking
+.ads.service.kugou.com
+.adserviceretry.kglink.cn
+.adserviceretry.kugou.com
+# End of kugou
+# Included from kuwo
+.koowo.cn
+.koowo.com
+.kuwo.cn
+# End of kuwo
+# Included from ximalaya
+.ximalaya.com
+.xmcdn.com
+
+# Ads/tracking
+.adbehavior.ximalaya.com
+.adse.wsa.ximalaya.com
+.adse.ximalaya.com
+# End of ximalaya
+
+.lrts.me
+.qqmusic.com
+.tencentmusic.com
+
+.kg.qq.com
+.music.qq.com
+.y.qq.com
+
+# 爱听卓乐
+.97ting.com
+.tingmall.com
+.ultimatemusic.cn
+
+# Ads/tracking
+.ad.tencentmusic.com
+.adstats.tencentmusic.com
+.monitor.music.qq.com
+.report.tencentmusic.com
+.stat.y.qq.com
+.tmead.y.qq.com
+.tmeadcomm.y.qq.com

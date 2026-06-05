@@ -96,6 +96,9 @@
 .applovin.com
 .applvn.com
 
+# AppsFlyer
+.appsflyersdk.com
+
 # Caixin
 # regexp:^pinggai\d\.caixin\.com$
 pinggai0.caixin.com
@@ -150,6 +153,9 @@ pinggai9.caixin.com
 
 # UCloud
 .das-rpt-log.ucloud.cn
+
+# Vungle
+logs.ads.vungle.com
 
 # 数字精准广告
 .telecome.cn
