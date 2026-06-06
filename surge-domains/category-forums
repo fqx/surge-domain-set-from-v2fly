@@ -96,6 +96,8 @@
 .qr.ae
 .quora.com
 .quoracdn.net
+
+www.quora.com.cdn.cloudflare.net
 # End of quora
 # Included from reddit
 .redd.it
