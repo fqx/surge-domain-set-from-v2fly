@@ -161,6 +161,7 @@ antigravity.googleapis.com
 .chatgpt.com
 .crixet.com
 .oaistatic.com
+.oaistatsig.com
 .oaiusercontent.com
 .openai.com
 .sora.com
@@ -253,6 +254,8 @@ pplx-res.cloudinary.com
 .openrouter.ai
 .openspec.dev
 .plannotator.ai
+.qoder.com
+.sider.ai
 .spicywriter.com
 .tapnow.ai
 # End of category-ai-!cn

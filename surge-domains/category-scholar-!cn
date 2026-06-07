@@ -1,5 +1,109 @@
 # This list contains scholarly domains that don't have access point in China Mainland.
 
+# Included from category-scholar-hk
+# This list contains scholarly domains that in HK
+
+# Included from cityu-hk
+# City University of Hong Kong (CityU)
+.cityu.hk
+.cityu.edu.hk
+
+# https://www.whois.com/whois/cityu.hk
+# 城大.香港
+.xn--uis44a.xn--j6w193g
+
+# https://www.whois.com/whois/cityu.edu.hk
+# 城市大學-香港.教育.香港 
+.xn----fr0b94b15d2ue8q7a1o3e.xn--wcvs22d.xn--j6w193g
+# End of cityu-hk
+# Included from cuhk
+# The Chinese University of Hong Kong (CUHK)
+.cuhk.hk
+.cuhk.edu.hk
+# 中大.香港 / 中文大學.香港
+.xn--mxtq18a.hk
+.xn--mxtq18a.xn--j6w193g
+.xn--fiqs8s1byzqyvl.hk
+.xn--fiqs8s1byzqyvl.xn--j6w193g
+# 香港中文大學.香港
+.xn--pssu7cv61ahwcb1p2yk.hk
+.xn--pssu7cv61ahwcb1p2yk.xn--j6w193g
+# End of cuhk
+# Included from eduhk
+# The Education University of Hong Kong (EdUHK)
+.eduhk.hk
+.eduhk.edu.hk
+# 教大.香港 / 教育大學.香港
+.xn--wcv22d.hk
+.xn--wcv22d.xn--j6w193g
+.xn--wcvs22d1m.hk
+.xn--wcvs22d1m.xn--j6w193g
+# 香港教育大學.香港
+.xn--pssu7cv61af1tcs59bnvd.hk
+.xn--pssu7cv61af1tcs59bnvd.xn--j6w193g
+# End of eduhk
+# Included from hkbu
+# Hong Kong Baptist University (HKBU)
+.hkbu.hk
+.hkbu.edu.hk
+# 浸大.香港 / 浸會大學.香港
+.xn--gdt08a.hk
+.xn--gdt08a.xn--j6w193g
+.xn--fiqs8s1bxp3anr7a.hk
+.xn--fiqs8s1bxp3anr7a.xn--j6w193g
+# 香港浸會大學.香港
+.xn--pssu7cv61ahw8aq79bztd.hk
+.xn--pssu7cv61ahw8aq79bztd.xn--j6w193g
+# End of hkbu
+# Included from hku
+# The University of Hong Kong (HKU) 
+.hku.hk
+.hku.edu.hk
+
+# https://www.whois.com/whois/hku.hk
+# 香港大學.HK / .香港
+.xn--pssu7cv61af44b.hk
+.xn--pssu7cv61af44b.xn--j6w193g
+# End of hku
+# Included from hkust
+# The Hong Kong University of Science and Technology
+.hkust.hk
+.hkust.edu.hk
+
+# https://www.whois.com/whois/hkust.hk
+# 香港科技大學.HK /.香港
+.xn--pssu7ci2j23mp9ny48b.hk
+.xn--pssu7ci2j23mp9ny48b.xn--j6w193g
+# End of hkust
+# Included from polyu
+# The Hong Kong Polytechnic University
+.polyu.hk
+.polyu.edu.hk
+# xxxx-polyu.edu.hk (such as cpce-polyu.edu.hk)
+.cpce-polyu.edu.hk
+.speed-polyu.edu.hk
+.hkcc-polyu.edu.hk
+# keyword:-polyu.hk
+# keyword:-polyu.edu.hk
+
+# https://www.whois.com/whois/polyu.edu.hk
+# 理工大學.教育.香港(Bundled but not reachable)
+# xn--pssu7cgzco90b.xn--wcvs22d.xn--j6w193g
+
+# https://www.whois.com/whois/polyu.hk
+# 香港-理工大學.香港(Bundled but not reachable)
+# xn----5b1b34e6wdxz4al6hzt2e.xn--j6w193g
+# End of polyu
+
+# https://www.hkdnr.hk/en/register/eligibility-required-documents/
+# https://www.jucc.edu.hk/shared-services-platforms/
+# https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/institutions/index.html
+
+.edu.hk
+
+# 教育.香港
+.xn--wcvs22d.xn--j6w193g
+# End of category-scholar-hk
 # Included from category-scholar-ir
 # Iranian scholar websites
 

@@ -725,6 +725,7 @@ amp.akamaized.net
 .atom.io
 .badgen.net
 .bitvise.com
+.bugsnag.com
 .centos.org
 .chocolatey.org
 .clojure.org
@@ -740,12 +741,14 @@ amp.akamaized.net
 .elrepo.org
 .erlang.org
 .ffmpeg.org
+.filezilla-project.org
 .freebsd.org
 .gentoo.org
 .getcomposer.org
 .getpaint.net
 .getzola.org
 .git-scm.com
+.gitgud.io
 .gnome.org
 .gnu.org
 .godbolt.org
@@ -769,6 +772,7 @@ amp.akamaized.net
 .mobatek.net
 .mpv.io
 .mysql.com
+.msys2.org
 .neovim.io
 .netfilter.org
 .newpipe.net

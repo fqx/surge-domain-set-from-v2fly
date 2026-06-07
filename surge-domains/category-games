@@ -749,6 +749,11 @@ gog-cdn.akamaized.net
 # ads/tracking
 .log-upload-os.hoyoverse.com
 # End of hoyoverse
+# Included from humblebundle
+.humblebundle.com
+
+hb.imgix.net
+# End of humblebundle
 # Dead include:illusion
 # Included from itchio
 .itch.io
@@ -1422,7 +1427,6 @@ prodforza.blob.core.windows.net
 .fanatical.com
 .fitgirl-repacks.site
 .game-repack.site
-.humblebundle.com
 .joinsquad.com
 .loverslab.com
 .minecraft.wiki
