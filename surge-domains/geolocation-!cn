@@ -275,6 +275,7 @@ pplx-res.cloudinary.com
 .taboola.com
 # End of taboola
 
+.fullstory.com
 .scorecardresearch.com
 
 # Anti-censorship & Anti-GFW & Privacy protection & VPN tools
@@ -3973,6 +3974,11 @@ deribit.cdn.prismic.io
 .kucoin.com
 .kucoin.plus
 # End of kucoin
+# Included from lighter
+.lighter.exchange
+.lighter.xyz
+.zklighter.elliot.ai
+# End of lighter
 # Included from localbitcoins
 .localbitcoins.com
 .localbitcoinschain.com
@@ -4053,6 +4059,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 .coinalyze.net
 .coinbase.com
 .coindesk.com
+.coingate.com
 .coingecko.com
 .coinglass.com
 .coinmap.org
@@ -4070,6 +4077,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 .gmgn.ai
 .guardarian.com
 .hashflow.com
+.hyperliquid.xyz
 .infura.io
 .invity.io
 .maple.finance
@@ -4977,6 +4985,10 @@ ebay-25-assets.s3-us-west-1.amazonaws.com
 .ebuyer.com
 #ebyrcdn.net
 # End of ebuyer
+# Included from eneba
+.eneba.com
+.eneba.games
+# End of eneba
 # Included from farfetch
 .farfetch-apps.com
 .farfetch-contents.com
@@ -5382,6 +5394,8 @@ ecapi-pchome.cdn.hinet.net
 pchomeonline.com.tw
 # End of pchome
 # Included from rakuten
+# https://global.rakuten.com/corp/about/
+.buyservices.com
 .r10s.com
 .r10s.jp
 .rakuten-static.com
@@ -5390,9 +5404,39 @@ pchomeonline.com.tw
 .rakuten.com
 .rakuten.com.tw
 .rakuten.ne.jp
+.rakuten.tv
 .rakuten.tw
+.rakutenadvertising.com
+.rakutengiftcards.ca
+
+# Ebates/Rakuten Rewards
+.bfads.net
+.ebates.ca
+.ebates.kr
+.ebates.sg
+.ebatescanada.com
+.ecbsn.com
+.fatwallet.com
 .rclon.com
 .rebates.jp
+.rrcbsn.com
+
+# https://en.wikipedia.org/wiki/Kobo_Inc.
+.kobo.com
+
+# Rakuten Viber
+# Included from viber
+.viber.com
+.viber.co
+.viber.me
+
+.s-bid.rmp.rakuten.com
+.vbcdn.com
+.vbcdn.net
+# End of viber
+
+# Rakuten Viki
+.viki.com
 # End of rakuten
 # Included from ruten
 .rimg.com.tw
@@ -5471,8 +5515,11 @@ pchomeonline.com.tw
 .wish.com
 # End of wish
 
+.allkeyshop.com
 .axbdoll.com.tw
+.gg.deals
 .i69.com.tw
+.kinguin.net
 .pornhubapparel.com
 .readmoo.com
 .redino.tw
@@ -6669,10 +6716,6 @@ eaassets-a.akamaihd.net
 .embark.games
 .reachthefinals.com
 # End of embark
-# Included from eneba
-.eneba.com
-.eneba.games
-# End of eneba
 # Included from epicgames
 .3lateral.com
 .artstation.com
@@ -6729,6 +6772,12 @@ eaassets-a.akamaihd.net
 .warthunder.com
 .wtmobile.com
 # End of gaijin
+# Included from gamesplanet
+# Gamesplanet/GameTap (Metaboli)
+.gamesplanet.com
+.gametap.com
+.gpstatic.com
+# End of gamesplanet
 # Included from garena
 avatargarenanow-a.akamaihd.net
 cdngarenanow-a.akamaihd.net
@@ -6834,7 +6883,9 @@ hb.imgix.net
 .nexon.co.jp
 .nexon.com
 .nexon.io
+.nexon.net
 .nexoncdn.co.kr
+.nexongames.co.kr
 # End of nexon
 # Included from nikke
 .nikke-de.com
@@ -7180,7 +7231,11 @@ robloxcorp.s.llnwi.net
 .steamstatic.com
 .steamusercontent.com
 .underlords.com
+.valve.net
 .valvesoftware.com
+
+# Dota 2
+.dota2.com
 
 # edgecast
 .edge.steam-dns.top.comcast.net
@@ -7466,6 +7521,7 @@ prodforza.blob.core.windows.net
 .dodi-repacks.site
 .fabricmc.net
 .fanatical.com
+.ficgs.com
 .fitgirl-repacks.site
 .game-repack.site
 .joinsquad.com
@@ -9090,6 +9146,8 @@ bbs.boingboing.net
 .eyny.com
 .gab.com
 .hydrogenaud.io
+.livejournal.com
+.livejournal.net
 .mewe.com
 .parler.com
 .pincong.rocks
@@ -11037,6 +11095,15 @@ himalaya-exchange.zendesk.com
 .newsmax.in
 .newsmaxtv.com
 # End of newsmax
+# Included from nhk
+# https://en.wikipedia.org/wiki/NHK#External_links
+# https://nic.nhk/
+
+.nhk
+.nhk.jp
+.nhk.or.jp
+.nhkworld.jp
+# End of nhk
 # Included from nikkan-gendai
 .gendai.net
 .nikkan-gendai.com
@@ -19811,17 +19878,6 @@ public-us-pingsx.api.clonoth.com
 .wixsite.com
 .wixstatic.com
 # End of wix
-# Included from wordpress
-.videopress.com
-.w.org
-.wordpress.com
-.wordpress.net
-.wordpress.org
-.wordpress.tv
-.wp-themes.com
-.wp.com
-.wpvip.com
-# End of wordpress
 # Included from zendesk
 .outbound.io
 .zdassets.com
@@ -19899,10 +19955,6 @@ public-us-pingsx.api.clonoth.com
 # End of linguee
 .collinsdictionary.com
 .ldoceonline.com
-## WordPress plugins
-.hivepress.io
-.motopress.com
-.wpmailsmtp.com
 
 # Software development
 # Included from category-dev
@@ -20067,6 +20119,11 @@ p-events-delivery.akamaized.net
 .debian.org
 .dotdeb.org
 # End of debian
+# Included from discourse
+.discourse-cdn.com
+.discourse.group
+.discourse.org
+# End of discourse
 # Included from docker
 .compose-spec.io
 .docker.com
@@ -20218,6 +20275,7 @@ copilot-telemetry.githubusercontent.com
 .dependabot.com
 .gh.io
 .ghcr.io
+.ghe.com
 .git.io
 .github.ai
 .github.blog
@@ -20625,6 +20683,18 @@ amp.akamaized.net
 .v8.dev
 .v8project.org
 # End of v8
+# Included from wordpress
+.videopress.com
+.w.org
+.wordcamp.org
+.wordpress.com
+.wordpress.net
+.wordpress.org
+.wordpress.tv
+.wp-themes.com
+.wp.com
+.wpvip.com
+# End of wordpress
 
 .adventofcode.com
 .alpinelinux.org
@@ -20733,6 +20803,12 @@ amp.akamaized.net
 .yarnpkg.com
 .ziglang.org
 .zsh.org
+
+# WordPress plugins
+.elegantthemes.com
+.hivepress.io
+.motopress.com
+.wpmailsmtp.com
 # End of category-dev
 
 # Tech companies
@@ -28309,6 +28385,7 @@ emoi-cncdn.bing.com
 .dependabot.com
 .gh.io
 .ghcr.io
+.ghe.com
 .git.io
 .github.ai
 .github.blog
@@ -30100,6 +30177,20 @@ cdn.js7k.com
 .wisekey.com
 .wisekey.com.hk
 # End of wisekey
+# Included from xtom
+.v.ps
+.vps.hosting
+.xtom.au
+.xtom.com
+.xtom.de
+.xtom.ee
+.xtom.hk
+.xtom.jp
+.xtom.nl
+.xtom.sg
+.xtom.social
+.xtom.us
+# End of xtom
 # Included from yahoo
 
 # All .yahoo domains
@@ -31437,5 +31528,6 @@ nurofensk-prod-env.eu-west-1.elasticbeanstalk.com
 .xingrz.me
 # End of xingrz
 
+.avermedia.com
 .sinyalee.com
 .zhangzhehan.net

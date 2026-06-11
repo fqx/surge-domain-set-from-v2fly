@@ -1224,6 +1224,15 @@ himalaya-exchange.zendesk.com
 .newsmax.in
 .newsmaxtv.com
 # End of newsmax
+# Included from nhk
+# https://en.wikipedia.org/wiki/NHK#External_links
+# https://nic.nhk/
+
+.nhk
+.nhk.jp
+.nhk.or.jp
+.nhkworld.jp
+# End of nhk
 # Included from nikkan-gendai
 .gendai.net
 .nikkan-gendai.com

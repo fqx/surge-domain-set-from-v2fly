@@ -159,6 +159,11 @@ p-events-delivery.akamaized.net
 .debian.org
 .dotdeb.org
 # End of debian
+# Included from discourse
+.discourse-cdn.com
+.discourse.group
+.discourse.org
+# End of discourse
 # Included from docker
 .compose-spec.io
 .docker.com
@@ -310,6 +315,7 @@ copilot-telemetry.githubusercontent.com
 .dependabot.com
 .gh.io
 .ghcr.io
+.ghe.com
 .git.io
 .github.ai
 .github.blog
@@ -717,6 +723,18 @@ amp.akamaized.net
 .v8.dev
 .v8project.org
 # End of v8
+# Included from wordpress
+.videopress.com
+.w.org
+.wordcamp.org
+.wordpress.com
+.wordpress.net
+.wordpress.org
+.wordpress.tv
+.wp-themes.com
+.wp.com
+.wpvip.com
+# End of wordpress
 
 .adventofcode.com
 .alpinelinux.org
@@ -825,3 +843,9 @@ amp.akamaized.net
 .yarnpkg.com
 .ziglang.org
 .zsh.org
+
+# WordPress plugins
+.elegantthemes.com
+.hivepress.io
+.motopress.com
+.wpmailsmtp.com

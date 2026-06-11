@@ -877,6 +877,10 @@ ebay-25-assets.s3-us-west-1.amazonaws.com
 .ebuyer.com
 #ebyrcdn.net
 # End of ebuyer
+# Included from eneba
+.eneba.com
+.eneba.games
+# End of eneba
 # Included from farfetch
 .farfetch-apps.com
 .farfetch-contents.com
@@ -1282,6 +1286,8 @@ ecapi-pchome.cdn.hinet.net
 pchomeonline.com.tw
 # End of pchome
 # Included from rakuten
+# https://global.rakuten.com/corp/about/
+.buyservices.com
 .r10s.com
 .r10s.jp
 .rakuten-static.com
@@ -1290,9 +1296,39 @@ pchomeonline.com.tw
 .rakuten.com
 .rakuten.com.tw
 .rakuten.ne.jp
+.rakuten.tv
 .rakuten.tw
+.rakutenadvertising.com
+.rakutengiftcards.ca
+
+# Ebates/Rakuten Rewards
+.bfads.net
+.ebates.ca
+.ebates.kr
+.ebates.sg
+.ebatescanada.com
+.ecbsn.com
+.fatwallet.com
 .rclon.com
 .rebates.jp
+.rrcbsn.com
+
+# https://en.wikipedia.org/wiki/Kobo_Inc.
+.kobo.com
+
+# Rakuten Viber
+# Included from viber
+.viber.com
+.viber.co
+.viber.me
+
+.s-bid.rmp.rakuten.com
+.vbcdn.com
+.vbcdn.net
+# End of viber
+
+# Rakuten Viki
+.viki.com
 # End of rakuten
 # Included from ruten
 .rimg.com.tw
@@ -1371,8 +1407,11 @@ pchomeonline.com.tw
 .wish.com
 # End of wish
 
+.allkeyshop.com
 .axbdoll.com.tw
+.gg.deals
 .i69.com.tw
+.kinguin.net
 .pornhubapparel.com
 .readmoo.com
 .redino.tw

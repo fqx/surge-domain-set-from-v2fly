@@ -7588,6 +7588,7 @@ copilot-telemetry.githubusercontent.com
 .dependabot.com
 .gh.io
 .ghcr.io
+.ghe.com
 .git.io
 .github.ai
 .github.blog
@@ -9476,6 +9477,20 @@ cdn.js7k.com
 .wisekey.com
 .wisekey.com.hk
 # End of wisekey
+# Included from xtom
+.v.ps
+.vps.hosting
+.xtom.au
+.xtom.com
+.xtom.de
+.xtom.ee
+.xtom.hk
+.xtom.jp
+.xtom.nl
+.xtom.sg
+.xtom.social
+.xtom.us
+# End of xtom
 # Included from yahoo
 
 # All .yahoo domains

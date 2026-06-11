@@ -628,10 +628,6 @@ eaassets-a.akamaihd.net
 .embark.games
 .reachthefinals.com
 # End of embark
-# Included from eneba
-.eneba.com
-.eneba.games
-# End of eneba
 # Included from epicgames
 .3lateral.com
 .artstation.com
@@ -688,6 +684,12 @@ eaassets-a.akamaihd.net
 .warthunder.com
 .wtmobile.com
 # End of gaijin
+# Included from gamesplanet
+# Gamesplanet/GameTap (Metaboli)
+.gamesplanet.com
+.gametap.com
+.gpstatic.com
+# End of gamesplanet
 # Included from garena
 avatargarenanow-a.akamaihd.net
 cdngarenanow-a.akamaihd.net
@@ -793,7 +795,9 @@ hb.imgix.net
 .nexon.co.jp
 .nexon.com
 .nexon.io
+.nexon.net
 .nexoncdn.co.kr
+.nexongames.co.kr
 # End of nexon
 # Included from nikke
 .nikke-de.com
@@ -1139,7 +1143,11 @@ robloxcorp.s.llnwi.net
 .steamstatic.com
 .steamusercontent.com
 .underlords.com
+.valve.net
 .valvesoftware.com
+
+# Dota 2
+.dota2.com
 
 # edgecast
 .edge.steam-dns.top.comcast.net
@@ -1425,6 +1433,7 @@ prodforza.blob.core.windows.net
 .dodi-repacks.site
 .fabricmc.net
 .fanatical.com
+.ficgs.com
 .fitgirl-repacks.site
 .game-repack.site
 .joinsquad.com

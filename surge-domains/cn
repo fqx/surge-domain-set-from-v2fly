@@ -294,6 +294,9 @@ p9-juejin.byteimg.com
 # 艾睿电子
 .arrow.cn
 
+# 圆刚科技
+.avermedia.cn
+
 # 京东方
 .boe.com
 .boe.com.cn
@@ -1750,6 +1753,7 @@ wlog.kuaishou.com
 # End of jiemian
 # Included from landian
 # 蓝点网
+.landian.news
 
 # 浙ICP备14021835号-1
 .lancdn.com
@@ -1905,11 +1909,18 @@ wlog.kuaishou.com
 .21jingji.com
 # 站长网
 .admin5.com
+# 安徽财经网
+.ahcjw.com
+.ahcaijing.com
+# 安徽网
+.ahwang.cn
 # 安徽新闻
 .anhuinews.com
 .anhuiyun.com
 # 锋潮科技
 .anzhuo.cn
+# 半岛网
+.bandao.cn
 # 北京商报
 .bbtnews.com.cn
 # 鞭牛士
@@ -1967,6 +1978,8 @@ ctdsb.clouddiffuse.xyz
 .cztvcdn.com
 .cztvcloud.com
 .zjstv.com
+# 大河网
+.dahe.cn
 # 大河报
 .daheapp.com
 .dahebao.cn
@@ -2002,6 +2015,15 @@ ctdsb.clouddiffuse.xyz
 .guancha.cn
 # 硅谷网
 .guigu.org
+# 广西网络广播电视台
+.gxtv.cn
+.gxxmt.com
+.liangtv.cn
+# 广州市广播电视台
+.gztv.com
+# i黑马网
+.heimadata.com
+.iheima.com
 # 同花顺
 .0033.cn
 .10jqka.com.cn
@@ -2019,14 +2041,21 @@ ctdsb.clouddiffuse.xyz
 # 虎嗅
 .huxiu.com
 .huxiucdn.com
+# 海峡网
+.hxnews.com
 # 电脑报
 .icpcw.com
 # 长沙晚报
 .icswb.com
 # 中国IDC圈
 .idcquan.com
+# 爱搞机
+.igao7.com
 # 砍柴网
 .ikanchai.com
+# 南方周末
+.infzm.com
+.nfpeople.com
 # 艾瑞咨询
 .iresearch.cn
 # IT168
@@ -2071,6 +2100,8 @@ ctdsb.clouddiffuse.xyz
 .leiphone.com
 # 今日观察网
 .miercn.com
+# 闽南网
+.mnw.cn
 # 快科技
 .mydrivers.com
 # 南岳新闻网
@@ -2084,8 +2115,12 @@ ctdsb.clouddiffuse.xyz
 .newsimg.cn
 .xinhuanet.com
 .xinhuaxmt.com
+# 奥一新闻
+.oeeee.com
 # 维科网
 .ofweek.com
+# 我苏网
+.ourjiangsu.com
 # PChome电脑之家
 .pchome.net
 .pchpic.net
@@ -2114,6 +2149,10 @@ ctdsb.clouddiffuse.xyz
 .qianzhan.com
 # 青岛之窗
 .qingdaochina.org
+# 四川网络广播电视台
+.scgchc.com
+.sctv-tf.com
+.sctv.com
 # 四川手机报
 .scsjb.cn
 # 安全内参
@@ -2138,6 +2177,8 @@ ctdsb.clouddiffuse.xyz
 .stockstar.com
 # 证券时报网
 .stcn.com
+# 深港在线
+.szhk.com
 # 深圳报业集团
 .sznews.com
 .szpgm.com
@@ -2166,10 +2207,14 @@ ctdsb.clouddiffuse.xyz
 .ycwb.com
 # 第一财经
 .yicai.com
+# 云南网
+.yunnan.cn
 # 扬子晚报
 .yzwb.net
 # ZEALER
 .zealer.com
+# 中国交通新闻网
+.zgjtb.com
 # 知产力
 .zhichanli.com
 # 至顶网
@@ -2385,6 +2430,8 @@ ctdsb.clouddiffuse.xyz
 # Included from unionpay
 .95516.com
 .95516.net
+.chinapay.com
+.chinaums.com
 .chinaunionpay.com
 .chinaunionpay.com.cn
 .chinaunionpay.net
@@ -2668,6 +2715,8 @@ ctdsb.clouddiffuse.xyz
 .iboxpay.com
 ## 汇聚支付
 .joinpay.com
+## 客如云
+.keruyun.com
 ## 乐惠-微信支付
 .lehuipay.com
 ## 上海陆金所
@@ -2772,6 +2821,7 @@ ctdsb.clouddiffuse.xyz
 .lxdns.org
 .mwcdns.com
 .mwcloudcdn.com
+.npsv6.com
 .ourdvsss.com
 .qtlcdn.cn
 .qtlcdn.com
@@ -3207,12 +3257,17 @@ ctdsb.clouddiffuse.xyz
 .weidian.com
 ## 闲管家（深圳市收收科技）
 .goofish.pro
+## 华律网
+.66law.cn
+.hualv.com
 ## 华住集团
 .huazhu.com
 .huazhucorp.com
 .hworld.com
 ## 货摊网
 .huotan.net
+## 齐家网
+.jia.com
 ## 锦江国际
 .jinjiang.com
 .jinjianghotels.com.cn
@@ -3224,6 +3279,8 @@ ctdsb.clouddiffuse.xyz
 ## 孔夫子旧书网
 .kongfz.com
 .kfzimg.com
+## 酷家乐
+.kujiale.com
 ## 银泰百货
 .intime.com.cn
 .linkheer.com
@@ -3242,6 +3299,10 @@ ctdsb.clouddiffuse.xyz
 .qyerstatic.com
 ## Ru-seer 俄罗斯卖家助手
 .ruseer.com
+## 土巴兔
+.to8to.com
+## 设计知外
+.ucppt.com
 ## 瞎买
 .xiamai.net
 ## 亚朵
@@ -3798,12 +3859,15 @@ study.163.com
 .huijistatic.com
 .huijiwiki.com
 
+# MC百科
+.mcmod.cn
+
 # moegirl
 .moegirl.org
 .moegirl.org.cn
 
-# MC百科
-.mcmod.cn
+# 智汇三农
+.pwsannong.com
 
 # 求闻百科
 .qiuwenbaike.cn
@@ -5374,6 +5438,14 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 # End of zte
 
 
+## 曹操出行
+.caocao.com.cn
+.caocaokeji.cn
+## 视觉中国
+.cfp.cn
+.ishijue.com
+.vcg.com
+.vcgapi.com
 ## 飞牛
 .fnnas.com
 .fnnas.net
@@ -5397,6 +5469,9 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .shellpub.com
 .threatbook.cn
 .threatbook.com
+## 新片场
+.xinpianchang.com
+.xpccdn.com
 
 # Telecommunication
 # Included from chinabroadnet
@@ -5691,7 +5766,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .chinafph.com
 .chinakaoyan.com
 .chinalawedu.com
-.chinapay.com
 .chinapp.net
 .chinapubmed.net
 .chinasspp.com
@@ -5890,13 +5964,10 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .hxfy888.com
 .hxsd.com
 .iask.com
-.ibaotu.com
 .ibuychem.com
 .icaidao.com
 .ichangtou.com
 .idongdong.com
-.igao7.com
-.iheima.com
 .ijiandao.com
 .ikafan.com
 .im2maker.com
@@ -5914,7 +5985,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .iyunmu.com
 .jb51.com
 .jb51.net
-.jia.com
 .jiameng.com
 .jianbihua.com
 .jianzhi8.com
@@ -6060,7 +6130,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .nx-sc.com
 .nzbdw.com
 .oadz.com
-.oeeee.com
 .officese.com
 .oicq88.com
 .okooo.com
@@ -6173,7 +6242,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .supermapcloud.com
 .sys321.com
 .szfw.org
-.szhk.com
 .szzfgjj.com
 .t1y5.com
 .taihe.com
@@ -6387,9 +6455,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 # 京ICP备12006877号-1
 .runsheng.com
 .vzuu.com
-
-# 酷家乐 杭州群核信息技术有限公司 浙ICP备12022366号-6
-.kujiale.com
 
 # 建始网 鄂ICP备05004864号-1
 .jsw118.com
