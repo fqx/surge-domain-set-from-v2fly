@@ -240,11 +240,13 @@ developers.facebook.com
 .getfedora.org
 # End of fedora
 # Included from firebase
+.crashlytics.com
 .firebase.com
 .firebase.io
 .firebaseapp.com
 .firebaseio.com
 
+crashlyticsreports-pa.googleapis.com
 firebase-settings.crashlytics.com
 firebase.google.com
 firebase.googleapis.com
@@ -258,6 +260,7 @@ firebaselogging-pa.googleapis.com
 firebaselogging.googleapis.com
 firebaseperusertopics-pa.googleapis.com
 firebaseremoteconfig.googleapis.com
+update.crashlytics.com
 # End of firebase
 # Included from flatpak
 .flathub.org
@@ -716,7 +719,15 @@ amp.akamaized.net
 .unity3d.com
 
 # Ads/tracking
+# https://github.com/v2fly/domain-list-community/pull/3716
+.analytics.cloud.unity3d.com
+.api2.amplitude.com
+.config.uca.cloud.unity3d.com
+.cdp.cloud.unity3d.com
+.prd-lender.cdp.internal.unity3d.com
 .iads.unity3d.com
+.perf.cloud.unity3d.com
+.perf-events.cloud.unity3d.com
 .unityads.unity3d.com
 # End of unity
 # Included from v8

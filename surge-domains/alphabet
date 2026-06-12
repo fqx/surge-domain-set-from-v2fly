@@ -105,11 +105,13 @@ android.googlesource.com
 .fastlane.tools
 # End of fastlane
 # Included from firebase
+.crashlytics.com
 .firebase.com
 .firebase.io
 .firebaseapp.com
 .firebaseio.com
 
+crashlyticsreports-pa.googleapis.com
 firebase-settings.crashlytics.com
 firebase.google.com
 firebase.googleapis.com
@@ -123,6 +125,7 @@ firebaselogging-pa.googleapis.com
 firebaselogging.googleapis.com
 firebaseperusertopics-pa.googleapis.com
 firebaseremoteconfig.googleapis.com
+update.crashlytics.com
 # End of firebase
 # Included from flutter
 .flutter.dev
@@ -1124,15 +1127,18 @@ analytics.google.com
 
 # Domains and services below are available in China mainland
 # Use in config file like this: "geosite:google@cn"
+.265.com
 .gvt1-cn.com
 .gvt2-cn.com
+recaptcha-cn.net
+recaptcha.net
+www.recaptcha-cn.net
 www.recaptcha.net
 
 # The rules below are from https://github.com/felixonmars/dnsmasq-china-list/blob/master/google.china.conf
 # Revision: 94f89bb5065cdff0777ef3a116ecfecb14ca1f56
 # Duplicates removed
 # Use in config file like this: "geosite:google@cn"
-265.com
 2mdn-cn.net
 2mdn.net
 admob-cn.com
@@ -1157,7 +1163,6 @@ clickserver.googleads.com
 clientservices.googleapis.com
 cn.widevine.com
 connectivitycheck.gstatic.com
-crashlyticsreports-pa.googleapis.com
 csi.gstatic.com
 dartsearch-cn.net
 dg-meta.video.google.com
@@ -1206,8 +1211,6 @@ prod-databe.floonet.goog
 prod.databe.floonet.goog
 qiao-cn.com
 qpx.googleflights.net
-recaptcha-cn.net
-recaptcha.net
 redirector.bdn.dev
 redirector.c.chat.google.com
 redirector.c.mail.google.com
@@ -1228,7 +1231,6 @@ staging-databe.floonet.goog
 staging.databe.floonet.goog
 tac.googleapis.com
 tools.google.com
-update.crashlytics.com
 update.googleapis.com
 wear.googleapis.com
 www-google-analytics.l.google.com

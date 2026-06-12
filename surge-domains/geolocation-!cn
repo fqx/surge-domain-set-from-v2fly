@@ -3992,6 +3992,7 @@ deribit.cdn.prismic.io
 .okx-dns.com
 .okx-dns1.com
 .okx-dns2.com
+.okx.ac
 .okx.cab
 .okx.com
 .okx.com.cdn.cloudflare.net
@@ -20200,11 +20201,13 @@ developers.facebook.com
 .getfedora.org
 # End of fedora
 # Included from firebase
+.crashlytics.com
 .firebase.com
 .firebase.io
 .firebaseapp.com
 .firebaseio.com
 
+crashlyticsreports-pa.googleapis.com
 firebase-settings.crashlytics.com
 firebase.google.com
 firebase.googleapis.com
@@ -20218,6 +20221,7 @@ firebaselogging-pa.googleapis.com
 firebaselogging.googleapis.com
 firebaseperusertopics-pa.googleapis.com
 firebaseremoteconfig.googleapis.com
+update.crashlytics.com
 # End of firebase
 # Included from flatpak
 .flathub.org
@@ -20676,7 +20680,15 @@ amp.akamaized.net
 .unity3d.com
 
 # Ads/tracking
+# https://github.com/v2fly/domain-list-community/pull/3716
+.analytics.cloud.unity3d.com
+.api2.amplitude.com
+.config.uca.cloud.unity3d.com
+.cdp.cloud.unity3d.com
+.prd-lender.cdp.internal.unity3d.com
 .iads.unity3d.com
+.perf.cloud.unity3d.com
+.perf-events.cloud.unity3d.com
 .unityads.unity3d.com
 # End of unity
 # Included from v8
@@ -21255,11 +21267,13 @@ android.googlesource.com
 .fastlane.tools
 # End of fastlane
 # Included from firebase
+.crashlytics.com
 .firebase.com
 .firebase.io
 .firebaseapp.com
 .firebaseio.com
 
+crashlyticsreports-pa.googleapis.com
 firebase-settings.crashlytics.com
 firebase.google.com
 firebase.googleapis.com
@@ -21273,6 +21287,7 @@ firebaselogging-pa.googleapis.com
 firebaselogging.googleapis.com
 firebaseperusertopics-pa.googleapis.com
 firebaseremoteconfig.googleapis.com
+update.crashlytics.com
 # End of firebase
 # Included from flutter
 .flutter.dev
@@ -22274,15 +22289,18 @@ analytics.google.com
 
 # Domains and services below are available in China mainland
 # Use in config file like this: "geosite:google@cn"
+.265.com
 .gvt1-cn.com
 .gvt2-cn.com
+recaptcha-cn.net
+recaptcha.net
+www.recaptcha-cn.net
 www.recaptcha.net
 
 # The rules below are from https://github.com/felixonmars/dnsmasq-china-list/blob/master/google.china.conf
 # Revision: 94f89bb5065cdff0777ef3a116ecfecb14ca1f56
 # Duplicates removed
 # Use in config file like this: "geosite:google@cn"
-265.com
 2mdn-cn.net
 2mdn.net
 admob-cn.com
@@ -22307,7 +22325,6 @@ clickserver.googleads.com
 clientservices.googleapis.com
 cn.widevine.com
 connectivitycheck.gstatic.com
-crashlyticsreports-pa.googleapis.com
 csi.gstatic.com
 dartsearch-cn.net
 dg-meta.video.google.com
@@ -22356,8 +22373,6 @@ prod-databe.floonet.goog
 prod.databe.floonet.goog
 qiao-cn.com
 qpx.googleflights.net
-recaptcha-cn.net
-recaptcha.net
 redirector.bdn.dev
 redirector.c.chat.google.com
 redirector.c.mail.google.com
@@ -22378,7 +22393,6 @@ staging-databe.floonet.goog
 staging.databe.floonet.goog
 tac.googleapis.com
 tools.google.com
-update.crashlytics.com
 update.googleapis.com
 wear.googleapis.com
 www-google-analytics.l.google.com
