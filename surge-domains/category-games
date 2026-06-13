@@ -95,13 +95,6 @@
 .shyxhy.com
 .yingxiong.com
 # End of herogame
-# Included from kurogames
-.kurogames.com
-.kurogames.net
-
-# Wuthering Waves
-.aki-game.com
-# End of kurogames
 # Included from mihoyo-cn
 # 米哈游
 .mhystatic.com
@@ -1190,6 +1183,7 @@ steamvideo-a.akamaihd.net
 
 # Azure
 steamcloudsweden.blob.core.windows.net
+steamugcquincy.blob.core.windows.net
 
 # 完美
 .csgo.wmsj.cn

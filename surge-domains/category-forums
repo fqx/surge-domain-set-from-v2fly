@@ -59,6 +59,10 @@
 .linux.do
 .ldstatic.com
 # End of linuxdo
+# Included from livejournal
+.livejournal.com
+.livejournal.net
+# End of livejournal
 # Included from mobile01
 .5i01.com
 .mobile01.com
@@ -144,8 +148,6 @@ bbs.boingboing.net
 .eyny.com
 .gab.com
 .hydrogenaud.io
-.livejournal.com
-.livejournal.net
 .mewe.com
 .parler.com
 .pincong.rocks

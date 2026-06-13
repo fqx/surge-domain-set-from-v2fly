@@ -2113,6 +2113,9 @@ education.tbank.ru
 .zenit-card.ru
 .zenit.ru
 
+# NSPK (QR-code payments)
+.nspk.ru
+
 # Other
 .absolutbank.ru
 .akbars.ru
@@ -7279,6 +7282,7 @@ steamvideo-a.akamaihd.net
 
 # Azure
 steamcloudsweden.blob.core.windows.net
+steamugcquincy.blob.core.windows.net
 
 # 完美
 .csgo.wmsj.cn
@@ -9062,6 +9066,10 @@ o4504926511693824.ingest.sentry.io
 .linux.do
 .ldstatic.com
 # End of linuxdo
+# Included from livejournal
+.livejournal.com
+.livejournal.net
+# End of livejournal
 # Included from mobile01
 .5i01.com
 .mobile01.com
@@ -9147,8 +9155,6 @@ bbs.boingboing.net
 .eyny.com
 .gab.com
 .hydrogenaud.io
-.livejournal.com
-.livejournal.net
 .mewe.com
 .parler.com
 .pincong.rocks

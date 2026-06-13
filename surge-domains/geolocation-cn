@@ -488,13 +488,6 @@ p9-juejin.byteimg.com
 .shyxhy.com
 .yingxiong.com
 # End of herogame
-# Included from kurogames
-.kurogames.com
-.kurogames.net
-
-# Wuthering Waves
-.aki-game.com
-# End of kurogames
 # Included from mihoyo-cn
 # 米哈游
 .mhystatic.com
@@ -799,6 +792,7 @@ apilog-web.acfun.cn
 .huoshanzhibo.cn
 .huoshanzhibo.com
 .huoshanzhibo.net
+.hypercachenode.com
 .idouyinliving.com
 .idouyinpic.com
 .idouyinstatic.com
@@ -5416,6 +5410,11 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 # End of zte
 
 
+## 厦门 沧鹏电子科技/杉鹭信息技术
+.allday.work
+.cangpeng.com
+.erp198.com
+.sunrocks.cn
 ## 曹操出行
 .caocao.com.cn
 .caocaokeji.cn

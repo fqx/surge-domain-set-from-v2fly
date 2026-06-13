@@ -1,7 +1,3 @@
-# Russian websites
-.ru.com
-.ru.net
-
 # Included from tld-ru
 # Russian TLDs
 .moscow
@@ -16,6 +12,15 @@
 .xn--p1acf
 .xn--p1ai
 # End of tld-ru
+.ru.com
+.ru.net
+
+# - There is `[domain:]ru` in this list (from tld-ru), which matches all `*.ru` domains
+# - Redundant subdomains (full/domain type without attr) will be trimed by main.go
+#   In this list, `*.ru` domains without attr are redundant for the program and will not contribute to `geosite:category-ru`
+# - You can still add `*.ru` domains here if you want
+
+# Subcategories
 # Included from category-betting-ru
 # Included from betboom
 .betboom.ru
@@ -1059,6 +1064,8 @@ s19.upd.kaspersky.com
 metrika.kontur.ru
 sentry.kontur.host
 # End of kontur
+# Not include:habr #3087
+# Not include:livejournal #3715
 # Included from mailru-group
 # VK Group, formerly known as Mail.ru Group, a Russian technology company
 # Included from dzen
@@ -2024,6 +2031,9 @@ education.tbank.ru
 .credit-zenit.ru
 .zenit-card.ru
 .zenit.ru
+
+# NSPK (QR-code payments)
+.nspk.ru
 
 # Other
 .absolutbank.ru
