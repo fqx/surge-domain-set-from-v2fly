@@ -129,6 +129,21 @@
 # Ads/tracking
 .log-upload.mihoyo.com
 # End of mihoyo-cn
+# Included from seasun
+# 西山居
+.seasungames.cn
+.seasungames.com
+.seasunwbl.com
+.xishanju.com
+.xoyo.com
+.xoyocdn.com
+
+# 尘白禁区
+.cbjq.com
+
+# Testplus
+.testplus.cn
+# End of seasun
 # Included from tencent-games
 .battlecare.net
 .gameitop.com
@@ -269,6 +284,9 @@
 .arcaea.cn
 # 《异象回声》游戏官网 沪ICP备2023010411号-1
 .astral-vector.com
+# 畅游
+.changyou.com
+.cy.com
 # 终末地-协议终端
 end-api.shallow.ink
 end.shallow.ink

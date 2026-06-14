@@ -132,6 +132,21 @@
 # Ads/tracking
 .log-upload.mihoyo.com
 # End of mihoyo-cn
+# Included from seasun
+# 西山居
+.seasungames.cn
+.seasungames.com
+.seasunwbl.com
+.xishanju.com
+.xoyo.com
+.xoyocdn.com
+
+# 尘白禁区
+.cbjq.com
+
+# Testplus
+.testplus.cn
+# End of seasun
 # Included from tencent-games
 .battlecare.net
 .gameitop.com
@@ -272,6 +287,9 @@
 .arcaea.cn
 # 《异象回声》游戏官网 沪ICP备2023010411号-1
 .astral-vector.com
+# 畅游
+.changyou.com
+.cy.com
 # 终末地-协议终端
 end-api.shallow.ink
 end.shallow.ink
@@ -785,6 +803,10 @@ wlog.kuaishou.com
 .17k.com
 # https://github.com/supzhang/epg
 .51zmt.top
+# 六间房
+.6.cn
+.6rooms.com
+.xiu123.cn
 # 动画巡礼
 .anitabi.cn
 # 暴风影音
@@ -814,8 +836,15 @@ wlog.kuaishou.com
 # 懂球帝
 .dongdianqiu.com
 .dongqiudi.com
+# 直播吧
+.duoduocdn.com
+.zhibo8.cc
+.zhibo8.com
 # 飞卢小说
 .faloo.com
+# 蜂鸟网
+.fengniao.com
+.img-space.com
 # 三国杀打小抄官网
 .goka.top
 # 海读文学

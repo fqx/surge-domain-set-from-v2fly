@@ -1450,6 +1450,11 @@ sentry.popmechanic.ru
 .myoffice.ru
 .myoffice.team
 # End of myoffice-ru
+# Included from regru
+.reg.cloud
+.reg.com
+.reg.ru
+# End of regru
 # Included from selectel
 .chipcore.com
 .chipcore.ru

@@ -2178,15 +2178,24 @@ education.tbank.ru
 # End of fibank
 # Included from futu
 # 富途证券
+.futu.cn
+.futu.link
+.futu5.com
+.futuau.com
 .futuesop.com
 .futufin.com
 .futuhk.com
+.futuhk1.com
+.futuhk2.com
 .futuhkapp.com
 .futuhn.com
 .futuholdings.com
 .futuniuniu.com
 .futunn.com
+.futuoa.com
+.futusg.com
 .futustatic.com
+.fututrade.com
 
 # 富途 moomoo 证券
 .moomoo.com
@@ -2311,14 +2320,21 @@ education.tbank.ru
 .itigergrowth.com
 .itigergrowtha.com
 .itigerup.com
+.laohu8.com
+.skytigris.cn
+.tigerbbs.cn
+.tigerbbs.com
+.xiaohu8.com
 # End of itiger
 # Included from longbridge
 .longbridge.cloud
+.longbridge.cn
 .longbridge.com
 .longbridge.global
 .longbridge.hk
 .longbridge.sg
 .longbridgeapp.com
+.longbridgehk.com
 .longportapp.com
 
 # Site Assets
@@ -3893,17 +3909,25 @@ hammerandchisel.ssl.zendesk.com
 # API
 .binanceapi.com
 .binanceru.net
+.bmwweb.solutions
+.bnappweb.black
 .bnbstatic.com
+.bnbchain.org
 .bntrace.com
+.bsappapi.cc
 .bsappapi.com
+.bscdnweb.com
 .nftstatic.com
 
 # saas
-.appsflayer.com
 .saasexch.cc
 .saasexch.co
 .saasexch.com
+.saasexch.info
 .saasexch.io
+
+zftksc.cdn-settings.appsflyersdk.com
+zftksc.launches.appsflyersdk.com
 # End of binance
 # Included from bitflyer
 .bitflyer.com
@@ -3999,6 +4023,7 @@ deribit.cdn.prismic.io
 .okx.cab
 .okx.com
 .okx.com.cdn.cloudflare.net
+.xlayer.tech
 
 # OKC Browser
 .oklink.com
@@ -4017,6 +4042,10 @@ onekey.zendesk.com
 .xhpjc6-cdn-settings.appsflyersdk.com
 .rp-static-apne1.s3.ap-northeast-1.amazonaws.com
 # End of redotpay
+# Included from safepal
+.isafepal.com
+.safepal.com
+# End of safepal
 # Included from straitsx
 .straitsx.com
 
@@ -4045,20 +4074,24 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
 .1inch.io
 .aave.com
+.base.org
 .bingx.com
 .bitbank.cc
 .bitcoin.org
 .bitcoincore.org
 .bitfinex.com
 .bitget.com
+.bitlayer.org
 .bitmex.com
 .bitquick.co
 .bitstamp.net
 .bittrex.com
+.blast.io
 .blockchain.com
 .blockfrost.io
 .btcbox.co.jp
 .cex.io
+.chainid.network
 .clearpool.finance
 .coinalyze.net
 .coinbase.com
@@ -4068,6 +4101,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 .coinglass.com
 .coinmap.org
 .coinmarketcap.com
+.coredao.org
 .crypto.com
 .cryptocompare.com
 .cryptomus.com
@@ -4075,7 +4109,12 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 .cyberx.com
 .debank.com
 .dogecoin.com
+.drpc.org
 .dydx.exchange
+.fantom.foundation
+.fantom.network
+.fiat24.com
+.flare.network
 .fundingrates.xyz
 .gemini.com
 .gmgn.ai
@@ -4085,18 +4124,29 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 .infura.io
 .invity.io
 .maple.finance
+.megaeth.com
+.merkl.xyz
 .metalpha.finance
+.metamask.io
+.mexc.co
 .mexc.com
 .mexcsensors.com
 .mytokenapi.com
+.nodereal.io
+.oasis.io
+.onfinality.io
 .opensea.io
 .osl.com
 .paxful.com
 .polymarket.com
 .ripple.com
+.rsk.co
 .satoshilabs.com
+.solidifi.app
 .stealthex.io
+.taiko.xyz
 .theblock.co
+.thirdweb.com
 .trezor.io
 .truefi.io
 .unisat.io
@@ -7228,6 +7278,7 @@ robloxcorp.s.llnwi.net
 .steam-chat.com
 .steamcommunity.com
 .steamcontent.com
+.steamconnecttest.com
 .steamdeck.com
 .steamgames.com
 .steampowered.com
@@ -29501,6 +29552,11 @@ qualcomm.sc.omtrdc.net
 .respawnbyrazer.com
 .rzr.to
 # End of razer
+# Included from regru
+.reg.cloud
+.reg.com
+.reg.ru
+# End of regru
 # Included from rostelecom
 # Included from wink
 .restream-media.net
