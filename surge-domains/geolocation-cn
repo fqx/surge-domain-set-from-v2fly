@@ -670,6 +670,11 @@ p9-juejin.byteimg.com
 .zhuoyou.com
 # End of yokaverse
 
+# 三七互娱
+.37.com
+.37.com.cn
+.37wan.net
+.37wanimg.com
 # 北京奇客创想科技有限公司
 .7k7k.com
 # 刀锋盒子 皖B2-20190103-4
@@ -678,9 +683,10 @@ p9-juejin.byteimg.com
 .arcaea.cn
 # 《异象回声》游戏官网 沪ICP备2023010411号-1
 .astral-vector.com
-# 畅游
+# 畅游 (sohu)
 .changyou.com
 .cy.com
+.playcool.com
 # 终末地-协议终端
 end-api.shallow.ink
 end.shallow.ink
@@ -1315,8 +1321,9 @@ wlog.kuaishou.com
 .vgtime.com
 # End of vgtime
 
-## 17173网
+## 17173网 (sohu)
 .17173.com
+.17173cdn.com
 ## 18183网
 .18183.com
 ## 3DM游戏网
@@ -1345,6 +1352,8 @@ wlog.kuaishou.com
 .nadianshi.com
 ## 游戏日报
 .news.yxrb.net
+## 超级玩家游戏网
+.sgamer.com
 ## 手谈姬
 .shoutanjjj.com
 ## 游戏机实用技术
@@ -1752,10 +1761,15 @@ wlog.kuaishou.com
 .minapp.com
 # End of ifanr
 # Included from jiemian
-# 界面（上海）网络科技有限公司 (沪ICP备14040942号)
-
+# 界面财联社
+.cailianpress.com
+.chinastarmarket.cn
+.cls.cn
 .jiemian.com
 .jiemian.com.cn
+.jingpt.com
+.lanjinger.com
+.moer.cn
 # End of jiemian
 # Included from landian
 # 蓝点网
@@ -1933,9 +1947,6 @@ wlog.kuaishou.com
 .bianews.com
 # 财经网
 .caijing.com.cn
-# 财联社
-.cailianpress.com
-.cls.cn
 # 财新网
 .caixin.com
 # 参考消息
@@ -2019,8 +2030,10 @@ ctdsb.clouddiffuse.xyz
 .infoq.cn
 # 极客公园
 .geekpark.net
-# 光明网
-.gmw.com
+# 光明日报
+.gmdaily.cn
+.gmw.cn
+.guangmingdaily.cn
 # 观察者网
 .guancha.cn
 # 硅谷网
@@ -2119,6 +2132,8 @@ ctdsb.clouddiffuse.xyz
 .mnw.cn
 # 快科技
 .mydrivers.com
+# ZAKER新闻
+.myzaker.com
 # 南岳新闻网
 .nanyuenews.com
 # 每日经济新闻报社
@@ -5671,7 +5686,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .360zhyx.com
 .365azw.com
 .365dmp.com
-.37.com
 .3733.com
 .3d66.com
 .3elife.net
@@ -6165,7 +6179,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .mydown.com
 .myshow360.net
 .myyx618.com
-.myzaker.com
 .naixuecha.com
 .netbian.com
 .newasp.net
@@ -6242,7 +6255,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .scdng.com
 .scoregg.com
 .sczsxx.com
-.sgamer.com
 .shang360.com
 .shangc.net
 .shanghairc.com

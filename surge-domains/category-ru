@@ -1450,6 +1450,12 @@ sentry.popmechanic.ru
 .myoffice.ru
 .myoffice.team
 # End of myoffice-ru
+# Included from nic-ru
+.nichost.ru
+.nic.ru
+.r01.ru
+.sweb.ru
+# End of nic-ru
 # Included from regru
 .reg.cloud
 .reg.com

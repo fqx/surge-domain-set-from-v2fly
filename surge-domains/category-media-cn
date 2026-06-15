@@ -66,10 +66,15 @@
 .minapp.com
 # End of ifanr
 # Included from jiemian
-# 界面（上海）网络科技有限公司 (沪ICP备14040942号)
-
+# 界面财联社
+.cailianpress.com
+.chinastarmarket.cn
+.cls.cn
 .jiemian.com
 .jiemian.com.cn
+.jingpt.com
+.lanjinger.com
+.moer.cn
 # End of jiemian
 # Included from landian
 # 蓝点网
@@ -247,9 +252,6 @@
 .bianews.com
 # 财经网
 .caijing.com.cn
-# 财联社
-.cailianpress.com
-.cls.cn
 # 财新网
 .caixin.com
 # 参考消息
@@ -333,8 +335,10 @@ ctdsb.clouddiffuse.xyz
 .infoq.cn
 # 极客公园
 .geekpark.net
-# 光明网
-.gmw.com
+# 光明日报
+.gmdaily.cn
+.gmw.cn
+.guangmingdaily.cn
 # 观察者网
 .guancha.cn
 # 硅谷网
@@ -433,6 +437,8 @@ ctdsb.clouddiffuse.xyz
 .mnw.cn
 # 快科技
 .mydrivers.com
+# ZAKER新闻
+.myzaker.com
 # 南岳新闻网
 .nanyuenews.com
 # 每日经济新闻报社

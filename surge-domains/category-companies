@@ -8522,6 +8522,12 @@ incoming-telemetry.thunderbird.net
 # Included from neuralink
 .neuralink.com
 # End of neuralink
+# Included from nic-ru
+.nichost.ru
+.nic.ru
+.r01.ru
+.sweb.ru
+# End of nic-ru
 # Included from nvidia
 .geforce.cn
 .geforce.co.kr
