@@ -1,3 +1,47 @@
+# Included from sogou
+.binglianhuajianzhan.com
+.ggoplay.com
+.ggowan.com
+.go2map.com
+.pinyin.cn
+.qd.ink
+.sg.cn
+.sgtmos.com
+.sgyeyou.com
+.sgyouxi.com
+.sogo.com
+.sogou.cn
+.sogou.com
+.sogou.com.cn
+.sogou.net
+.sogoucdn.com
+.sogoucdndl.com
+.sogouimecdn.com
+.sogou-inc.com
+.sogou-op.org
+.soso.com
+.soso.com.cn
+.sososnap.com
+.teemo.cn
+.wannianqingjianzhan.com
+.xiangrikuijianzhan.com
+.xiangrikuisite.com
+.xinyan.cn
+.yeyousg.com
+.yidianliulan.cn
+.yidianliulan.com
+.yuweikuijianzhan.com
+
+# Ads/tracking
+.inte.sogou.com
+.inte.sogoucdn.com
+.lu.sogou.com
+.lu.sogoucdn.com
+.pb.i.sogou.com
+.theta.sogoucdn.com
+.uranus.sogou.com
+.wuliao.epro.sogou.com
+# End of sogou
 # Included from tencent-dev
 # Included from cnb
 # 腾讯 云原生构建
@@ -171,13 +215,17 @@
 .adse.ximalaya.com
 # End of ximalaya
 
-.lrts.me
 .qqmusic.com
 .tencentmusic.com
 
 .kg.qq.com
 .music.qq.com
 .y.qq.com
+
+# 懒人听书
+.lrts.me
+.mting.info
+.wting.info
 
 # 爱听卓乐
 .97ting.com
@@ -201,7 +249,6 @@
 .readnovel.com
 .rongshuxia.com
 .tingbook.com
-.wting.info
 .xs.cn
 .xs8.cn
 .xxsy.net

@@ -1012,8 +1012,12 @@ wlog.kuaishou.com
 .g3.letv.com
 # End of le
 # Included from lizhi
+.gzlzfm.com
 .lizhi.fm
 .lizhifm.com
+.lizhiinc.com
+.lz310.com
+.lzpipi.com
 # End of lizhi
 # Included from pptv
 .pplive.cn
@@ -1054,6 +1058,15 @@ wlog.kuaishou.com
 .shuqireader.com
 .sqreader.com
 # End of shuqi
+# Included from taihe
+# 太合音乐集团
+.91q.com
+.dmhmusic.com
+.showstart.com
+.taihe.com
+.taihemusic.cn
+.th-music.com
+# End of taihe
 # Included from taomee
 .61.com
 .taomee.com
@@ -1098,13 +1111,17 @@ wlog.kuaishou.com
 .adse.ximalaya.com
 # End of ximalaya
 
-.lrts.me
 .qqmusic.com
 .tencentmusic.com
 
 .kg.qq.com
 .music.qq.com
 .y.qq.com
+
+# 懒人听书
+.lrts.me
+.mting.info
+.wting.info
 
 # 爱听卓乐
 .97ting.com
@@ -1836,51 +1853,6 @@ wlog.kuaishou.com
 .zuihuimai.com
 # End of ruanmei
 # Included from sohu
-# Included from sogou
-.binglianhuajianzhan.com
-.ggoplay.com
-.ggowan.com
-.go2map.com
-.pinyin.cn
-.qd.ink
-.sg.cn
-.sgtmos.com
-.sgyeyou.com
-.sgyouxi.com
-.sogo.com
-.sogou.cn
-.sogou.com
-.sogou.com.cn
-.sogou.net
-.sogoucdn.com
-.sogoucdndl.com
-.sogouimecdn.com
-.sogou-inc.com
-.sogou-op.org
-.soso.com
-.soso.com.cn
-.sososnap.com
-.teemo.cn
-.wannianqingjianzhan.com
-.xiangrikuijianzhan.com
-.xiangrikuisite.com
-.xinyan.cn
-.yeyousg.com
-.yidianliulan.cn
-.yidianliulan.com
-.yuweikuijianzhan.com
-
-# Ads/tracking
-.inte.sogou.com
-.inte.sogoucdn.com
-.lu.sogou.com
-.lu.sogoucdn.com
-.pb.i.sogou.com
-.theta.sogoucdn.com
-.uranus.sogou.com
-.wuliao.epro.sogou.com
-# End of sogou
-
 # All .sohu domains
 .sohu
 
@@ -2346,6 +2318,11 @@ ctdsb.clouddiffuse.xyz
 
 # 饭否
 .fanfou.com
+
+# 最右
+.izuiyou.com
+.ixiaochuan.cn
+.xiaochuankeji.cn
 
 # 脉脉
 .maimai.cn
@@ -5680,7 +5657,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .1nongjing.com
 .1ting.com
 .1zhe.com
-.21cn.com
 .2265.com
 .2288.org
 .2345.com
@@ -6323,7 +6299,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .szfw.org
 .szzfgjj.com
 .t1y5.com
-.taihe.com
 .taihuoniao.com
 .tangeche.com
 .tao123.com

@@ -601,8 +601,12 @@ wlog.kuaishou.com
 .g3.letv.com
 # End of le
 # Included from lizhi
+.gzlzfm.com
 .lizhi.fm
 .lizhifm.com
+.lizhiinc.com
+.lz310.com
+.lzpipi.com
 # End of lizhi
 # Included from pptv
 .pplive.cn
@@ -643,6 +647,15 @@ wlog.kuaishou.com
 .shuqireader.com
 .sqreader.com
 # End of shuqi
+# Included from taihe
+# 太合音乐集团
+.91q.com
+.dmhmusic.com
+.showstart.com
+.taihe.com
+.taihemusic.cn
+.th-music.com
+# End of taihe
 # Included from taomee
 .61.com
 .taomee.com
@@ -687,13 +700,17 @@ wlog.kuaishou.com
 .adse.ximalaya.com
 # End of ximalaya
 
-.lrts.me
 .qqmusic.com
 .tencentmusic.com
 
 .kg.qq.com
 .music.qq.com
 .y.qq.com
+
+# 懒人听书
+.lrts.me
+.mting.info
+.wting.info
 
 # 爱听卓乐
 .97ting.com
