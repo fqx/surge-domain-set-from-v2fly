@@ -169,10 +169,12 @@ cdn.globalsigncdn.com.cdn.cloudflare.net
 crl.globalsign.net
 # End of globalsign
 # Included from godaddy
-.godaddy.com
-
 # All .godaddy domains
 .godaddy
+
+.godaddy.com
+.godaddy.net
+.wsimg.com
 # End of godaddy
 # Included from google-trust-services
 .pki.goog

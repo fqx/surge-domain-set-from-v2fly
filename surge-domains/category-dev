@@ -457,6 +457,7 @@ homebrew.bintray.com
 .jb.gg
 .jetbrains.cloud
 .jetbrains.com
+.jetbrains.com.cn
 .jetbrains.net
 .jetbrains.space
 .jetbrains.team
@@ -464,7 +465,6 @@ homebrew.bintray.com
 .youtrack.cloud
 
 .cdn.jetbrains.com
-.download-cdn.jetbrains.com.cn
 # End of jetbrains
 # Included from jetbrains-ai
 .grazie.ai

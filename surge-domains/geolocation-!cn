@@ -3486,10 +3486,12 @@ cdn.globalsigncdn.com.cdn.cloudflare.net
 crl.globalsign.net
 # End of globalsign
 # Included from godaddy
-.godaddy.com
-
 # All .godaddy domains
 .godaddy
+
+.godaddy.com
+.godaddy.net
+.wsimg.com
 # End of godaddy
 # Included from google-trust-services
 .pki.goog
@@ -5571,6 +5573,7 @@ pchomeonline.com.tw
 
 .allkeyshop.com
 .axbdoll.com.tw
+.gamewtb.com
 .gg.deals
 .i69.com.tw
 .kinguin.net
@@ -5605,7 +5608,7 @@ pchomeonline.com.tw
 .xn--uis44a.xn--j6w193g
 
 # https://www.whois.com/whois/cityu.edu.hk
-# 城市大學-香港.教育.香港 
+# 城市大學-香港.教育.香港
 .xn----fr0b94b15d2ue8q7a1o3e.xn--wcvs22d.xn--j6w193g
 # End of cityu-hk
 # Included from cuhk
@@ -5648,7 +5651,7 @@ pchomeonline.com.tw
 .xn--pssu7cv61ahw8aq79bztd.xn--j6w193g
 # End of hkbu
 # Included from hku
-# The University of Hong Kong (HKU) 
+# The University of Hong Kong (HKU)
 .hku.hk
 .hku.edu.hk
 
@@ -7393,13 +7396,15 @@ xz.pphimalayanrt.com
 .seeurlpcl.com
 .squadbusters.com
 .supercell.com
-.supercell.helpshift.com
 .supercell.net
 .supercellcreators.com
 .supercellgames.com
 .supercellid.com
 .supercellstore.com
 .supr.cl
+
+supercell.helpshift.com
+supercell.zendesk.com
 # End of supercell
 # Included from take-two
 # Included from 2kgames
@@ -19128,6 +19133,23 @@ mozilla-ohttp.fastly-edge.com
 .waterfox.net
 .zen-browser.app
 # End of category-browser-!cn
+# Included from category-consent-management
+# Consent Management Platforms / Cookie services
+.appconsent.io
+.axept.io
+.cdn-cookieyes.com
+.consentmanager.net
+.consentpro.com
+.cookiebot.com
+.cookielaw.org
+.cookiepro.com
+.cookieyes.com
+.onetrust.com
+.osano.com
+.termly.io
+.trustarc.com
+.usercentrics.eu
+# End of category-consent-management
 # Included from category-enhance-gaming
 # Included from playcover
 .playcover.io
@@ -20014,13 +20036,6 @@ public-us-pingsx.api.clonoth.com
 ## Xiaomi Flash (not affiliated with the official Xiaomi)
 .xiaomiflash.com
 
-## Consent Management Platforms / Cookie services
-.consentpro.com
-.cookiepro.com
-.cookielaw.org
-.onetrust.com
-.osano.com
-.usercentrics.eu
 ## Translators & Dictionaries
 # Included from linguee
 .linguee.com
@@ -20490,6 +20505,7 @@ homebrew.bintray.com
 .jb.gg
 .jetbrains.cloud
 .jetbrains.com
+.jetbrains.com.cn
 .jetbrains.net
 .jetbrains.space
 .jetbrains.team
@@ -20497,7 +20513,6 @@ homebrew.bintray.com
 .youtrack.cloud
 
 .cdn.jetbrains.com
-.download-cdn.jetbrains.com.cn
 # End of jetbrains
 # Included from jetbrains-ai
 .grazie.ai
@@ -26372,10 +26387,12 @@ crl.globalsign.net
 .ztrendlab.com
 # End of gmo-internet
 # Included from godaddy
-.godaddy.com
-
 # All .godaddy domains
 .godaddy
+
+.godaddy.com
+.godaddy.net
+.wsimg.com
 # End of godaddy
 # Included from group-ib
 .antiphishing.nl
@@ -29183,7 +29200,9 @@ mdn.mozillademos.org
 .popcornjs.org
 .publicsuffix.org
 .seamonkey-project.org
+.tb.pro
 .thunderbird.net
+.thundermail.com
 .webmademovies.org
 
 # Ads/tracking
@@ -29650,6 +29669,7 @@ sentry.iptv.rt.ru
 .knoxemm.com
 .ospserver.net
 .samsung.com
+.samsungadhub.com
 .samsungads.com
 .samsungapps.com
 .samsungcloud.com
@@ -30810,6 +30830,7 @@ teamviewer.com.cdn.cloudflare.net
 .conair.me
 .cordcloud.org
 .ctyun.online
+.dfvpn.com
 .geph.io
 .gfw.press
 .maying.co
