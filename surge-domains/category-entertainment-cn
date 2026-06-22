@@ -311,6 +311,11 @@ end.shallow.ink
 .gamemei.com
 # Enhance Gaming
 .heavenlywind.cc
+# 完美世界 (Note: geosite:wanmei contains more non-game domains)
+.laohu.com
+.wanmei.com
+.wmsj.cn
+.wmupd.com
 # 乐都网 浙ICP备2024091002号-2
 .ledu.com
 # 龙图游戏 京ICP备11023195号
@@ -328,9 +333,6 @@ end.shallow.ink
 .tgprocs.net
 # 途游
 .tuyoo.com
-# 完美世界
-.wanmei.com
-.wmsj.cn
 # Wine游戏助手 京ICP备18041936号
 .winegame.net
 # 畅玩空间 冀ICP备20019223号
@@ -641,10 +643,12 @@ wlog.kuaishou.com
 .aliwx.com.cn
 .aliwx.net
 .ishuqi.com
+.newstjk.com
 .shuqi.com
 .shuqiapi.com
 .shuqiread.com
 .shuqireader.com
+.shuqistat.com
 .sqreader.com
 # End of shuqi
 # Included from taihe
@@ -832,6 +836,9 @@ wlog.kuaishou.com
 .xiu123.cn
 # 动画巡礼
 .anitabi.cn
+# 咔叽相机
+.b612kaji.com
+.kajicam.com
 # 暴风影音
 .baofeng.com
 .baofeng.net
@@ -886,8 +893,6 @@ wlog.kuaishou.com
 .ikstatic.cn
 # 晋江文学城
 .jjwxc.net
-# 咔叽相机
-.kajicam.com
 # 酷匠网
 .kjcdn.com
 .kujiang.com

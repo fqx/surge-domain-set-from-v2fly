@@ -184,10 +184,12 @@
 .aliwx.com.cn
 .aliwx.net
 .ishuqi.com
+.newstjk.com
 .shuqi.com
 .shuqiapi.com
 .shuqiread.com
 .shuqireader.com
+.shuqistat.com
 .sqreader.com
 # End of shuqi
 # Included from teambition
@@ -196,8 +198,11 @@
 .teambitionapis.com
 # End of teambition
 # Included from uc
+.open-uc.cn
+.uc-engine.cn
 .uc.cn
 .uc123.com
+.ucfly.com
 .ucweb.com
 .uczzd.cn
 
@@ -292,16 +297,20 @@
 .alibabacapital.com
 .alibabachengdun.com
 .alibabacorp.com
+.alibabadesign.com
 .alibabadoctor.com
 .alibabafuturehotel.com
 .alibabagroup.com
+.alibabapictures.com
 .alibabaplanet.com
 .alibabaued.com
 .alibabausercontent.com
 .alifanyi.com
+.aligenie.com
 .alihealth.cn
 .alihealth.com.cn
 .alihealth.hk
+.alihive.com
 .aliimg.com
 .alikmd.com
 .alimama.cn
@@ -346,11 +355,13 @@
 .dratio.com
 .emas-poc.com
 .gongyi.xin
+.hupan.com
 .ialicdn.com
 .iconfont.cn
 .ics.design
 .imgcook.com
 .jhgtgb.com
+.jiyoujia.com
 .kanbox.com
 .lazada.com
 .liangxinyao.com
@@ -360,6 +371,7 @@
 .mdeer.com
 .mei.com
 .miaostreet.com
+.miaoya.cn
 .mshare.cc
 .nic.xin
 .philanthropy.xin
@@ -369,6 +381,7 @@
 .qingtingtrip.com
 .rexpos.cn
 .saee.org.cn
+.shejijia.com
 .shenjing.com
 .sparenode.com
 .supet.com
@@ -425,6 +438,7 @@
 
 # 淘宝
 .1688.com
+.duanqu.com
 .etao.com
 .juhuasuan.com
 .lingshoujia.com

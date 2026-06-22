@@ -246,6 +246,9 @@ p9-juejin.byteimg.com
 .unity.cn
 .unitychina.cn
 
+# 上海蓝云网络科技有限公司 (世纪互联)
+.unity3dcloud.cn
+
 # Ads/tracking
 .ads.unitychina.cn
 .splash-ads.cdn.unity.cn
@@ -255,6 +258,7 @@ p9-juejin.byteimg.com
 # End of unitychina
 
 .aardio.com
+.cocos.com
 .ejoy.com
 .jinrishici.com
 .kaihong.com
@@ -702,6 +706,11 @@ end.shallow.ink
 .gamemei.com
 # Enhance Gaming
 .heavenlywind.cc
+# 完美世界 (Note: geosite:wanmei contains more non-game domains)
+.laohu.com
+.wanmei.com
+.wmsj.cn
+.wmupd.com
 # 乐都网 浙ICP备2024091002号-2
 .ledu.com
 # 龙图游戏 京ICP备11023195号
@@ -719,9 +728,6 @@ end.shallow.ink
 .tgprocs.net
 # 途游
 .tuyoo.com
-# 完美世界
-.wanmei.com
-.wmsj.cn
 # Wine游戏助手 京ICP备18041936号
 .winegame.net
 # 畅玩空间 冀ICP备20019223号
@@ -1032,10 +1038,12 @@ wlog.kuaishou.com
 .aliwx.com.cn
 .aliwx.net
 .ishuqi.com
+.newstjk.com
 .shuqi.com
 .shuqiapi.com
 .shuqiread.com
 .shuqireader.com
+.shuqistat.com
 .sqreader.com
 # End of shuqi
 # Included from taihe
@@ -1223,6 +1231,9 @@ wlog.kuaishou.com
 .xiu123.cn
 # 动画巡礼
 .anitabi.cn
+# 咔叽相机
+.b612kaji.com
+.kajicam.com
 # 暴风影音
 .baofeng.com
 .baofeng.net
@@ -1277,8 +1288,6 @@ wlog.kuaishou.com
 .ikstatic.cn
 # 晋江文学城
 .jjwxc.net
-# 咔叽相机
-.kajicam.com
 # 酷匠网
 .kjcdn.com
 .kujiang.com
@@ -1899,6 +1908,8 @@ wlog.kuaishou.com
 
 # 21世纪经济报
 .21jingji.com
+# 三易生活
+.3elife.net
 # 站长网
 .admin5.com
 # 安徽财经网
@@ -1917,6 +1928,12 @@ wlog.kuaishou.com
 .bbtnews.com.cn
 # 鞭牛士
 .bianews.com
+# 新京报
+.bjnews.com.cn
+.bkeconomy.com
+.qianlong.com
+# 北京时间
+.btime.com
 # 财经网
 .caijing.com.cn
 # 财新网
@@ -1926,6 +1943,8 @@ wlog.kuaishou.com
 .ckxx.net
 # 电脑商情在线
 .cbinews.com
+# 中国经济网
+.ce.cn
 # 改革网
 .cfgw.net.cn
 # 中国家电网
@@ -1945,6 +1964,9 @@ wlog.kuaishou.com
 .cnr.cn
 # 上海证券报
 .cnstock.com
+# 陕西新闻网
+.cnwest.com
+.sxtvs.com
 # 重庆晨报/上游新闻
 .cqcb.com
 # 重庆华龙网
@@ -1976,6 +1998,8 @@ ctdsb.clouddiffuse.xyz
 # 大河报
 .daheapp.com
 .dahebao.cn
+# 广州日报大洋网
+.dayoo.com
 # 读特新闻
 .dutenews.com
 # 大智慧
@@ -1993,8 +2017,12 @@ ctdsb.clouddiffuse.xyz
 .eastday.com
 # 经济观察网
 .eeo.com.cn
+# 爱活网
+.evolife.cn
 # 超能网
 .expreview.com
+# 东南网
+.fjsen.com
 # FreeBuf 网络安全行业门户
 .freebuf.com
 # 极客邦
@@ -2002,6 +2030,8 @@ ctdsb.clouddiffuse.xyz
 .infoq.cn
 # 极客公园
 .geekpark.net
+# 机锋网
+.gfan.com
 # 光明日报
 .gmdaily.cn
 .gmw.cn
@@ -2117,6 +2147,8 @@ ctdsb.clouddiffuse.xyz
 .newsimg.cn
 .xinhuanet.com
 .xinhuaxmt.com
+# 四川新闻网
+.newssc.org
 # 奥一新闻
 .oeeee.com
 # 维科网
@@ -2151,6 +2183,8 @@ ctdsb.clouddiffuse.xyz
 .qianzhan.com
 # 青岛之窗
 .qingdaochina.org
+# 红网
+.rednet.cn
 # 四川网络广播电视台
 .scgchc.com
 .sctv-tf.com
@@ -2206,6 +2240,9 @@ ctdsb.clouddiffuse.xyz
 .xhby.net
 # 西陆网
 .xilu.com
+# 新民报
+.xinmin.cn
+.xinminweekly.com.cn
 # 新快报
 .xkb.com.cn
 # 金羊网/羊城晚报
@@ -2224,6 +2261,8 @@ ctdsb.clouddiffuse.xyz
 .zhichanli.com
 # 至顶网
 .zhiding.cn
+# 浙江在线
+.zjol.com.cn
 # 中关村在线
 .zol-img.com.cn
 .zol.com.cn
@@ -2869,7 +2908,6 @@ ctdsb.clouddiffuse.xyz
 # 北京知道创宇信息技术股份有限公司
 .jiashule.com
 .jiasule.com
-.yunaq.com
 # End of category-cdn-cn
 
 # Included from aws-cn
@@ -3091,6 +3129,8 @@ ctdsb.clouddiffuse.xyz
 .suu-fun.com
 
 # Cloud Service
+## 华栖云
+.chinamcloud.com
 ## 安徽大家网络科技
 .cnwza.cn
 .govwza.cn
@@ -3187,7 +3227,10 @@ ctdsb.clouddiffuse.xyz
 .imaicai.mobi
 # End of ddmaicai
 
+.51ping.com
+.baobaoaichi.cn
 .dianping.com
+.dpfile.com
 .maoyan.com
 .meituan.com
 .meituan.net
@@ -3407,6 +3450,8 @@ ss.bjmu.edu.cn
 .jsehealth.com
 ## 仁科医疗科技有限公司服务域名，为北大口腔和一些其他国内医院小程序提供服务
 .mingxuan.store
+## 爱问医生
+.wenwo.com
 ## 牙医管家
 .yayi360.com
 ## 有来医生
@@ -4020,6 +4065,15 @@ study.163.com
 
 # 文心一言
 .yiyan.baidu.com
+
+# DuMate
+.dumate.cn
+
+# 秒哒
+.miaoda.cn
+
+# MCP World
+.mcpworld.com
 
 # 天工AI
 .tiangong.cn
@@ -4708,6 +4762,7 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .dida365.com
 ## 豆果美食
 .douguo.com
+.douguo.net
 ## 短书
 .duanshu.com
 ## 兑吧
@@ -4722,6 +4777,7 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 ## 快应用
 .hapjs.org
 .quickapp.cn
+.so-quick.cn
 ## 乐播投屏
 .hpplay.cn
 .lbtp.com
@@ -4767,6 +4823,8 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 ## 心知天气
 .sencdn.com
 .seniverse.com
+## 声网
+.shengwang.cn
 ## 实习僧
 .shixiseng.com
 .sxsimg.com
@@ -4840,6 +4898,13 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 # 未知但有中邮备案
 .postmail.cn
 # End of chinapost
+# Included from petrochina
+# 中石油
+.95504.net
+.95504test.com
+.cnpc.com.cn
+.petrochina.com.cn
+# End of petrochina
 # Included from sinopec
 .sinopec-usa.com
 .sinopec.com
@@ -4929,12 +4994,15 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .yoojia.com
 
 # 度小满
+.combofin.com
 .duxiaoman-int.com
 .duxiaoman.com
 .duxiaomanfintech.com
+.duxiaomanfund.com
 .duxiaomantech.com
 .dxm-cdn.com
 .dxm-int.com
+.dxmbaoxian.com
 .dxmjinr.com
 .dxmlcf.com
 .dxmlcfintech.com
@@ -5082,6 +5150,7 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .iflyrec.com
 .iflysec.com
 .iflytek.com
+.voicecloud.cn
 .xfyun.cn
 .xunfei.cn
 
@@ -5091,10 +5160,10 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 # 智学网
 .zhixue.com
 
-#畅言教育开放平台
+# 畅言教育开放平台
 .changyan.com
 
-#科大讯飞AI学习机官网
+# 科大讯飞AI学习机官网
 .xunfeixxj.com
 # End of iflytek
 # Included from jushuitan
@@ -5440,6 +5509,20 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .hwads-t.api.my7v.com
 .testads.api.my7v.com
 # End of tcl
+# Included from trustasia
+# 亚数信息科技
+.51ssl.cn
+.51ssl.com
+.geossl.cn
+.litessl.cn
+.litessl.com
+.myssl-uri.com
+.myssl.com
+.trustasia.cn
+.trustasia.com
+.trustasia.com.cn
+.trustasia.net
+# End of trustasia
 # Included from tongfang
 # 同方股份
 .thtf.com.cn
@@ -5448,6 +5531,32 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 # 机械革命
 .mechrevo.com
 # End of tongfang
+# Included from wanmei
+# 完美世界
+# Note: There're some domains in data/steam, not here.
+.laohu.com
+.pwrd.com
+.wanmei.com
+.wmsj.cn
+.wmupd.com
+
+# 全历史
+.allhistory.com
+# 成家相亲
+.chengjiaxiangqin.cn
+# 完美语言
+.perfectlingo.com
+# 完美世界院线
+.pwcinema.com
+# 完美世界电竞
+.pwesports.cn
+
+# 完美邮箱
+.111.com
+.88.com
+.88y.cn
+.email.cn
+# End of wanmei
 # Included from xunlei
 .8uri.cn
 .kanimg.com
@@ -5485,6 +5594,10 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .cangpeng.com
 .erp198.com
 .sunrocks.cn
+## 知道创宇
+.anquan.org
+.knownsec.com
+.yunaq.com
 ## 曹操出行
 .caocao.com.cn
 .caocaokeji.cn
@@ -5664,7 +5777,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .365dmp.com
 .3733.com
 .3d66.com
-.3elife.net
 .3h3.com
 .3type.cn
 .3yx.com
@@ -5737,7 +5849,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .alittle-tea.com
 .allyes.com
 .anfensi.com
-.anquan.org
 .anruan.com
 .aotrip.net
 .aoyou.com
@@ -5780,7 +5891,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .bokecc.com
 .boosj.com
 .btgtravel.com
-.btime.com
 .cabbagebox.com
 .caijingwu.com
 .caiyun.com
@@ -5886,7 +5996,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .downcc.com
 .downxia.com
 .downyi.com
-.dpfile.com
 .dreams-travel.com
 .drivergenius.com
 .duomai.com
@@ -5938,7 +6047,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .gdliontech.com
 .gdrc.com
 .gezida.com
-.gfan.com
 .globrand.com
 .gm86.com
 .gmz88.com
@@ -6503,9 +6611,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 # 珠海太川云社区技术股份有限公司 粤ICP备10213128号
 .taichuan.com
 .taichuan.net
-
-# 中国石油支付宝小程序
-.95504test.com
 
 # 北京鸿合智能系统股份有限公司
 .hitevision-solutions.com
