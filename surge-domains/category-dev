@@ -322,6 +322,7 @@ copilot-telemetry.githubusercontent.com
 .git.io
 .github.ai
 .github.blog
+.github.career
 .github.com
 .github.community
 .github.dev
@@ -506,8 +507,8 @@ d29vzk4ow07wi7.cloudfront.net
 .microsoftreactor.net
 .microsoftreactor.org
 .microsoftsilverlight.com
-.microsoftsilverlight.org
 .microsoftsilverlight.net
+.microsoftsilverlight.org
 .microsoftsqlserver.com
 .mmdnn.com
 .mono-project.com
@@ -525,18 +526,21 @@ d29vzk4ow07wi7.cloudfront.net
 .sqlserveronlinux.com
 .timelinestoryteller.com
 .uwpcommunitytoolkit.com
-.visualstudio-staging.com
-.visualstudio.com
-.visualstudio.co
-.visualstudio.co.uk
-.visualstudio.eu
-.visualstudio.net
 .vfsforgit.com
 .vfsforgit.org
+.visualstudio-staging.com
+.visualstudio.co
+.visualstudio.co.uk
+.visualstudio.com
+.visualstudio.eu
+.visualstudio.net
 .vsassets.io
-.vscode.dev
 .vscode-cdn.net
 .vscode-unpkg.net
+.vscode-webview.net
+.vscode.dev
+.vscodeedu.app
+.vscodeedu.com
 .xamarin.com
 
 az764295.vo.msecnd.net
@@ -748,6 +752,7 @@ amp.akamaized.net
 # End of wordpress
 
 .adventofcode.com
+.almalinux.org
 .alpinelinux.org
 .apache.org
 .artixlinux.org
@@ -755,6 +760,7 @@ amp.akamaized.net
 .badgen.net
 .bitvise.com
 .bugsnag.com
+.busybox.net
 .centos.org
 .chocolatey.org
 .clojure.org
@@ -795,13 +801,14 @@ amp.akamaized.net
 .lua.org
 .lxqt-project.org
 .macports.org
+.manjaro.org
 .mariadb.org
 .mate-desktop.org
 .mingw.org
 .mobatek.net
 .mpv.io
-.mysql.com
 .msys2.org
+.mysql.com
 .neovim.io
 .netfilter.org
 .newpipe.net
@@ -828,6 +835,7 @@ amp.akamaized.net
 .raspbian.org
 .regex101.com
 .remirepo.net
+.rockylinux.org
 .rpmfusion.org
 .scientificlinux.org
 .scoop.sh

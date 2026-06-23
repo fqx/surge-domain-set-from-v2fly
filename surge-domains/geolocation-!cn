@@ -8417,19 +8417,21 @@ static.siege-amazon.com
 # End of soundcloud
 # Included from spotify
 .byspotify.com
+.lifeatspotify.com
 .pscdn.co
 .scdn.co
 .spoti.fi
 .spotify-everywhere.com
 .spotify.com
 .spotify.design
+.spotify.link
 .spotifycdn.com
 .spotifycdn.net
 .spotifycharts.com
 .spotifycodes.com
 .spotifyforbrands.com
+.spotifyforvendors.com
 .spotifyjobs.com
-.spotify.link
 .tospotify.com
 
 audio-ak-spotify-com.akamaized.net
@@ -20371,6 +20373,7 @@ copilot-telemetry.githubusercontent.com
 .git.io
 .github.ai
 .github.blog
+.github.career
 .github.com
 .github.community
 .github.dev
@@ -20555,8 +20558,8 @@ d29vzk4ow07wi7.cloudfront.net
 .microsoftreactor.net
 .microsoftreactor.org
 .microsoftsilverlight.com
-.microsoftsilverlight.org
 .microsoftsilverlight.net
+.microsoftsilverlight.org
 .microsoftsqlserver.com
 .mmdnn.com
 .mono-project.com
@@ -20574,18 +20577,21 @@ d29vzk4ow07wi7.cloudfront.net
 .sqlserveronlinux.com
 .timelinestoryteller.com
 .uwpcommunitytoolkit.com
-.visualstudio-staging.com
-.visualstudio.com
-.visualstudio.co
-.visualstudio.co.uk
-.visualstudio.eu
-.visualstudio.net
 .vfsforgit.com
 .vfsforgit.org
+.visualstudio-staging.com
+.visualstudio.co
+.visualstudio.co.uk
+.visualstudio.com
+.visualstudio.eu
+.visualstudio.net
 .vsassets.io
-.vscode.dev
 .vscode-cdn.net
 .vscode-unpkg.net
+.vscode-webview.net
+.vscode.dev
+.vscodeedu.app
+.vscodeedu.com
 .xamarin.com
 
 az764295.vo.msecnd.net
@@ -20797,6 +20803,7 @@ amp.akamaized.net
 # End of wordpress
 
 .adventofcode.com
+.almalinux.org
 .alpinelinux.org
 .apache.org
 .artixlinux.org
@@ -20804,6 +20811,7 @@ amp.akamaized.net
 .badgen.net
 .bitvise.com
 .bugsnag.com
+.busybox.net
 .centos.org
 .chocolatey.org
 .clojure.org
@@ -20844,13 +20852,14 @@ amp.akamaized.net
 .lua.org
 .lxqt-project.org
 .macports.org
+.manjaro.org
 .mariadb.org
 .mate-desktop.org
 .mingw.org
 .mobatek.net
 .mpv.io
-.mysql.com
 .msys2.org
+.mysql.com
 .neovim.io
 .netfilter.org
 .newpipe.net
@@ -20877,6 +20886,7 @@ amp.akamaized.net
 .raspbian.org
 .regex101.com
 .remirepo.net
+.rockylinux.org
 .rpmfusion.org
 .scientificlinux.org
 .scoop.sh
@@ -28501,6 +28511,7 @@ emoi-cncdn.bing.com
 .git.io
 .github.ai
 .github.blog
+.github.career
 .github.com
 .github.community
 .github.dev
@@ -28578,8 +28589,8 @@ productionresultssa19.blob.core.windows.net
 .microsoftreactor.net
 .microsoftreactor.org
 .microsoftsilverlight.com
-.microsoftsilverlight.org
 .microsoftsilverlight.net
+.microsoftsilverlight.org
 .microsoftsqlserver.com
 .mmdnn.com
 .mono-project.com
@@ -28597,18 +28608,21 @@ productionresultssa19.blob.core.windows.net
 .sqlserveronlinux.com
 .timelinestoryteller.com
 .uwpcommunitytoolkit.com
-.visualstudio-staging.com
-.visualstudio.com
-.visualstudio.co
-.visualstudio.co.uk
-.visualstudio.eu
-.visualstudio.net
 .vfsforgit.com
 .vfsforgit.org
+.visualstudio-staging.com
+.visualstudio.co
+.visualstudio.co.uk
+.visualstudio.com
+.visualstudio.eu
+.visualstudio.net
 .vsassets.io
-.vscode.dev
 .vscode-cdn.net
 .vscode-unpkg.net
+.vscode-webview.net
+.vscode.dev
+.vscodeedu.app
+.vscodeedu.com
 .xamarin.com
 
 az764295.vo.msecnd.net
@@ -28795,6 +28809,7 @@ www.microsoft.com
 .dynamics.com
 .efproject.net
 .engkoo.com
+.exp-tas.com
 .fasttrackreadysupport.com
 .fluidpreview.com
 .footprintdns.com
@@ -29699,15 +29714,18 @@ sentry.iptv.rt.ru
 .knoxemm.com
 .ospserver.net
 .samsung.com
+.samsung.com.cn
 .samsungadhub.com
 .samsungads.com
 .samsungapps.com
 .samsungcloud.com
+.samsungcloudcn.com
 .samsungconsent.com
 .samsungdm.com
 .samsungeshop.com.cn
 .samsunggalaxyfriends.com
 .samsunghealth.com
+.samsunghealthcn.com
 .samsungiotcloud.com
 .samsungiots.com
 .samsungknox.com
