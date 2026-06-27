@@ -262,6 +262,7 @@ p9-juejin.byteimg.com
 .ejoy.com
 .jinrishici.com
 .kaihong.com
+.oend.net
 .openvela.com
 .php.cn
 .pingcode.com
@@ -761,10 +762,6 @@ end.shallow.ink
 # Ads/tracking
 apilog-web.acfun.cn
 # End of acfun
-# Included from acplay
-.acplay.net
-.dandanplay.com
-# End of acplay
 # Included from ciweimao
 .ciweimao.com
 .hbooker.com
@@ -1910,6 +1907,10 @@ wlog.kuaishou.com
 .21jingji.com
 # 三易生活
 .3elife.net
+# 奇艺事
+.71shi.net
+.goodq.top
+.haowenti.net
 # 站长网
 .admin5.com
 # 安徽财经网
@@ -3733,6 +3734,8 @@ study.163.com
 .dgjy.net
 # 海词词典
 .dict.cn
+# 对分易
+.duifene.com
 # 在职研究生教育信息网
 .eduei.com
 # 中公
@@ -3785,6 +3788,8 @@ study.163.com
 .oldboyedu.com
 # 批改网
 .pigai.org
+# 蜻蜓志愿
+.qingtingai.net
 # 公考知识库
 .saduck.top
 # 外研在线
@@ -3809,6 +3814,8 @@ study.163.com
 .yunzhuxue.com
 # “叶圣陶杯”全国中学生新作文大赛
 .ystbds.com
+# 中国高校在线
+.zggx100.com
 # 小站教育
 .zhan.com
 # 智慧树
@@ -4641,6 +4648,7 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .heweather.net
 .qweather.com
 .qweather.net
+.qweatherapi.com
 # End of qweather
 # Included from renren
 .renren.com
@@ -4730,6 +4738,8 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .air-matters.com
 ## Alook 浏览器
 .alookweb.com
+## AniXPlayer
+.anixplayer.net
 ## 安兔兔
 .antutu.com
 .antutu.net
@@ -5610,6 +5620,8 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .fnnas.com
 .fnnas.net
 .fnos.net
+## 咕咕数据
+.gugudata.com
 ## 稿定（厦门）信息服务有限公司
 ### 花瓣网 闽ICP备2021013850号
 .huaban.com
@@ -5690,6 +5702,10 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .zhuye.kim
 ## 乐游导航主页
 .6-u.com
+## 磁力搜索
+.cilisouou.com
+.jigecili.com
+.wsjqnmmrmv.world
 ## imsYY起始页
 .imsyy.com
 ## Infinity Pro
@@ -5823,6 +5839,7 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .8264.com
 .84399.com
 .885.com
+.8m2.net
 .900.la
 .917.com
 .91danji.com
@@ -6133,6 +6150,7 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .iyunmu.com
 .jb51.com
 .jb51.net
+.jfcoop.com
 .jiameng.com
 .jianbihua.com
 .jianzhi8.com
@@ -6588,35 +6606,27 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .zuhaowan.com
 .zztfly.com
 
-# 建始网 鄂ICP备05004864号-1
-.jsw118.com
-
-# 陕西城乡劳动就业网 陕ICP备19016945号-1
-.sxcxldjy.com
-
-# 陕西建筑资质代办 陕ICP备17011269号
-.shanxijianzhuzizhi.com
-
-# 纬横数据 鲁ICP备17051601号-1
-.vhengdata.com
+# 布丁猫(岩池科技)
 
 # 湖南智擎科技有限公司
 .educoder.net
-.tokcoder.com
+.proj101.cn
 .trustie.net
 
-# 浙江御鹿电子科技有限公司 麦瑞克健身设备 & 超燃脂APP 浙ICP备2021003090号-2
-.merach.com
-
-# 珠海太川云社区技术股份有限公司 粤ICP备10213128号
-.taichuan.com
-.taichuan.net
+# 广州市雅望互联网服务有限公司
+.gzyowin.com
 
 # 北京鸿合智能系统股份有限公司
 .hitevision-solutions.com
 
 # 捷顺科技
 .jslife.net
+
+# 建始网 鄂ICP备05004864号-1
+.jsw118.com
+
+# 浙江御鹿电子科技有限公司 麦瑞克健身设备 & 超燃脂APP 浙ICP备2021003090号-2
+.merach.com
 
 # 南海控股有限公司
 .nanhaicorp.com
@@ -6628,25 +6638,24 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .qingping.co
 .cleargrass.com
 
-# 布丁猫(岩池科技)
-# 黑ICP备2024018807号
-.bdmozon.com
-.bdmyandex.com
-# 黑ICP备2022002729号
-.bdcat.top
-.puddingcat.top
-
 # 海南东勤网络科技有限公司 琼ICP备18003843号
 .qunliao.info
 
-# 陕ICP备2024035828号
-.ao-x.ac.cn
+# 陕西建筑资质代办 陕ICP备17011269号
+.shanxijianzhuzizhi.com
+
+# 陕西城乡劳动就业网 陕ICP备19016945号-1
+.sxcxldjy.com
+
+# 珠海太川云社区技术股份有限公司 粤ICP备10213128号
+.taichuan.com
+.taichuan.net
+
+# 纬横数据 鲁ICP备17051601号-1
+.vhengdata.com
 
 # 万集科技 京ICP备18036282号-2
 .wanji.net.cn
-
-# 广州市雅望互联网服务有限公司
-.gzyowin.com
 
 # 杭州烨彬科技有限公司 浙ICP备2024084590号
 .yebinnet.com

@@ -1381,6 +1381,10 @@ gamer-cds.cdn.hinet.net
 .dm-event.net
 .dmcdn.net
 # End of dailymotion
+# Included from dandanplay
+.dandanplay.com
+.dandanplay.net
+# End of dandanplay
 # Included from dandanzan
 .dandanzan.cc
 .nunuyy.cc
@@ -2438,6 +2442,7 @@ yt3.googleusercontent.com
 .qobuz.com
 .sendvid.com
 .syosetu.com
+.unsplash.com
 .weverse.io
 .yande.re
 
