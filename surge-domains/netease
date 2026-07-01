@@ -29,6 +29,7 @@
 .qiyukf.net
 .qiyukf.net.cn
 .static163.net
+.weiyang.cn
 .ydstatic.com
 .yeah.net
 .youdao.com
@@ -36,6 +37,11 @@
 .yunxindns.com
 .yunxinfw.com
 .zhuanzfx.com
+
+# 永劫无间
+.yjwujian.cn
+# 燕云十六声
+.yysls.cn
 
 # Ads/tracking
 .a.youdao.com

@@ -243,6 +243,16 @@
 # End of tencent-tme
 # Included from yuewen
 
+.aireads.cn
+.chatdrama.cn
+.chatdrama.net
+.chatqidian.cn
+.chatqidian.net
+.chattext.cn
+.chatwrite.net
+.chatxiaoxiang.com
+.chatyuewen.cn
+.dishu3.com
 .hongxiu.com
 .qdmm.com
 .qidian.com
@@ -252,6 +262,7 @@
 .xs.cn
 .xs8.cn
 .xxsy.net
+.xxsypro.com
 .yuewen.com
 # End of yuewen
 
@@ -265,6 +276,7 @@
 .gtimg.com.cn
 .idqqimg.com
 .imqq.com
+.iot-tencent.com
 .myapp.com
 .qlivecdn.com
 .qlogo.cn
@@ -290,11 +302,13 @@
 .wechatpay.cn
 .weishi.com
 .weixin.com
+.weixinsxy.com
 .weiyun.com
 .wxaurl.cn
 .wxcloudrun.com
 .wxgateway.com
 .wxlivecdn.com
+.wxmpurl.cn
 
 # 腾讯视频海外版
 .wetv.vip

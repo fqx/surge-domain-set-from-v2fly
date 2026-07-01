@@ -115,6 +115,7 @@
 # Included from cnblogs
 .blogjava.net
 .cnblogs.com
+.cnblogs.vip
 .cnitblog.com
 .cnweblog.com
 .cppblog.com
@@ -708,6 +709,9 @@ p9-juejin.byteimg.com
 .arcaea.cn
 # 《异象回声》游戏官网 沪ICP备2023010411号-1
 .astral-vector.com
+# 橙光
+.66rpg.com
+.cgyouxi.com
 # 畅游 (sohu)
 .changyou.com
 .cy.com
@@ -738,6 +742,9 @@ end.shallow.ink
 .longtugame.com
 # 北京慕飞科技 京ICP备20006112号-2
 .morefreegame.com
+# 途游
+.nalrer.cn
+.tuyoo.com
 # Phira
 .phira.cn
 # 盛趣游戏 浙ICP备17039406号-1
@@ -747,14 +754,16 @@ end.shallow.ink
 # 沪ICP备18041304号-1
 .tgpro.top
 .tgprocs.net
-# 途游
-.tuyoo.com
 # Wine游戏助手 京ICP备18041936号
 .winegame.net
 # 畅玩空间 冀ICP备20019223号
 .wo1wan.com
 # 云蟾游戏 沪ICP备11009299号
 .ycgame.com
+# 永劫无间
+.yjwujian.cn
+# 燕云十六声
+.yysls.cn
 # End of category-games-cn
 
 # Included from aamgame
@@ -870,6 +879,9 @@ apilog-web.acfun.cn
 
 # 抖音支付
 .douyinpay.com
+
+# 抖音开放平台
+.open-douyin.com
 # End of douyin
 # Included from douyu
 .douyu.com
@@ -1931,6 +1943,8 @@ wlog.kuaishou.com
 .71shi.net
 .goodq.top
 .haowenti.net
+# 中国军网
+.81.cn
 # 站长网
 .admin5.com
 # 安徽财经网
@@ -2036,6 +2050,8 @@ ctdsb.clouddiffuse.xyz
 .dzwww.com
 # 东方网
 .eastday.com
+# 亿邦动力
+.ebrun.com
 # 经济观察网
 .eeo.com.cn
 # 爱活网
@@ -2141,6 +2157,9 @@ ctdsb.clouddiffuse.xyz
 .kankannews.com
 .kksmg.com
 .statickksmg.com
+# 中国科技网/科技日报
+.kjrb.com.cn
+.stdaily.com
 # 新智派
 .knewsmart.com
 # 晚点
@@ -2255,6 +2274,8 @@ ctdsb.clouddiffuse.xyz
 # 动脉网
 .vbdata.cn
 .vcbeat.top
+# 中工网/工人日报社
+.workercn.cn
 # 人人都是产品经理
 .woshipm.com
 # 新华日报
@@ -3121,6 +3142,13 @@ ctdsb.clouddiffuse.xyz
 
 ## 深圳市百悦通信
 .100ycdn.com
+## 文派科技
+.admincdn.com
+.cravatar.cn
+.cravatar.com
+.wenpai.org
+.windfonts.com
+.wpcy.com
 ## 百家云
 .baijiayun.com
 ## 123 云盘 CDN
@@ -3332,6 +3360,9 @@ ctdsb.clouddiffuse.xyz
 .btghotels.com
 .bthhotels.com
 .homeinns.com
+## 嘀嗒出行
+.didachuxing.com
+.didapinche.com
 ## 多点新鲜
 .dmall.com
 .dmallcdn.com
@@ -3481,6 +3512,7 @@ ss.bjmu.edu.cn
 # Party and government offices & Public units
 .12315.cn
 .12321.cn
+.12377.cn
 .gov.cn
 ## 中华全国总工会
 .acftu.org
@@ -3739,6 +3771,8 @@ study.163.com
 # 班小二
 .banxiaoer.com
 .banxiaoer.net
+# 爱思博特国际教育
+.beie.org
 # 毕业之家科研服务平台
 .biyehome.net
 # Burning Vocabulary
@@ -3767,6 +3801,8 @@ study.163.com
 .zgsydw.com
 # 高考100
 .gk100.com
+# 智德通达
+.guojibk.com
 # 华图
 .huatu.com
 .sydw8.com
@@ -4236,6 +4272,7 @@ ai.zhaomi.cn
 .51pptmoban.com
 .51wendang.com
 .52ppt.com
+.777ppt.com
 .badou.com
 .book118.com
 .daodoc.com
@@ -4245,6 +4282,7 @@ ai.zhaomi.cn
 .goldhoe.com
 .haohaodoc.com
 .jinchutou.com
+.keniu.com
 .lazyer.net
 .renrendoc.com
 .safewk.com
@@ -4478,6 +4516,10 @@ ai.zhaomi.cn
 .123pan.cn
 .123pan.com
 .123panpay.com
+
+# 光鸭云盘
+.guangyacdn.com
+.guangyapan.com
 
 # End of category-netdisk-cn
 # Included from category-ntp-cn
@@ -4798,6 +4840,8 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 ## 兑吧
 .dui88.com
 .duiba.com.cn
+## 旷视科技（人脸识别）
+.faceid.com
 ## 方正字库
 .foundertype.com
 ## 发现报告
@@ -4875,6 +4919,8 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .xbext.com
 ## 印象笔记
 .yinxiang.com
+## 云片
+.yunpian.com
 ## 在行
 .zaih.com
 ## 智联招聘
@@ -5627,6 +5673,7 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .sunrocks.cn
 ## 知道创宇
 .anquan.org
+.hackernews.cc
 .knownsec.com
 .yunaq.com
 ## 曹操出行
@@ -6049,7 +6096,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .eastsoo.com
 .eayyou.com
 .ebico.com
-.ebrun.com
 .ecjobhome.com
 .eeyy.com
 .eflycloud.com
@@ -6366,6 +6412,7 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .qudong.com
 .qugame.com
 .rockyenglish.com
+.rrmj.plus
 .rtbasia.com
 .ruan8.com
 .ruiwen.com
@@ -6485,6 +6532,7 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .wdzj.com
 .weand.com
 .weavatar.com
+.webportal.top
 .weicaifu.com
 .weilaicaijing.com
 .weixing.com
