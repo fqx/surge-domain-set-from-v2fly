@@ -177,7 +177,6 @@ azuremarketplace.microsoft.com
 .bingvisualsearch.com
 .bingworld.com
 .bluehatnights.com
-.copilot.microsoft.com
 .dictate.ms
 .flipwithsurface.com
 .masalladeloslimites.com
@@ -193,6 +192,9 @@ azuremarketplace.microsoft.com
 .renovacionoffice.com
 .sprinklesapp.com
 
+# Copilot
+.copilot.com
+.copilot.microsoft.com
 location.microsoft.com
 
 .cn.bing.com

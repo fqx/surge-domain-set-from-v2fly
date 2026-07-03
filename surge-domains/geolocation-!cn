@@ -170,14 +170,16 @@ antigravity.googleapis.com
 # CDN & API
 .openai.com.cdn.cloudflare.net
 openaiapi-site.azureedge.net
+openaiassets.blob.core.windows.net
 openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 openaicom.imgix.net
 openaicomproductionae4b.blob.core.windows.net
 production-openaicom-storage.azureedge.net
 
 # tracking
-o33249.ingest.sentry.io
 browser-intake-datadoghq.com
+o33249.ingest.sentry.io
+openai.qualtrics.com
 
 # Advanced Voice
 .chatgpt.livekit.cloud
@@ -222,6 +224,10 @@ pplx-res.cloudinary.com
 .cohere.ai
 .cohere.com
 
+# Copilot
+.copilot.com
+.copilot.microsoft.com
+
 # Jasper
 .clipdrop.co
 .jasper.ai
@@ -231,7 +237,6 @@ pplx-res.cloudinary.com
 .arena.ai
 .chutes.ai
 .clawhub.ai
-.copilot.microsoft.com
 .crewai.com
 .devin.ai
 .diabrowser.com
@@ -28504,7 +28509,6 @@ azuremarketplace.microsoft.com
 .bingvisualsearch.com
 .bingworld.com
 .bluehatnights.com
-.copilot.microsoft.com
 .dictate.ms
 .flipwithsurface.com
 .masalladeloslimites.com
@@ -28520,6 +28524,9 @@ azuremarketplace.microsoft.com
 .renovacionoffice.com
 .sprinklesapp.com
 
+# Copilot
+.copilot.com
+.copilot.microsoft.com
 location.microsoft.com
 
 .cn.bing.com
