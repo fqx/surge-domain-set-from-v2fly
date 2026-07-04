@@ -1,18 +1,27 @@
 # This list is for backward compatibility of "geosite:cn" in V2Ray.
 
 # Included from tld-cn
-# Reference: https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains
+# References:
+# https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains
+# https://www.iana.org/domains/root/db
 
 .alibaba
 .alipay
+.anquan
 .baidu
 .citic
 .cn
 .icbc
+.shouji
+.sina
 .sohu
 .taobao
 .tmall
 .unicom
+.weibo
+.xihuan
+.yun
+
 
 # Reference: https://domain.miit.gov.cn
 # .香港 is ignored due to not in China mainland
@@ -5477,6 +5486,12 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .wztsy.com
 .yiwanzhushou.com
 # End of starworld
+
+# TLDs
+.anquan
+.shouji
+.xihuan
+.yun
 
 .360.cn
 .360.com
