@@ -211,6 +211,9 @@ logs.ads.vungle.com
 # 航旅纵横
 .analytics.umetrip.com
 .sensors.umetrip.com.cn
+
+# Freestar ads
+.pub.network
 # End of category-ads
 
 # Included from adjust
