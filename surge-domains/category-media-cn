@@ -124,6 +124,17 @@
 # All .sohu domains
 .sohu
 
+# Included from changyou
+# 搜狐畅游
+.17173.com
+.17173cdn.com
+.changyou.com
+.cy.com
+.playcool.com
+.yeyou.com
+.yeyoucdn.com
+# End of changyou
+
 .focus-img.cn
 .focus.cn
 .itc.cn

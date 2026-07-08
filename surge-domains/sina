@@ -3,11 +3,8 @@
 .weibo
 
 .97973.com
-.hk.weibo.com
-.my.weibo.com
-.overseas.weibo.com
+.krcom.cn
 .picself.cn
-.sg.weibo.com
 .sina.cn
 .sina.com
 .sina.com.cn
@@ -19,9 +16,6 @@
 .sinajs.cn
 .sinajs.com
 .t.cn
-.th.weibo.com
-.tw.weibo.com
-.us.weibo.com
 .videoself.cn
 .wbimg.cn
 .wbimg.com
@@ -32,6 +26,14 @@
 .weibocdn.com
 .weibopay.com
 .xhaiwai.com
+
+.hk.weibo.com
+.my.weibo.com
+.overseas.weibo.com
+.sg.weibo.com
+.th.weibo.com
+.tw.weibo.com
+.us.weibo.com
 
 # Ads/tracking
 .ad.sina.com.cn

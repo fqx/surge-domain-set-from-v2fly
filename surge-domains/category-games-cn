@@ -82,6 +82,16 @@
 # From reverse 1999
 .sl916.com
 # End of bluepoch-games
+# Included from changyou
+# 搜狐畅游
+.17173.com
+.17173cdn.com
+.changyou.com
+.cy.com
+.playcool.com
+.yeyou.com
+.yeyoucdn.com
+# End of changyou
 # Included from cowlevel
 .cowlevel.net
 .cdncl.net
@@ -292,10 +302,6 @@
 # 橙光
 .66rpg.com
 .cgyouxi.com
-# 畅游 (sohu)
-.changyou.com
-.cy.com
-.playcool.com
 # 终末地-协议终端
 end-api.shallow.ink
 end.shallow.ink
@@ -325,12 +331,22 @@ end.shallow.ink
 # 途游
 .nalrer.cn
 .tuyoo.com
+# 叠纸游戏
+.nikkigames.cn
+.nikkigames.com.cn
+.papegames.cn
+.papegames.com
 # Phira
 .phira.cn
 # 盛趣游戏 浙ICP备17039406号-1
 .sdo.com
 .shengqugames.com
 .zjshulong.com
+# 贪玩游戏
+.tanwan.com
+.twyx.cn
+.twyxh.com
+.zx.com
 # 沪ICP备18041304号-1
 .tgpro.top
 .tgprocs.net

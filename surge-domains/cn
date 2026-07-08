@@ -511,6 +511,16 @@ p9-juejin.byteimg.com
 # From reverse 1999
 .sl916.com
 # End of bluepoch-games
+# Included from changyou
+# 搜狐畅游
+.17173.com
+.17173cdn.com
+.changyou.com
+.cy.com
+.playcool.com
+.yeyou.com
+.yeyoucdn.com
+# End of changyou
 # Included from cowlevel
 .cowlevel.net
 .cdncl.net
@@ -721,10 +731,6 @@ p9-juejin.byteimg.com
 # 橙光
 .66rpg.com
 .cgyouxi.com
-# 畅游 (sohu)
-.changyou.com
-.cy.com
-.playcool.com
 # 终末地-协议终端
 end-api.shallow.ink
 end.shallow.ink
@@ -754,12 +760,22 @@ end.shallow.ink
 # 途游
 .nalrer.cn
 .tuyoo.com
+# 叠纸游戏
+.nikkigames.cn
+.nikkigames.com.cn
+.papegames.cn
+.papegames.com
 # Phira
 .phira.cn
 # 盛趣游戏 浙ICP备17039406号-1
 .sdo.com
 .shengqugames.com
 .zjshulong.com
+# 贪玩游戏
+.tanwan.com
+.twyx.cn
+.twyxh.com
+.zx.com
 # 沪ICP备18041304号-1
 .tgpro.top
 .tgprocs.net
@@ -1354,6 +1370,8 @@ wlog.kuaishou.com
 .shuhai.com
 # 塔读小说
 .tadu.com
+# 看理想
+.vistopia.com.cn
 # 江山文学
 .vsread.com
 # 树梦
@@ -1385,9 +1403,6 @@ wlog.kuaishou.com
 .vgtime.com
 # End of vgtime
 
-## 17173网 (sohu)
-.17173.com
-.17173cdn.com
 ## 18183网
 .18183.com
 ## 3DM游戏网
@@ -1882,6 +1897,17 @@ wlog.kuaishou.com
 # Included from sohu
 # All .sohu domains
 .sohu
+
+# Included from changyou
+# 搜狐畅游
+.17173.com
+.17173cdn.com
+.changyou.com
+.cy.com
+.playcool.com
+.yeyou.com
+.yeyoucdn.com
+# End of changyou
 
 .focus-img.cn
 .focus.cn
@@ -2956,6 +2982,8 @@ ctdsb.clouddiffuse.xyz
 .dfyun.com.cn
 # FUNCDN
 .funcdn.com
+# 火毅盾
+.hydun.com
 # 北京知道创宇信息技术股份有限公司
 .jiashule.com
 .jiasule.com
@@ -3189,6 +3217,8 @@ ctdsb.clouddiffuse.xyz
 # Cloud Service
 ## 华栖云
 .chinamcloud.com
+## CmsTop 媒体云
+.cjyun.org
 ## 安徽大家网络科技
 .cnwza.cn
 .govwza.cn
@@ -4134,6 +4164,12 @@ study.163.com
 # 蚂蚁阿福
 .antafu.com
 .antaq.com
+
+# Happy Horse
+.aorizon.cn
+.happyhorse.cn
+.happyshrimp.cn
+.sleeplesshorizon.cn
 
 # 文心一言
 .yiyan.baidu.com

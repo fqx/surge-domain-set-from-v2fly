@@ -21,6 +21,39 @@
 # - You can still add `*.ru` domains here if you want
 
 # Subcategories
+# Included from category-ai-ru
+# Aiesa (AI assistant)
+.aiesa.ru
+
+# Yandex Alice
+.alice.yandex.net
+.alice.yandex.ru
+.alicepro.yandex.ru
+
+# CopyMonkey (AI copywriter)
+.copymonkey.app
+
+# Gerwin (AI copywriter)
+.gerwin.io
+
+# Sberbank GigaChat
+.giga.chat
+
+# GPTunnel (LLM aggregator)
+.gptunnel.ru
+
+# Polza (LLM aggregator)
+.polza.ai
+
+# RoboText (AI text generator)
+.robotext.io
+
+# RuGPT (AI text generator)
+.rugpt.io
+
+# Tokenator (LLM aggregator)
+.tokenator.top
+# End of category-ai-ru
 # Included from category-betting-ru
 # Included from betboom
 .betboom.ru
@@ -51,6 +84,15 @@
 
 stats.avito.ru
 # End of avito
+# Included from flowwow
+.flowwow-images.com
+.flowwow.com
+# End of flowwow
+# Included from funpay
+.funpay.com
+.funpay.ru
+.sfunpay.com
+# End of funpay
 # Included from ozon
 .ewisdom.us.kg
 .o3.ru
@@ -1507,6 +1549,7 @@ sentry.popmechanic.ru
 .tilda.ws
 .tildaapi.com
 .tildacdn.com
+.tildacdn.net
 # End of tilda
 # Included from timeweb
 .timeweb.cloud
