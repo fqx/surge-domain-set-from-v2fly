@@ -4,6 +4,11 @@
 .asproex.com
 .asproexapi.com
 # End of asproex
+# Included from bestchange
+.bestchange.com
+.bestchange.net
+.bestchange.ru
+# End of bestchange
 # Included from binance
 .binance.cc
 .binance.charity
@@ -235,6 +240,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 .curve.fi
 .cyberx.com
 .debank.com
+.delets.online
 .dogecoin.com
 .drpc.org
 .dydx.exchange
@@ -262,11 +268,16 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 .mytokenapi.com
 .nodereal.io
 .oasis.io
+.onemoment.cc
 .onfinality.io
 .opensea.io
 .osl.com
 .paxful.com
+.payget.pro
+.platov.co
 .polymarket.com
+.ramon.cash
+.ramon.money
 .ripple.com
 .rsk.co
 .satoshilabs.com

@@ -381,6 +381,8 @@ pplx-res.cloudinary.com
 .getoutline.org
 .gfw.report
 .guardianproject.info
+.happ.info
+.happ.su
 .hiddify.com
 .jitsi.org
 .lokinet.org
@@ -3889,6 +3891,11 @@ hammerandchisel.ssl.zendesk.com
 .asproex.com
 .asproexapi.com
 # End of asproex
+# Included from bestchange
+.bestchange.com
+.bestchange.net
+.bestchange.ru
+# End of bestchange
 # Included from binance
 .binance.cc
 .binance.charity
@@ -4120,6 +4127,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 .curve.fi
 .cyberx.com
 .debank.com
+.delets.online
 .dogecoin.com
 .drpc.org
 .dydx.exchange
@@ -4147,11 +4155,16 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 .mytokenapi.com
 .nodereal.io
 .oasis.io
+.onemoment.cc
 .onfinality.io
 .opensea.io
 .osl.com
 .paxful.com
+.payget.pro
+.platov.co
 .polymarket.com
+.ramon.cash
+.ramon.money
 .ripple.com
 .rsk.co
 .satoshilabs.com
@@ -5600,6 +5613,7 @@ pchomeonline.com.tw
 .pornhubapparel.com
 .readmoo.com
 .redino.tw
+.templatemonster.com
 # End of category-ecommerce
 
 # E-learning & Knowledge & Press & Scholar & Science & Technology
@@ -21033,6 +21047,7 @@ amp.akamaized.net
 .mate-desktop.org
 .mingw.org
 .mobatek.net
+.motocms.com
 .mpv.io
 .msys2.org
 .mysql.com
@@ -21091,6 +21106,7 @@ amp.akamaized.net
 .zsh.org
 
 # WordPress plugins
+.crocoblock.com
 .elegantthemes.com
 .hivepress.io
 .motopress.com
