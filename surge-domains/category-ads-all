@@ -260,6 +260,12 @@ logs.ads.vungle.com
 .segmenthub.com
 .segmentify.com
 # End of segment
+# Included from sentry
+.getsentry.com
+.sentry.dev
+.sentry.io
+.sentry-cdn.com
+# End of sentry
 # Included from supersonic
 .ssacdn.com
 .supersonic.com

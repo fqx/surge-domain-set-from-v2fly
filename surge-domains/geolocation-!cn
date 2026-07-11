@@ -20864,6 +20864,8 @@ vsmarketplacebadge.apphb.com
 .scala-sbt.org
 # End of scala
 # Included from sentry
+.getsentry.com
+.sentry.dev
 .sentry.io
 .sentry-cdn.com
 # End of sentry
