@@ -705,6 +705,11 @@ p9-juejin.byteimg.com
 # 橙光
 .66rpg.com
 .cgyouxi.com
+# 多益网络
+.duoyi.com
+.duoyigroup.cn
+.duoyiwangluo.com
+.ygduoyi.com
 # 终末地-协议终端
 end-api.shallow.ink
 end.shallow.ink
@@ -718,6 +723,9 @@ end.shallow.ink
 .gameabc.com
 # 游戏魅 合肥启云软件 皖B2-20160087-3
 .gamemei.com
+# 乐元素
+.happyelements.com
+.leyuansu.com
 # Enhance Gaming
 .heavenlywind.cc
 # 完美世界 (Note: geosite:wanmei contains more non-game domains)
@@ -1896,6 +1904,9 @@ wlog.kuaishou.com
 .56.com
 .56img.com
 
+# 快站
+.kuaizhan.com
+
 # Ads/tracking
 .adnet.sohu.com
 .ads.sohu.com
@@ -1996,6 +2007,9 @@ wlog.kuaishou.com
 .cfgw.net.cn
 # 中国家电网
 .cheaa.com
+# 潇湘晨报
+.chenshipin.com
+.xxcb.cn
 # AET 电子技术应用
 .chinaaet.com
 # 天极网
@@ -2004,9 +2018,16 @@ wlog.kuaishou.com
 .yesky.com
 # 中国发展网
 .chinadevelopment.com.cn
+# 四川日报
+.chuanbaoguancha.cn
+.scol.com.cn
+.scdaily.cn
 # 中金在线
 .cnfol.com
 .cnfolimg.com
+# 荆楚网/湖北日报
+.cnhubei.com
+.hubeidaily.net
 # 央广网
 .cnr.cn
 # 上海证券报
@@ -2074,6 +2095,8 @@ ctdsb.clouddiffuse.xyz
 .fjsen.com
 # FreeBuf 网络安全行业门户
 .freebuf.com
+# 极客网
+.fromgeek.com
 # 极客邦
 .geekbang.org
 .infoq.cn
@@ -2235,6 +2258,8 @@ ctdsb.clouddiffuse.xyz
 .qianzhan.com
 # 青岛之窗
 .qingdaochina.org
+# 泉州晚报
+.qzwb.com
 # 红网
 .rednet.cn
 # 四川网络广播电视台
@@ -2249,6 +2274,10 @@ ctdsb.clouddiffuse.xyz
 .sfccn.com
 # 商业新知
 .shangyexinzhi.com
+# 上海教育传媒网
+.shedunews.net
+# 遂宁新闻网
+.snxw.com
 # 奇客资讯网
 .solidot.org
 # 速途网
@@ -3192,6 +3221,8 @@ ctdsb.clouddiffuse.xyz
 ## 速方云
 .suufun.com
 .suu-fun.com
+## 亿速云
+.yisu.com
 
 # Cloud Service
 ## 华栖云
@@ -3201,6 +3232,10 @@ ctdsb.clouddiffuse.xyz
 ## 安徽大家网络科技
 .cnwza.cn
 .govwza.cn
+## 新空云
+.newaircloud.com
+## 趣看科技
+.quklive.com
 ## 广州润雨科技有限公司 粤ICP备19052839号
 .rainyun.com
 ## 深圳市狐蒂云网络科技有限公司 粤ICP备2025387186号-1
@@ -3420,6 +3455,9 @@ ctdsb.clouddiffuse.xyz
 ## 银泰百货
 .intime.com.cn
 .linkheer.com
+## 法律快车
+.lawtime.cn
+.lawtimeimg.com
 ## 慢慢买
 .manmanbuy.com
 ## 美物清单
@@ -3518,6 +3556,12 @@ ss.bjmu.edu.cn
 .hdfimg.com
 ## 江苏健康通
 .jsehealth.com
+## 民福康
+.39yst.com
+.mfk.com
+## 妙手医生
+.miaoshou.net
+.miaoshoucdn.com
 ## 仁科医疗科技有限公司服务域名，为北大口腔和一些其他国内医院小程序提供服务
 .mingxuan.store
 ## 爱问医生
@@ -3626,6 +3670,10 @@ ss.bjmu.edu.cn
 .bmac.com.cn
 ## 车来了
 .chelaile.net.cn
+## 活力智汇/高铁管家/航班管家
+.133.cn
+.gtgjtrip.com
+.rsscc.cn
 ## 跨境巴士
 .kuajing84.com
 ## 掌上公交
@@ -4216,6 +4264,8 @@ ai.zhaomi.cn
 .faxingbao.com
 
 # 可灵AI（快手）
+.kechuangai.com
+.kling-ai.com
 .klingai.com
 
 # 上海秘塔网络科技
@@ -4309,7 +4359,6 @@ ai.zhaomi.cn
 .goldhoe.com
 .haohaodoc.com
 .jinchutou.com
-.keniu.com
 .lazyer.net
 .renrendoc.com
 .safewk.com
@@ -4619,8 +4668,13 @@ ntp5.tencent.com
 .chinaz.net
 # End of chinaz
 # Included from colorfulclouds
+# 彩云天气
 .caiyunai.com
 .caiyunapp.com
+.caiyuncdn.com
+.colorfulclouds.com
+.colorfulclouds.net
+.xiaomengai.com
 # End of colorfulclouds
 # Included from flowus
 .allflow.cn
@@ -4715,8 +4769,16 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .zcool.com.cn
 # End of meitu
 # Included from moji
+# 墨迹天气
+.airnut.com
 .moji.com
+.moji001.com
+.moji002.com
+.mojicdn.com
 .mojichina.com
+
+# Ads
+.ad.api.moji.com
 # End of moji
 # Included from moonvy
 # 月维设计管理
@@ -4954,6 +5016,9 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 ## 智联招聘
 .zhaopin.cn
 .zhaopin.com
+## 最美天气
+.zmtqsh.cn
+.zmtqsh.com
 
 ## 上海东方怡动信息技术有限公司
 .ewdcloud.com
@@ -5298,14 +5363,18 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 # End of jushuitan
 # Included from kingsoft
 # Included from cheetahmobile
+# 猎豹移动
+.cheetahfun.com
 .cmcm.com
 .cmcmcdn.com
 .liebao.cn
 
-# Antivirus
+# Products
+.drivergenius.com
 .duba.com
 .duba.net
 .ijinshan.com
+.keniu.com
 # End of cheetahmobile
 # Included from seasun
 # 西山居
@@ -5718,12 +5787,22 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .ishijue.com
 .vcg.com
 .vcgapi.com
+## 视源/视臻/视睿
+.cvte.com
+.maxhub.com
+.seewo.com
 ## 飞牛
 .fnnas.com
 .fnnas.net
 .fnos.net
 ## 咕咕数据
 .gugudata.com
+## 二三四五
+.2345.cc
+.2345.cn
+.2345.com
+.2345cdn.net
+.hao774.com
 ## 稿定（厦门）信息服务有限公司
 ### 花瓣网 闽ICP备2021013850号
 .huaban.com
@@ -5874,7 +5953,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .1zhe.com
 .2265.com
 .2288.org
-.2345.com
 .258.com
 .263.net
 .289.com
@@ -6120,7 +6198,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .downxia.com
 .downyi.com
 .dreams-travel.com
-.drivergenius.com
 .duomai.com
 .duoshuo.com
 .duote.com
@@ -6302,7 +6379,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .kuaaa.com
 .kuaihou.com
 .kuaiji.com
-.kuaizhan.com
 .kuqin.com
 .kuyiso.com
 .lady8844.com
@@ -6651,7 +6727,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .yinzhaowang.com
 .yiqifa.com
 .yiqifa.org
-.yisu.com
 .yitaifang.com
 .yiwan.com
 .yixi.tv
