@@ -1,8 +1,14 @@
 .kino.pub
+.kino.watch
 .kinopub.online
 .kpdl.link
 
 # Mirror sites
+
+# kinopub API services
+.api.alador.space
+.m.alador.space
+.support-kp.com
 
 # kinopub CDN servers
 .cdn-service.space
