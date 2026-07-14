@@ -24,9 +24,6 @@
 .ospray.org
 # End of intel-dev
 
-# All .intel domains
-.intel
-
 .intel.ac
 .intel.ae
 .intel.af

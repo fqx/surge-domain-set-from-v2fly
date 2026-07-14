@@ -1786,7 +1786,6 @@ tesla-cdn.thron.com
 .alfabank.st
 .alfadirect.ru
 .myapelsin.ru
-.alfabank.oavdo.amc
 
 # BBR
 .bbr.ru
@@ -6942,9 +6941,6 @@ hb.imgix.net
 .itch.zone
 # End of itchio
 # Included from konami
-# All .konami domains
-.konami
-
 .573.jp
 .kgisystems.com
 .kiwi.jp
@@ -8361,6 +8357,9 @@ osxapps.itunes.g.aaplimg.com
 .iyf.tv
 .yfsp.tv
 # End of iyf
+# Included from kick
+.kick.com
+# End of kick
 # Included from kingkonglive
 .kingkong.com.tw
 .kingkongapp.com
@@ -21186,11 +21185,7 @@ lm.licenses.adobe.com
 lmlicenses.wip4.adobe.com
 na1r.services.adobe.com
 ood.opsource.net
-practivate.adobe
 practivate.adobe.com
-practivate.adobe.ipp
-practivate.adobe.newoa
-practivate.adobe.ntp
 wip.adobe.com
 wip1.adobe.com
 wip2.adobe.com
@@ -22034,9 +22029,6 @@ yt3.googleusercontent.com
 
 # All .gmail domains
 .gmail
-
-# All .goo domains
-.goo
 
 # All .goog domains
 .goog
@@ -27058,9 +27050,6 @@ hpefonts.s3.amazonaws.com
 .ospray.net
 .ospray.org
 # End of intel-dev
-
-# All .intel domains
-.intel
 
 .intel.ac
 .intel.ae

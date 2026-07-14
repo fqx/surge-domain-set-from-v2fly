@@ -574,9 +574,6 @@ yt3.googleusercontent.com
 # All .gmail domains
 .gmail
 
-# All .goo domains
-.goo
-
 # All .goog domains
 .goog
 

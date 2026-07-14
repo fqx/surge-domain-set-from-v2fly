@@ -504,9 +504,6 @@ hb.imgix.net
 .itch.zone
 # End of itchio
 # Included from konami
-# All .konami domains
-.konami
-
 .573.jp
 .kgisystems.com
 .kiwi.jp
@@ -1923,6 +1920,9 @@ osxapps.itunes.g.aaplimg.com
 .iyf.tv
 .yfsp.tv
 # End of iyf
+# Included from kick
+.kick.com
+# End of kick
 # Included from kingkonglive
 .kingkong.com.tw
 .kingkongapp.com
