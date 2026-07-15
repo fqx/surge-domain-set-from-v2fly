@@ -1341,6 +1341,13 @@ wlog.kuaishou.com
 .pearvideo.com
 # 皮皮网
 .pipi.cn
+# 人人视频
+.rrmj.plus
+.rrsp.app
+.rrsp.com.cn
+.qwapp.top
+.qwdjapp.com
+.yichengwlkj.com
 # SF轻小说二次元
 .sfacg.com
 # 书海小说
@@ -3864,10 +3871,14 @@ study.163.com
 .zggqzp.com
 .zgjsks.com
 .zgsydw.com
+# 高绩网
+.gaojidata.com
 # 高考100
 .gk100.com
 # 智德通达
 .guojibk.com
+# 广州应用科技学院
+.gzasc.com
 # 华图
 .huatu.com
 .sydw8.com
@@ -6526,7 +6537,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .qudong.com
 .qugame.com
 .rockyenglish.com
-.rrmj.plus
 .rtbasia.com
 .ruan8.com
 .ruiwen.com
