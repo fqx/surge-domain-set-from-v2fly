@@ -117,6 +117,7 @@ notebooklm.googleapis.com
 # Google AI Labs
 .labs.google
 .labs.google.com
+.flow.google
 .aisandbox-pa.googleapis.com
 
 # Android Studio Gemini Code Assist
@@ -222,6 +223,7 @@ pplx-res.cloudinary.com
 .cohere.com
 
 # Copilot
+.copilot-stg.com
 .copilot.cloud.microsoft
 .copilot.com
 .copilot.microsoft.com

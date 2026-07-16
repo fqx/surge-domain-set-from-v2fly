@@ -53,6 +53,7 @@
 .azuredns-prd.org
 .azureedge-test.net
 .azureedge.net
+.azureedge.us
 .azurefd.net
 .azurehdinsight.cn
 .azureiotcentral.com
@@ -195,6 +196,7 @@ azuremarketplace.microsoft.com
 .sprinklesapp.com
 
 # Copilot
+.copilot-stg.com
 .copilot.cloud.microsoft
 .copilot.com
 .copilot.microsoft.com

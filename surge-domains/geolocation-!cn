@@ -121,6 +121,7 @@ notebooklm.googleapis.com
 # Google AI Labs
 .labs.google
 .labs.google.com
+.flow.google
 .aisandbox-pa.googleapis.com
 
 # Android Studio Gemini Code Assist
@@ -226,6 +227,7 @@ pplx-res.cloudinary.com
 .cohere.com
 
 # Copilot
+.copilot-stg.com
 .copilot.cloud.microsoft
 .copilot.com
 .copilot.microsoft.com
@@ -1483,9 +1485,6 @@ fontshop-prod-responsive-images.s3.amazonaws.com
 .teslamotors.com.cn
 .teslazta.net
 .ts.la
-
-tesla-cdn.thron.cn
-tesla-cdn.thron.com
 # End of tesla
 # Included from volvo
 # All .volvo domains
@@ -8446,6 +8445,7 @@ agb9r0ad.qllfkl.com
 # End of likee
 # Included from manhuagui
 .manhuagui.com
+.mhgui.com
 # End of manhuagui
 # Included from metacritic
 .metacritic.com
@@ -21686,6 +21686,7 @@ notebooklm.googleapis.com
 # Google AI Labs
 .labs.google
 .labs.google.com
+.flow.google
 .aisandbox-pa.googleapis.com
 
 # Android Studio Gemini Code Assist
@@ -28674,6 +28675,7 @@ developers.facebook.com
 .azuredns-prd.org
 .azureedge-test.net
 .azureedge.net
+.azureedge.us
 .azurefd.net
 .azurehdinsight.cn
 .azureiotcentral.com
@@ -28816,6 +28818,7 @@ azuremarketplace.microsoft.com
 .sprinklesapp.com
 
 # Copilot
+.copilot-stg.com
 .copilot.cloud.microsoft
 .copilot.com
 .copilot.microsoft.com
@@ -30266,6 +30269,7 @@ impala-media-production.s3.amazonaws.com
 # End of sony
 # Included from spacex
 .spacex.com
+.starlink.com
 # End of spacex
 # Included from spaceship
 # Included from spacemail
