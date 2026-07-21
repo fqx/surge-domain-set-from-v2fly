@@ -77,11 +77,15 @@
 .vpngate.net
 # End of vpngate
 
+trojan-gfw.github.io
+xtls.github.io
+
 .ahmia.fi
 .akasha.world
 .browserleaks.com
 .bypasscensorship.org
 .censorship.ai
+.clashyun.com
 .dat.foundation
 .democracy.earth
 .eff.org
@@ -97,6 +101,7 @@
 .hiddify.com
 .jitsi.org
 .lokinet.org
+.metacubex.one
 .ntc.party
 .onionshare.org
 .ooni.org
@@ -106,8 +111,8 @@
 .psiphon.ca
 .psiphon3.com
 .sagernet.org
-.sing-box.app
 .shadowsocks.org
+.sing-box.app
 .sspanel.net
 .stunnel.org
 .telex.cc
@@ -121,7 +126,4 @@
 .whonix.org
 .wikileaks.org
 .wireguard.com
-.xtls.github.io
-.trojan-gfw.github.io
 .zeronet.io
-.metacubex.one

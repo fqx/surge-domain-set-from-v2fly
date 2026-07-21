@@ -369,11 +369,15 @@ pplx-res.cloudinary.com
 .vpngate.net
 # End of vpngate
 
+trojan-gfw.github.io
+xtls.github.io
+
 .ahmia.fi
 .akasha.world
 .browserleaks.com
 .bypasscensorship.org
 .censorship.ai
+.clashyun.com
 .dat.foundation
 .democracy.earth
 .eff.org
@@ -389,6 +393,7 @@ pplx-res.cloudinary.com
 .hiddify.com
 .jitsi.org
 .lokinet.org
+.metacubex.one
 .ntc.party
 .onionshare.org
 .ooni.org
@@ -398,8 +403,8 @@ pplx-res.cloudinary.com
 .psiphon.ca
 .psiphon3.com
 .sagernet.org
-.sing-box.app
 .shadowsocks.org
+.sing-box.app
 .sspanel.net
 .stunnel.org
 .telex.cc
@@ -413,10 +418,7 @@ pplx-res.cloudinary.com
 .whonix.org
 .wikileaks.org
 .wireguard.com
-.xtls.github.io
-.trojan-gfw.github.io
 .zeronet.io
-.metacubex.one
 # End of category-anticensorship
 # Included from category-proxy-tunnels
 # Included from ngrok
@@ -2138,6 +2140,7 @@ education.tbank.ru
 .bank-credit-suisse-moscow.ru
 .bank131.com
 .bankermak.ru
+.best2pay.net
 .bfa.ru
 .blanc.ru
 .bm-bank.ru
@@ -2157,6 +2160,8 @@ education.tbank.ru
 .prvbank.ru
 .pskb.ru
 .pvubank.com
+.rbsgate.com
+.rbsuat.com
 .rencapbank.ru
 .rencredit.ru
 .rncoluminis.ru
@@ -8085,6 +8090,11 @@ disney.my.sentry.io
 .ficmania.com
 .teinon.net
 # End of ficbook
+# Included from formula1
+.formula1.com
+.f1.com
+.f1tv.com
+# End of formula1
 # Included from gimy
 .gimy.cc
 .gimy.co
