@@ -306,6 +306,22 @@ p9-juejin.byteimg.com
 .infineon.cn
 #infineon.com
 
+# 紫光集团
+.gosinoic.com
+.h3c.com
+.moedu.com
+.thunis.com
+.tsinghuaic.com
+.tsingtengms.com
+.unicloud.com
+.unigroup.com.cn
+.uniscan.cn
+.unisdigital.com
+.unisemicon.com
+.unisoc.com
+.unispc.com
+.uniswdc.com
+
 # 嘉立创集团
 # Included from jlc
 # 嘉立创
@@ -1281,6 +1297,8 @@ wlog.kuaishou.com
 .ccw.site
 # CdkeyNoGap
 .cdkeynogap.com
+# 彩视
+.colorv.com
 # 酷音铃声
 .diyring.cc
 .kuyin123.com
@@ -1322,10 +1340,16 @@ wlog.kuaishou.com
 # 酷匠网
 .kjcdn.com
 .kujiang.com
+# 来疯
+.laifeng.com
 # 1905电影网
 .1905.com
 .m1905.cn
 .m1905.com
+# 街机中国
+.mamecn.com
+# 漫漫看
+.manmankan.com
 # 喵御宅
 .mfuns.cn
 .mfuns.net
@@ -1358,6 +1382,9 @@ wlog.kuaishou.com
 .vistopia.com.cn
 # 江山文学
 .vsread.com
+# 西窗烛
+.xcz.im
+.xczim.com
 # 树梦
 .xinlishumeng.com
 # 祥云游社
@@ -1529,6 +1556,7 @@ wlog.kuaishou.com
 
 # 蒙牛
 .mengniu.com.cn
+.telunsu.net
 
 # 君乐宝
 .junlebaoruye.com
@@ -1988,6 +2016,8 @@ wlog.kuaishou.com
 .bbtnews.com.cn
 # 鞭牛士
 .bianews.com
+# 京报网
+.bjd.com.cn
 # 新京报
 .bjnews.com.cn
 .bkeconomy.com
@@ -2020,6 +2050,8 @@ wlog.kuaishou.com
 .yesky.com
 # 中国发展网
 .chinadevelopment.com.cn
+# 品牌网
+.chinapp.com
 # 四川日报
 .chuanbaoguancha.cn
 .scol.com.cn
@@ -2065,6 +2097,8 @@ ctdsb.clouddiffuse.xyz
 .zjstv.com
 # 大河网
 .dahe.cn
+.dingxinwen.cn
+.topnews.cn
 # 大河报
 .daheapp.com
 .dahebao.cn
@@ -2137,6 +2171,10 @@ ctdsb.clouddiffuse.xyz
 .voc.com.cn
 # 河南广播电视台/大象网
 .hntv.tv
+# 华商网
+.huashangtop.com
+.hsw.cn
+.myhsw.cn
 # 环球网
 .huanqiu.com
 .huanqiucdn.cn
@@ -2158,6 +2196,8 @@ ctdsb.clouddiffuse.xyz
 # 南方周末
 .infzm.com
 .nfpeople.com
+# 齐鲁网
+.iqilu.com
 # 艾瑞咨询
 .iresearch.cn
 # 科技视讯
@@ -2194,6 +2234,8 @@ ctdsb.clouddiffuse.xyz
 .kankannews.com
 .kksmg.com
 .statickksmg.com
+# 开封网
+.kf.cn
 # 中国科技网/科技日报
 .kjrb.com.cn
 .stdaily.com
@@ -2478,6 +2520,8 @@ ctdsb.clouddiffuse.xyz
 .s0n.cn
 # End of jiguang
 
+# LinkFlow
+.linkflowtech.com
 # 北京贵士信息科技有限公司
 .qchannel03.cn
 # 神策数据
@@ -2516,6 +2560,7 @@ ctdsb.clouddiffuse.xyz
 
 # Meituan
 .httpdns.meituan.com
+.httpdnsmultiapivip.meituan.com
 .httpdnsvip.meituan.com
 
 # NetEase
@@ -2848,6 +2893,9 @@ ctdsb.clouddiffuse.xyz
 .baicaf.com
 ## 航财通·校园付
 .cc-pay.cn
+## 橙券
+.51106.cn
+.chengquan.cn
 ## 易鑫金融
 .daikuan.com
 ## 嘟噜支付
@@ -3227,8 +3275,13 @@ ctdsb.clouddiffuse.xyz
 .suu-fun.com
 ## 亿速云
 .yisu.com
+## 静态资源 ZStatic
+.zstatic.net
 
 # Cloud Service
+## 书链
+.bookln.cn
+.zhizhuma.com
 ## 华栖云
 .chinamcloud.com
 ## CmsTop 媒体云
@@ -3236,6 +3289,9 @@ ctdsb.clouddiffuse.xyz
 ## 安徽大家网络科技
 .cnwza.cn
 .govwza.cn
+## 顶想云
+.kancloud.cn
+.topthink.com
 ## 新空云
 .newaircloud.com
 ## 趣看科技
@@ -3543,6 +3599,7 @@ ss.bjmu.edu.cn
 
 # 四川大学华西医院
 .cd120.com
+.cd120.info
 # End of category-hospital-cn
 ## 39健康网
 .39.net
@@ -3580,6 +3637,7 @@ ss.bjmu.edu.cn
 .12321.cn
 .12377.cn
 .gov.cn
+.mil.cn
 ## 中华全国总工会
 .acftu.org
 ## 中国气象局
@@ -3789,6 +3847,8 @@ study.163.com
 # 国家智慧教育公共服务平台
 .cbern.com.cn
 .smartedu.cn
+# 国家教育资源公共服务平台
+.eduyun.cn
 
 # 教育部学生服务与素质发展中心
 # 京ICP备19004913号
@@ -3850,6 +3910,9 @@ study.163.com
 .burningvocabulary.com
 # 世纪外语网
 .centuryenglish.com
+# 中教双元/教育在线
+.cepsp.cn
+.eol.cn
 # 中国地质大学 继续教育学院
 .cugbonline.cn
 # 大连财经学院 大财校园
@@ -3922,8 +3985,15 @@ study.163.com
 .pigai.org
 # 蜻蜓志愿
 .qingtingai.net
+# 曲一线教育
+.quyixian.com
+# 荣德基教育
+.rongdeji.cn
+.rudder.com.cn
 # 公考知识库
 .saduck.top
+# 天星教育
+.tesoon.com
 # 外研在线
 .unipus.cn
 # 未来云校
@@ -4114,6 +4184,8 @@ study.163.com
 .guoxuemi.com
 ## 科普中国
 .kepuchina.cn
+## 国家图书馆
+.nlc.cn
 ## 四川省文物考古研究院
 .sckg.com
 ## 温州市图书馆
@@ -4883,6 +4955,7 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 .dutils.com
 .hiaiabc.com
 .mobsdks.com
+.tec73.com
 .yksdks.com
 # End of zhangtao
 # Included from zhubajie
@@ -4943,6 +5016,8 @@ api.blipsandchitz.me
 ## 兑吧
 .dui88.com
 .duiba.com.cn
+## 易聊科技
+.easyliao.com
 ## 旷视科技（人脸识别）
 .faceid.com
 ## 方正字库
@@ -5016,6 +5091,9 @@ api.blipsandchitz.me
 .tianqistatic.com
 ## Via 浏览器
 .viayoo.com
+## 微盟
+.weimob.com
+.weimobdc.com
 ## 问卷网
 .wenjuan.com
 ## X 浏览器
@@ -5024,6 +5102,9 @@ api.blipsandchitz.me
 .yinxiang.com
 ## 云片
 .yunpian.com
+## 鱼泡直聘
+.yupao.com
+.yupaowang.com
 ## 在行
 .zaih.com
 ## 智联招聘
@@ -5032,6 +5113,7 @@ api.blipsandchitz.me
 ## 最美天气
 .zmtqsh.cn
 .zmtqsh.com
+.zuimeitianqi.com
 
 ## 上海东方怡动信息技术有限公司
 .ewdcloud.com
@@ -5464,7 +5546,6 @@ api.blipsandchitz.me
 
 # 联想（北京）有限公司 京ICP备11035381号
 .cftsupport.com
-.con-c-hybris.lenovo.com
 .ileapcloud.com
 .lenovocloudos.com
 .lenovo.cn
@@ -5477,6 +5558,9 @@ api.blipsandchitz.me
 .thinkcloudlab.com
 .thinkpad.com
 .zhiliaowenda.com.cn
+
+# 来酷科技有限公司
+.lecoo.com
 
 # 北京神奇工场科技有限公司 京ICP备15007699号
 .blurdev.com
@@ -5656,6 +5740,7 @@ api.blipsandchitz.me
 .sou.cn
 .sou.com
 .urlqh.cn
+.wukongsafe.cn
 .xiaoluyouxuan.com
 .xiaoluzhidian.com
 .xjietiao.com
@@ -5839,6 +5924,9 @@ api.blipsandchitz.me
 .shellpub.com
 .threatbook.cn
 .threatbook.com
+## 千图网
+.58pic.com
+.qiantucdn.com
 ## 新片场
 .xinpianchang.com
 .xpccdn.com
@@ -6017,7 +6105,6 @@ api.blipsandchitz.me
 .55.com
 .5577.com
 .55bbs.com
-.58pic.com
 .5bite.com
 .5fun.com
 .5gzm.net
@@ -6434,9 +6521,7 @@ api.blipsandchitz.me
 .lvmama.com
 .lxway.com
 .maisanqi.com
-.mamecn.com
 .manhuatai.com
-.manmankan.com
 .mapbar.com
 .mayi.com
 .mayihr.com

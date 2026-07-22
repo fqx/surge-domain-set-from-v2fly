@@ -29,6 +29,7 @@
 
 # Meituan
 .httpdns.meituan.com
+.httpdnsmultiapivip.meituan.com
 .httpdnsvip.meituan.com
 
 # NetEase
