@@ -368,6 +368,11 @@ pplx-res.cloudinary.com
 .vpngate.jp
 .vpngate.net
 # End of vpngate
+# Included from remnawave
+.docs.rw
+.log.rw
+.try.rw
+# End of remnawave
 
 trojan-gfw.github.io
 xtls.github.io
