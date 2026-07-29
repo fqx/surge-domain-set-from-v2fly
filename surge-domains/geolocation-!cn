@@ -209,6 +209,7 @@ pplx-res.cloudinary.com
 # Included from xai
 .grok.com
 .grok.x.com
+.grokipedia.com
 .x.ai
 # End of xai
 # Included from youmind
@@ -319,6 +320,7 @@ pplx-res.cloudinary.com
 .via0.com
 # End of category-ipfs
 # Included from ceno
+.ceno.app
 .censorship.no
 # End of ceno
 # Included from citizenlab
@@ -1900,15 +1902,16 @@ visor.sberbank.ru
 .megamarket.tech
 .sberauto.com
 .sberbank-insurance.ru
+.sberbank-tele.com
+.sberbankaktivno.ru
+.sberbankins.ru
 .sbercloud.ru
 .sbercloud.tech
 .sberdevices.ru
 .sberdisk.ru
 .sberfactoring.ru
-.sberindex.ru
-.sberbankaktivno.ru
-.sberbankins.ru
 .sberhealth.ru
+.sberindex.ru
 .sberleasing.ru
 .sberlogistics.ru
 .sbermegamarket.ru
@@ -6466,6 +6469,7 @@ chinapower.csis.org
 # CDNvideo is a leading CDN provider in Russia and the CIS
 .cdnvideo.ru
 .cdnvideohub.com
+.kinescopecdn.net
 .trbcdn.net
 
 # Information about films and series
@@ -6493,6 +6497,7 @@ chinapower.csis.org
 .amediateka.ru
 .beeline.tv
 .ivi.ru
+.ivicdn.tv
 .premier.one
 .smotreshka.tv
 .start.ru
@@ -19336,6 +19341,7 @@ s19.upd.kaspersky.com
 # End of category-antivirus
 # Included from category-browser-!cn
 # Included from ceno
+.ceno.app
 .censorship.no
 # End of ceno
 # Included from epicbrowser
@@ -25804,6 +25810,7 @@ xp.apple.com
 .beget.ru
 # End of beget
 # Included from blurams
+.blurams.app
 .blurams.com
 # End of blurams
 # Included from broadcom

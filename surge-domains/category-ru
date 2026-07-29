@@ -280,6 +280,7 @@ web-analytics.wildberries.ru
 # CDNvideo is a leading CDN provider in Russia and the CIS
 .cdnvideo.ru
 .cdnvideohub.com
+.kinescopecdn.net
 .trbcdn.net
 
 # Information about films and series
@@ -307,6 +308,7 @@ web-analytics.wildberries.ru
 .amediateka.ru
 .beeline.tv
 .ivi.ru
+.ivicdn.tv
 .premier.one
 .smotreshka.tv
 .start.ru
@@ -558,9 +560,13 @@ web-analytics.wildberries.ru
 .eadaily.org
 .eadaily.su
 .eurasiadaily.su
+
+# iXBT
+.ixbt.com
+.ixbt.site
 # End of category-media-ru
 # Included from category-medicine-ru
-# BudZdorov
+# BudZdorov – network of multidisciplinary medical clinics
 .klinikabudzdorov.ru
 
 # EMIAS – Moscow city polyclinics and medical institutions
@@ -598,12 +604,47 @@ web-analytics.wildberries.ru
 ## Dentistry Zub Ru – network of dental clinics in Moscow
 .zub.ru
 
-# Reaviz
+# Reaviz - private medical clinics of the university
 .reaviz.com
 .reaviz.ru
 
 # St. Petersburg city polyclinics and medical institutions
 .gorzdrav.spb.ru
+
+#
+# Pharmacies
+#
+
+# Apteka
+.apteka.ru
+
+# Apteka April
+.apteka-april.ru
+
+# Apteki Plus
+.aptekiplus.ru
+
+# Farmlend
+.farmlend.ru
+
+# GorZdrav
+.gorzdrav.org
+
+# Megapteka
+.megapteka.ru
+
+# Planeta Zdorov'ya
+.planetazdorovo.ru
+.pz.help
+
+# Stolichki
+.stolichki.ru
+
+# Uteka
+.uteka.ru
+
+# Zdravcity
+.zdravcity.ru
 # End of category-medicine-ru
 # Included from category-retail-ru
 # ABC of Taste
@@ -682,6 +723,9 @@ mvideo.edna.io
 .oskelly.co
 .oskelly.ru
 # End of oskelly
+
+# O'STIN
+.ostin.com
 
 # Pyaterochka, Perekrestok, Chizhik
 # Included from x5
@@ -769,6 +813,9 @@ sentry.x5.ru
 
 # Bus stations
 .avtovokzaly.ru
+
+# Grey Wall Pass (Business lounges)
+.greywallpass.com
 
 # Ostrovok
 .ostrovok.ru
@@ -1497,6 +1544,18 @@ sentry.popmechanic.ru
 .myoffice.ru
 .myoffice.team
 # End of myoffice-ru
+# Included from netcraze
+# Netcraze (formerly Keenetic in Russia)
+
+## CrazeDNS service
+.crazedns.ru
+.netcraze.club
+.netcraze.link
+.netcraze.pro
+
+## Official website
+.netcraze.ru
+# End of netcraze
 # Included from nic-ru
 .nichost.ru
 .nic.ru
@@ -1872,15 +1931,16 @@ visor.sberbank.ru
 .megamarket.tech
 .sberauto.com
 .sberbank-insurance.ru
+.sberbank-tele.com
+.sberbankaktivno.ru
+.sberbankins.ru
 .sbercloud.ru
 .sbercloud.tech
 .sberdevices.ru
 .sberdisk.ru
 .sberfactoring.ru
-.sberindex.ru
-.sberbankaktivno.ru
-.sberbankins.ru
 .sberhealth.ru
+.sberindex.ru
 .sberleasing.ru
 .sberlogistics.ru
 .sbermegamarket.ru
@@ -2245,12 +2305,18 @@ sentry.iptv.rt.ru
 
 # Other services
 
+## eXpress corporate messenger
+.corp.express
+.express.ms
+.public.express
+.xlnk.ms
+
+## Russian 2FA/MFA provider
+.mfa.center
+.multifactor.ru
+
 ## Ads and tracking
 .adriver.ru
 .flocktory.com
 .roistat.com
 .targetads.io
-
-## Planeta Zdorov'ya pharmacy
-.planetazdorovo.ru
-.pz.help
