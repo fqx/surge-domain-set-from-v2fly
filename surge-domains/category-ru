@@ -78,12 +78,28 @@
 # End of winline
 # End of category-betting-ru
 # Included from category-ecommerce-ru
+# Included from autoru
+.apiauto.ru
+.auto.ru
+.autoru.me
+.avto.ru
+.cm.expert
+# End of autoru
 # Included from avito
 .avito.ru
 .avito.st
 
 stats.avito.ru
 # End of avito
+# Included from cian
+.cian.ru
+.cian.site
+.ciangroup.ru
+.dmir.ru
+.poudobnee.com
+.xn--80aaafbpzn5blfby1p.xn--p1ai
+.xn--80aaeib8abrryx4k.xn--p1ai
+# End of cian
 # Included from flowwow
 .flowwow-images.com
 .flowwow.com
@@ -275,7 +291,27 @@ marketplace-sentry.wb.ru
 sentry.wb.ru
 web-analytics.wildberries.ru
 # End of wildberries
+
+# drom
+.drom.ru
+.rdrom.ru
 # End of category-ecommerce-ru
+# Included from category-education-ru
+.melfm.ru
+
+# "Networked city" — an russian automated information system that integrates educational institutions of all types into a single information network
+.altaiobr04.ru
+.chelyabinsk-sgo-edu-74.ru
+.obr03.ru
+.setevoygorodkrasnodar.ru
+.sgo-egov66.ru
+.sgo.tvobr.ru
+.sgo12.ru
+.sgo171.ru
+.sgo41.ru
+.sgoedu74.ru
+.ulyanovsk-sgo-cit73.ru
+# End of category-education-ru
 # Included from category-entertainment-ru
 # CDNvideo is a leading CDN provider in Russia and the CIS
 .cdnvideo.ru
@@ -324,21 +360,16 @@ web-analytics.wildberries.ru
 .rtbcdn.ru
 # End of rutube
 # End of category-entertainment-ru
+# Included from category-forums-ru
+# End of category-forums-ru
 # Included from category-gov-ru
 # Federal Gov.
-.government.ru
-.gov.ru
 
 # Federal Public Services
-.gosuslugi.ru
-.gu-st.ru
 
 # Federal Healthcare Services
-.emias.info
-.mgfoms.ru
 
 # Federal Educational Services
-.edu.ru
 
 # Other Federal Resources
 
@@ -553,6 +584,7 @@ web-analytics.wildberries.ru
 .ruptly.video
 # End of rt
 
+
 # EurAsia Daily (EADaily, EAD), allegedly a state-controlled news outlet
 .eadaily.com
 .eadaily.info
@@ -560,10 +592,6 @@ web-analytics.wildberries.ru
 .eadaily.org
 .eadaily.su
 .eurasiadaily.su
-
-# iXBT
-.ixbt.com
-.ixbt.site
 # End of category-media-ru
 # Included from category-medicine-ru
 # BudZdorov – network of multidisciplinary medical clinics
@@ -603,6 +631,9 @@ web-analytics.wildberries.ru
 .polyclinika.ru
 ## Dentistry Zub Ru – network of dental clinics in Moscow
 .zub.ru
+
+# Psychologists' website
+.b17.ru
 
 # Reaviz - private medical clinics of the university
 .reaviz.com
@@ -662,11 +693,18 @@ web-analytics.wildberries.ru
 # Children's World
 .detmir.ru
 
+# Citilink
+.citilink.ru
+
 # Coolera
 .coolera.ru
 
 # Dixie
 .dixy.ru
+
+# DNS internet shop
+.dns-shop.ru
+.dns-com.ru
 
 # Dodo Pizza
 .dodois.com
@@ -800,6 +838,40 @@ sentry.x5.ru
 # VkusVill
 .vkusvill.ru
 # End of category-retail-ru
+# Included from category-tech-media-ru
+# Included from ixbt
+.ixbt.site
+# End of ixbt
+# Included from overclockers-ru
+# Media about digital and information technologies 
+.ovcl.ru
+.overclockers.ru
+.overclock.ru
+.overclocker.ru
+.overclocking.ru
+.overi.ru
+.xn--80AGLFYFK.xn--p1ai
+.xn--80aglzei.xn--p1ai
+.xn--b1agatafrepfl.xn--p1ai
+.xn--b1agpaeoen.xn--p1ai
+.xn--b1agzk.xn--p1ai
+.xn--b1agzk9c.xn--p1ai
+# End of overclockers-ru
+
+.3dnews.ru
+.cnconf.ru
+.cnews.ru
+.cnewsforum.ru
+.durovscode.com
+.ferra.ru
+.hacksoft.ru
+.hardware.ru
+.iguides.ru
+.kod.ru
+.seclab.lat
+.securitylab.ru
+.servernews.ru
+# End of category-tech-media-ru
 # Included from category-travel-ru
 # Aviasales
 # Included from aviasales
@@ -1392,12 +1464,15 @@ xray.mail.ru
 .code-class.ru
 .gb.ru
 .lerna.ru
+.o-uchi.ru
 .skillbox.pro
 .skillbox.ru
 .skillfactory.ru
 .tetrika-school.ru
 .uchi.ru
+.uchilk.ru
 .umschool.net
+.xn----otbzjdu.xn--p1ai
 .yaklass.ru
 
 ## ESforce
@@ -1420,8 +1495,8 @@ xray.mail.ru
 .icq.biz
 .icq.com
 .icq.de
-.icq.fr
 .icq.eu
+.icq.fr
 .icq.im
 .icq.lt
 .icq.mobi
@@ -1697,6 +1772,7 @@ sentry.popmechanic.ru
 .meteum.ai
 .my-manager-account.com
 .naydex.net
+.realtyverif.ru
 .rostaxi.org
 .shedevrum.ai
 .sourcecraft.dev

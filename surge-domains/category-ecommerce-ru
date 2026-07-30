@@ -1,9 +1,25 @@
+# Included from autoru
+.apiauto.ru
+.auto.ru
+.autoru.me
+.avto.ru
+.cm.expert
+# End of autoru
 # Included from avito
 .avito.ru
 .avito.st
 
 stats.avito.ru
 # End of avito
+# Included from cian
+.cian.ru
+.cian.site
+.ciangroup.ru
+.dmir.ru
+.poudobnee.com
+.xn--80aaafbpzn5blfby1p.xn--p1ai
+.xn--80aaeib8abrryx4k.xn--p1ai
+# End of cian
 # Included from flowwow
 .flowwow-images.com
 .flowwow.com
@@ -195,3 +211,7 @@ marketplace-sentry.wb.ru
 sentry.wb.ru
 web-analytics.wildberries.ru
 # End of wildberries
+
+# drom
+.drom.ru
+.rdrom.ru

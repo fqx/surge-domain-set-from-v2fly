@@ -13,6 +13,7 @@
 .firefoxusercontent.com
 
 mozilla-ohttp.fastly-edge.com
+mozilla.map.fastly.net
 # End of firefox
 # Included from torproject
 .torproject.org

@@ -4199,12 +4199,28 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 # E-commerce
 # Included from category-ecommerce
 # Included from category-ecommerce-ru
+# Included from autoru
+.apiauto.ru
+.auto.ru
+.autoru.me
+.avto.ru
+.cm.expert
+# End of autoru
 # Included from avito
 .avito.ru
 .avito.st
 
 stats.avito.ru
 # End of avito
+# Included from cian
+.cian.ru
+.cian.site
+.ciangroup.ru
+.dmir.ru
+.poudobnee.com
+.xn--80aaafbpzn5blfby1p.xn--p1ai
+.xn--80aaeib8abrryx4k.xn--p1ai
+# End of cian
 # Included from flowwow
 .flowwow-images.com
 .flowwow.com
@@ -4396,6 +4412,10 @@ marketplace-sentry.wb.ru
 sentry.wb.ru
 web-analytics.wildberries.ru
 # End of wildberries
+
+# drom
+.drom.ru
+.rdrom.ru
 # End of category-ecommerce-ru
 
 # Included from adidas
@@ -7847,6 +7867,10 @@ gamer-cds.cdn.hinet.net
 .catchplay.com
 .tra-ww000-cp.akamaized.net
 # End of catchplay
+# Included from chesscom
+.chess.com
+.chesscomfiles.com
+# End of chesscom
 # Included from copymanga
 .2025copy.com
 .copy-manga.com
@@ -19355,6 +19379,7 @@ s19.upd.kaspersky.com
 .firefoxusercontent.com
 
 mozilla-ohttp.fastly-edge.com
+mozilla.map.fastly.net
 # End of firefox
 # Included from torproject
 .torproject.org
@@ -27926,12 +27951,15 @@ xray.mail.ru
 .code-class.ru
 .gb.ru
 .lerna.ru
+.o-uchi.ru
 .skillbox.pro
 .skillbox.ru
 .skillfactory.ru
 .tetrika-school.ru
 .uchi.ru
+.uchilk.ru
 .umschool.net
+.xn----otbzjdu.xn--p1ai
 .yaklass.ru
 
 ## ESforce
@@ -27954,8 +27982,8 @@ xray.mail.ru
 .icq.biz
 .icq.com
 .icq.de
-.icq.fr
 .icq.eu
+.icq.fr
 .icq.im
 .icq.lt
 .icq.mobi
@@ -29535,6 +29563,7 @@ sentry.popmechanic.ru
 .firefoxusercontent.com
 
 mozilla-ohttp.fastly-edge.com
+mozilla.map.fastly.net
 # End of firefox
 # Included from mdn
 .developer.allizom.org
@@ -30919,6 +30948,7 @@ cdn.js7k.com
 .meteum.ai
 .my-manager-account.com
 .naydex.net
+.realtyverif.ru
 .rostaxi.org
 .shedevrum.ai
 .sourcecraft.dev

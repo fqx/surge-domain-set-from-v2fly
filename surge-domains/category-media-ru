@@ -183,6 +183,7 @@
 .ruptly.video
 # End of rt
 
+
 # EurAsia Daily (EADaily, EAD), allegedly a state-controlled news outlet
 .eadaily.com
 .eadaily.info
@@ -190,7 +191,3 @@
 .eadaily.org
 .eadaily.su
 .eurasiadaily.su
-
-# iXBT
-.ixbt.com
-.ixbt.site

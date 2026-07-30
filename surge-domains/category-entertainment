@@ -1398,6 +1398,10 @@ gamer-cds.cdn.hinet.net
 .catchplay.com
 .tra-ww000-cp.akamaized.net
 # End of catchplay
+# Included from chesscom
+.chess.com
+.chesscomfiles.com
+# End of chesscom
 # Included from copymanga
 .2025copy.com
 .copy-manga.com
