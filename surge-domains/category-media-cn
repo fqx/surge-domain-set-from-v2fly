@@ -23,6 +23,7 @@
 .cntv.cn
 .cntv.com.cn
 .cntvwb.cn
+.cri.cn
 .gjgbdszt.cn
 .gjgbdszt.com.cn
 .gjgbdszt.net.cn
@@ -43,6 +44,7 @@
 .zggbdszt.net.cn
 .zygbdszt.net.cn
 
+# Ads/tracking
 .ad.cctv.com
 # End of cctv
 # Included from chinanews
@@ -244,6 +246,8 @@
 .ckxx.net
 # 电脑商情在线
 .cbinews.com
+# 通信产业网
+.ccidcom.com
 # 中国经济网
 .ce.cn
 # 改革网
@@ -296,6 +300,8 @@
 ctdsb.clouddiffuse.xyz
 # 创头条
 .ctoutiao.com
+# 通信世界网
+.cww.net.cn
 # 中青在线/中国青年报
 .cyol.com
 .cyol.net
@@ -334,6 +340,9 @@ ctdsb.clouddiffuse.xyz
 .ebrun.com
 # 经济观察网
 .eeo.com.cn
+# 证券时报网
+.egsea.com
+.stcn.com
 # 爱活网
 .evolife.cn
 # 超能网
@@ -359,6 +368,10 @@ ctdsb.clouddiffuse.xyz
 .guancha.cn
 # 硅谷网
 .guigu.org
+# 广西新闻网/广西日报
+.gxnews.com.cn
+.gxxw.com
+.gxrb.com.cn
 # 广西网络广播电视台
 .gxtv.cn
 .gxxmt.com
@@ -423,6 +436,8 @@ ctdsb.clouddiffuse.xyz
 .jin10.com
 # 上观新闻/解放日报
 .jfdaily.com
+.jfdaily.com.cn
+.shobserver.cn
 .shobserver.com
 # 新黄河/济南时报
 .jinantimes.com.cn
@@ -513,6 +528,8 @@ ctdsb.clouddiffuse.xyz
 .qianzhan.com
 # 青岛之窗
 .qingdaochina.org
+# 求是网
+.qstheory.cn
 # 泉州晚报
 .qzwb.com
 # 红网
@@ -547,8 +564,6 @@ ctdsb.clouddiffuse.xyz
 .ssajax.cn
 .ssimg.cn
 .stockstar.com
-# 证券时报网
-.stcn.com
 # 深港在线
 .szhk.com
 # 深圳报业集团
@@ -583,6 +598,8 @@ ctdsb.clouddiffuse.xyz
 .xinminweekly.com.cn
 # 新快报
 .xkb.com.cn
+# 学习强国
+.xuexi.cn
 # 金羊网/羊城晚报
 .ycwb.com
 # 第一财经

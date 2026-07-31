@@ -184,6 +184,7 @@ status.alibabacloud.com
 .elemecdn.cn
 .elemecdn.com
 .elenet.me
+.fengniaojipei.net
 
 # Ads/tracking
 .adashx.ut.ele.me
@@ -266,7 +267,6 @@ status.alibabacloud.com
 # youku uses some alicdn services, so this must use with domain list "alibaba"
 .9xsecndns.cn
 .kumiao.com
-.mmstat.com
 .soku.com
 .tudou.com
 .ykimg.com
@@ -274,6 +274,8 @@ status.alibabacloud.com
 .youku.tv
 .youkuhonor.com
 .youkuplay.com
+
+ykimg.alicdn.com
 
 # Ads/tracking
 .ad.api.3g.youku.com
@@ -308,9 +310,12 @@ status.alibabacloud.com
 .alibaba.com
 .alibabacapital.com
 .alibabachengdun.com
+.alibabachengdun.net
 .alibabacorp.com
 .alibabadesign.com
 .alibabadoctor.com
+.alibabafonts.com
+.alibabafoundation.com
 .alibabafuturehotel.com
 .alibabagroup.com
 .alibabapictures.com
@@ -349,6 +354,7 @@ status.alibabacloud.com
 .alixiaomi.com
 .alizhaopin.com
 .alyms.cn
+.alysm.cn
 .asczwa.com
 .asczxcefsv.com
 .asmlink.cn
@@ -368,6 +374,8 @@ status.alibabacloud.com
 .emas-poc.com
 .gongyi.xin
 .hupan.com
+.hzchengdun.com
+.hzchengdun.net
 .ialicdn.com
 .iconfont.cn
 .ics.design
@@ -384,6 +392,7 @@ status.alibabacloud.com
 .mei.com
 .miaostreet.com
 .miaoya.cn
+.mmstat.com
 .mshare.cc
 .nic.xin
 .philanthropy.xin
@@ -401,6 +410,7 @@ status.alibabacloud.com
 .ttpod.com
 .xin.xin
 .xinlingshou.cn
+.xixikf.cn
 .yowhale.com
 .yunos-inc.com
 .yunos.com
@@ -447,6 +457,7 @@ status.alibabacloud.com
 
 # 神马搜索
 .sm.cn
+.yisou.com
 
 # 淘宝
 .1688.com
@@ -462,11 +473,13 @@ status.alibabacloud.com
 .taobaocdn.com
 .taobizhong.com
 .taopiaopiao.com
+.taotian.com
 .tb.cn
 .tbcache.com
 .tbcdn.cn
 .tburl.in
 .tmall.com
+.tmall.hk
 .tmall.ru
 .tmalltv.com
 .tmjl.ai

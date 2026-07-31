@@ -45,10 +45,6 @@
 .programmer.com.cn
 .programmer.net.cn
 # End of csdn
-# Included from gitee
-.gitee.com
-.gitee.io
-# End of gitee
 # Included from goproxy
 # go mod proxy
 .goproxy.cn

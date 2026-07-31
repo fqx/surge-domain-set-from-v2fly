@@ -119,10 +119,6 @@
 .programmer.com.cn
 .programmer.net.cn
 # End of csdn
-# Included from gitee
-.gitee.com
-.gitee.io
-# End of gitee
 # Included from goproxy
 # go mod proxy
 .goproxy.cn
@@ -1825,6 +1821,7 @@ wlog.kuaishou.com
 .cntv.cn
 .cntv.com.cn
 .cntvwb.cn
+.cri.cn
 .gjgbdszt.cn
 .gjgbdszt.com.cn
 .gjgbdszt.net.cn
@@ -1845,6 +1842,7 @@ wlog.kuaishou.com
 .zggbdszt.net.cn
 .zygbdszt.net.cn
 
+# Ads/tracking
 .ad.cctv.com
 # End of cctv
 # Included from chinanews
@@ -2046,6 +2044,8 @@ wlog.kuaishou.com
 .ckxx.net
 # 电脑商情在线
 .cbinews.com
+# 通信产业网
+.ccidcom.com
 # 中国经济网
 .ce.cn
 # 改革网
@@ -2098,6 +2098,8 @@ wlog.kuaishou.com
 ctdsb.clouddiffuse.xyz
 # 创头条
 .ctoutiao.com
+# 通信世界网
+.cww.net.cn
 # 中青在线/中国青年报
 .cyol.com
 .cyol.net
@@ -2136,6 +2138,9 @@ ctdsb.clouddiffuse.xyz
 .ebrun.com
 # 经济观察网
 .eeo.com.cn
+# 证券时报网
+.egsea.com
+.stcn.com
 # 爱活网
 .evolife.cn
 # 超能网
@@ -2161,6 +2166,10 @@ ctdsb.clouddiffuse.xyz
 .guancha.cn
 # 硅谷网
 .guigu.org
+# 广西新闻网/广西日报
+.gxnews.com.cn
+.gxxw.com
+.gxrb.com.cn
 # 广西网络广播电视台
 .gxtv.cn
 .gxxmt.com
@@ -2225,6 +2234,8 @@ ctdsb.clouddiffuse.xyz
 .jin10.com
 # 上观新闻/解放日报
 .jfdaily.com
+.jfdaily.com.cn
+.shobserver.cn
 .shobserver.com
 # 新黄河/济南时报
 .jinantimes.com.cn
@@ -2315,6 +2326,8 @@ ctdsb.clouddiffuse.xyz
 .qianzhan.com
 # 青岛之窗
 .qingdaochina.org
+# 求是网
+.qstheory.cn
 # 泉州晚报
 .qzwb.com
 # 红网
@@ -2349,8 +2362,6 @@ ctdsb.clouddiffuse.xyz
 .ssajax.cn
 .ssimg.cn
 .stockstar.com
-# 证券时报网
-.stcn.com
 # 深港在线
 .szhk.com
 # 深圳报业集团
@@ -2385,6 +2396,8 @@ ctdsb.clouddiffuse.xyz
 .xinminweekly.com.cn
 # 新快报
 .xkb.com.cn
+# 学习强国
+.xuexi.cn
 # 金羊网/羊城晚报
 .ycwb.com
 # 第一财经
@@ -2935,6 +2948,9 @@ ctdsb.clouddiffuse.xyz
 .pospal.cn
 ## 上海付费通
 .shfft.com
+## 收钱吧
+.shouqianba.com
+.wosaimg.com
 
 # CDN or SDWAN
 # Included from category-cdn-cn
@@ -3311,6 +3327,9 @@ ctdsb.clouddiffuse.xyz
 .quklive.com
 ## 广州润雨科技有限公司 粤ICP备19052839号
 .rainyun.com
+## 融云
+.rongcloud.cn
+.ronghub.com
 ## 深圳市狐蒂云网络科技有限公司 粤ICP备2025387186号-1
 .szhdy.com
 ## 中企动力
@@ -3462,9 +3481,13 @@ ctdsb.clouddiffuse.xyz
 .vcimg.com
 # End of vancl
 # Included from youzan
+.daogou.ai
+.koudaitong.com
+.quntuantuan.cn
+.xinlingshou.com
 .youzan.com
-.yzcdn.cn
 .youzanyun.com
+.yzcdn.cn
 # End of youzan
 # Included from ziroom
 .ziroom.com
@@ -3546,6 +3569,9 @@ ctdsb.clouddiffuse.xyz
 .qyerstatic.com
 ## Ru-seer 俄罗斯卖家助手
 .ruseer.com
+## 搜了网
+.51sole.com
+.solepic.com
 ## 土巴兔
 .to8to.com
 ## 途牛网
@@ -3625,6 +3651,9 @@ ss.bjmu.edu.cn
 .dxycdn.com
 ## 薄荷健康
 .boohee.com
+## 春雨医生
+.chunyu.mobi
+.chunyuyisheng.com
 ## 好大夫在线
 .haodf.com
 .hdfimg.com
@@ -3648,6 +3677,7 @@ ss.bjmu.edu.cn
 # Party and government offices & Public units
 .12315.cn
 .12321.cn
+.12371.cn
 .12377.cn
 .gov.cn
 .mil.cn
@@ -5916,6 +5946,7 @@ api.blipsandchitz.me
 .2345.cn
 .2345.com
 .2345cdn.net
+.2345tianqi.cn
 .hao774.com
 ## 稿定（厦门）信息服务有限公司
 ### 花瓣网 闽ICP备2021013850号
@@ -6110,7 +6141,6 @@ api.blipsandchitz.me
 .51hejia.com
 .51jingying.com
 .51meishu.com
-.51sole.com
 .51yes.com
 .5253.com
 .52hxw.com
@@ -6666,7 +6696,6 @@ api.blipsandchitz.me
 .shijiexia.com
 .shmetro.com
 .shoujihuifu.com
-.shouqianba.com
 .shouyoubus.com
 .shuidichou.com
 .shuidihuzhu.com

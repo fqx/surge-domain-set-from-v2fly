@@ -468,19 +468,6 @@ xtls.github.io
 .dynacw.com.hk
 .dynacw.com.tw
 # End of dyna
-# Included from flickr
-# All .flickr domains
-.flickr
-
-.flic.kr
-.flickr.com
-.flickr.net
-.staticflickr.com
-# End of flickr
-# Included from fonts
-.fonts.com
-.fonts.net
-# End of fonts
 # Included from fontsinuse
 .fontsinuse.com
 # End of fontsinuse
@@ -2402,12 +2389,6 @@ standchartbank.tt.omtrdc.net
 .mql5.com
 .tradingview.com
 # End of category-finance
-# Included from dowjones
-.djreprints.com
-.dowjones.com
-.dowjones.io
-.dowjoneson.com
-# End of dowjones
 # Included from mastercard
 .mastercard.ae
 .mastercard.at
@@ -2901,13 +2882,6 @@ venmo.s3.amazonaws.com
 .softbankventuresasia.com
 .softbankworld.com
 # End of softbank
-# Included from stripe
-.link.com
-.stripe-terminal-local-reader.net
-.stripe.com
-.stripe.network
-.stripecdn.com
-# End of stripe
 # Included from visa
 .visa.be
 .visa.ca
@@ -6290,12 +6264,6 @@ chinapower.csis.org
 # Included from freecodecamp
 .freecodecamp.org
 # End of freecodecamp
-# Included from kaggle
-.kaggle.com
-.kaggle.io
-.kaggle.net
-.kaggleusercontent.com
-# End of kaggle
 # Included from khanacademy
 .khanacademy.org
 .kastatic.org
@@ -10177,32 +10145,6 @@ target.vk.com
 .pawoo.net
 # End of category-social-media-!cn
 
-# IPFS
-# Included from category-ipfs
-# Reference: https://ipfs.github.io/public-gateway-checker/
-
-
-.4everland.io
-.c4rex.co
-.crustwebsites.net
-.dweb.link
-.gateway.pinata.cloud
-.ipfs-gateway.cloud
-.ipfs.anonymize.com
-.ipfs.best-practice.se
-.ipfs.eternum.io
-.ipfs.eth.aragon.network
-.ipfs.fleek.co
-.ipfs.io
-.ipfs.lain.la
-.ipfs.runfission.com
-.ipfs.tech
-.ipns.co
-.jorropo.net
-.nftstorage.link
-.via0.com
-# End of category-ipfs
-
 # Media & News & Press
 # Included from category-media
 # Entertainment(games) oriented media should be added in category-entertainment[-cn]
@@ -12831,17 +12773,6 @@ ad-display.diwodiwo.xyz
 .playboy.com
 .playboy.com.uk
 # End of playboy
-# Included from pornhub
-.gaytube.com
-.phncdn.com
-.phprcdn.com
-.porngub.com
-.pornhub-deutsch.net
-.pornhubapparel.com
-.pornhub.com
-.pornhub.org
-.pornhubpremium.com
-# End of pornhub
 # Included from pornpros
 .pornpros.com
 .pornprosnetwork.com
@@ -19105,52 +19036,6 @@ anime-rule34-world.b-cdn.net
 
 # End of category-porn
 
-# Religion
-# Included from falungong
-
-.aboluowang.com
-.bannedbook.net
-.bannedbook.org
-.broadpressinc.com
-.chinaaffairs.org
-.dafahao.com
-.donatecarsoh.org
-.dongtaiwang.com
-.falundafa.org
-.falundafa.org.tw
-.falundafamuseum.org
-.falungong.club
-.faluninfo.net
-.fawanghuihui.org
-.fayuanbooks.com
-.fgmtv.org
-.ganjing.com
-.ganjing.world
-.ganjingworld.com
-.guangming.org
-.mhradio.org
-.ninecommentaries.com
-.starp2p.com
-.tiandixing.org
-.tiantibooks.org
-.tuidang.org
-.upholdjustice.org
-.wujieliulan.com
-.xinsheng.net
-.yuanming.net
-.yuming.qxbbs.org
-.zhengjian.org
-.zhengwunet.org
-.zhenxiang.biz
-.zhuichaguoji.org
-
-# 神韻
-.shenyun.com
-.shenyun.org
-.shenyuncreations.com
-.shenyunperformingarts.org
-# End of falungong
-
 # Services & Softwares
 # Included from category-android-app-download
 # Included from apkcombo
@@ -19762,11 +19647,6 @@ yangzhi.app
 # Included from adblockplus
 .adblockplus.org
 # End of adblockplus
-# Included from addthis
-.addthis.com
-.addthiscdn.com
-.addthisedge.com
-# End of addthis
 # Included from addtoany
 .addtoany.com
 # End of addtoany
@@ -19846,14 +19726,6 @@ brightcove.imgix.net
 # Included from cuttly
 .cutt.ly
 # End of cuttly
-# Included from digitalocean
-.digitalocean.com
-.digitalocean-ui.com
-.digitaloceanspaces.com
-.do.co
-.nginxconfig.io
-.ondigitalocean.com
-# End of digitalocean
 # Included from disqus
 # Disqus, Inc.
 # Disqus offers the best add-on tools for websites to increase engagement.
@@ -20104,16 +19976,6 @@ public-us-pingsx.api.clonoth.com
 # Included from sharethis
 .sharethis.com
 # End of sharethis
-# Included from shopify
-.myshopify.com
-.shop.app
-.shopify.com
-.shopify.dev
-.shopifycdn.com
-.shopifycloud.com
-.shopifystatus.com
-.shopifysvc.com
-# End of shopify
 # Included from slideshare
 .slideshare.com
 .slideshare.net
@@ -31021,6 +30883,7 @@ cdn.js7k.com
 .yastatic-net.ru
 .yastatic.net
 .yccdn.ru
+.yndx.net
 
 # Ads and tracking
 .adfox.ru
@@ -31957,40 +31820,6 @@ nurofensk-prod-env.eu-west-1.elasticbeanstalk.com
 .reckittbenckiser.tv
 .reckittprofessional.com
 # End of rb
-# Included from reagroup
-.flatmates.com.au
-.hackday.com.au
-.hometrack.com.au
-.housing.com
-.housingcdn.com
-.inventorship.com.au
-.ippstatic.com
-.iproperty.com
-.iproperty.com.my
-.iproperty.com.sg
-.makaan.com
-.move.com
-.moveaws.com
-.myfun.com
-.property.com.au
-.proptiger.com
-.rea-asia.com
-.rea-group.com
-.rea.design
-.rea.global
-.rea.io
-.rea.tech
-.realcommercial.com.au
-.realestate.com.au
-.realtor.com
-.reastatic.net
-.rumah123.com
-.smartexpos.com
-.smartline.com.au
-.spacely.com.au
-.squarefoot.com.hk
-.thinkofliving.com
-# End of reagroup
 # Included from scenesource
 .predb.me
 .scenesource.me
