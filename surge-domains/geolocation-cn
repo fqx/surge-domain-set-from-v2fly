@@ -3639,6 +3639,9 @@ ss.bjmu.edu.cn
 # 四川大学华西医院
 .cd120.com
 .cd120.info
+
+# 海南复星互联网医院 # 琼ICP备2022019306号-1
+.hnxzctec.com
 # End of category-hospital-cn
 ## 39健康网
 .39.net
@@ -4059,6 +4062,8 @@ study.163.com
 .yunzhuxue.com
 # “叶圣陶杯”全国中学生新作文大赛
 .ystbds.com
+# 易班优课
+.yooc.me
 # 中国高校在线
 .zggx100.com
 # 小站教育
@@ -4072,6 +4077,10 @@ study.163.com
 .zuowenjun.com
 .zuowenku.net
 .zuowenwang.net
+# 千学教育 # 京ICP备2021026895号-5
+.qianxuecloud.com
+.qianxueyunke.com
+.zhixingyunke.com
 # End of category-education-cn
 # Included from category-olympiad-in-informatics
 # LeetCode 中国站
@@ -4421,6 +4430,9 @@ ai.zhaomi.cn
 
 # 鸭嘴兽AI (跨境电商 AI 助手) 粤ICP备2026075154号-1
 .yzsgo.com
+
+# 瞬境AI
+.shunjing.xin
 # End of category-ai-cn
 # Included from category-collaborate-cn
 # 远程桌面/远程组网
