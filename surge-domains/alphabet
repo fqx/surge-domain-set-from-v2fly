@@ -177,6 +177,7 @@ daily-cloudcode-pa.googleapis.com
 # NotebookLM
 notebooklm-pa.googleapis.com
 notebooklm.googleapis.com
+.notebook.google.com
 .notebooklm.google
 .notebooklm.google.com
 
@@ -794,6 +795,7 @@ yt3.googleusercontent.com
 .1e100.net
 .1ucrs.com
 .466453.com
+.actifio.com
 .adgoogle.net
 .admeld.com
 .angulardart.org
@@ -977,6 +979,7 @@ yt3.googleusercontent.com
 .oneworldmanystories.com
 .openthread.io
 .openweave.io
+.openxla.org
 .orbitera.com
 .page.link
 .pagespeedmobilizer.com
@@ -1084,6 +1087,7 @@ google-ohttp-relay-safebrowsing.fastly-edge.com
 .adwords.com
 .adwordsexpress.com
 .analytics-alv.google.com
+.app-ads-services.com
 .app-analytics-services.com
 .app-analytics-services-att.com
 .app-measurement-cn.com

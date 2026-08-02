@@ -111,6 +111,7 @@ daily-cloudcode-pa.googleapis.com
 # NotebookLM
 notebooklm-pa.googleapis.com
 notebooklm.googleapis.com
+.notebook.google.com
 .notebooklm.google
 .notebooklm.google.com
 
@@ -149,6 +150,11 @@ antigravity.googleapis.com
 .hf.space
 .huggingface.co
 # End of huggingface
+# Included from jetbrains-ai
+.grazie.ai
+.grazie.aws.intellij.net
+.jetbrains.ai
+# End of jetbrains-ai
 # Included from liveperson
 .liveperson.net
 .lpsnmedia.net
@@ -20645,6 +20651,13 @@ homebrew.bintray.com
 .java.net
 # End of java
 # Included from jetbrains
+# https://www.jetbrains.com/legal/websites/
+# Included from jetbrains-ai
+.grazie.ai
+.grazie.aws.intellij.net
+.jetbrains.ai
+# End of jetbrains-ai
+
 .datalore.io
 .intellij.com
 .intellij.net
@@ -20653,19 +20666,22 @@ homebrew.bintray.com
 .jetbrains.cloud
 .jetbrains.com
 .jetbrains.com.cn
+.jetbrains.dev
 .jetbrains.net
+.jetbrains.org
+.jetbrains.ru
 .jetbrains.space
 .jetbrains.team
+.kotl.in
+.kotlinconf.com
 .kotlinlang.org
+.ktor.io
+.myjetbrains.com
+.talkingkotlin.com
 .youtrack.cloud
 
 .cdn.jetbrains.com
 # End of jetbrains
-# Included from jetbrains-ai
-.grazie.ai
-.grazie.aws.intellij.net
-.jetbrains.ai
-# End of jetbrains-ai
 # Included from jfrog
 .jfrog.com
 .jfrog.org
@@ -21586,6 +21602,7 @@ daily-cloudcode-pa.googleapis.com
 # NotebookLM
 notebooklm-pa.googleapis.com
 notebooklm.googleapis.com
+.notebook.google.com
 .notebooklm.google
 .notebooklm.google.com
 
@@ -22203,6 +22220,7 @@ yt3.googleusercontent.com
 .1e100.net
 .1ucrs.com
 .466453.com
+.actifio.com
 .adgoogle.net
 .admeld.com
 .angulardart.org
@@ -22386,6 +22404,7 @@ yt3.googleusercontent.com
 .oneworldmanystories.com
 .openthread.io
 .openweave.io
+.openxla.org
 .orbitera.com
 .page.link
 .pagespeedmobilizer.com
@@ -22493,6 +22512,7 @@ google-ohttp-relay-safebrowsing.fastly-edge.com
 .adwords.com
 .adwordsexpress.com
 .analytics-alv.google.com
+.app-ads-services.com
 .app-analytics-services.com
 .app-analytics-services-att.com
 .app-measurement-cn.com

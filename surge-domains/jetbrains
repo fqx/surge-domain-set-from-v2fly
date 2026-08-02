@@ -1,3 +1,10 @@
+# https://www.jetbrains.com/legal/websites/
+# Included from jetbrains-ai
+.grazie.ai
+.grazie.aws.intellij.net
+.jetbrains.ai
+# End of jetbrains-ai
+
 .datalore.io
 .intellij.com
 .intellij.net
@@ -6,10 +13,18 @@
 .jetbrains.cloud
 .jetbrains.com
 .jetbrains.com.cn
+.jetbrains.dev
 .jetbrains.net
+.jetbrains.org
+.jetbrains.ru
 .jetbrains.space
 .jetbrains.team
+.kotl.in
+.kotlinconf.com
 .kotlinlang.org
+.ktor.io
+.myjetbrains.com
+.talkingkotlin.com
 .youtrack.cloud
 
 .cdn.jetbrains.com

@@ -452,6 +452,13 @@ homebrew.bintray.com
 .java.net
 # End of java
 # Included from jetbrains
+# https://www.jetbrains.com/legal/websites/
+# Included from jetbrains-ai
+.grazie.ai
+.grazie.aws.intellij.net
+.jetbrains.ai
+# End of jetbrains-ai
+
 .datalore.io
 .intellij.com
 .intellij.net
@@ -460,19 +467,22 @@ homebrew.bintray.com
 .jetbrains.cloud
 .jetbrains.com
 .jetbrains.com.cn
+.jetbrains.dev
 .jetbrains.net
+.jetbrains.org
+.jetbrains.ru
 .jetbrains.space
 .jetbrains.team
+.kotl.in
+.kotlinconf.com
 .kotlinlang.org
+.ktor.io
+.myjetbrains.com
+.talkingkotlin.com
 .youtrack.cloud
 
 .cdn.jetbrains.com
 # End of jetbrains
-# Included from jetbrains-ai
-.grazie.ai
-.grazie.aws.intellij.net
-.jetbrains.ai
-# End of jetbrains-ai
 # Included from jfrog
 .jfrog.com
 .jfrog.org

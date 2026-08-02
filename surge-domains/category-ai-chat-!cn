@@ -110,6 +110,7 @@ daily-cloudcode-pa.googleapis.com
 # NotebookLM
 notebooklm-pa.googleapis.com
 notebooklm.googleapis.com
+.notebook.google.com
 .notebooklm.google
 .notebooklm.google.com
 
@@ -148,6 +149,11 @@ antigravity.googleapis.com
 .hf.space
 .huggingface.co
 # End of huggingface
+# Included from jetbrains-ai
+.grazie.ai
+.grazie.aws.intellij.net
+.jetbrains.ai
+# End of jetbrains-ai
 # Included from liveperson
 .liveperson.net
 .lpsnmedia.net
