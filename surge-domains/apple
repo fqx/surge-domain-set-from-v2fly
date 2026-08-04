@@ -1772,6 +1772,9 @@ init.gc-lb.apple.com.akadns.net
 init.gc.apple.com
 km.support.apple.com
 maps.apple.com
+tj-pod1-smp-device.apple.com
+tj-pod2-smp-device.apple.com
+tj-pod3-smp-device.apple.com
 www.support.apple.com
 
 # regexp:^a[1-5]\.mzstatic\.com$ @cn
@@ -1934,7 +1937,6 @@ swdist.apple.com.akadns.net
 swscan-cdn.apple.com.akadns.net
 swscan.apple.com
 sylvan.apple.com
-tj-pod1-smp-device.apple.com
 updates-http.cdn-apple.com
 updates-http.cdn-apple.com.akadns.net
 updates.cdn-apple.com

@@ -239,6 +239,10 @@ pplx-res.cloudinary.com
 .copilot.com
 .copilot.microsoft.com
 
+# DeepWiki
+.deepwiki.com
+.deepwiki.org
+
 # Jasper
 .clipdrop.co
 .jasper.ai
@@ -4220,14 +4224,17 @@ stats.avito.ru
 .ozon-dostavka.ru
 .ozon-credit.ru
 .ozon-tech.ru
+.ozon.app
 .ozon.by
 .ozon.com
 .ozon.com.by
 .ozon.com.kz
 .ozon.dev
 .ozon.express
+.ozon.global
 .ozon.kz
 .ozon.li
+.ozon.market
 .ozon.ru
 .ozon.tech
 .ozon.tm
@@ -6505,6 +6512,7 @@ chinapower.csis.org
 .rutube.ru
 .rutubelist.ru
 .rtbcdn.ru
+.rutube.sport
 # End of rutube
 # End of category-entertainment-ru
 # Included from category-games-!cn
@@ -19812,6 +19820,11 @@ brightcove.imgix.net
 # Included from figma
 .figma.com
 # End of figma
+# Included from flyio
+.fly.dev
+.fly.io
+.flyio.net
+# End of flyio
 # Included from gofundme
 .gofundme.com
 # End of gofundme
@@ -24796,6 +24809,9 @@ init.gc-lb.apple.com.akadns.net
 init.gc.apple.com
 km.support.apple.com
 maps.apple.com
+tj-pod1-smp-device.apple.com
+tj-pod2-smp-device.apple.com
+tj-pod3-smp-device.apple.com
 www.support.apple.com
 
 # regexp:^a[1-5]\.mzstatic\.com$ @cn
@@ -24958,7 +24974,6 @@ swdist.apple.com.akadns.net
 swscan-cdn.apple.com.akadns.net
 swscan.apple.com
 sylvan.apple.com
-tj-pod1-smp-device.apple.com
 updates-http.cdn-apple.com
 updates-http.cdn-apple.com.akadns.net
 updates.cdn-apple.com
