@@ -8641,6 +8641,23 @@ static.siege-amazon.com
 .movenetworks.com
 .movetv.com
 # End of sling
+# Included from sonemic
+# Glitchwave, video game database
+.glitchwave.com
+
+# Rate Your Music
+.rateyourmusic.com
+
+# Rate Your Music forums
+.rym.fm
+
+# Image and static asset CDN
+.snmc.io
+.sonematic.net
+
+# Sonemic project site
+.sonemic.com
+# End of sonemic
 # Included from sonypictures
 .imageworks.com
 .motionpictureser.com
