@@ -1,4 +1,14 @@
 # AT&T Inc.
+# Included from attwatchtv
+# AT&T WatchTV was a discontinued standalone streaming service and no longer exists
+# We may remove this list.
+
+.att.tv
+.atttvnow.com
+.attwatchtv.com
+.dtvce.com
+.nettyinternet.com
+# End of attwatchtv
 
 .accbusiness.com
 .atandt.com
@@ -11,7 +21,6 @@
 .att.com
 .att.jobs
 .att.net
-.att.tv
 .attalascom.com
 .attbelieves.com
 .attbusiness.net
@@ -33,7 +42,6 @@
 .attssl.com
 .attstadium.com
 .attsuppliers.com
-.atttvnow.com
 .attuverseoffers.com
 .attuverseonline.com
 .attvoip.com
@@ -51,7 +59,6 @@
 .itcanwait.com
 .mymmode.com
 .naturalvoices.com
-.nettyinternet.com
 .openapiplatform.com
 .openapiservice.com
 .patentgold.net
@@ -72,6 +79,8 @@
 .na-att-idns.net
 
 # Direct TV
+# AT&T and DIRECTV are completely separate companies now.
+# We may add a separate list for DIRECTV
 .audiencenetwork.com
 .audiencenetwork.tv
 .cabletvdirectv.com

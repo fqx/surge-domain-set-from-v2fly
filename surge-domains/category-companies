@@ -220,7 +220,6 @@ wwis-dubc1-vip99.adobe.com
 .businesscatalyst.com
 .ccnsite.com
 .ccpsx.com
-.demdex.net
 .dollarfotoclub.com
 .dollarphotoclub.com
 .dollarphotosclub.com
@@ -316,6 +315,7 @@ wwis-dubc1-vip99.adobe.com
 
 # Ads/tracking
 .advertising.adobe.com
+.demdex.net
 .tubemogul.com
 # End of adobe
 # Included from alibabacloud
@@ -1979,6 +1979,18 @@ notary-submissions-prod.s3.us-west-2.amazonaws.com
 # MapKit
 .apple-mapkit.com
 
+# regexp:^cdn(-cn)?[1-4]?\.apple-mapkit\.com$ @cn
+cdn.apple-mapkit.com
+cdn1.apple-mapkit.com
+cdn2.apple-mapkit.com
+cdn3.apple-mapkit.com
+cdn4.apple-mapkit.com
+cdn-cn.apple-mapkit.com
+cdn-cn1.apple-mapkit.com
+cdn-cn2.apple-mapkit.com
+cdn-cn3.apple-mapkit.com
+cdn-cn4.apple-mapkit.com
+
 # Playgrounds
 .playgrounds-cdn.apple.com
 
@@ -3474,7 +3486,6 @@ osxapps.itunes.g.aaplimg.com
 .apple-ibooks.cn
 .apple-inc.net
 .apple-livephotoskit.com
-.apple-mapkit.com
 .apple-maps.cn
 .apple-online.com
 .apple-studies.com
@@ -3725,18 +3736,6 @@ a3.mzstatic.com
 a4.mzstatic.com
 a5.mzstatic.com
 
-# regexp:^cdn(-cn)?[1-4]?\.apple-mapkit\.com$ @cn
-cdn.apple-mapkit.com
-cdn1.apple-mapkit.com
-cdn2.apple-mapkit.com
-cdn3.apple-mapkit.com
-cdn4.apple-mapkit.com
-cdn-cn.apple-mapkit.com
-cdn-cn1.apple-mapkit.com
-cdn-cn2.apple-mapkit.com
-cdn-cn3.apple-mapkit.com
-cdn-cn4.apple-mapkit.com
-
 # regexp:^cl[1-5]-cdn\.origin-apple\.com\.akadns\.net$ @cn
 cl1-cdn.origin-apple.com.akadns.net
 cl2-cdn.origin-apple.com.akadns.net
@@ -3921,6 +3920,16 @@ xp.apple.com
 # End of atlassian
 # Included from att
 # AT&T Inc.
+# Included from attwatchtv
+# AT&T WatchTV was a discontinued standalone streaming service and no longer exists
+# We may remove this list.
+
+.att.tv
+.atttvnow.com
+.attwatchtv.com
+.dtvce.com
+.nettyinternet.com
+# End of attwatchtv
 
 .accbusiness.com
 .atandt.com
@@ -3933,7 +3942,6 @@ xp.apple.com
 .att.com
 .att.jobs
 .att.net
-.att.tv
 .attalascom.com
 .attbelieves.com
 .attbusiness.net
@@ -3955,7 +3963,6 @@ xp.apple.com
 .attssl.com
 .attstadium.com
 .attsuppliers.com
-.atttvnow.com
 .attuverseoffers.com
 .attuverseonline.com
 .attvoip.com
@@ -3973,7 +3980,6 @@ xp.apple.com
 .itcanwait.com
 .mymmode.com
 .naturalvoices.com
-.nettyinternet.com
 .openapiplatform.com
 .openapiservice.com
 .patentgold.net
@@ -3994,6 +4000,8 @@ xp.apple.com
 .na-att-idns.net
 
 # Direct TV
+# AT&T and DIRECTV are completely separate companies now.
+# We may add a separate list for DIRECTV
 .audiencenetwork.com
 .audiencenetwork.tv
 .cabletvdirectv.com
@@ -6176,7 +6184,6 @@ hpefonts.s3.amazonaws.com
 .omekinteractive.com
 .omnitek.tv
 .openamt.com
-.opendroneid.org
 .optanedifference.com
 .passwordday.org
 .pc.com
@@ -6362,7 +6369,6 @@ hpefonts.s3.amazonaws.com
 .kaspersky.com.au
 .kaspersky.com.br
 .kaspersky.com.cn
-.kaspersky.com.hk
 .kaspersky.com.hk
 .kaspersky.com.pl
 .kaspersky.com.tr
@@ -7262,7 +7268,6 @@ xray.mail.ru
 .online-deals.net
 .opencreate.org
 .reachtheworldonfacebook.com
-.rocksdb.org
 .shopfacebook.com
 .sportsfacebook.com
 .sportstream.com

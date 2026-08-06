@@ -1830,6 +1830,9 @@ wlog.kuaishou.com
 .36kr.com
 .36krcdn.com
 .36krcnd.com
+
+# Ads
+.adx.36kr.com
 # End of 36kr
 # Included from cctv
 .cctv.cn
@@ -5265,6 +5268,17 @@ api.blipsandchitz.me
 .sinopecnews.com.cn
 .sinopecsales.com
 # End of sinopec
+
+## 国家电网
+.95598.cn
+.95598pay.com
+.echargenet.com
+.esgcc.com.cn
+.sgcc.com.cn
+## 南方电网
+.csg.cn
+.ecsg.com.cn
+.poweremarket.com
 
 # Tech companies & Orginations
 # Included from baidu

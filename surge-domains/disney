@@ -3,10 +3,12 @@
 
 .abc-studios.com
 .abc.com
+.abcnews.com
 .edgedatg.com
 # End of abc
 # Included from bamtech
 .bamgrid.com
+.bamtech.net
 .dmed.technology
 # End of bamtech
 # Included from espn
@@ -31,6 +33,56 @@ espndotcom.tt.omtrdc.net
 .hsprepack.akamaized.net
 
 # End of hotstar
+# Included from hulu
+.112263.com
+.callhulu.com
+.findyourlimits.com
+.freehulu.com
+.hooloo.tv
+.hoolu.com
+.hoolu.tv
+.hu1u.com
+.huloo.cc
+.huloo.tv
+.hulu.com
+.hulu.jp
+.hulu.tv
+.hulu.us
+.huluaction.com
+.huluad.com
+.huluapp.com
+.huluasks.com
+.hulucall.com
+.hulufree.com
+.hulugans.com
+.hulugermany.com
+.hulugo.com
+.huluim.com
+.huluinstantmessenger.com
+.huluitaly.com
+.hulunet.com
+.hulunetwork.com
+.huluplus.com
+.hulupremium.com
+.hulupurchase.com
+.huluqa.com
+.hulurussia.com
+.huluspain.com
+.hulusports.com
+.hulustream.com
+.huluteam.com
+.hulutv.com
+.huluusa.com
+.joinmaidez.com
+.mushymush.tv
+.myhulu.com
+.originalhulu.com
+.payhulu.com
+.registerhulu.com
+.thehulubraintrust.com
+.wwwhuluplus.com
+hulu.playback.edge.bamgrid.com
+# End of hulu
 # Included from marvel
 .marvel.com
 .marvel10thanniversary.com
@@ -98,15 +150,31 @@ espndotcom.tt.omtrdc.net
 .disney.se
 .disney.sg
 
+# https://thewaltdisneycompany.com/about/
+.disneyanimation.com
+.fxnetwork.com
+.fxnetworks.com
+.lucasfilm.com
+.pixar.com
+.searchlightpictures.com
+.thewaltdisneycompany.com
+.waltdisneystudios.com
+
+.disneylandparis.com
+.hongkongdisneyland.com
+.shanghaidisneyresort.com
+.tokyodisneyresort.jp
+
 # Others
+.20thcenturystudios.com
 .20thcenturystudios.com.au
 .20thcenturystudios.com.br
 .20thcenturystudios.jp
 .adventuresbydisney.com
 .babble.com
 .babyzone.com
-.bamgrid.com
 .beautyandthebeastmusical.co.uk
+.detpress.com
 .dilcdn.com
 .disney-asia.com
 .disney-discount.com
@@ -114,6 +182,7 @@ espndotcom.tt.omtrdc.net
 .disney-portal.my.onetrust.com
 .disney-studio.com
 .disney-studio.net
+.disneyaccount.com
 .disneyadsales.com
 .disneyarena.com
 .disneyaulani.com
@@ -150,17 +219,19 @@ espndotcom.tt.omtrdc.net
 .disneypeoplesurveys.com
 .disneyplus.bn5x.net
 .disneyplus.com
-.disneyplus.com.ssl.sc.omtrdc.net
+.disneyprivacycenter.com
 .disneyredirects.com
 .disneysrivieraresort.com
 .disneystore.com
 .disneystreaming.com
 .disneysubscription.com
+.disneytermsofuse.com
 .disneytickets.co.uk
 .disneyturkiye.com.tr
 .disneytvajobs.com
 .disneyworld-go.com
 .dssott.com
+.freeform.com
 .go-disneyworldgo.com
 .go.com
 .mickey.tv
@@ -180,6 +251,8 @@ espndotcom.tt.omtrdc.net
 .thestationbymaker.com
 .thisispolaris.com
 .watchdisneyfe.com
+
+disneyplus.com.ssl.sc.omtrdc.net
 
 # tracking
 disney.my.sentry.io

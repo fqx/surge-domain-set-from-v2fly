@@ -158,10 +158,8 @@ ssl-lvlt.cdn.ea.com
 .bejeweledstars.com
 .capitalgames.com
 .chillingo.com
-.commandandconquer.com
 .conquerwithcharacter.com
 .crysis.jp
-.dawngate.com
 .dawngatechronicles.com
 .dicela.com
 .dicela.net
@@ -201,15 +199,11 @@ ssl-lvlt.cdn.ea.com
 .pogo.com
 .pogobeta.com
 .popcap.com
-.projectapex.com
-.pvzheroes.com
-.spearhead.kr
 .speedhunters.com
 .spore.com
 .ssx3.com
 .starwarsbattlefront.com
 .starwarsbattlefront2.com
-.tiberiumalliances.com
 .tiburon.com
 .tnt-ea.com
 .ultimaforever.com
@@ -375,8 +369,12 @@ eaassets-a.akamaihd.net
 .reachthefinals.com
 # End of embark
 # Included from epicgames
-.3lateral.com
+# Included from artstation
 .artstation.com
+.artstationmedia.com
+# End of artstation
+
+.3lateral.com
 .capturingreality.com
 .cubicmotion.com
 .battlebreakers.com
@@ -1333,10 +1331,12 @@ uts-api.itunes.apple.com
 .archiveofourown.net
 # End of archiveofourown
 # Included from attwatchtv
+# AT&T WatchTV was a discontinued standalone streaming service and no longer exists
+# We may remove this list.
+
 .att.tv
 .atttvnow.com
 .attwatchtv.com
-.directv.com
 .dtvce.com
 .nettyinternet.com
 # End of attwatchtv
@@ -1455,10 +1455,12 @@ gamer-cds.cdn.hinet.net
 
 .abc-studios.com
 .abc.com
+.abcnews.com
 .edgedatg.com
 # End of abc
 # Included from bamtech
 .bamgrid.com
+.bamtech.net
 .dmed.technology
 # End of bamtech
 # Included from espn
@@ -1483,6 +1485,56 @@ espndotcom.tt.omtrdc.net
 .hsprepack.akamaized.net
 
 # End of hotstar
+# Included from hulu
+.112263.com
+.callhulu.com
+.findyourlimits.com
+.freehulu.com
+.hooloo.tv
+.hoolu.com
+.hoolu.tv
+.hu1u.com
+.huloo.cc
+.huloo.tv
+.hulu.com
+.hulu.jp
+.hulu.tv
+.hulu.us
+.huluaction.com
+.huluad.com
+.huluapp.com
+.huluasks.com
+.hulucall.com
+.hulufree.com
+.hulugans.com
+.hulugermany.com
+.hulugo.com
+.huluim.com
+.huluinstantmessenger.com
+.huluitaly.com
+.hulunet.com
+.hulunetwork.com
+.huluplus.com
+.hulupremium.com
+.hulupurchase.com
+.huluqa.com
+.hulurussia.com
+.huluspain.com
+.hulusports.com
+.hulustream.com
+.huluteam.com
+.hulutv.com
+.huluusa.com
+.joinmaidez.com
+.mushymush.tv
+.myhulu.com
+.originalhulu.com
+.payhulu.com
+.registerhulu.com
+.thehulubraintrust.com
+.wwwhuluplus.com
+hulu.playback.edge.bamgrid.com
+# End of hulu
 # Included from marvel
 .marvel.com
 .marvel10thanniversary.com
@@ -1550,15 +1602,31 @@ espndotcom.tt.omtrdc.net
 .disney.se
 .disney.sg
 
+# https://thewaltdisneycompany.com/about/
+.disneyanimation.com
+.fxnetwork.com
+.fxnetworks.com
+.lucasfilm.com
+.pixar.com
+.searchlightpictures.com
+.thewaltdisneycompany.com
+.waltdisneystudios.com
+
+.disneylandparis.com
+.hongkongdisneyland.com
+.shanghaidisneyresort.com
+.tokyodisneyresort.jp
+
 # Others
+.20thcenturystudios.com
 .20thcenturystudios.com.au
 .20thcenturystudios.com.br
 .20thcenturystudios.jp
 .adventuresbydisney.com
 .babble.com
 .babyzone.com
-.bamgrid.com
 .beautyandthebeastmusical.co.uk
+.detpress.com
 .dilcdn.com
 .disney-asia.com
 .disney-discount.com
@@ -1566,6 +1634,7 @@ espndotcom.tt.omtrdc.net
 .disney-portal.my.onetrust.com
 .disney-studio.com
 .disney-studio.net
+.disneyaccount.com
 .disneyadsales.com
 .disneyarena.com
 .disneyaulani.com
@@ -1602,17 +1671,19 @@ espndotcom.tt.omtrdc.net
 .disneypeoplesurveys.com
 .disneyplus.bn5x.net
 .disneyplus.com
-.disneyplus.com.ssl.sc.omtrdc.net
+.disneyprivacycenter.com
 .disneyredirects.com
 .disneysrivieraresort.com
 .disneystore.com
 .disneystreaming.com
 .disneysubscription.com
+.disneytermsofuse.com
 .disneytickets.co.uk
 .disneyturkiye.com.tr
 .disneytvajobs.com
 .disneyworld-go.com
 .dssott.com
+.freeform.com
 .go-disneyworldgo.com
 .go.com
 .mickey.tv
@@ -1632,6 +1703,8 @@ espndotcom.tt.omtrdc.net
 .thestationbymaker.com
 .thisispolaris.com
 .watchdisneyfe.com
+
+disneyplus.com.ssl.sc.omtrdc.net
 
 # tracking
 disney.my.sentry.io
@@ -1762,56 +1835,6 @@ webvodad-hamivideo.cdn.hinet.net
 .hbomax-images.warnermediacdn.com
 .hbomaxdash.s.llnwi.net
 # End of hbo
-# Included from hulu
-.112263.com
-.callhulu.com
-.findyourlimits.com
-.freehulu.com
-.hooloo.tv
-.hoolu.com
-.hoolu.tv
-.hu1u.com
-.huloo.cc
-.huloo.tv
-.hulu.com
-.hulu.jp
-.hulu.tv
-.hulu.us
-.huluaction.com
-.huluad.com
-.huluapp.com
-.huluasks.com
-.hulucall.com
-.hulufree.com
-.hulugans.com
-.hulugermany.com
-.hulugo.com
-.huluim.com
-.huluinstantmessenger.com
-.huluitaly.com
-.hulunet.com
-.hulunetwork.com
-.huluplus.com
-.hulupremium.com
-.hulupurchase.com
-.huluqa.com
-.hulurussia.com
-.huluspain.com
-.hulusports.com
-.hulustream.com
-.huluteam.com
-.hulutv.com
-.huluusa.com
-.joinmaidez.com
-.mushymush.tv
-.myhulu.com
-.originalhulu.com
-.payhulu.com
-.registerhulu.com
-.thehulubraintrust.com
-.wwwhuluplus.com
-hulu.playback.edge.bamgrid.com
-# End of hulu
 # Included from imdb
 # All .imdb domains
 .imdb
@@ -1945,8 +1968,6 @@ osxapps.itunes.g.aaplimg.com
 .kkbox.com
 .kkbox.com.tw
 .kktix.com
-.kktv.com.tw
-.kktv.me
 # End of kkbox
 # Included from kktv
 .kktv.com.tw
@@ -2044,7 +2065,6 @@ agb9r0ad.qllfkl.com
 # End of mudvod
 # Included from mytvsuper
 .mytvsuper.com
-.tvb.com
 # End of mytvsuper
 # Included from netflix
 .fast.com
@@ -2276,7 +2296,6 @@ i.jeded.com
 # End of tidal
 # Included from tiktok
 .bytedapm.com
-.byteoversea.com
 .muscdn.com
 .musical.ly
 .tik-tokapi.com

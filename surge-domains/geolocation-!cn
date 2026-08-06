@@ -386,19 +386,30 @@ pplx-res.cloudinary.com
 .try.rw
 # End of remnawave
 
+matsuridayo.github.io
+metacubex.github.io
+rabbit-hole-1.gitbook.io
+throneproj.github.io
 trojan-gfw.github.io
 xtls.github.io
 
+.2dust.link
 .ahmia.fi
 .akasha.world
+.amnezia.org
 .browserleaks.com
 .bypasscensorship.org
 .censorship.ai
+.clashmi.app
+.clashparty.org
+.clashverge.dev
 .clashyun.com
 .dat.foundation
 .democracy.earth
 .eff.org
 .ffprofile.com
+.flclashx.app
+.flowvy.io
 .freenetproject.org
 .fteproxy.org
 .geti2p.net
@@ -408,21 +419,29 @@ xtls.github.io
 .happ.info
 .happ.su
 .hiddify.com
+.incy.cc
 .jitsi.org
+.karing.app
 .lokinet.org
 .metacubex.one
+.nsloon.com
 .ntc.party
+.onexray.com
 .onionshare.org
 .ooni.org
 .openvpn.net
 .privacytools.io
+.prizrak.app
 .proxifier.com
 .psiphon.ca
 .psiphon3.com
 .sagernet.org
+.shadowlaunch.com
 .shadowsocks.org
 .sing-box.app
 .sspanel.net
+.stash.wiki
+.stash.ws
 .stunnel.org
 .telex.cc
 .tribler.org
@@ -432,9 +451,11 @@ xtls.github.io
 .uproxy.org
 .vpnrouter.homes
 .vuvuzela.io
+.wgtunnel.com
 .whonix.org
 .wikileaks.org
 .wireguard.com
+.wiresock.net
 .zeronet.io
 # End of category-anticensorship
 # Included from category-proxy-tunnels
@@ -463,10 +484,6 @@ xtls.github.io
 # End of category-proxy-tunnels
 
 # Art & Design & Photography
-# Included from artstation
-.artstation.com
-.artstationmedia.com
-# End of artstation
 # Included from dribbble
 .drbl.in
 .dribbble.com
@@ -2602,9 +2619,6 @@ standchartbank.tt.omtrdc.net
 # World Currency Card
 .bidvestbank.co.za
 .worldcurrencycard.co.za
-
-nab.demdex.net
-nationalaustraliaban.tt.omtrdc.net
 # End of mastercard
 # Included from paypal
 .account-paypal.info
@@ -3190,9 +3204,11 @@ venmo.s3.amazonaws.com
 .cloudflare-gateway.com
 .cloudflare-quic.com
 .cloudflare-terms-of-service-abuse.com
+.cloudflare.app
 .cloudflare.com
 .cloudflare.dev
 .cloudflare.net
+.cloudflare.pay
 .cloudflare.tv
 .cloudflareaccess.com
 .cloudflareapps.com
@@ -3241,9 +3257,6 @@ venmo.s3.amazonaws.com
 .fastly.net
 .fastlylabs.com
 .fastlylb.net
-
-# Video.js CDN
-.zencdn.net
 # End of fastly
 # Included from imgix
 .imgix.com
@@ -3557,9 +3570,6 @@ www.microsoft.com
 .secomtrust.net
 
 # Sub brand
-
-.cybertrust.co.jp
-.cybertrust.ne.jp
 .managedpki.ne.jp
 # End of secom
 # Included from sectigo
@@ -4858,7 +4868,6 @@ api-p.videomarket.jp
 .ebaycbt.co.kr
 .ebaycdn.net
 .ebaychina.net
-.ebayclassifiedsgroup.com
 .ebayclassifieds.cn
 .ebayclassifieds.com
 .ebayclassifieds.com.cn
@@ -5021,8 +5030,8 @@ api-p.videomarket.jp
 .theopportunityproject.org
 .towerauction.com
 .vendu.com
-.weareebay.com
 .watch-ebay.org
+.weareebay.com
 .wwwdecide.com
 .wwwebay.com
 .wwwebay.net
@@ -6157,6 +6166,7 @@ scholar.l.google.com
 .morganclaypool.com
 .nature.com
 .naturemag.org
+.ncbi.nlm.nih.gov
 .ncl.edu.tw
 .nejm.org
 .neurology.org
@@ -6608,10 +6618,8 @@ ssl-lvlt.cdn.ea.com
 .bejeweledstars.com
 .capitalgames.com
 .chillingo.com
-.commandandconquer.com
 .conquerwithcharacter.com
 .crysis.jp
-.dawngate.com
 .dawngatechronicles.com
 .dicela.com
 .dicela.net
@@ -6651,15 +6659,11 @@ ssl-lvlt.cdn.ea.com
 .pogo.com
 .pogobeta.com
 .popcap.com
-.projectapex.com
-.pvzheroes.com
-.spearhead.kr
 .speedhunters.com
 .spore.com
 .ssx3.com
 .starwarsbattlefront.com
 .starwarsbattlefront2.com
-.tiberiumalliances.com
 .tiburon.com
 .tnt-ea.com
 .ultimaforever.com
@@ -6825,8 +6829,12 @@ eaassets-a.akamaihd.net
 .reachthefinals.com
 # End of embark
 # Included from epicgames
-.3lateral.com
+# Included from artstation
 .artstation.com
+.artstationmedia.com
+# End of artstation
+
+.3lateral.com
 .capturingreality.com
 .cubicmotion.com
 .battlebreakers.com
@@ -7783,10 +7791,12 @@ uts-api.itunes.apple.com
 .archiveofourown.net
 # End of archiveofourown
 # Included from attwatchtv
+# AT&T WatchTV was a discontinued standalone streaming service and no longer exists
+# We may remove this list.
+
 .att.tv
 .atttvnow.com
 .attwatchtv.com
-.directv.com
 .dtvce.com
 .nettyinternet.com
 # End of attwatchtv
@@ -7905,10 +7915,12 @@ gamer-cds.cdn.hinet.net
 
 .abc-studios.com
 .abc.com
+.abcnews.com
 .edgedatg.com
 # End of abc
 # Included from bamtech
 .bamgrid.com
+.bamtech.net
 .dmed.technology
 # End of bamtech
 # Included from espn
@@ -7933,6 +7945,56 @@ espndotcom.tt.omtrdc.net
 .hsprepack.akamaized.net
 
 # End of hotstar
+# Included from hulu
+.112263.com
+.callhulu.com
+.findyourlimits.com
+.freehulu.com
+.hooloo.tv
+.hoolu.com
+.hoolu.tv
+.hu1u.com
+.huloo.cc
+.huloo.tv
+.hulu.com
+.hulu.jp
+.hulu.tv
+.hulu.us
+.huluaction.com
+.huluad.com
+.huluapp.com
+.huluasks.com
+.hulucall.com
+.hulufree.com
+.hulugans.com
+.hulugermany.com
+.hulugo.com
+.huluim.com
+.huluinstantmessenger.com
+.huluitaly.com
+.hulunet.com
+.hulunetwork.com
+.huluplus.com
+.hulupremium.com
+.hulupurchase.com
+.huluqa.com
+.hulurussia.com
+.huluspain.com
+.hulusports.com
+.hulustream.com
+.huluteam.com
+.hulutv.com
+.huluusa.com
+.joinmaidez.com
+.mushymush.tv
+.myhulu.com
+.originalhulu.com
+.payhulu.com
+.registerhulu.com
+.thehulubraintrust.com
+.wwwhuluplus.com
+hulu.playback.edge.bamgrid.com
+# End of hulu
 # Included from marvel
 .marvel.com
 .marvel10thanniversary.com
@@ -8000,15 +8062,31 @@ espndotcom.tt.omtrdc.net
 .disney.se
 .disney.sg
 
+# https://thewaltdisneycompany.com/about/
+.disneyanimation.com
+.fxnetwork.com
+.fxnetworks.com
+.lucasfilm.com
+.pixar.com
+.searchlightpictures.com
+.thewaltdisneycompany.com
+.waltdisneystudios.com
+
+.disneylandparis.com
+.hongkongdisneyland.com
+.shanghaidisneyresort.com
+.tokyodisneyresort.jp
+
 # Others
+.20thcenturystudios.com
 .20thcenturystudios.com.au
 .20thcenturystudios.com.br
 .20thcenturystudios.jp
 .adventuresbydisney.com
 .babble.com
 .babyzone.com
-.bamgrid.com
 .beautyandthebeastmusical.co.uk
+.detpress.com
 .dilcdn.com
 .disney-asia.com
 .disney-discount.com
@@ -8016,6 +8094,7 @@ espndotcom.tt.omtrdc.net
 .disney-portal.my.onetrust.com
 .disney-studio.com
 .disney-studio.net
+.disneyaccount.com
 .disneyadsales.com
 .disneyarena.com
 .disneyaulani.com
@@ -8052,17 +8131,19 @@ espndotcom.tt.omtrdc.net
 .disneypeoplesurveys.com
 .disneyplus.bn5x.net
 .disneyplus.com
-.disneyplus.com.ssl.sc.omtrdc.net
+.disneyprivacycenter.com
 .disneyredirects.com
 .disneysrivieraresort.com
 .disneystore.com
 .disneystreaming.com
 .disneysubscription.com
+.disneytermsofuse.com
 .disneytickets.co.uk
 .disneyturkiye.com.tr
 .disneytvajobs.com
 .disneyworld-go.com
 .dssott.com
+.freeform.com
 .go-disneyworldgo.com
 .go.com
 .mickey.tv
@@ -8082,6 +8163,8 @@ espndotcom.tt.omtrdc.net
 .thestationbymaker.com
 .thisispolaris.com
 .watchdisneyfe.com
+
+disneyplus.com.ssl.sc.omtrdc.net
 
 # tracking
 disney.my.sentry.io
@@ -8212,56 +8295,6 @@ webvodad-hamivideo.cdn.hinet.net
 .hbomax-images.warnermediacdn.com
 .hbomaxdash.s.llnwi.net
 # End of hbo
-# Included from hulu
-.112263.com
-.callhulu.com
-.findyourlimits.com
-.freehulu.com
-.hooloo.tv
-.hoolu.com
-.hoolu.tv
-.hu1u.com
-.huloo.cc
-.huloo.tv
-.hulu.com
-.hulu.jp
-.hulu.tv
-.hulu.us
-.huluaction.com
-.huluad.com
-.huluapp.com
-.huluasks.com
-.hulucall.com
-.hulufree.com
-.hulugans.com
-.hulugermany.com
-.hulugo.com
-.huluim.com
-.huluinstantmessenger.com
-.huluitaly.com
-.hulunet.com
-.hulunetwork.com
-.huluplus.com
-.hulupremium.com
-.hulupurchase.com
-.huluqa.com
-.hulurussia.com
-.huluspain.com
-.hulusports.com
-.hulustream.com
-.huluteam.com
-.hulutv.com
-.huluusa.com
-.joinmaidez.com
-.mushymush.tv
-.myhulu.com
-.originalhulu.com
-.payhulu.com
-.registerhulu.com
-.thehulubraintrust.com
-.wwwhuluplus.com
-hulu.playback.edge.bamgrid.com
-# End of hulu
 # Included from imdb
 # All .imdb domains
 .imdb
@@ -8395,8 +8428,6 @@ osxapps.itunes.g.aaplimg.com
 .kkbox.com
 .kkbox.com.tw
 .kktix.com
-.kktv.com.tw
-.kktv.me
 # End of kkbox
 # Included from kktv
 .kktv.com.tw
@@ -8494,7 +8525,6 @@ agb9r0ad.qllfkl.com
 # End of mudvod
 # Included from mytvsuper
 .mytvsuper.com
-.tvb.com
 # End of mytvsuper
 # Included from netflix
 .fast.com
@@ -8726,7 +8756,6 @@ i.jeded.com
 # End of tidal
 # Included from tiktok
 .bytedapm.com
-.byteoversea.com
 .muscdn.com
 .musical.ly
 .tik-tokapi.com
@@ -9334,6 +9363,12 @@ o4504926511693824.ingest.sentry.io
 # Forums & Social network
 # Included from category-forums
 # Forums & Social network
+# Included from 2ch
+.2ch.hk
+.2ch.life
+.2ch.org
+.2ch.su
+# End of 2ch
 # Included from 4chan
 .4cdn.org
 .4chan.org
@@ -9869,7 +9904,6 @@ bbs.boingboing.net
 .online-deals.net
 .opencreate.org
 .reachtheworldonfacebook.com
-.rocksdb.org
 .shopfacebook.com
 .sportsfacebook.com
 .sportstream.com
@@ -10828,8 +10862,6 @@ deutschewelle.h-cdn.com
 .foxweatherwatch.com
 .fssta.com
 .fxn.ws
-.fxnetwork.com
-.fxnetworks.com
 
 # Bento Box Entertainment
 .bentobox.tv
@@ -11033,10 +11065,6 @@ himalaya-exchange.zendesk.com
 .ulifestyle.com.hk
 .umagazine.com.hk
 # End of hketgroup
-# Included from hkopentv
-.hkopentv.com
-.fantv.hk
-# End of hkopentv
 # Included from huffpost
 .huffingtonpost.ca
 .huffingtonpost.co.uk
@@ -11856,12 +11884,12 @@ himalaya-exchange.zendesk.com
 # Included from tvb
 # Included from mytvsuper
 .mytvsuper.com
-.tvb.com
 # End of mytvsuper
 
 .bigbigchannel.com.hk
 .bigbigshop.com
 .encoretvb.com
+.neigbuy.com
 .tvb.com
 .tvb.com.au
 .tvbanywhere.com
@@ -11990,7 +12018,6 @@ himalaya-exchange.zendesk.com
 .ync.ne.jp
 .yomikyo.or.jp
 .yomilogi.com
-.yomiuri-johkai.co.jp
 .yomiuri-johkai.co.jp
 .yomiuri-ryokou.co.jp
 .yomiuri-shimbun.pressreader.com
@@ -13181,7 +13208,6 @@ widgets.stripst.com
 .2adultflashgames.com
 .2beeg.me
 .2bit8.com
-.2ch.hk
 .2chav.com
 .2dgen.com
 .2gayboys.com
@@ -19142,7 +19168,6 @@ epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com
 .kaspersky.com.br
 .kaspersky.com.cn
 .kaspersky.com.hk
-.kaspersky.com.hk
 .kaspersky.com.pl
 .kaspersky.com.tr
 .kaspersky.com.tw
@@ -20282,6 +20307,18 @@ notary-submissions-prod.s3.us-west-2.amazonaws.com
 # MapKit
 .apple-mapkit.com
 
+# regexp:^cdn(-cn)?[1-4]?\.apple-mapkit\.com$ @cn
+cdn.apple-mapkit.com
+cdn1.apple-mapkit.com
+cdn2.apple-mapkit.com
+cdn3.apple-mapkit.com
+cdn4.apple-mapkit.com
+cdn-cn.apple-mapkit.com
+cdn-cn1.apple-mapkit.com
+cdn-cn2.apple-mapkit.com
+cdn-cn3.apple-mapkit.com
+cdn-cn4.apple-mapkit.com
+
 # Playgrounds
 .playgrounds-cdn.apple.com
 
@@ -21339,7 +21376,6 @@ wwis-dubc1-vip99.adobe.com
 .businesscatalyst.com
 .ccnsite.com
 .ccpsx.com
-.demdex.net
 .dollarfotoclub.com
 .dollarphotoclub.com
 .dollarphotosclub.com
@@ -21435,6 +21471,7 @@ wwis-dubc1-vip99.adobe.com
 
 # Ads/tracking
 .advertising.adobe.com
+.demdex.net
 .tubemogul.com
 # End of adobe
 # Included from alibabacloud
@@ -23092,6 +23129,18 @@ notary-submissions-prod.s3.us-west-2.amazonaws.com
 # MapKit
 .apple-mapkit.com
 
+# regexp:^cdn(-cn)?[1-4]?\.apple-mapkit\.com$ @cn
+cdn.apple-mapkit.com
+cdn1.apple-mapkit.com
+cdn2.apple-mapkit.com
+cdn3.apple-mapkit.com
+cdn4.apple-mapkit.com
+cdn-cn.apple-mapkit.com
+cdn-cn1.apple-mapkit.com
+cdn-cn2.apple-mapkit.com
+cdn-cn3.apple-mapkit.com
+cdn-cn4.apple-mapkit.com
+
 # Playgrounds
 .playgrounds-cdn.apple.com
 
@@ -24587,7 +24636,6 @@ osxapps.itunes.g.aaplimg.com
 .apple-ibooks.cn
 .apple-inc.net
 .apple-livephotoskit.com
-.apple-mapkit.com
 .apple-maps.cn
 .apple-online.com
 .apple-studies.com
@@ -24838,18 +24886,6 @@ a3.mzstatic.com
 a4.mzstatic.com
 a5.mzstatic.com
 
-# regexp:^cdn(-cn)?[1-4]?\.apple-mapkit\.com$ @cn
-cdn.apple-mapkit.com
-cdn1.apple-mapkit.com
-cdn2.apple-mapkit.com
-cdn3.apple-mapkit.com
-cdn4.apple-mapkit.com
-cdn-cn.apple-mapkit.com
-cdn-cn1.apple-mapkit.com
-cdn-cn2.apple-mapkit.com
-cdn-cn3.apple-mapkit.com
-cdn-cn4.apple-mapkit.com
-
 # regexp:^cl[1-5]-cdn\.origin-apple\.com\.akadns\.net$ @cn
 cl1-cdn.origin-apple.com.akadns.net
 cl2-cdn.origin-apple.com.akadns.net
@@ -25034,6 +25070,16 @@ xp.apple.com
 # End of atlassian
 # Included from att
 # AT&T Inc.
+# Included from attwatchtv
+# AT&T WatchTV was a discontinued standalone streaming service and no longer exists
+# We may remove this list.
+
+.att.tv
+.atttvnow.com
+.attwatchtv.com
+.dtvce.com
+.nettyinternet.com
+# End of attwatchtv
 
 .accbusiness.com
 .atandt.com
@@ -25046,7 +25092,6 @@ xp.apple.com
 .att.com
 .att.jobs
 .att.net
-.att.tv
 .attalascom.com
 .attbelieves.com
 .attbusiness.net
@@ -25068,7 +25113,6 @@ xp.apple.com
 .attssl.com
 .attstadium.com
 .attsuppliers.com
-.atttvnow.com
 .attuverseoffers.com
 .attuverseonline.com
 .attvoip.com
@@ -25086,7 +25130,6 @@ xp.apple.com
 .itcanwait.com
 .mymmode.com
 .naturalvoices.com
-.nettyinternet.com
 .openapiplatform.com
 .openapiservice.com
 .patentgold.net
@@ -25107,6 +25150,8 @@ xp.apple.com
 .na-att-idns.net
 
 # Direct TV
+# AT&T and DIRECTV are completely separate companies now.
+# We may add a separate list for DIRECTV
 .audiencenetwork.com
 .audiencenetwork.tv
 .cabletvdirectv.com
@@ -27289,7 +27334,6 @@ hpefonts.s3.amazonaws.com
 .omekinteractive.com
 .omnitek.tv
 .openamt.com
-.opendroneid.org
 .optanedifference.com
 .passwordday.org
 .pc.com
@@ -27475,7 +27519,6 @@ hpefonts.s3.amazonaws.com
 .kaspersky.com.au
 .kaspersky.com.br
 .kaspersky.com.cn
-.kaspersky.com.hk
 .kaspersky.com.hk
 .kaspersky.com.pl
 .kaspersky.com.tr
@@ -28375,7 +28418,6 @@ xray.mail.ru
 .online-deals.net
 .opencreate.org
 .reachtheworldonfacebook.com
-.rocksdb.org
 .shopfacebook.com
 .sportsfacebook.com
 .sportstream.com

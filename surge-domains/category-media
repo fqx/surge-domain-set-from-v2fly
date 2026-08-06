@@ -648,8 +648,6 @@ deutschewelle.h-cdn.com
 .foxweatherwatch.com
 .fssta.com
 .fxn.ws
-.fxnetwork.com
-.fxnetworks.com
 
 # Bento Box Entertainment
 .bentobox.tv
@@ -853,10 +851,6 @@ himalaya-exchange.zendesk.com
 .ulifestyle.com.hk
 .umagazine.com.hk
 # End of hketgroup
-# Included from hkopentv
-.hkopentv.com
-.fantv.hk
-# End of hkopentv
 # Included from huffpost
 .huffingtonpost.ca
 .huffingtonpost.co.uk
@@ -1676,12 +1670,12 @@ himalaya-exchange.zendesk.com
 # Included from tvb
 # Included from mytvsuper
 .mytvsuper.com
-.tvb.com
 # End of mytvsuper
 
 .bigbigchannel.com.hk
 .bigbigshop.com
 .encoretvb.com
+.neigbuy.com
 .tvb.com
 .tvb.com.au
 .tvbanywhere.com
@@ -1810,7 +1804,6 @@ himalaya-exchange.zendesk.com
 .ync.ne.jp
 .yomikyo.or.jp
 .yomilogi.com
-.yomiuri-johkai.co.jp
 .yomiuri-johkai.co.jp
 .yomiuri-ryokou.co.jp
 .yomiuri-shimbun.pressreader.com

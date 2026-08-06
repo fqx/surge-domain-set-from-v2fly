@@ -90,10 +90,8 @@ ssl-lvlt.cdn.ea.com
 .bejeweledstars.com
 .capitalgames.com
 .chillingo.com
-.commandandconquer.com
 .conquerwithcharacter.com
 .crysis.jp
-.dawngate.com
 .dawngatechronicles.com
 .dicela.com
 .dicela.net
@@ -133,15 +131,11 @@ ssl-lvlt.cdn.ea.com
 .pogo.com
 .pogobeta.com
 .popcap.com
-.projectapex.com
-.pvzheroes.com
-.spearhead.kr
 .speedhunters.com
 .spore.com
 .ssx3.com
 .starwarsbattlefront.com
 .starwarsbattlefront2.com
-.tiberiumalliances.com
 .tiburon.com
 .tnt-ea.com
 .ultimaforever.com
@@ -307,8 +301,12 @@ eaassets-a.akamaihd.net
 .reachthefinals.com
 # End of embark
 # Included from epicgames
-.3lateral.com
+# Included from artstation
 .artstation.com
+.artstationmedia.com
+# End of artstation
+
+.3lateral.com
 .capturingreality.com
 .cubicmotion.com
 .battlebreakers.com

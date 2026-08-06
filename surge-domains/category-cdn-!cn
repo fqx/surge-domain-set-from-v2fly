@@ -123,9 +123,11 @@
 .cloudflare-gateway.com
 .cloudflare-quic.com
 .cloudflare-terms-of-service-abuse.com
+.cloudflare.app
 .cloudflare.com
 .cloudflare.dev
 .cloudflare.net
+.cloudflare.pay
 .cloudflare.tv
 .cloudflareaccess.com
 .cloudflareapps.com
@@ -174,9 +176,6 @@
 .fastly.net
 .fastlylabs.com
 .fastlylb.net
-
-# Video.js CDN
-.zencdn.net
 # End of fastly
 # Included from imgix
 .imgix.com
