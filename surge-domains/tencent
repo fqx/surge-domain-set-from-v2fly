@@ -304,10 +304,14 @@
 .weixin.com
 .weixinsxy.com
 .weiyun.com
-.wxaurl.cn
 .wxcloudrun.com
 .wxgateway.com
 .wxlivecdn.com
+
+# Short URL
+.mmbizurl.cn
+.url.cn
+.wxaurl.cn
 .wxmpurl.cn
 
 # 腾讯视频海外版

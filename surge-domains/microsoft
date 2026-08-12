@@ -420,6 +420,7 @@ www.microsoft.com
 .storage.live.com
 # End of onedrive
 # Included from xbox
+#include:activision-blizzard
 # Included from asobo
 .asobostudio.com
 .flightsimulator.com

@@ -66,7 +66,33 @@
 # End of rutube
 # End of category-entertainment-ru
 # Included from category-games-!cn
+# Included from activision-blizzard
+# Included from activision
+# Use `geosite:activision-blizzard` if you want to match more domains
+.activision.com
+.callofduty.com
+.callofdutyendowment.com
+.callofdutyendowment.org
+.callofdutyleague.com
+.callofdutymobile.com
+.crashbandicoot.com
+.demonware.net
+.highmoonstudios.com
+.infinityward.com
+.ravensoftware.com
+.sekirothegame.com
+.sierragames.com
+.skylanders.com
+.sledgehammergames.com
+.solidstate.com
+.spyrothedragon.com
+.tonyhawk.com
+.tonyhawkthegame.com
+.treyarch.com
+.worldseriesofwarzone.com
+# End of activision
 # Included from blizzard
+# Use `geosite:activision-blizzard` if you want to match more domains
 .blizzard.com
 .blizzardgearstore.com
 .blz-contentstack.com
@@ -81,7 +107,9 @@ bnetproduct-a.akamaihd.net
 bnetshopus.akamaized.net
 
 # Diablo
+.diablo.com
 .diablo3.com
+.diablo4.com
 .diabloimmortal.com
 
 # Hearthstone
@@ -108,6 +136,16 @@ blizzcon-a.akamaihd.net
 blzmedia-a.akamaihd.net
 blznav.akamaized.net
 # End of blizzard
+
+# King
+.candycrush.com
+.king.com
+
+.activisionblizzard.com
+.activisionblizzardmedia.com
+.benefitsforeveryworld.com
+.europeanwarzoneseries.com
+# End of activision-blizzard
 # Included from bluearchive
 .bluearchive.jp
 .bluearchive.nexon.com
@@ -1092,6 +1130,7 @@ wb-agora-hydra-file-storage-k1.s3.amazonaws.com
 .wbinsights.com
 # End of wbgames
 # Included from xbox
+#include:activision-blizzard
 # Included from asobo
 .asobostudio.com
 .flightsimulator.com
