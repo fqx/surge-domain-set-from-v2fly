@@ -591,6 +591,24 @@ vsmarketplacebadge.apphb.com
 .nginx.com
 .nginx.org
 # End of nginx
+# Included from nixos
+.nix.dev
+.nix.store
+.nixcon.org
+.nixcon2017.org
+.nixlang.com
+.nixos.org
+.nixpkgs.org
+
+# Unofficial
+
+nix-community.github.io
+
+.builtwithnix.org
+.mynixos.com
+.nix-community.org
+.nixos.wiki
+# End of nixos
 # Included from openwrt
 .openwrt.org
 .lede-project.org
@@ -840,7 +858,6 @@ amp.akamaized.net
 .netfilter.org
 .newpipe.net
 .nftables.org
-.nixos.org
 .nodesource.com
 .notepad-plus-plus.org
 .openresty.org
