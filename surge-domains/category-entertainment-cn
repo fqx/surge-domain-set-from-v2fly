@@ -384,20 +384,6 @@ end.shallow.ink
 # 舞推 (E舞成名)
 .singworld.net
 # End of aamgame
-# Included from acfun
-# Beijing Danmu Network Technology Co., Ltd.
-
-.ac.fun
-.acfun.cn
-.acfun.net
-.acfunchina.cn
-.acfunchina.com
-.acfunchina.net
-.aixifan.com
-
-# Ads/tracking
-apilog-web.acfun.cn
-# End of acfun
 # Included from ciweimao
 .ciweimao.com
 .hbooker.com
@@ -407,12 +393,14 @@ apilog-web.acfun.cn
 # 得到
 .biji.com
 .ddmogo.com
+.dedao.cn
 .igetget.cn
 .igetget.com
 .luojilab.com
 .mogoo.com
 .sao.cn
 .saolife.com
+.umiwi.com
 # End of dedao
 # Included from douyin
 # 北京抖音科技有限公司 京ICP备16016397号
@@ -435,6 +423,7 @@ apilog-web.acfun.cn
 .douyincdn.com
 .douyinfe.com
 .douyinliving.com
+.douyinmusicpromotion.com
 .douyinpic.com
 .douyinstatic.com
 .douyinvod.com
@@ -469,7 +458,6 @@ apilog-web.acfun.cn
 .ihuoshanlive.com
 .ihuoshanstatic.com
 .ihuoshanvod.com
-.kesong.co
 .kolbuyer.cn
 .nextvid.net
 .ppkankan01.com
@@ -595,6 +583,22 @@ rtlog5-applog.fqnovel.com
 .v3mh.com
 # End of kuaikan
 # Included from kuaishou
+# Included from acfun
+# Beijing Danmu Network Technology Co., Ltd.
+
+.ac.fun
+.acfun.cn
+.acfun.net
+.acfunchina.cn
+.acfunchina.com
+.acfunchina.net
+.aixifan.com
+
+# Ads/tracking
+apilog-web.acfun.cn
+# End of acfun
+
+.eckwai.com
 .ecukwai.com
 .gifshow.com
 .inkuai.com
@@ -608,10 +612,15 @@ rtlog5-applog.fqnovel.com
 .kuaishoupay.com
 .kuaishouzt.com
 .kwaicdn.com
+.kwaishop.com
+.kwaixiaodian.com
+.kwaiying.com
 .kwaizt.com
 .kwimgs.com
+.mojidoc.com
 .qingque.cn
 .viviv.com
+.wskwai.com
 .wsukwai.com
 .yximgs.com
 
@@ -782,11 +791,6 @@ wlog.kuaishou.com
 .tmead.y.qq.com
 .tmeadcomm.y.qq.com
 # End of tencent-tme
-# Included from u17
-.u17.com
-.u17i.com
-.u17t.com
-# End of u17
 # Included from xiaoheihe
 # 清枫（北京）科技有限公司
 # 京ICP备15018522号

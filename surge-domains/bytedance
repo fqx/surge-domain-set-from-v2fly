@@ -560,6 +560,7 @@ p9-juejin.byteimg.com
 .jokecommunity.net
 .jstti.com
 .jtamac.com
+.letsign.com
 .livecdnstatic.com
 .local-ip.online
 .luckysf.net
@@ -633,6 +634,8 @@ p9-juejin.byteimg.com
 .volcdns-test.net
 .voleai.com
 .wtturl.cn
+.xiaohe.cn
+.xingtu.cn
 .xsgtvacct.com
 .yhgfb-cn-static.com
 .zijieapi.cn
@@ -768,7 +771,8 @@ bytedance.map.fastly.net
 .faceu.com
 .faceu.mobi
 
-# 轻颜相机
+# 轻颜相机/可颂
+.kesong.co
 .ulikecam.com
 
 # RsProxy 镜像
