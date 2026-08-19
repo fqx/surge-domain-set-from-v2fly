@@ -31245,6 +31245,10 @@ teamviewer.com.cdn.cloudflare.net
 .nexitallysafe.com
 .nexitcore.com
 # End of nexitally
+# Included from nordvpn
+.nordcdn.com
+.nordvpn.com
+# End of nordvpn
 # Included from paofuyun
 .paofu.cloud
 .paofuyun.me
