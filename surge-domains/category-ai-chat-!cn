@@ -246,6 +246,10 @@ pplx-res.cloudinary.com
 .clipdrop.co
 .jasper.ai
 
+# Kimi/Moonshot
+.kimi.ai
+.moonshot.ai
+
 .agentclientprotocol.com
 .anythingllm.com
 .arena.ai
@@ -256,6 +260,7 @@ pplx-res.cloudinary.com
 .diabrowser.com
 .diabrowser.engineering
 .dify.ai
+.dreamgen.com
 .duck.ai
 .gateway.ai.cloudflare.com
 .h2o.ai
@@ -268,6 +273,8 @@ pplx-res.cloudinary.com
 .minimax.io
 .mistral.ai
 .mozilla.ai
+.notegpt.io
+.novelai.net
 .ollama.com
 .openart.ai
 .openclaw.ai
@@ -277,6 +284,7 @@ pplx-res.cloudinary.com
 .qoder.com
 .sider.ai
 .spicywriter.com
+.talkai.info
 .tapnow.ai
 .tripo3d.ai
 # End of category-ai-!cn

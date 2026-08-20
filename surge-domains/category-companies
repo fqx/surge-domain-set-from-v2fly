@@ -1646,10 +1646,13 @@ www.pxcc.com
 .amazonaws.tv
 .amazoncognito.com
 .amazonses.com
+.amazonwebservices.com
 .amazonworkdocs.com
 .amplifyapp.com
 .amplifyframework.com
 .aws-iot-hackathon.com
+.aws.a2z.com
+.aws.amazon.com
 .aws.com
 .aws.dev
 .awsapprunner.com
@@ -1897,8 +1900,6 @@ images-cn-8.ssl-images-amazon.com
 .amdfanstore.com
 .amdgaming.com
 .radeon.com
-
-www.amd.com
 # End of amd
 # Included from anexia
 # Included from netcup
@@ -5273,33 +5274,6 @@ ciscolivehls-i.akamaihd.net
 .vce.com
 
 dell.my.site.com
-
-afcs.dell.com
-clientperipherals.dell.com
-customization-cdn.dell.com
-dds.dell.com
-dl.dell.com
-ea2cn-dev-outlet.dell.com
-ea2cn-prod-outlet.dell.com
-ea2cn-staging-outlet.dell.com
-fcs.dell.com
-fta.dell.com
-ftaapj.dell.com
-ftaemea.dell.com
-ftasitapj.dell.com
-gbxgateway-dev.dell.com
-gbxgateway.dell.com
-i.dell.com
-nexus.dell.com
-p.cdn.persaas.dell.com
-scene7-cdn.dell.com
-si.cdn.dell.com
-sm.dell.com
-snp.cdn.dell.com
-snpi.dell.com
-supportassist.dell.com
-www-csb.dell.com
-www.dell.com
 # End of dell
 # Included from digitalocean
 .digitalocean.com
@@ -6523,8 +6497,6 @@ lgelectronics.122.2o7.net
 .louisvuitton.cn
 .louisvuitton.com
 .lvcampaign.com
-
-tp.louisvuitton.com
 # End of louisvuitton
 # Included from mailru-group
 # VK Group, formerly known as Mail.ru Group, a Russian technology company
@@ -7689,7 +7661,6 @@ location.microsoft.com
 .r.bing.com
 .th.bing.com
 bj1.api.bing.com
-emoi-cncdn.bing.com
 # End of bing
 # Included from github
 # Included from github-copilot
