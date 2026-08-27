@@ -8337,6 +8337,7 @@ webvodad-hamivideo.cdn.hinet.net
 .redbyhbo.com
 
 # CDNs
+.h264.io
 .hbo.com.c.footprint.net
 .hbo.com.edgesuite.net
 .hbo.map.fastly.net
@@ -12851,6 +12852,10 @@ misa-prod.s3.ap-northeast-1.amazonaws.com
 .netflav1.com
 .netflav5.com
 # End of netflav
+# Included from newgrounds
+.newgrounds.com
+.ngfiles.com
+# End of newgrounds
 # Included from nudevista
 .nudevista.com
 .nudevista.es
@@ -16649,7 +16654,6 @@ widgets.stripst.com
 .new3dcomics.com
 .newbienudes.com
 .newbrazz.com
-.newgrounds.com
 .newhentai.org
 .newlineporn.com
 .newsensations.com
