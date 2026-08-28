@@ -391,6 +391,7 @@ pplx-res.cloudinary.com
 # Included from remnawave
 .docs.rw
 .log.rw
+.remna.st
 .try.rw
 # End of remnawave
 
