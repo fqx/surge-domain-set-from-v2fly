@@ -106,8 +106,11 @@ deribit.cdn.prismic.io
 .etherscan.io
 # End of ethereum
 # Included from gateio
+.gate.com
 .gate.io
+.gate.tv
 
+.gateapi.io
 .gatedata.org
 .gateimg.com
 .gateio.live

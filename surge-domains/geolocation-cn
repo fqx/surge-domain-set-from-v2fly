@@ -2722,6 +2722,8 @@ ctdsb.clouddiffuse.xyz
 # 温州民商银行股份有限公司 WENZHOU MINSHANG BANK CO.,LTD
 .ms-bank.cn
 # 深圳前海微众银行股份有限公司 WeBank Co.,Ltd
+.tctpwebankcdn.net
+.wbweilicai.com
 .webank.com
 .webankcdn.net
 # 湖南三湘银行股份有限公司 BANK OF SANXIANG
@@ -4364,8 +4366,8 @@ study.163.com
 .diandianlife.top
 # End of askdiandian
 # Included from deepseek
-# Main domain
 .deepseek.com
+.deepseeksvc.com
 # End of deepseek
 # Included from doubao
 # 北京春田知韵科技有限公司 京ICP备2023020373号
@@ -4475,8 +4477,9 @@ study.163.com
 .minimaxi.com
 .xingyeai.com
 
-# WorkBuddy 腾讯云代码助手
+# WorkBuddy
 .codebuddy.cn
+.workbuddy.cn
 # 腾讯混元
 .hunyuan.tencent.com
 # 元宝
@@ -5883,6 +5886,7 @@ api.blipsandchitz.me
 .360panyun.cn
 .360qhcdn.com
 .360safe.com
+.360scdn.com
 .360shouji.com
 .360so.com
 .360sou.cn
