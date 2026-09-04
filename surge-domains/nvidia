@@ -1,3 +1,9 @@
+# Included from huggingface
+.hf.co
+.hf.space
+.huggingface.co
+# End of huggingface
+
 .geforce.cn
 .geforce.co.kr
 .geforce.co.uk
