@@ -8491,6 +8491,7 @@ osxapps.itunes.g.aaplimg.com
 .last.fm
 
 lastfm.freetls.fastly.net
+lastfm-img.freetls.fastly.net
 
 # API endpoint
 ws.audioscrobbler.com
