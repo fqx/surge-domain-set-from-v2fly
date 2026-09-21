@@ -82,6 +82,17 @@ study.163.com
 .fenbilantian.cn
 .fenbilantian.com
 # End of yuanfudao
+# Included from zuoyebang
+.zuoyebang.cc
+.zuoyebang.com
+.zybang.com
+
+# 快对作业
+.kuaiduizuoye.com
+
+# Ads/tracking
+.syh.zybang.com
+# End of zuoyebang
 
 .edu.cn
 
@@ -175,6 +186,7 @@ study.163.com
 # 中教双元/教育在线
 .cepsp.cn
 .eol.cn
+.gaokao.cn
 # 中国地质大学 继续教育学院
 .cugbonline.cn
 # 大连财经学院 大财校园
@@ -207,6 +219,8 @@ study.163.com
 # 华图
 .huatu.com
 .sydw8.com
+# 慧教云
+.huijiaoyun.com
 # 中科大数据研究院，豫ICP备19023555号
 .ictbda.cn
 .ictbda.com
@@ -224,8 +238,6 @@ study.163.com
 .keboyunxiao.com
 # 课堂派
 .ketangpai.com
-# 快对作业
-.kuaiduizuoye.com
 # 流利说
 .liulishuo.com
 .llsapp.com
@@ -238,6 +250,9 @@ study.163.com
 .maimemostatus.com
 # 墨墨记忆卡
 .markji.com
+# 墨督督/上海识刻
+.mddclass.com
+.sksight.com
 # CIS NanoMasters
 .neoscholar.com
 .neoschool.com

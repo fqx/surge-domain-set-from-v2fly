@@ -1343,6 +1343,8 @@ wlog.kuaishou.com
 # 蜂鸟网
 .fengniao.com
 .img-space.com
+# 游戏狗
+.gamedog.cn
 # 三国杀打小抄官网
 .goka.top
 # 海读文学
@@ -1359,6 +1361,9 @@ wlog.kuaishou.com
 # 映客直播
 .inke.cn
 .ikstatic.cn
+# 图虫网
+.ituchong.com
+.tuchong.com
 # 晋江文学城
 .jjwxc.net
 # 酷匠网
@@ -1415,10 +1420,16 @@ wlog.kuaishou.com
 .xinlishumeng.com
 # 祥云游社
 .xyys.com
+# 星座屋
+.xzw.com
 # 百合会
 .yamibo.com
 # 易有料
 .yiyouliao.com
+# 游戏宝
+.youxibao.com
+# 游戏鸟手游网
+.youxiniao.com
 # 游迅网
 .yxdown.com
 # 战旗直播
@@ -2035,6 +2046,8 @@ wlog.kuaishou.com
 # 安徽财经网
 .ahcjw.com
 .ahcaijing.com
+# 安徽新闻网/安徽日报
+.ahnews.com.cn
 # 安徽网
 .ahwang.cn
 # 安徽新闻
@@ -2042,6 +2055,8 @@ wlog.kuaishou.com
 .anhuiyun.com
 # 锋潮科技
 .anzhuo.cn
+# 中商情报网
+.askci.com
 # 半岛网
 .bandao.cn
 # 半月谈
@@ -2069,6 +2084,8 @@ wlog.kuaishou.com
 .cbinews.com
 # 通信产业网
 .ccidcom.com
+# 中国消费网
+.ccn.com.cn
 # 广东时代传媒
 .ccreports.com.cn
 .tfcaijing.com
@@ -2078,11 +2095,23 @@ wlog.kuaishou.com
 .ce.cn
 # 改革网
 .cfgw.net.cn
+# 中国财经信息网
+.cfi.cn
+.cfi.net.cn
+# 中国食品安全网
+.cfsn.cn
 # 中国家电网
 .cheaa.com
 # 潇湘晨报
 .chenshipin.com
 .xxcb.cn
+# 中国网（中国互联网新闻中心）
+.china.cn
+.china.com.cn
+.china.org.cn
+# 中华网
+.china.com
+.imgcdc.com
 # AET 电子技术应用
 .chinaaet.com
 # 天极网
@@ -2093,20 +2122,27 @@ wlog.kuaishou.com
 .chinadevelopment.com.cn
 # 品牌网
 .chinapp.com
+# 中国基金报
+.chnfund.com
 # 四川日报
 .chuanbaoguancha.cn
 .scol.com.cn
 .scdaily.cn
 # 中指云
 .cih-index.com
+# 企业观察网
+.cneo.com.cn
 # 中金在线
 .cnfol.com
 .cnfolimg.com
 # 荆楚网/湖北日报
 .cnhubei.com
 .hubeidaily.net
+# CNMO
+.cnmo.com
 # 央广网
 .cnr.cn
+.radio.cn
 # 上海证券报
 .cnstock.com
 # 陕西新闻网
@@ -2147,8 +2183,14 @@ ctdsb.clouddiffuse.xyz
 # 大河报
 .daheapp.com
 .dahebao.cn
+# 与非网
+.datasheet5.com
+.eefcdn.com
+.eefocus.com
 # 广州日报大洋网
 .dayoo.com
+# 中国国家地理网
+.dili360.com
 # 读特新闻
 .dutenews.com
 # 大智慧
@@ -2220,8 +2262,10 @@ ctdsb.clouddiffuse.xyz
 .hexun.com
 # 华声在线/湖南在线
 .hnol.net
+.hunantoday.cn
 .voc.com.cn
 # 河南广播电视台/大象网
+.hnr.cn
 .hntv.tv
 # 华商网
 .huashangtop.com
@@ -2256,17 +2300,20 @@ ctdsb.clouddiffuse.xyz
 .istv.cn
 # IT168
 .it168.com
+# 上观新闻/解放日报
+.jfdaily.com
+.jfdaily.com.cn
+.shobserver.cn
+.shobserver.com
 # 华尔街见闻
 .jianyuweb.com
 .wallstcn.com
 .wallstreetcn.com
 # 金十数据
 .jin10.com
-# 上观新闻/解放日报
-.jfdaily.com
-.jfdaily.com.cn
-.shobserver.cn
-.shobserver.com
+# 经济日报
+.jingjiribao.cn
+.jjrbs.cn
 # 新黄河/济南时报
 .jinantimes.com.cn
 # 机器之心
@@ -2295,6 +2342,9 @@ ctdsb.clouddiffuse.xyz
 # 中国科技网/科技日报
 .kjrb.com.cn
 .stdaily.com
+# 快科技
+.kkj.cn
+.mydrivers.com
 # 新智派
 .knewsmart.com
 # 晚点
@@ -2303,12 +2353,13 @@ ctdsb.clouddiffuse.xyz
 .leikeji.com
 # 雷峰网
 .leiphone.com
+# 三联生活周刊/三联书店
+.lifeweek.com.cn
+.sdxjpc.com
 # 今日观察网
 .miercn.com
 # 闽南网
 .mnw.cn
-# 快科技
-.mydrivers.com
 # ZAKER新闻
 .myzaker.com
 # 南岳新闻网
@@ -2345,6 +2396,8 @@ ctdsb.clouddiffuse.xyz
 .people.cn
 .people.com.cn
 .peopleapp.com
+# 投资界
+.pedaily.cn
 # 品玩
 .pingwest.com
 # 量子位
@@ -2368,6 +2421,8 @@ ctdsb.clouddiffuse.xyz
 .scgchc.com
 .sctv-tf.com
 .sctv.com
+# 科学网/中国科学报
+.sciencenet.cn
 # 四川手机报
 .scsjb.cn
 # 安全内参
@@ -2412,6 +2467,8 @@ ctdsb.clouddiffuse.xyz
 # 潮新闻/浙江日报
 .8531.cn
 .tidenews.com.cn
+# 理想生活实验室
+.toodaylab.com
 # 动脉网
 .vbdata.cn
 .vcbeat.top
@@ -2430,14 +2487,17 @@ ctdsb.clouddiffuse.xyz
 .xkb.com.cn
 # 学习强国
 .xuexi.cn
+# 扬子晚报
+.yangtse.com
+.yzwb.net
 # 金羊网/羊城晚报
 .ycwb.com
 # 第一财经
 .yicai.com
+# 中国青年网
+.youth.cn
 # 云南网
 .yunnan.cn
-# 扬子晚报
-.yzwb.net
 # ZEALER
 .zealer.com
 # 中国交通新闻网
@@ -2516,25 +2576,56 @@ ctdsb.clouddiffuse.xyz
 .tieba.baidu.com
 .tieba.com
 
+# 百合网
+.baihe.com
+
 # 杭州蛋蛋语音科技有限公司
 .dandan818.com
 .dandanvoice.com
 
+# 朵朵校友圈
+.duoduo.link
+.hammi.cn
+.uboxs.com
+
 # 饭否
 .fanfou.com
+
+# 陌陌
+.immomo.com
+.momocdn.com
 
 # 最右
 .izuiyou.com
 .ixiaochuan.cn
 .xiaochuankeji.cn
+.zuiyou.tv
+
+# 世纪佳缘
+.jiayuan.com
 
 # 脉脉
 .maimai.cn
 .taou.com
 
+# 千聊
+.qianliaowang.com
+.qlchat.com
+
+# Soul
+.soulapp.cn
+
+# 探探
+.tancdn.com
+.tantanapp.com
+
 # 与你
 .uneed.com
 .uneedx.com
+
+# 珍爱网
+.zastatic.com
+.zhenai.com
 
 # 知识星球
 .zsxq.com
@@ -3002,6 +3093,8 @@ ctdsb.clouddiffuse.xyz
 .rong360.com
 ## 银豹收银系统
 .pospal.cn
+## 趣店
+.qudian.com
 ## 上海付费通
 .shfft.com
 ## 收钱吧
@@ -3569,6 +3662,9 @@ ctdsb.clouddiffuse.xyz
 .btghotels.com
 .bthhotels.com
 .homeinns.com
+## 欣欣旅游网
+.cncn.com
+.cncnimg.cn
 ## 嘀嗒出行
 .didachuxing.com
 .didapinche.com
@@ -3584,6 +3680,9 @@ ctdsb.clouddiffuse.xyz
 .feiniu.com
 .fn-mart.com
 .rt-mart.com.cn
+## 找法网
+.findlaw.cn
+.findlawimg.com
 ## 微店
 .geilicdn.com
 .weidian.com
@@ -3619,6 +3718,8 @@ ctdsb.clouddiffuse.xyz
 ## 法律快车
 .lawtime.cn
 .lawtimeimg.com
+## 鲁班到家
+.lbdj.com
 ## 领星（跨境电商亚马逊ERP）
 .lingxing.com
 ## 卢米埃影院
@@ -3628,6 +3729,8 @@ ctdsb.clouddiffuse.xyz
 ## 美物清单
 .maxonesoft.com
 .meiwulist.com
+## 得力集团
+.nbdeli.com
 ## OZONBIGSELL分析产品系统
 .ozonbigsell.com
 ## 朴朴
@@ -3649,8 +3752,13 @@ ctdsb.clouddiffuse.xyz
 .tuniucdn.com
 ## 设计知外
 .ucppt.com
+## 西部数码
+.west.cn
 ## 瞎买
 .xiamai.net
+## 啄木鸟家庭维修
+.xiujiadian.com
+.zmn.cn
 ## 亚朵
 .yaduo.com
 ## 诸葛找房
@@ -3728,9 +3836,13 @@ ss.bjmu.edu.cn
 .dxycdn.com
 ## 薄荷健康
 .boohee.com
+## 巢内网
+.chaonei.com
 ## 春雨医生
 .chunyu.mobi
 .chunyuyisheng.com
+## 宁波全网云医疗
+.eword.cn
 ## 好大夫在线
 .haodf.com
 .hdfimg.com
@@ -3740,6 +3852,8 @@ ss.bjmu.edu.cn
 .yihuimg.com
 ## 江苏健康通
 .jsehealth.com
+## 医脉通
+.medlive.cn
 ## 民福康
 .39yst.com
 .mfk.com
@@ -3752,10 +3866,16 @@ ss.bjmu.edu.cn
 .sxyygh.com
 ## 爱问医生
 .wenwo.com
+## 闻康健康/寻医问药网
+.wkimg.com
+.xywy.com
+.xyxy.net
 ## 牙医管家
 .yayi360.com
 ## 有来医生
 .youlai.cn
+## 肿瘤界
+.zhongliujie.com
 
 # Party and government offices & Public units
 .12315.cn
@@ -3772,12 +3892,18 @@ ss.bjmu.edu.cn
 .cma.cn
 ## 政务和公益机构域名注册管理中心
 .conac.cn
+## 国家林业和草原局自然保护区研究中心
+.fnrrc.com
 ## 中央气象台
 .nmc.cn
+# 中国人民银行征信中心
+.pbccrc.org.cn
 ## 中国互联网联合辟谣平台
 .piyao.org.cn
 ## 中国红十字会
 .redcross.org.cn
+## 宿迁市宿豫区启明金融调解中心
+.sqqmtj.com
 ## 中国殡葬网
 .zgbznet.com.cn
 ## 中国记协网
@@ -3969,6 +4095,17 @@ study.163.com
 .fenbilantian.cn
 .fenbilantian.com
 # End of yuanfudao
+# Included from zuoyebang
+.zuoyebang.cc
+.zuoyebang.com
+.zybang.com
+
+# 快对作业
+.kuaiduizuoye.com
+
+# Ads/tracking
+.syh.zybang.com
+# End of zuoyebang
 
 .edu.cn
 
@@ -4062,6 +4199,7 @@ study.163.com
 # 中教双元/教育在线
 .cepsp.cn
 .eol.cn
+.gaokao.cn
 # 中国地质大学 继续教育学院
 .cugbonline.cn
 # 大连财经学院 大财校园
@@ -4094,6 +4232,8 @@ study.163.com
 # 华图
 .huatu.com
 .sydw8.com
+# 慧教云
+.huijiaoyun.com
 # 中科大数据研究院，豫ICP备19023555号
 .ictbda.cn
 .ictbda.com
@@ -4111,8 +4251,6 @@ study.163.com
 .keboyunxiao.com
 # 课堂派
 .ketangpai.com
-# 快对作业
-.kuaiduizuoye.com
 # 流利说
 .liulishuo.com
 .llsapp.com
@@ -4125,6 +4263,9 @@ study.163.com
 .maimemostatus.com
 # 墨墨记忆卡
 .markji.com
+# 墨督督/上海识刻
+.mddclass.com
+.sksight.com
 # CIS NanoMasters
 .neoscholar.com
 .neoschool.com
@@ -4349,6 +4490,9 @@ study.163.com
 .nlc.cn
 ## 四川省文物考古研究院
 .sckg.com
+## 微科普
+.wkepu.cn
+.wkepu.com
 ## 温州市图书馆
 .wzlib.cn
 ## 中国大百科全书
@@ -5134,6 +5278,8 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 
 ## 驱动人生
 .160.com
+## 53客服
+.53kf.com
 ## 容联七陌 客服 营销
 .7moor-fs1.com
 .7moor.com
@@ -5180,6 +5326,8 @@ api.blipsandchitz.me
 .kookong.com
 ## 滴答清单
 .dida365.com
+## 数英
+.digitaling.com
 ## 豆果美食
 .douguo.com
 .douguo.net
@@ -5373,15 +5521,6 @@ api.blipsandchitz.me
 
 # Tech companies & Orginations
 # Included from baidu
-# Included from zuoyebang
-.zuoyebang.cc
-.zuoyebang.com
-.zybang.com
-
-# Ads/tracking
-.syh.zybang.com
-# End of zuoyebang
-
 # All .baidu domains
 .baidu
 
@@ -6086,10 +6225,16 @@ api.blipsandchitz.me
 .cvte.com
 .maxhub.com
 .seewo.com
+## 上海互盾信息科技/迅捷PDF
+.daotudashi.com
+.xunjiepdf.com
 ## 飞牛
 .fnnas.com
 .fnnas.net
 .fnos.net
+## 公牛集团
+.gongniu.cn
+.gongniukaiguan.net
 ## 咕咕数据
 .gugudata.com
 ## 二三四五
@@ -6125,12 +6270,19 @@ api.blipsandchitz.me
 .shellpub.com
 .threatbook.cn
 .threatbook.com
-## 创维
-.skyworth.com
-.skyworthdigital.com
 ## 千图网
 .58pic.com
 .qiantucdn.com
+## 享道出行
+.saicmobility.com
+## 创维
+.skyworth.com
+.skyworthdigital.com
+## T3出行
+.t3go.cn
+## 小拉出行
+.xiaolachuxing.com
+.xlcx.cn
 ## 新片场
 .xinpianchang.com
 .xpccdn.com
@@ -6306,7 +6458,6 @@ api.blipsandchitz.me
 .52miji.com
 .52pk.com
 .52z.com
-.53kf.com
 .55.com
 .5577.com
 .55bbs.com
@@ -6366,7 +6517,6 @@ api.blipsandchitz.me
 .babytreeimg.com
 .baidufree.com
 .baifendian.com
-.baihe.com
 .baixing.com
 .baixing.net
 .bamenzhushou.com
@@ -6416,7 +6566,6 @@ api.blipsandchitz.me
 .che168.com
 .china-chair.com
 .china-nengyuan.com
-.china.com
 .chinacache.com
 .chinacache.net
 .chinachugui.com
@@ -6624,7 +6773,6 @@ api.blipsandchitz.me
 .ikafan.com
 .im2maker.com
 .im-cc.com
-.imgcdc.com
 .imooc.com
 .indienova.com
 .iranshao.com
@@ -6644,7 +6792,6 @@ api.blipsandchitz.me
 .jiaodong.net
 .jiasuhui.com
 .jiathis.com
-.jiayuan.com
 .jiazhao.com
 .jiemeng8.com
 .jikexueyuan.com
@@ -7009,7 +7156,6 @@ api.blipsandchitz.me
 .xuekanba.com
 .xuexicha.com
 .xundupdf.com
-.xywy.com
 .xzking.com
 .yahui.cc
 .yaolan.com
@@ -7041,7 +7187,6 @@ api.blipsandchitz.me
 .youxiake.com
 .youxihezi.net
 .youxila.com
-.youxiniao.com
 .youxigt.com
 .youzu.com
 .yoyojie.com
@@ -7061,7 +7206,6 @@ api.blipsandchitz.me
 .yytcdn.com
 .zampda.net
 .zampdsp.com
-.zastatic.com
 .zczj.com
 .zdfans.com
 .zgjm.org
@@ -7073,7 +7217,6 @@ api.blipsandchitz.me
 .zhaodanji.com
 .zhaokao.net
 .zhcw.com
-.zhenai.com
 .zhidx.com
 .zhifang.com
 .zhiziyun.com
@@ -7141,6 +7284,9 @@ api.blipsandchitz.me
 
 # 纬横数据 鲁ICP备17051601号-1
 .vhengdata.com
+
+# 上海肯耐珂萨人力资源科技股份有限公司
+.vxhcm.com
 
 # 万集科技 京ICP备18036282号-2
 .wanji.net.cn

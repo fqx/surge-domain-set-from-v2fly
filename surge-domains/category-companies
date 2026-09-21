@@ -443,15 +443,19 @@ android.googlesource.com
 # Included from firebase
 .crashlytics.com
 .firebase.com
+.firebase.dev
 .firebase.io
 .firebaseapp.com
 .firebaseio.com
 
+.firebase.google.com
+
 crashlyticsreports-pa.googleapis.com
 firebase-settings.crashlytics.com
-firebase.google.com
 firebase.googleapis.com
 firebaseappcheck.googleapis.com
+firebaseappdistribution.googleapis.com
+firebaseapptesters.googleapis.com
 firebasedynamiclinks-ipv4.googleapis.com
 firebasedynamiclinks-ipv6.googleapis.com
 firebasedynamiclinks.googleapis.com
@@ -513,6 +517,7 @@ daily-cloudcode-pa.googleapis.com
 # NotebookLM
 notebooklm-pa.googleapis.com
 notebooklm.googleapis.com
+.notebook.google
 .notebook.google.com
 .notebooklm.google
 .notebooklm.google.com
@@ -525,6 +530,7 @@ notebooklm.googleapis.com
 .labs.google
 .labs.google.com
 .flow.google
+.flow.google.com
 .aisandbox-pa.googleapis.com
 
 # Android Studio Gemini Code Assist
@@ -6966,10 +6972,9 @@ xray.mail.ru
 .facebook.cc
 .facebook.com
 .facebook.design
-.facebook.net
 .facebook.hu
 .facebook.in
-.fecebook.net
+.facebook.net
 .facebook.nl
 .facebook.org
 .facebook.se
@@ -7176,6 +7181,7 @@ xray.mail.ru
 .fecbooc.com
 .fecbook.com
 .feceboock.com
+.fecebook.net
 .feceboox.com
 .fececbook.com
 .feook.com
@@ -7245,6 +7251,7 @@ xray.mail.ru
 .sportstream.com
 .supportfacebook.com
 .terragraph.com
+.tfbnw.net
 .thefacebook.com
 .thefacebook.net
 .thefind.com
@@ -8450,6 +8457,7 @@ sentry.popmechanic.ru
 
 # Included from firefox
 .extendfirefox.com
+.firefox-portal-detection.com
 .firefox.com
 .firefox.hu
 .firefoxtweetmachine.com

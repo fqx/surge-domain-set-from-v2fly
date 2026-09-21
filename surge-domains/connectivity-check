@@ -15,6 +15,7 @@ redirect.archlinux.org # Canonical Name of ping.archlinux.org
 
 # Firefox
 .detectportal.firefox.com
+.firefox-portal-detection.com
 
 # GNOME
 nmcheck.gnome.org

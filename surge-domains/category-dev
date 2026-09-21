@@ -254,15 +254,19 @@ developers.facebook.com
 # Included from firebase
 .crashlytics.com
 .firebase.com
+.firebase.dev
 .firebase.io
 .firebaseapp.com
 .firebaseio.com
 
+.firebase.google.com
+
 crashlyticsreports-pa.googleapis.com
 firebase-settings.crashlytics.com
-firebase.google.com
 firebase.googleapis.com
 firebaseappcheck.googleapis.com
+firebaseappdistribution.googleapis.com
+firebaseapptesters.googleapis.com
 firebasedynamiclinks-ipv4.googleapis.com
 firebasedynamiclinks-ipv6.googleapis.com
 firebasedynamiclinks.googleapis.com
@@ -294,6 +298,13 @@ update.crashlytics.com
 .framerstatic.com
 .framerusercontent.com
 # End of framer
+# Included from freebuff
+# Freebuff - https://freebuff.com/
+# Source: https://github.com/CodebuffAI/freebuff
+
+.codebuff.com
+.freebuff.com
+# End of freebuff
 # Included from gemfury
 .fury.blog
 .fury.co
