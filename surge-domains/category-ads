@@ -1,4 +1,5 @@
-# This file contains domains that clearly serving ads
+# This file contains domains that clearly serving for ads or tracking.
+# We can not seperate ads and tracking domains clearly, so they are mixed together.
 # Included from category-ads-ir
 # Iranian Advertising websites
 
@@ -24,7 +25,6 @@
 .ads.huantest.com
 .ads.trafficjunky.net
 .ads.wteam.xyz
-.adservice.sigmob.cn
 .adtechus.com
 .adtrue.com
 .adxprtz.com
