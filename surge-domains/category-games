@@ -882,6 +882,10 @@ hb.imgix.net
 .nexoncdn.co.kr
 .nexongames.co.kr
 # End of nexon
+# Included from nexusmods
+.nexus-cdn.com
+.nexusmods.com
+# End of nexusmods
 # Included from nikke
 .nikke-de.com
 .nikke-en.com
@@ -1534,8 +1538,6 @@ prodforza.blob.core.windows.net
 .muvluv-girls-garden.com
 .namemc.com
 .neoforged.net
-.nexus-cdn.com
-.nexusmods.com
 .noxygames.com
 .offworldindustries.com
 .offworldindustries.net
