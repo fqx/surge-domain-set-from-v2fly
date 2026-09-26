@@ -1685,6 +1685,9 @@ sentry.popmechanic.ru
 .sky.pro
 .skyeng.ru
 # End of skyeng
+# Included from smena
+.smena.cafe
+# End of smena
 # Included from tilda
 .tilda.cc
 .tilda.ru
