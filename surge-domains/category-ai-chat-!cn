@@ -100,6 +100,8 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 .gemini.google
 .gemini.google.com
 .gemini.gstatic.com
+geminiweb-pa.clients.google.com
+geminiweb-pa.clients6.google.com
 
 # Gemini Code Assist
 # https://docs.cloud.google.com/gemini/docs/codeassist/set-up-gemini
@@ -110,6 +112,7 @@ daily-cloudcode-pa.googleapis.com
 # NotebookLM
 notebooklm-pa.googleapis.com
 notebooklm.googleapis.com
+.labstailwind.pa.googleapis.com
 .notebook.google
 .notebook.google.com
 .notebooklm.google
@@ -252,6 +255,11 @@ pplx-res.cloudinary.com
 .kimi.ai
 .moonshot.ai
 
+# Meta
+.meta.ai
+.metaaivm.com
+.muse.ai
+
 .agentclientprotocol.com
 .anythingllm.com
 .arena.ai
@@ -270,7 +278,6 @@ pplx-res.cloudinary.com
 .langchain.com
 .lmstudio.ai
 .lovart.ai
-.meta.ai
 .midjourney.com
 .minimax.io
 .mistral.ai
@@ -280,6 +287,7 @@ pplx-res.cloudinary.com
 .ollama.com
 .openart.ai
 .openclaw.ai
+.opencode.ai
 .openrouter.ai
 .openspec.dev
 .plannotator.ai

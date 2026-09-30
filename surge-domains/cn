@@ -242,6 +242,7 @@ p9-juejin.byteimg.com
 # Included from cnb
 # 腾讯 云原生构建
 .cnb.cool
+.cnb.space
 # End of cnb
 # Included from coding
 .coding.me
