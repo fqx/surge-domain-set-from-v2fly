@@ -7452,8 +7452,8 @@ developers.facebook.com
 .whatsappbrand.com
 
 # Ads/tracking
-.graph.whatsapp.com
-.graph.whatsapp.net
+# graph.whatsapp.com and graph.whatsapp.net aren't solely for ads,
+# see https://github.com/v2fly/domain-list-community/issues/4127
 # End of whatsapp
 
 .atmeta.com
@@ -7686,7 +7686,7 @@ copilot-workspace.githubnext.com
 # Azure Blob Storage
 copilotprodattachments.blob.core.windows.net
 
-# Ads/tracking
+# Telemetry
 copilot-telemetry-service.githubusercontent.com
 copilot-telemetry.githubusercontent.com
 # End of github-copilot
@@ -7756,7 +7756,8 @@ productionresultssa17.blob.core.windows.net
 productionresultssa18.blob.core.windows.net
 productionresultssa19.blob.core.windows.net
 
-# Ads/tracking
+# Telemetry
+.cafe.github.com
 .collector.github.com
 # End of github
 # Included from microsoft-dev
@@ -8546,6 +8547,8 @@ mdn.mozillademos.org
 # Ads/tracking
 ads-img.mozilla.org
 ads.mozilla.org
+
+# Telemetry
 incoming.telemetry.mozilla.org
 incoming-telemetry.thunderbird.net
 # End of mozilla

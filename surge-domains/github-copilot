@@ -6,6 +6,6 @@ copilot-workspace.githubnext.com
 # Azure Blob Storage
 copilotprodattachments.blob.core.windows.net
 
-# Ads/tracking
+# Telemetry
 copilot-telemetry-service.githubusercontent.com
 copilot-telemetry.githubusercontent.com

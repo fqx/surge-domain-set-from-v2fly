@@ -85,5 +85,7 @@ mdn.mozillademos.org
 # Ads/tracking
 ads-img.mozilla.org
 ads.mozilla.org
+
+# Telemetry
 incoming.telemetry.mozilla.org
 incoming-telemetry.thunderbird.net

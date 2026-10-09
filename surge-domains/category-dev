@@ -327,7 +327,7 @@ copilot-workspace.githubnext.com
 # Azure Blob Storage
 copilotprodattachments.blob.core.windows.net
 
-# Ads/tracking
+# Telemetry
 copilot-telemetry-service.githubusercontent.com
 copilot-telemetry.githubusercontent.com
 # End of github-copilot
@@ -397,7 +397,8 @@ productionresultssa17.blob.core.windows.net
 productionresultssa18.blob.core.windows.net
 productionresultssa19.blob.core.windows.net
 
-# Ads/tracking
+# Telemetry
+.cafe.github.com
 .collector.github.com
 # End of github
 # Included from github1s
