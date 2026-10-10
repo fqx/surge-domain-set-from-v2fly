@@ -21,7 +21,7 @@
 .okko.sport
 .okko.tv
 # End of okko
-
+# Included from sberbank
 .bps-sberbank.by
 .sber-bank.by
 .sber.ru
@@ -29,16 +29,31 @@
 .sberbank.ru
 .sbrf.ru
 
-# Ads/tracking
+# NCO ЮMoney
+.yookassa.ru
+.yoomoney.ru
+
+# Sber Spasibo (loyalty service)
+.cplsb.ru
+.sberspasibo.ru
+.spasibo.digital
+.spasibo.market
+.spasibobonus.ru
+.spasibosb.ru
+.spasibosberbank.ru
+
 .ads.sber.ru
 .clickstream.sberbank.ru
+visor.sberbank.ru
+# End of sberbank
+
+# Ads/tracking
 .neon.click
 .sbermarketing.ru
 error-tracking.megamarket.tech
 metrics.21-school.ru
 sentry.sberauto.com
 tracing-http.megamarket.tech
-visor.sberbank.ru
 
 # Business ecosystem
 .id.ru
@@ -121,15 +136,6 @@ visor.sberbank.ru
 ## Sber Pro
 .sber.pro
 sberpro.vedomosti.ru
-
-## Sber Spasibo (loyalty service)
-.cplsb.ru
-.sberspasibo.ru
-.spasibo.digital
-.spasibo.market
-.spasibobonus.ru
-.spasibosb.ru
-.spasibosberbank.ru
 
 ## Sber Tech
 .accesspoint.uz
