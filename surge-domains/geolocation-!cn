@@ -7129,6 +7129,7 @@ spectator.ppy.sh
 
 .playstation.com
 .playstation.net
+.playstationnetwork.com
 .sonyentertainmentnetwork.com
 # End of playstation
 # Included from projectsekai
@@ -30157,6 +30158,7 @@ impala-media-production.s3.amazonaws.com
 
 .playstation.com
 .playstation.net
+.playstationnetwork.com
 .sonyentertainmentnetwork.com
 # End of playstation
 # Included from sonypictures
@@ -30180,15 +30182,17 @@ impala-media-production.s3.amazonaws.com
 .sony
 
 # Sony Network Communications Inc.
-.sonynetwork.co.jp
 .nuro.jp
 .so-net.ne.jp
+.sonynetwork.co.jp
 
 # Sony Semiconductor Solutions Corporation
 .sony-semicon.co.jp
 .sony-semicon.com
 
 .ginzasonypark.jp
+.scea.com
+.so-net.net.tw
 .sony-africa.com
 .sony-asia.com
 .sony-europe.com
@@ -30231,6 +30235,7 @@ impala-media-production.s3.amazonaws.com
 .sony.com.pa
 .sony.com.pe
 .sony.com.ph
+.sony.com.py
 .sony.com.sg
 .sony.com.sv
 .sony.com.tr
@@ -30270,13 +30275,14 @@ impala-media-production.s3.amazonaws.com
 .sonybuilding.jp
 .sonydesign.com
 .sonyglobalsolutions.jp
+.sonyinteractive.com
 .sonykigyo.jp
 .sonylatvija.com
+.sonymusic.com.hk
 .sonypcl.jp
 .sonyprotechnosupport.co.jp
 .sonytc.co.jp
 .sovec.net
-.so-net.net.tw
 # End of sony
 # Included from spacex
 .spacex.com
