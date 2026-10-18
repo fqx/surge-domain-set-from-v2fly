@@ -158,6 +158,10 @@ www.routerlogin.com
 .localhost.sec.qq.com
 .localhost.ptlogin2.qq.com
 
+# WeChat and WeCom local client login
+localhost.weixin.qq.com
+localhost.work.weixin.qq.com
+
 # Tenda router
 .tendawifi.com
 

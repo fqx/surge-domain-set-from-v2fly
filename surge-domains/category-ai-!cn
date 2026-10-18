@@ -49,6 +49,7 @@ servd-anthropic-website.b-cdn.net
 .cursor.com
 .cursor.sh
 .cursorapi.com
+.cursorvm.com
 # End of cursor
 # Included from elevenlabs
 .elevenlabs.com
@@ -175,6 +176,7 @@ antigravity.googleapis.com
 .oaistatsig.com
 .oaiusercontent.com
 .openai.com
+.openai.org
 .sora.com
 
 # CDN & API
@@ -248,6 +250,9 @@ pplx-res.cloudinary.com
 # Jasper
 .clipdrop.co
 .jasper.ai
+
+# Jev
+.typesafe.ai
 
 # Kimi/Moonshot
 .kimi.ai

@@ -4652,8 +4652,19 @@ xp.apple.com
 .bwhstatus.com
 # End of bandwagonhost
 # Included from beget
+.beget.app
+.beget.cloud
 .beget.com
+.beget.de
+.beget.hosting
+.beget.pro
 .beget.ru
+.beget.tech
+.begetcdn.cloud
+.beserver.ru
+.bget.ru
+.sprut.io
+.xn--90aefb9d.xn--p1ai
 # End of beget
 # Included from blurams
 .blurams.app
@@ -9302,6 +9313,8 @@ impala-media-production.s3.amazonaws.com
 # Included from timeweb
 .timeweb.cloud
 .timeweb.com
+.timeweb.tech
+.timewebcloud.kz
 .twcstorage.ru
 # End of timeweb
 # Included from tonec

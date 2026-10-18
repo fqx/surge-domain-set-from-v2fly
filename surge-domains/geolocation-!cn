@@ -53,6 +53,7 @@ servd-anthropic-website.b-cdn.net
 .cursor.com
 .cursor.sh
 .cursorapi.com
+.cursorvm.com
 # End of cursor
 # Included from elevenlabs
 .elevenlabs.com
@@ -179,6 +180,7 @@ antigravity.googleapis.com
 .oaistatsig.com
 .oaiusercontent.com
 .openai.com
+.openai.org
 .sora.com
 
 # CDN & API
@@ -252,6 +254,9 @@ pplx-res.cloudinary.com
 # Jasper
 .clipdrop.co
 .jasper.ai
+
+# Jev
+.typesafe.ai
 
 # Kimi/Moonshot
 .kimi.ai
@@ -2290,6 +2295,7 @@ education.tbank.ru
 .schwab.com.hk
 .schwab.com.sg
 .schwabassetmanagement.com
+.schwabcdn.com
 .schwabplan.com
 # End of schwab
 # Included from standardchartered
@@ -7268,6 +7274,9 @@ lolstatic-a.akamaihd.net
 .rowblocks.com
 .rowblox.com
 d1unuk07s6td74.cloudfront.net
+d348twzf7a8p5.cloudfront.net
+devforum-uploads.s3.dualstack.us-east-2.amazonaws.com
+doy2mn9upadnk.cloudfront.net
 roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
 roblox-poc.global.ssl.fastly.net
 robloxcorp.s.llnwi.net
@@ -25804,8 +25813,19 @@ xp.apple.com
 .bwhstatus.com
 # End of bandwagonhost
 # Included from beget
+.beget.app
+.beget.cloud
 .beget.com
+.beget.de
+.beget.hosting
+.beget.pro
 .beget.ru
+.beget.tech
+.begetcdn.cloud
+.beserver.ru
+.bget.ru
+.sprut.io
+.xn--90aefb9d.xn--p1ai
 # End of beget
 # Included from blurams
 .blurams.app
@@ -30339,6 +30359,8 @@ impala-media-production.s3.amazonaws.com
 # Included from timeweb
 .timeweb.cloud
 .timeweb.com
+.timeweb.tech
+.timewebcloud.kz
 .twcstorage.ru
 # End of timeweb
 # Included from tonec
