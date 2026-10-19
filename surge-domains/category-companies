@@ -1758,6 +1758,7 @@ static.siege-amazon.com
 .primevideo.org
 .primevideo.tv
 .prod.service.minerva.devices.a2z.com
+.pv-cdn.net
 # End of primevideo
 # Included from wholefoodsmarket
 .wfm.com
@@ -7898,12 +7899,6 @@ www.microsoft.com
 # End of onedrive
 # Included from xbox
 #include:activision-blizzard
-# Included from asobo
-.asobostudio.com
-.flightsimulator.com
-
-flightsimulator.azureedge.net
-# End of asobo
 # Included from bethesda
 .beth.games
 .bethesda.net
@@ -8590,6 +8585,9 @@ incoming-telemetry.thunderbird.net
 ## ON Media (MTS Media)
 .mtsmedia.ru
 .on-media.ru
+
+# MTS-link, a video-conference application
+.mts-link.ru
 # End of mts-ru
 # Included from musixmatch
 .musixmatch.com
@@ -9688,6 +9686,11 @@ cdn.js7k.com
 # Included from kinopoisk
 .kinopoisk.ru
 .kinopoisk-ru.clstorage.net
+.kp.yandex.net
+
+# Smart TV app
+kp-config-smart-tv.akamaized.net
+kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 # End of kinopoisk
 
 # All .yandex domains

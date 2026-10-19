@@ -421,12 +421,6 @@ www.microsoft.com
 # End of onedrive
 # Included from xbox
 #include:activision-blizzard
-# Included from asobo
-.asobostudio.com
-.flightsimulator.com
-
-flightsimulator.azureedge.net
-# End of asobo
 # Included from bethesda
 .beth.games
 .bethesda.net

@@ -285,6 +285,7 @@ pplx-res.cloudinary.com
 .langchain.com
 .lmstudio.ai
 .lovart.ai
+.magnific.com
 .midjourney.com
 .minimax.io
 .mistral.ai
@@ -6402,6 +6403,11 @@ chinapower.csis.org
 # Included from kinopoisk
 .kinopoisk.ru
 .kinopoisk-ru.clstorage.net
+.kp.yandex.net
+
+# Smart TV app
+kp-config-smart-tv.akamaized.net
+kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 # End of kinopoisk
 # Included from okko
 .okkoapi.tv
@@ -7511,12 +7517,6 @@ wb-agora-hydra-file-storage-k1.s3.amazonaws.com
 # End of wbgames
 # Included from xbox
 #include:activision-blizzard
-# Included from asobo
-.asobostudio.com
-.flightsimulator.com
-
-flightsimulator.azureedge.net
-# End of asobo
 # Included from bethesda
 .beth.games
 .bethesda.net
@@ -8605,6 +8605,7 @@ static.siege-amazon.com
 .primevideo.org
 .primevideo.tv
 .prod.service.minerva.devices.a2z.com
+.pv-cdn.net
 # End of primevideo
 # Included from radiko
 # radiko official access and streaming domains
@@ -21121,6 +21122,7 @@ amp.akamaized.net
 .piwheels.org
 .plasma-mobile.org
 .postgresql.org
+.postman.com
 .putty.org
 .r-project.org
 .raspberrypi.org
@@ -22925,6 +22927,7 @@ static.siege-amazon.com
 .primevideo.org
 .primevideo.tv
 .prod.service.minerva.devices.a2z.com
+.pv-cdn.net
 # End of primevideo
 # Included from wholefoodsmarket
 .wfm.com
@@ -29636,6 +29639,9 @@ incoming-telemetry.thunderbird.net
 ## ON Media (MTS Media)
 .mtsmedia.ru
 .on-media.ru
+
+# MTS-link, a video-conference application
+.mts-link.ru
 # End of mts-ru
 # Included from musixmatch
 .musixmatch.com
@@ -30734,6 +30740,11 @@ cdn.js7k.com
 # Included from kinopoisk
 .kinopoisk.ru
 .kinopoisk-ru.clstorage.net
+.kp.yandex.net
+
+# Smart TV app
+kp-config-smart-tv.akamaized.net
+kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 # End of kinopoisk
 
 # All .yandex domains

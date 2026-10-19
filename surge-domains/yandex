@@ -1,6 +1,11 @@
 # Included from kinopoisk
 .kinopoisk.ru
 .kinopoisk-ru.clstorage.net
+.kp.yandex.net
+
+# Smart TV app
+kp-config-smart-tv.akamaized.net
+kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 # End of kinopoisk
 
 # All .yandex domains

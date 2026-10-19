@@ -329,6 +329,11 @@ web-analytics.wildberries.ru
 # Included from kinopoisk
 .kinopoisk.ru
 .kinopoisk-ru.clstorage.net
+.kp.yandex.net
+
+# Smart TV app
+kp-config-smart-tv.akamaized.net
+kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 # End of kinopoisk
 # Included from okko
 .okkoapi.tv
@@ -401,6 +406,8 @@ web-analytics.wildberries.ru
 # Autonomous areas
 
 # Regional health services
+
+# Russian Patriarchate resources
 # End of category-gov-ru
 # Included from category-media-ru
 # This file contains Russian media *based in Russia*, i.e. not prosecuted by the state
@@ -596,6 +603,16 @@ web-analytics.wildberries.ru
 .eadaily.org
 .eadaily.su
 .eurasiadaily.su
+
+# Western-Orthodox Christianity resources
+.azbyka.ru
+.posledovania.ru
+.pravoslavie.ru
+.webtypikon.ru
+
+# Pravmir, daily News articles provider that inserts opinion of the Western-Orthodox Church
+.pravmir.com
+.pravmir.ru
 # End of category-media-ru
 # Included from category-medicine-ru
 # BudZdorov – network of multidisciplinary medical clinics
@@ -945,6 +962,19 @@ taxi.yandex.ru
 .sprut.io
 .xn--90aefb9d.xn--p1ai
 # End of beget
+# Included from bitrix
+.1c-bitrix.ru
+.bitrix.info
+.bitrix24.com
+.bitrix24.net
+.bitrix24.ru
+.bitrix24.tech
+.bitrix24public.com
+.bitrix24shop.ru
+.bitrix24site.ru
+.bitrixphone.com
+.bitrixsoft.com
+# End of bitrix
 # Included from carrotquest
 .carrot-mail.io
 .carrotquest-mail.io
@@ -1238,9 +1268,12 @@ s18.upd.kaspersky.com
 s19.upd.kaspersky.com
 # End of kaspersky
 # Included from kontur
-.kontur.ru
-.kontur.host
 .kontur-inc.com
+.kontur.host
+.kontur.ru
+.ktalk.host
+.ktalk.ru
+
 metrika.kontur.ru
 sentry.kontur.host
 # End of kontur
@@ -1920,6 +1953,11 @@ sberpro.vedomosti.ru
 # Included from kinopoisk
 .kinopoisk.ru
 .kinopoisk-ru.clstorage.net
+.kp.yandex.net
+
+# Smart TV app
+kp-config-smart-tv.akamaized.net
+kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 # End of kinopoisk
 
 # All .yandex domains
@@ -2374,6 +2412,11 @@ education.tbank.ru
 ## Financial marketplace
 .banki.ru
 .finuslugi.ru
+## Insurance companies
+.amt-insurance.com
+.lexgarant.com
+.renins.com
+.renins.ru
 ## Investment
 .sistema-capital.com
 ## Mir payment system
@@ -2420,6 +2463,9 @@ education.tbank.ru
 ## ON Media (MTS Media)
 .mtsmedia.ru
 .on-media.ru
+
+# MTS-link, a video-conference application
+.mts-link.ru
 # End of mts-ru
 # Included from rostelecom
 # Included from wink

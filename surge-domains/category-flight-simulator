@@ -1,0 +1,80 @@
+## Multi domains
+# BeyondATC
+.beyondatc.app
+.beyondatc.net
+
+# FSDreamTeam (FSDT)
+.fsdreamteam.com
+.virtualisoftware.com
+fsdt.virtuali.s3.amazonaws.com
+
+# HiFi
+.hifisimtech.com
+.hifisimtech.zendesk.com
+
+# Infiniti Flight
+.infiniteflight.com
+.infiniteflight.live
+
+# Microsoft Flight Simulator
+# Included from asobo
+.asobostudio.com
+.flightsimulator.com
+
+flightsimulator.azureedge.net
+# End of asobo
+
+# Navigraph
+.navigraph.com
+.simbrief.com
+
+# Orbx
+.orbxdirect.com
+.orbxsystems.com
+
+# PMDG Simulations
+.pmdg.com
+.precisionmanuals.com
+
+# REX Simulations
+.rexgamestudios.com
+.rexsimulations.com
+
+# VATSIM
+# Included from vatsim
+.vat-apac.com
+.vatca.org
+.vatcan.ca
+.vatcar.net
+.vateud.net
+.vathk.com
+.vatil.org.il
+.vatjpn.org
+.vatkor.net
+.vatmex.com.mx
+.vatnz.net
+.vatpac.org
+.vatprc.net
+.vatroc.net
+.vats.im
+.vatsea.org
+.vatsim.com.br
+.vatsim.dev
+.vatsim.me
+.vatsim.net
+.vatsim.uk
+.vatssa.com
+.vatsur.org
+.vatusa.net
+.vatwa.net
+# End of vatsim
+
+# Virtual Air Traffic Simulation Networks
+.apocfly.com
+.flyisfp.com
+.ivao.aero
+.pilotedge.net
+.poscon.net
+.skylitefly.com
+
+## Single domains

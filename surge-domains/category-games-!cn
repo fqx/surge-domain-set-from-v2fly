@@ -1071,12 +1071,6 @@ wb-agora-hydra-file-storage-k1.s3.amazonaws.com
 # End of wbgames
 # Included from xbox
 #include:activision-blizzard
-# Included from asobo
-.asobostudio.com
-.flightsimulator.com
-
-flightsimulator.azureedge.net
-# End of asobo
 # Included from bethesda
 .beth.games
 .bethesda.net
