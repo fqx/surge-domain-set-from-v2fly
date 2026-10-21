@@ -1,11 +1,20 @@
 # Included from anthropic
+.ant.dev
 .anthropic.com
+.anthropic.team
+.chatbotclaude.com
 .clau.de
 .claude.ai
+.claude.app
 .claude.com
 .claude.dev
+.claude.new
+.claude.site
+.claudeacademy.com
 .claudemcpclient.com
 .claudemcpcontent.com
+.claudepages.dev
+.claudestudio.com
 .claudeusercontent.com
 
 # CDN
@@ -191,6 +200,7 @@ production-openaicom-storage.azureedge.net
 # tracking
 browser-intake-datadoghq.com
 o33249.ingest.sentry.io
+o33249.ingest.us.sentry.io
 openai.qualtrics.com
 
 # Advanced Voice

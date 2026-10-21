@@ -3,13 +3,22 @@
 # AI Chat
 # Included from category-ai-!cn
 # Included from anthropic
+.ant.dev
 .anthropic.com
+.anthropic.team
+.chatbotclaude.com
 .clau.de
 .claude.ai
+.claude.app
 .claude.com
 .claude.dev
+.claude.new
+.claude.site
+.claudeacademy.com
 .claudemcpclient.com
 .claudemcpcontent.com
+.claudepages.dev
+.claudestudio.com
 .claudeusercontent.com
 
 # CDN
@@ -195,6 +204,7 @@ production-openaicom-storage.azureedge.net
 # tracking
 browser-intake-datadoghq.com
 o33249.ingest.sentry.io
+o33249.ingest.us.sentry.io
 openai.qualtrics.com
 
 # Advanced Voice
@@ -3638,6 +3648,19 @@ www.microsoft.com
 discord-attachments-uploads-prd.storage.googleapis.com
 hammerandchisel.ssl.zendesk.com
 # End of discord
+# Included from fluxer
+.fluxer.app
+.fluxer.com
+.fluxer.dev
+.fluxer.gg
+.fluxer.gift
+.fluxer.media
+.fluxer.tools
+.fluxerapp.com
+.fluxerstatus.com
+.fluxerstatic.com
+.fluxerusercontent.com
+# End of fluxer
 # Included from freenode
 .freenode.net
 # End of freenode
@@ -4113,8 +4136,10 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 .cm.expert
 # End of autoru
 # Included from avito
+.avito.com
 .avito.ru
 .avito.st
+.avito.tech
 
 stats.avito.ru
 # End of avito
@@ -8803,6 +8828,7 @@ d2xmjdvx03ij56.cloudfront.net
 d36nr0u3xmc4mm.cloudfront.net
 d3aqoihi2n8ty8.cloudfront.net
 d3c27h4odz752x.cloudfront.net
+d3stzm2eumvgb4.cloudfront.net
 d3vd9lfkzbru3h.cloudfront.net
 d6d4ismr40iw.cloudfront.net
 d6tizftlrpuof.cloudfront.net
