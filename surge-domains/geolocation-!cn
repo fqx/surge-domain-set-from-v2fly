@@ -4048,6 +4048,8 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 .bittrex.com
 .blast.io
 .blockchain.com
+.blockchair.com
+.blockchair.net
 .blockfrost.io
 .btcbox.co.jp
 .cex.io
@@ -4064,10 +4066,12 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 .coredao.org
 .crypto.com
 .cryptocompare.com
+.cryptoid.info
 .cryptomus.com
 .curve.fi
 .cyberx.com
 .debank.com
+.delets.cash
 .delets.online
 .dogecoin.com
 .drpc.org
@@ -4084,6 +4088,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 .hyperliquid.xyz
 .infura.io
 .invity.io
+.kurs.expert
 .litecoin.org
 .maple.finance
 .megaeth.com
@@ -5570,16 +5575,29 @@ pchomeonline.com.tw
 .wish.com
 # End of wish
 
+.24.place
 .allkeyshop.com
 .axbdoll.com.tw
+.craftifyx.com
 .gamewtb.com
 .gg.deals
 .i69.com.tw
 .kinguin.net
+.makeship.com
+.ownaj.com
 .pornhubapparel.com
 .readmoo.com
 .redino.tw
-.templatemonster.com
+.tgtime.store
+.youtooz.com
+
+# Funko Official Store
+.funko.com
+funko.my.site.com
+
+# Glitch Productions
+.glitchprod.com
+.glitchproductions.store
 # End of category-ecommerce
 
 # E-learning & Knowledge & Press & Scholar & Science & Technology
@@ -7328,6 +7346,7 @@ robloxcorp.s.llnwi.net
 .steamconnecttest.com
 .steamdeck.com
 .steamgames.com
+.steamos.cloud
 .steampowered.com
 .steamserver.net
 .steamstatic.com
@@ -7528,6 +7547,7 @@ ubisoft.siteintercept.qualtrics.com
 .worldoftanks.com
 .worldoftanks.eu
 .worldofwarplanes.com
+.worldofwarships.asia
 .worldofwarships.com
 .wotblitz.com
 .wowsblitz.com
@@ -7626,6 +7646,7 @@ prodforza.blob.core.windows.net
 .ficgs.com
 .fitgirl-repacks.site
 .game-repack.site
+.gamebanana.com
 .joinsquad.com
 .loverslab.com
 .minecraft.wiki
@@ -7643,11 +7664,15 @@ prodforza.blob.core.windows.net
 .prismlauncher.org
 .protondb.com
 .quiltmc.org
+.r2modman.com
 .rayark.download
 .rayark.net
 .speedrun.com
 .spigotmc.org
 .steamdb.info
+.thunderstore.io
+.thunderstore.org
+.wplace.live
 # End of category-games-!cn
 # Included from category-novel
 # This file contains domains of pirate chinese online novel sites that are blocked by GFW
@@ -8163,6 +8188,9 @@ disney.my.sentry.io
 .nijiyome.jp
 .triokini.com
 # End of dlsite
+# Included from fanfiction
+.fanfiction.net
+# End of fanfiction
 # Included from ficbook
 .fanfictionero.com
 .fic.fan
@@ -9407,6 +9435,9 @@ o4504926511693824.ingest.sentry.io
 # CDN
 .dzeninfra.ru
 # End of dzen
+# Included from fanfiction
+.fanfiction.net
+# End of fanfiction
 # Included from habr
 .habr.com
 .habrastorage.org
@@ -20918,6 +20949,10 @@ nix-community.github.io
 .readthedocs.io
 .readthedocs.org
 # End of readthedocs
+# Included from redhat
+.redhat.com
+.redhat.org
+# End of redhat
 # Included from redis
 .redis.io
 .redislabs.com
@@ -20932,10 +20967,6 @@ nix-community.github.io
 .crates.io
 .docs.rs
 # End of rust
-# Included from redhat
-.redhat.com
-.redhat.org
-# End of redhat
 # Included from scala
 .scala-lang.org
 .scala-sbt.org
@@ -21189,6 +21220,15 @@ amp.akamaized.net
 .hivepress.io
 .motopress.com
 .wpmailsmtp.com
+
+# TemplateMonster
+.templatemonster.com
+.tmimgcdn.com
+
+# Safety CLI Cybersecurity Inc.
+.getsafety.com
+.pyup.io
+.safetycli.com
 # End of category-dev
 
 # Tech companies

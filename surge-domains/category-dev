@@ -654,6 +654,10 @@ nix-community.github.io
 .readthedocs.io
 .readthedocs.org
 # End of readthedocs
+# Included from redhat
+.redhat.com
+.redhat.org
+# End of redhat
 # Included from redis
 .redis.io
 .redislabs.com
@@ -668,10 +672,6 @@ nix-community.github.io
 .crates.io
 .docs.rs
 # End of rust
-# Included from redhat
-.redhat.com
-.redhat.org
-# End of redhat
 # Included from scala
 .scala-lang.org
 .scala-sbt.org
@@ -925,3 +925,12 @@ amp.akamaized.net
 .hivepress.io
 .motopress.com
 .wpmailsmtp.com
+
+# TemplateMonster
+.templatemonster.com
+.tmimgcdn.com
+
+# Safety CLI Cybersecurity Inc.
+.getsafety.com
+.pyup.io
+.safetycli.com

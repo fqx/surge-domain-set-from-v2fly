@@ -50,6 +50,9 @@
 # CDN
 .dzeninfra.ru
 # End of dzen
+# Included from fanfiction
+.fanfiction.net
+# End of fanfiction
 # Included from habr
 .habr.com
 .habrastorage.org

@@ -1049,6 +1049,11 @@ api.dashlytrack.app
 .drweb-av.it
 .drweb-av.pl
 # End of drweb
+# Included from dsn-host
+.ds-servers.com
+.dsn.host
+.dsncdn.net
+# End of dsn-host
 # Included from envybox
 .bananacall.ru
 .beesbfl.ru

@@ -930,6 +930,7 @@ robloxcorp.s.llnwi.net
 .steamconnecttest.com
 .steamdeck.com
 .steamgames.com
+.steamos.cloud
 .steampowered.com
 .steamserver.net
 .steamstatic.com
@@ -1130,6 +1131,7 @@ ubisoft.siteintercept.qualtrics.com
 .worldoftanks.com
 .worldoftanks.eu
 .worldofwarplanes.com
+.worldofwarships.asia
 .worldofwarships.com
 .wotblitz.com
 .wowsblitz.com
@@ -1228,6 +1230,7 @@ prodforza.blob.core.windows.net
 .ficgs.com
 .fitgirl-repacks.site
 .game-repack.site
+.gamebanana.com
 .joinsquad.com
 .loverslab.com
 .minecraft.wiki
@@ -1245,11 +1248,15 @@ prodforza.blob.core.windows.net
 .prismlauncher.org
 .protondb.com
 .quiltmc.org
+.r2modman.com
 .rayark.download
 .rayark.net
 .speedrun.com
 .spigotmc.org
 .steamdb.info
+.thunderstore.io
+.thunderstore.org
+.wplace.live
 # End of category-games-!cn
 # Included from category-novel
 # This file contains domains of pirate chinese online novel sites that are blocked by GFW
@@ -1765,6 +1772,9 @@ disney.my.sentry.io
 .nijiyome.jp
 .triokini.com
 # End of dlsite
+# Included from fanfiction
+.fanfiction.net
+# End of fanfiction
 # Included from ficbook
 .fanfictionero.com
 .fic.fan
