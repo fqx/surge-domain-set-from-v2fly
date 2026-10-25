@@ -329,10 +329,6 @@ p9-juejin.byteimg.com
 .hqdoc.com
 .hqpcb.com
 
-# 英飞凌
-.infineon.cn
-#infineon.com
-
 # 紫光集团
 .gosinoic.com
 .h3c.com
@@ -348,6 +344,15 @@ p9-juejin.byteimg.com
 .unisoc.com
 .unispc.com
 .uniswdc.com
+
+# 英飞凌
+.infineon.cn
+#infineon.com
+
+# 移远通信
+.iotronic.tech
+.quecmall.cn
+.quectel.com.cn
 
 # 嘉立创集团
 # Included from jlc
@@ -400,10 +405,8 @@ p9-juejin.byteimg.com
 # 聆思科技
 .listenai.com
 
-# 移远通信
-.quecmall.cn
-.quectel.com.cn
-.iotronic.tech
+# 微纳核芯
+.nanocorechip.com
 
 # 瑞芯微电子
 .rock-chips.com
@@ -605,7 +608,6 @@ p9-juejin.byteimg.com
 .gclouddolphin.com
 .gcloudsdk.com
 .gcloudsvcs.com
-.gdtimg.com
 .goto-game.com
 .goto-game.mobi
 .goto-game.net.cn
@@ -2820,14 +2822,18 @@ ctdsb.clouddiffuse.xyz
 .bankcomm.cn
 .bankcomm.com
 .bankofbeijing.com.cn
+.bocd.com.cn
 .bosc.cn
 .bsb.com.cn
+.cdrcb.com
+.cdrcbank.com
 .cebbank.com
 .cgbchina.com.cn
 .cib.com.cn
 .citibank.com.cn
 .cmbc.com.cn
 .hxb.com.cn
+.ibangbank.com
 .njcb.com.cn
 .psbc.com
 .spdb.com.cn
@@ -3916,14 +3922,27 @@ ss.bjmu.edu.cn
 .mil.cn
 ## 中华全国总工会
 .acftu.org
+## 重庆数字资源集团
+.bigdatacq.com
 ## 游戏产业网-游戏工委
 .cgigc.com.cn
 ## 中国气象局
 .cma.cn
 ## 政务和公益机构域名注册管理中心
 .conac.cn
+## 数字重庆政务科技有限公司 & 新渝快办业务域名
+.cqdcg.com
+## 重庆市绿色能源发展有限公司
+.cqge.com.cn
+## 重庆市道路运输事务中心
+.cqsdlys.cn
+.cqyyxc.com
+## 数字郑州科技有限公司
+.digitalcnzz.com
 ## 国家林业和草原局自然保护区研究中心
 .fnrrc.com
+## 重庆市规划设计研究院
+.gpzshq.cn
 ## 中央气象台
 .nmc.cn
 # 中国人民银行征信中心
@@ -4397,6 +4416,7 @@ study.163.com
 .chaoxing.cc
 .chaoxing.com
 .chaoxingv.com
+.cldisk.com
 .cxbiji.com
 .dayainfo.com
 .hongbo100.com
@@ -4419,6 +4439,7 @@ study.163.com
 .xuexi365.com
 .xuexi365.com.cn
 .xuexi365.net
+.xuexitong.com
 .xxtmail.com
 .ylike.net
 .zaifan.com
@@ -4476,9 +4497,11 @@ study.163.com
 # MC百科
 .mcmod.cn
 
-# moegirl
-.moegirl.org
-.moegirl.org.cn
+# moegirl 萌娘百科
+# Moegirlpedia is operated by a mainland-registered company, but the wiki itself is served by Cloudflare from outside the mainland.
+# Only the two sub-domains below have mainland access points: they CNAME to ChinaNetCenter and resolve to CHINATELECOM space.
+app.moegirl.org.cn
+storage.moegirl.org.cn
 
 # 智汇三农
 .pwsannong.com
@@ -5079,6 +5102,8 @@ ntp5.tencent.com
 .agora.io
 .agoraio.cn
 .agoralab.co
+.easemob.com
+.shengwang.cn
 # End of agora
 # Included from capitalonline
 .capitalonline.net
@@ -5316,6 +5341,8 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com
 ## 容联七陌 客服 营销
 .7moor-fs1.com
 .7moor.com
+## 重庆安运科技股份有限公司
+.aaej.cn
 ## 在意空气
 .air-matters.com
 ## Hover Translate #3854
@@ -5412,6 +5439,9 @@ api.blipsandchitz.me
 .zhangyue.com
 .zhangyue01.com
 .zhangyuecdn.com
+## 亲笔签 电子签名
+.isigning.cn
+.isigning.com
 ## 职友集
 .jobui.com
 ## 美食天下
@@ -5430,8 +5460,6 @@ api.blipsandchitz.me
 ## 心知天气
 .sencdn.com
 .seniverse.com
-## 声网
-.shengwang.cn
 ## 实习僧
 .shixiseng.com
 .sxsimg.com
