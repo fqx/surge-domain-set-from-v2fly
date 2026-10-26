@@ -16,6 +16,10 @@
 mozilla-ohttp.fastly-edge.com
 mozilla.map.fastly.net
 # End of firefox
+# Included from librewolf
+.librewolf.dev
+.librewolf.net
+# End of librewolf
 # Included from torproject
 .torproject.org
 # End of torproject
@@ -35,7 +39,6 @@ mozilla.map.fastly.net
 .iridiumbrowser.de
 .kiwibrowser.com
 .kmeleonbrowser.org
-.librewolf.net
 .minbrowser.org
 .netsurf-browser.org
 .opera.com

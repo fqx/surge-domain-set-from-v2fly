@@ -2158,10 +2158,9 @@ agb9r0ad.qllfkl.com
 .netflixdnstest9.com
 .netflixdnstest10.com
 
-# regular expression
+# CDN
 
-# Full
-netflix.com.edgesuite.net
+.netflix.com.edgesuite.net
 # End of netflix
 # Included from niconico
 # All .nico domains
@@ -2341,9 +2340,9 @@ audio4-ak-spotify-com.akamaized.net
 cdn-spotify-experiments.conductrics.com
 heads-ak-spotify-com.akamaized.net
 heads4-ak-spotify-com.akamaized.net
-spotify.com.edgesuite.net
 spotify.map.fastly.net
 spotify.map.fastlylb.net
+.spotify.com.edgesuite.net
 
 # Ads/tracking
 adeventtracker.spotify.com

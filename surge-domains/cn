@@ -4482,7 +4482,6 @@ study.163.com
 # Included from category-wiki-cn
 .allhistory.com
 .fgo.wiki
-.jikipedia.com
 .mbalib.com
 .sec-wiki.com
 .shidianbaike.com
@@ -4740,6 +4739,9 @@ ai.zhaomi.cn
 
 # 瞬境AI
 .shunjing.xin
+
+# # 咔咔猩 (AI 短剧剧本平台)
+.kakaxing.com
 # End of category-ai-cn
 # Included from category-collaborate-cn
 # 远程桌面/远程组网
@@ -5400,6 +5402,8 @@ api.blipsandchitz.me
 .easyliao.com
 ## 旷视科技（人脸识别）
 .faceid.com
+## FilmOrigin 影源
+.filmorigin.com
 ## FinClip
 .finclip.com
 ## 方正字库
@@ -6029,6 +6033,7 @@ api.blipsandchitz.me
 .msmartlife.cn
 .msmartlife.com
 .smartmidea.net
+.xiaomaigui.com
 # End of midea
 # Included from qianxin
 # 奇安信 奇安信科技集团股份有限公司 京ICP备16020626号

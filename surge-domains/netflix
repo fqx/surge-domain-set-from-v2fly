@@ -24,7 +24,6 @@
 .netflixdnstest9.com
 .netflixdnstest10.com
 
-# regular expression
+# CDN
 
-# Full
-netflix.com.edgesuite.net
+.netflix.com.edgesuite.net
