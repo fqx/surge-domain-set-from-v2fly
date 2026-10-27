@@ -114,6 +114,11 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 geminiweb-pa.clients.google.com
 geminiweb-pa.clients6.google.com
 
+# Gemini in Google Workspace apps (Gmail, Docs, Drive side panel)
+appsgenaiserver-pa.clients.google.com
+appsgenaiserver-pa.clients6.google.com
+appsgenaiserver-pa.googleapis.com
+
 # Gemini Code Assist
 # https://docs.cloud.google.com/gemini/docs/codeassist/set-up-gemini
 cloudaicompanion.googleapis.com
@@ -274,13 +279,18 @@ pplx-res.cloudinary.com
 # Meta
 .meta.ai
 .metaaivm.com
+.metaaiusercontent.com
 .muse.ai
 
 .agentclientprotocol.com
 .anythingllm.com
 .arena.ai
+.artificialanalysis.ai
 .chutes.ai
 .clawhub.ai
+.cline.bot
+.commandcode.ai
+.context7.com
 .crewai.com
 .devin.ai
 .diabrowser.com
@@ -300,6 +310,7 @@ pplx-res.cloudinary.com
 .mistral.ai
 .mozilla.ai
 .notegpt.io
+.nousresearch.com
 .novelai.net
 .ollama.com
 .openart.ai

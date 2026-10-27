@@ -28,6 +28,11 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 geminiweb-pa.clients.google.com
 geminiweb-pa.clients6.google.com
 
+# Gemini in Google Workspace apps (Gmail, Docs, Drive side panel)
+appsgenaiserver-pa.clients.google.com
+appsgenaiserver-pa.clients6.google.com
+appsgenaiserver-pa.googleapis.com
+
 # Gemini Code Assist
 # https://docs.cloud.google.com/gemini/docs/codeassist/set-up-gemini
 cloudaicompanion.googleapis.com

@@ -86,6 +86,7 @@
 .devopsms.com
 .gotcosmos.com
 .hdinsightservices.cn
+.in.applicationinsights.azure.com
 .management-azure-devices-int.net
 .management-azure-devices-provisioning.cn
 .management-azure-devices.cn
@@ -143,6 +144,8 @@
 
 azure.microsoft.com
 azuremarketplace.microsoft.com
+dc.applicationinsights.azure.com
+live.applicationinsights.azure.com
 
 # Azure DNS
 .azure-dns.cn
@@ -356,6 +359,7 @@ productionresultssa19.blob.core.windows.net
 
 az764295.vo.msecnd.net
 bingsettingssearch.trafficmanager.net
+dc.services.visualstudio.com
 default.exp-tas.com
 developer.microsoft.com
 download.visualstudio.microsoft.com
@@ -365,6 +369,7 @@ poshtestgallery.cloudapp.net
 psg-int-centralus.cloudapp.net
 psg-int-eastus.cloudapp.net
 rink.hockeyapp.net
+rt.services.visualstudio.com
 vscode-sync-insiders.trafficmanager.net
 vscode-sync.trafficmanager.net
 vscode.blob.core.windows.net
@@ -562,6 +567,7 @@ prodforza.blob.core.windows.net
 .crmdynint-gcc.com
 .crmdynint.com
 .crossborderexpansion.com
+.data.microsoft.com
 .docs.com
 .dynamics.cn
 .dynamics.com
@@ -749,6 +755,7 @@ prodforza.blob.core.windows.net
 .tailwindtraders.com
 .techhub.ms
 .tfsallin.net
+.telemetry.microsoft.com
 .translatetheweb.com
 .unlocklimitlesslearning.com
 .userpxt.io

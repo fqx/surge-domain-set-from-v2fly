@@ -115,6 +115,11 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 geminiweb-pa.clients.google.com
 geminiweb-pa.clients6.google.com
 
+# Gemini in Google Workspace apps (Gmail, Docs, Drive side panel)
+appsgenaiserver-pa.clients.google.com
+appsgenaiserver-pa.clients6.google.com
+appsgenaiserver-pa.googleapis.com
+
 # Gemini Code Assist
 # https://docs.cloud.google.com/gemini/docs/codeassist/set-up-gemini
 cloudaicompanion.googleapis.com
@@ -275,13 +280,18 @@ pplx-res.cloudinary.com
 # Meta
 .meta.ai
 .metaaivm.com
+.metaaiusercontent.com
 .muse.ai
 
 .agentclientprotocol.com
 .anythingllm.com
 .arena.ai
+.artificialanalysis.ai
 .chutes.ai
 .clawhub.ai
+.cline.bot
+.commandcode.ai
+.context7.com
 .crewai.com
 .devin.ai
 .diabrowser.com
@@ -301,6 +311,7 @@ pplx-res.cloudinary.com
 .mistral.ai
 .mozilla.ai
 .notegpt.io
+.nousresearch.com
 .novelai.net
 .ollama.com
 .openart.ai
@@ -2308,6 +2319,7 @@ education.tbank.ru
 .schwabassetmanagement.com
 .schwabcdn.com
 .schwabplan.com
+.thinkorswim.com
 # End of schwab
 # Included from standardchartered
 .sc.com
@@ -2330,6 +2342,7 @@ standchartbank.tt.omtrdc.net
 .wise.com
 # End of wise
 
+.firstrade.com
 .fxcorporate.com
 .jivara.global
 .mql5.com
@@ -20127,37 +20140,6 @@ public-us-pingsx.api.clonoth.com
 # Included from svp
 .svp-team.com
 # End of svp
-# Included from test-ipv6
-.ams2.test-ipv6.com
-.fra.test-ipv6.com
-.sixte.st
-.test-ipv6.alpinedc.ch
-.test-ipv6.arauc.br
-.test-ipv6.belwue.net
-.test-ipv6.carnet.hr
-.test-ipv6.cl
-.test-ipv6.com
-.test-ipv6.cs.umd.edu
-.test-ipv6.csclub.uwaterloo.ca
-.test-ipv6.cz
-.test-ipv6.epic.network
-.test-ipv6.fratec.net
-.test-ipv6.freerangecloud.com
-.test-ipv6.go6.si
-.test-ipv6.hu
-.test-ipv6.is
-.test-ipv6.iu13.net
-.test-ipv6.ke.liquidtelecom.net
-.test-ipv6.noroutetohost.net
-.test-ipv6.roedu.net
-.test-ipv6.se
-.test-ipv6.sin.vr.org
-.test-ipv6.ttk.ru
-.testipv6.de
-
-# 豫ICP备20004384号
-.testipv6.cn
-# End of test-ipv6
 # Included from tex
 # Comprehensive TeX Archive Network
 .ctan.org
@@ -20889,6 +20871,7 @@ d29vzk4ow07wi7.cloudfront.net
 
 az764295.vo.msecnd.net
 bingsettingssearch.trafficmanager.net
+dc.services.visualstudio.com
 default.exp-tas.com
 developer.microsoft.com
 download.visualstudio.microsoft.com
@@ -20898,6 +20881,7 @@ poshtestgallery.cloudapp.net
 psg-int-centralus.cloudapp.net
 psg-int-eastus.cloudapp.net
 rink.hockeyapp.net
+rt.services.visualstudio.com
 vscode-sync-insiders.trafficmanager.net
 vscode-sync.trafficmanager.net
 vscode.blob.core.windows.net
@@ -21758,6 +21742,11 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 .gemini.gstatic.com
 geminiweb-pa.clients.google.com
 geminiweb-pa.clients6.google.com
+
+# Gemini in Google Workspace apps (Gmail, Docs, Drive side panel)
+appsgenaiserver-pa.clients.google.com
+appsgenaiserver-pa.clients6.google.com
+appsgenaiserver-pa.googleapis.com
 
 # Gemini Code Assist
 # https://docs.cloud.google.com/gemini/docs/codeassist/set-up-gemini
@@ -24972,13 +24961,15 @@ api-edge.apps.apple.com
 communities.apple.com
 discussionschinese.apple.com
 fides-pol.apple.com
-gspe11-2-cn-ssl.ls.apple.com
 gspe12-cn-ssl.ls.apple.com
 gspe85-cn-ssl.ls.apple.com
 init.gc-lb.apple.com.akadns.net
 init.gc.apple.com
 km.support.apple.com
 maps.apple.com
+sh-pod1-smp-device.apple.com
+sh-pod2-smp-device.apple.com
+sh-pod3-smp-device.apple.com
 tj-pod1-smp-device.apple.com
 tj-pod2-smp-device.apple.com
 tj-pod3-smp-device.apple.com
@@ -25026,7 +25017,7 @@ s4.mzstatic.com
 s5.mzstatic.com
 
 # The rules below are from https://github.com/felixonmars/dnsmasq-china-list/blob/master/apple.china.conf
-# Revision: c3c9839e5e71f04fc170b5645d7a162631985e2d
+# Revision: c2b16b3faf2a7eb88a7360a821574bd2e0366280
 # Duplicates removed; some domains were added to dedicated lists like itunes/apple-music
 # According to the consensus in #503, do not include the domain name apps.apple.com directly.
 # Use in config file like this: "geosite:apple@cn"
@@ -25069,6 +25060,7 @@ gsp4-cn.ls.apple.com
 gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
 gsp5-cn.ls.apple.com
 gsp85-cn-ssl.ls.apple.com
+gspe11-2-cn-ssl.ls.apple.com
 gspe19-2-cn-ssl.ls-apple.com.akadns.net
 gspe19-2-cn-ssl.ls.apple.com
 gspe19-cn-ssl.ls.apple.com
@@ -25108,7 +25100,6 @@ seed-sequoia.siri.apple.com
 seed-swallow.siri.apple.com
 seed.siri.apple.com
 sequoia.apple.com
-sh-pod2-smp-device.apple.com
 shazam-insights.cdn-apple.com
 smp-device-content.apple.com
 static.gc.apple.com
@@ -28714,6 +28705,7 @@ developers.facebook.com
 .llama.com
 .meta.ai
 .meta.com
+.metaaiusercontent.com
 .metaaivm.com
 .muse.ai
 # End of meta
@@ -28806,6 +28798,7 @@ developers.facebook.com
 .devopsms.com
 .gotcosmos.com
 .hdinsightservices.cn
+.in.applicationinsights.azure.com
 .management-azure-devices-int.net
 .management-azure-devices-provisioning.cn
 .management-azure-devices.cn
@@ -28863,6 +28856,8 @@ developers.facebook.com
 
 azure.microsoft.com
 azuremarketplace.microsoft.com
+dc.applicationinsights.azure.com
+live.applicationinsights.azure.com
 
 # Azure DNS
 .azure-dns.cn
@@ -29058,6 +29053,7 @@ productionresultssa19.blob.core.windows.net
 
 az764295.vo.msecnd.net
 bingsettingssearch.trafficmanager.net
+dc.services.visualstudio.com
 default.exp-tas.com
 developer.microsoft.com
 download.visualstudio.microsoft.com
@@ -29067,6 +29063,7 @@ poshtestgallery.cloudapp.net
 psg-int-centralus.cloudapp.net
 psg-int-eastus.cloudapp.net
 rink.hockeyapp.net
+rt.services.visualstudio.com
 vscode-sync-insiders.trafficmanager.net
 vscode-sync.trafficmanager.net
 vscode.blob.core.windows.net
@@ -29236,6 +29233,7 @@ www.microsoft.com
 .crmdynint-gcc.com
 .crmdynint.com
 .crossborderexpansion.com
+.data.microsoft.com
 .docs.com
 .dynamics.cn
 .dynamics.com
@@ -29423,6 +29421,7 @@ www.microsoft.com
 .tailwindtraders.com
 .techhub.ms
 .tfsallin.net
+.telemetry.microsoft.com
 .translatetheweb.com
 .unlocklimitlesslearning.com
 .userpxt.io
