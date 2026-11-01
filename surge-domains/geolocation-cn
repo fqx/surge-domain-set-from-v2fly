@@ -272,6 +272,9 @@ p9-juejin.byteimg.com
 # Included from category-electronic-cn
 # Electronic store/company's website with access point in China
 
+# 全志科技
+.allwinnertech.com
+
 # Analog
 .analog.com
 
@@ -287,6 +290,9 @@ p9-juejin.byteimg.com
 
 # 博流智能
 .bouffalolab.com
+
+# 寒武纪
+.cambricon.com
 
 # 长鑫存储
 .cxmt.com
@@ -376,6 +382,9 @@ p9-juejin.byteimg.com
 # 聆思科技
 .listenai.com
 
+# 摩尔线程
+.mthreads.com
+
 # 微纳核芯
 .nanocorechip.com
 
@@ -391,6 +400,12 @@ p9-juejin.byteimg.com
 # 矽速科技
 .sipeed.com
 .maixhub.com
+
+# 南芯半导体
+.southchip.com
+
+# 平头哥
+.t-head.cn
 
 # 德州仪器
 #ti.com
@@ -1612,6 +1627,14 @@ wlog.kuaishou.com
 
 # 米村拌饭
 .micun.com
+
+# 洽洽
+.qiaqiafood.com
+
+# 鸣鸣很忙
+.busyming.com
+.hnlshm.com
+.zymls.com
 
 # Tracking
 .logger.qmai.cn
@@ -4564,6 +4587,7 @@ storage.moegirl.org.cn
 .instreet.com
 .doubao-dev.com
 .doubao.com
+.doubaoapps.com
 .doubaocdn.com
 .hi-butterfly.cn
 .maoxiangai.com
@@ -6351,6 +6375,9 @@ api.blipsandchitz.me
 
 # 山東省
 .sdgdwljt.com
+
+# 3GPP 公网域 (IMS / VoWiFi)
+.mnc015.mcc460.pub.3gppnetwork.org
 # End of chinabroadnet
 # Included from chinatower
 # 中国铁塔股份有限公司 京ICP备14039488

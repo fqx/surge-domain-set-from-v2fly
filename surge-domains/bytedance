@@ -23,6 +23,7 @@
 .instreet.com
 .doubao-dev.com
 .doubao.com
+.doubaoapps.com
 .doubaocdn.com
 .hi-butterfly.cn
 .maoxiangai.com
@@ -541,6 +542,7 @@ p9-juejin.byteimg.com
 .doubo03.com
 .draftstatic.com
 .druid.vip
+.edge-byted.com
 .fedlearner.net
 .feelgood.cn
 .gcloudcache.com
@@ -754,6 +756,9 @@ bytedance.map.fastly.net
 .ppxstatic.com
 .ppxvod.com
 .xiaoxiaapi.com
+
+# 海绵音乐
+.haimian.com
 
 # 朝夕光年
 .dailygn.com

@@ -3592,6 +3592,8 @@ www.microsoft.com
 .vodafone.de
 .vodafone.it
 .vodafone.nl
+.vodafoneziggo.nl
+.ziggo.nl
 # End of vodafone
 # Included from wisekey
 .wisecoin.com
@@ -7689,6 +7691,7 @@ prodforza.blob.core.windows.net
 .speedrun.com
 .spigotmc.org
 .steamdb.info
+.steampeek.hu
 .thunderstore.io
 .thunderstore.org
 .wplace.live
@@ -20212,17 +20215,6 @@ public-us-pingsx.api.clonoth.com
 .zeit.sh
 .zeitworld.com
 # End of vercel
-# Included from wix
-.editorx.com
-.parastorage.com
-.wix-code.com
-.wix.com
-.wixanswers.com
-.wixapps.net
-.wixmp.com
-.wixsite.com
-.wixstatic.com
-# End of wix
 # Included from zendesk
 .outbound.io
 .zdassets.com
@@ -21093,6 +21085,23 @@ amp.akamaized.net
 .v8.dev
 .v8project.org
 # End of v8
+# Included from webflow
+.webflow-ext.com
+.webflow.com
+.webflow.io
+.website-files.com
+# End of webflow
+# Included from wix
+.editorx.com
+.parastorage.com
+.wix-code.com
+.wix.com
+.wixanswers.com
+.wixapps.net
+.wixmp.com
+.wixsite.com
+.wixstatic.com
+# End of wix
 # Included from wordpress
 .videopress.com
 .w.org
@@ -21114,6 +21123,7 @@ amp.akamaized.net
 .atom.io
 .badgen.net
 .bitvise.com
+.bmonkeys.net
 .bugsnag.com
 .busybox.net
 .centos.org
@@ -21209,7 +21219,6 @@ amp.akamaized.net
 .vim.org
 .wapm.io
 .wasmer.io
-.webflow.com
 .weblate.org
 .wireshark.org
 .x.org
@@ -21220,6 +21229,8 @@ amp.akamaized.net
 .zsh.org
 
 # WordPress plugins
+.boldgrid.com
+.cloudwp.dev
 .crocoblock.com
 .elegantthemes.com
 .hivepress.io
