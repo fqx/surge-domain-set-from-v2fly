@@ -16,7 +16,7 @@
 .ru.net
 
 # - There is `[domain:]ru` in this list (from tld-ru), which matches all `*.ru` domains
-# - Redundant subdomains (full/domain type without attr) will be trimed by main.go
+# - Redundant subdomains (full/domain type without attr) will be trimmed by main.go
 #   In this list, `*.ru` domains without attr are redundant for the program and will not contribute to `geosite:category-ru`
 # - You can still add `*.ru` domains here if you want
 
@@ -889,7 +889,7 @@ sentry.x5.ru
 .overclocker.ru
 .overclocking.ru
 .overi.ru
-.xn--80AGLFYFK.xn--p1ai
+.xn--80aglfyfk.xn--p1ai
 .xn--80aglzei.xn--p1ai
 .xn--b1agatafrepfl.xn--p1ai
 .xn--b1agpaeoen.xn--p1ai

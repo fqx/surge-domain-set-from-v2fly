@@ -2955,7 +2955,7 @@ www-cdn.icloud.com.akadns.net
 .itunes.apple.com
 
 # Domains with access point in China mainland
-# Avoid adding `[domain:]itunes.apple.com @cn` directly, as some subdomains not resolve to a cn IP address
+# Avoid adding `[domain:]itunes.apple.com @cn` directly, as some subdomains do not resolve to a cn IP address
 # See #2228 and #2259
 amp-api-edge-lb-cn.itunes-apple.com.akadns.net
 amp-api-edge-lb.itunes-apple.com.akadns.net
@@ -9442,7 +9442,7 @@ impala-media-production.s3.amazonaws.com
 .verisigninc.com
 # End of verisign
 # Included from verizon
-# Note: the @verizon.net email domain is still running by Yahoo
+# Note: the @verizon.net email domain is still run by Yahoo
 .oath.cloud
 .oath.com
 .ouroath.com

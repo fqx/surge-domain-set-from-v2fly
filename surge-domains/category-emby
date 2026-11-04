@@ -22,7 +22,6 @@
 
 # 1111
 .emby.ml
-.loseremby.org
 
 # llon plex
 .plex.direct
@@ -58,7 +57,7 @@ emby.mdss.cloud
 # emby-ytoo
 emby.ytoo.li
 
-# emby-w8ves
+# emby-w8ves (WaveCloud)
 embyserver.ga
 
 # emby-prpr
@@ -67,8 +66,9 @@ emby.prprcloud.com
 # emby-nyancat
 emby.nyancat.net
 
-# emby-Plus
+# emby-Plus (普拉斯影业)
 emby.plusmedia.site
+emby-sg.plusmedia.site
 emby-cf.plusmedia.site
 emby.xeton.dev
 jellyfin.xeton.dev
@@ -105,18 +105,6 @@ line.emby.men
 
 # SoCloud
 emby.run
-
-# 普拉斯影业
-emby.plusmedia.site
-emby-sg.plusmedia.site
-emby-cf.plusmedia.site
-emby.xeton.dev
-jellyfin.xeton.dev
-movie.xeton.dev
-servers.xeton.dev
-
-# WaveCloud
-embyserver.ga
 
 # 卷毛鼠
 jmsooo.com

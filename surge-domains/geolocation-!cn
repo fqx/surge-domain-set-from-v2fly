@@ -329,7 +329,7 @@ pplx-res.cloudinary.com
 .tripo3d.ai
 # End of category-ai-!cn
 
-# Advertisment & Analytics
+# Advertisement & Analytics
 # Included from pubmatic
 # Programmatic Digital Advertising Technology & Solutions | PubMatic
 
@@ -1779,7 +1779,7 @@ fontshop-prod-responsive-images.s3.amazonaws.com
 
 # Bank & Finance
 # Included from category-finance
-# DONOT include:category-bank-cn
+# DO NOT include:category-bank-cn
 # Included from category-bank-ir
 # Iranian bank websites
 
@@ -8394,7 +8394,7 @@ webvodad-hamivideo.cdn.hinet.net
 .itunes.apple.com
 
 # Domains with access point in China mainland
-# Avoid adding `[domain:]itunes.apple.com @cn` directly, as some subdomains not resolve to a cn IP address
+# Avoid adding `[domain:]itunes.apple.com @cn` directly, as some subdomains do not resolve to a cn IP address
 # See #2228 and #2259
 amp-api-edge-lb-cn.itunes-apple.com.akadns.net
 amp-api-edge-lb.itunes-apple.com.akadns.net
@@ -19166,7 +19166,7 @@ anime-rule34-world.b-cdn.net
 
 # End of category-porn
 
-# Services & Softwares
+# Services & Software
 # Included from category-android-app-download
 # Included from apkcombo
 .apkcombo.com
@@ -24200,7 +24200,7 @@ www-cdn.icloud.com.akadns.net
 .itunes.apple.com
 
 # Domains with access point in China mainland
-# Avoid adding `[domain:]itunes.apple.com @cn` directly, as some subdomains not resolve to a cn IP address
+# Avoid adding `[domain:]itunes.apple.com @cn` directly, as some subdomains do not resolve to a cn IP address
 # See #2228 and #2259
 amp-api-edge-lb-cn.itunes-apple.com.akadns.net
 amp-api-edge-lb.itunes-apple.com.akadns.net
@@ -30578,7 +30578,7 @@ impala-media-production.s3.amazonaws.com
 .verisigninc.com
 # End of verisign
 # Included from verizon
-# Note: the @verizon.net email domain is still running by Yahoo
+# Note: the @verizon.net email domain is still run by Yahoo
 .oath.cloud
 .oath.com
 .ouroath.com
