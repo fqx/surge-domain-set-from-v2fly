@@ -707,6 +707,14 @@ spectator.ppy.sh
 .playstationnetwork.com
 .sonyentertainmentnetwork.com
 # End of playstation
+# Included from projectmoon
+.projectmoon.studio
+
+# Limbus Company
+.limbuscompany.global
+.limbuscompanyapi.com
+.limbuscompanycdn.org
+# End of projectmoon
 # Included from projectsekai
 .sekai.colorfulpalette.org
 .pjsekai.sega.jp
@@ -1188,6 +1196,7 @@ prodforza.blob.core.windows.net
 .r2modman.com
 .rayark.download
 .rayark.net
+.skinswap.com
 .speedrun.com
 .spigotmc.org
 .steamdb.info
