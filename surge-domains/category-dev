@@ -323,6 +323,7 @@ update.crashlytics.com
 
 copilot-proxy.githubusercontent.com
 copilot-workspace.githubnext.com
+production-copilot-host-westus.webpubsub.azure.com
 
 # Azure Blob Storage
 copilotprodattachments.blob.core.windows.net

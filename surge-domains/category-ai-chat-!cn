@@ -82,6 +82,7 @@ o1158394.ingest.us.sentry.io
 
 copilot-proxy.githubusercontent.com
 copilot-workspace.githubnext.com
+production-copilot-host-westus.webpubsub.azure.com
 
 # Azure Blob Storage
 copilotprodattachments.blob.core.windows.net
@@ -241,6 +242,7 @@ pplx-res.cloudinary.com
 # Included from xai
 .grok.com
 .grok.x.com
+.grokbot.com
 .grokipedia.com
 .x.ai
 # End of xai
