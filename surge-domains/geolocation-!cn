@@ -9597,8 +9597,11 @@ bbs.boingboing.net
 .mewe.com
 .parler.com
 .pincong.rocks
+.questionablequesting.com
 .safechat.com
 .sis001.com
+.spacebattles.com
+.v2ex.co
 .v2ex.com
 # End of category-forums
 # Included from category-social-media-!cn
@@ -20730,6 +20733,10 @@ gitlab-assets.oss-cn-hongkong.aliyuncs.com
 .golang.net
 .golang.org
 # End of golang
+# Included from grafanalabs
+.grafana.com
+.grafana.net
+# End of grafanalabs
 # Included from hashicorp
 .consul.io
 .hashicorp.com

@@ -424,6 +424,10 @@ gitlab-assets.oss-cn-hongkong.aliyuncs.com
 .golang.net
 .golang.org
 # End of golang
+# Included from grafanalabs
+.grafana.com
+.grafana.net
+# End of grafanalabs
 # Included from hashicorp
 .consul.io
 .hashicorp.com
