@@ -108,12 +108,13 @@ blznav.akamaized.net
 .forgecdn.net
 # End of curseforge
 # Included from cygames
-.cygames.jp
 .cygames.co.jp
+.cygames.com
+.cygames.jp
 .worldflipper.jp
 
-.worldflipper.akamaized.net
 .umamusume.akamaized.net
+.worldflipper.akamaized.net
 # End of cygames
 # Included from ea
 # Included from origin

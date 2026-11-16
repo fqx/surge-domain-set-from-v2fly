@@ -82,6 +82,7 @@
 # Included from remnawave
 .docs.rw
 .log.rw
+.remna.dev
 .remna.st
 .try.rw
 # End of remnawave

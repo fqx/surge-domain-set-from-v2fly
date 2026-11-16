@@ -2096,6 +2096,7 @@ kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 .yastat.net
 .yastatic-net.ru
 .yastatic.net
+.yb-payment.ru
 .yccdn.ru
 .ydb.tech
 .yndx.net
@@ -2418,6 +2419,11 @@ education.tbank.ru
 .vtbbo.ru
 .vtbglobalperspectives.com
 .xn--90ab2c.xn--p1ai
+
+# Yandex Bank
+.bank.yandex.ru
+.yandex-bank.net
+.yb-payment.ru
 
 # Bank Zenit
 .credit-zenit.ru
