@@ -71,6 +71,7 @@ o1158394.ingest.us.sentry.io
 # Included from elevenlabs
 .elevenlabs.com
 .elevenlabs.io
+.elevenlabsusercontent.com
 # End of elevenlabs
 # Included from envato
 .envato-static.com
@@ -30988,7 +30989,6 @@ kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 .yandexgo.com
 .yandexlyceum.ru
 .yandexwebcache.net
-.yandexwebcache.org
 .yango-b2b.com
 .yango-team.com
 .yango-tech.com
