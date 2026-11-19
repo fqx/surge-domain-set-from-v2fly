@@ -555,6 +555,8 @@ p9-juejin.byteimg.com
 # 搜狐畅游
 .17173.com
 .17173cdn.com
+.1y.com
+.1ycdn.com
 .changyou.com
 .cy.com
 .playcool.com
@@ -1919,6 +1921,8 @@ wlog.kuaishou.com
 # 搜狐畅游
 .17173.com
 .17173cdn.com
+.1y.com
+.1ycdn.com
 .changyou.com
 .cy.com
 .playcool.com
@@ -3090,10 +3094,6 @@ ctdsb.clouddiffuse.xyz
 ## 连连
 .lianlian.com
 .lianlianpay.com
-## 上海陆金所
-.lu.com
-.lufax.com
-.lufaxcdn.com
 ## 银豹收银系统
 .pospal.cn
 ## 趣店
@@ -3115,9 +3115,20 @@ ctdsb.clouddiffuse.xyz
 # CDN or SDWAN
 # Included from category-cdn-cn
 # Included from baishancloud
+# 白山云/凌川峰
+.baishan.com
+.baishancdnx.cn
+.baishancloud.com
 .bsclink.cn
 .qingcdn.com
+.trpcdn.com
 .trpcdn.net
+
+## 云盾
+.yundun.com
+
+## 广州鑫耘科技
+.saxyit.com
 # End of baishancloud
 # Included from bootcdn
 .bootcdn.cn
@@ -3528,9 +3539,11 @@ ctdsb.clouddiffuse.xyz
 .58lovepet.com
 .58uxd.com
 .58v5.cn
+.58wos.com.cn
 .58xinghuo.cn
 .58xinghuo.com
 .58xueche.com
+.ajkimg.com
 .anjuke.com
 .anjukestatic.com
 .chinahr.com
@@ -3553,6 +3566,13 @@ ctdsb.clouddiffuse.xyz
 .zhuanspirit.com
 .zhuanstatic.com
 .zhuanzhuan.com
+
+# 找靓机
+.zhaoliangji.com
+.zhaoliangjipc.com
+
+# 乾派文化
+.qpmcn.com
 
 # 考试宝
 .kaoshibao.com
@@ -6015,6 +6035,15 @@ api.blipsandchitz.me
 .thinkpad.com
 .zhiliaowenda.com.cn
 
+# File hosting
+.lefile.cn
+
+# 联想（北京）电子科技有限公司
+.lenovofuturecenter.com
+
+# 北京联想公益基金会
+.lenovofoundation.cn
+
 # 来酷科技有限公司
 .lecoo.com
 
@@ -7331,7 +7360,6 @@ api.blipsandchitz.me
 .ysten.com
 .yuanzhiyijiantong.com
 .yunba.io
-.yundun.com
 .yunqishi.net
 .yunshipei.com
 .yunzhijia.com
