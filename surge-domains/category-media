@@ -274,9 +274,8 @@ link.theplatform.com
 # End of cbs
 # Included from cnbc
 .cnbc.com
+.cnbccouncils.com
 .cnbcfm.com
-.nbcuni.com
-.nbcudigitaladops.com
 # End of cnbc
 # Included from cnbeta
 .cnbeta.com
@@ -813,6 +812,11 @@ foxnewsplayer-a.akamaihd.net
 .xuxaverso.com.br
 # End of globo
 # Included from guo
+# Included from ruleoflaw
+.rolfoundation.org
+.rolsociety.org
+# End of ruleoflaw
+
 .g-tvapp.com
 .gclubs.com
 .gettr.com
@@ -830,8 +834,6 @@ foxnewsplayer-a.akamaihd.net
 .nfscdict.com
 .nfscofficial.com
 .rexcha.com
-.rolfoundation.org
-.rolsociety.org
 .yiqiedoushiganggangkaishi.org
 
 himalaya-exchange.zendesk.com
@@ -1011,30 +1013,21 @@ himalaya-exchange.zendesk.com
 .myradio.com.hk
 # End of myradio
 # Included from nbcuniversal
-# DreamWorks
-.dreamworks.com
-
-# NBC
-.cnbc.com
-.cnbcfm.com
-.msnbc.com
-.nbc.co
-.nbc.com
-.nbcnews.com
-.nbcolympics.com
-.nbcsports.com
+.nbcudigitaladops.com
 .nbcuni.com
+.nbcunicareers.com
 .nbcuniversal.com
-.s-nbcnews.com
+.nbcuniversalprivacy.com
 
-# Peacock
-.peacocktv.com
+# Reference: https://www.nbcuniversal.com/brands
 
-# Universal
-.universalorlando.com
-.universalpictures.com
-.universalpicturesinternational.com
-.universalstudioshollywood.com
+# Destinations & Experiences
+
+# Media
+
+# NBC News Group
+
+# Studios
 # End of nbcuniversal
 # Included from neowin
 .neow.in

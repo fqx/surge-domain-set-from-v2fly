@@ -1,4 +1,7 @@
 # Included from hkt
+# All .hkt domains
+.hkt
+
 .1010.com.hk
 .esmarthealth.com
 .hkcsl.com
@@ -31,6 +34,9 @@ dfp6rglgjqszk.cloudfront.net
 d1k2us671qcoau.cloudfront.net
 d2anahhhmp1ffz.cloudfront.net
 # End of viu
+
+# All .pccw domains
+.pccw
 
 .pccw.com
 .pccwglobal.com
