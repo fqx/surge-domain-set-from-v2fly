@@ -168,6 +168,9 @@ antigravity.googleapis.com
 
 # Stitch
 .stitch.withgoogle.com
+
+# Gemma
+.gemma.ai
 # End of google-deepmind
 # Included from groq
 .groq.com
@@ -3197,10 +3200,12 @@ venmo.s3.amazonaws.com
 # End of cloudflare
 # Included from fastly
 .fastly-edge.com
+.fastly-insights.com
 .fastly-terrarium.com
 .fastly.com
 .fastly.io
 .fastly.net
+.fastlydns.net
 .fastlylabs.com
 .fastlylb.net
 # End of fastly
@@ -6433,6 +6438,7 @@ chinapower.csis.org
 
 .ankiuser.net
 .ankiweb.net
+courses.myecnu.org # ECNU·课栈
 .divdyn.com
 .geogebra.org
 .githubhelp.com
@@ -20469,6 +20475,9 @@ p-events-delivery.akamaized.net
 # Included from debian
 .debian.org
 .dotdeb.org
+
+# CDN
+.debian.map.fastlydns.net
 # End of debian
 # Included from discourse
 .discourse-cdn.com
@@ -20927,6 +20936,7 @@ vsmarketplacebadge.apphb.com
 nix-community.github.io
 
 .builtwithnix.org
+.cachix.org
 .mynixos.com
 .nix-community.org
 .nixos.wiki
@@ -21087,6 +21097,7 @@ amp.akamaized.net
 # Included from unity
 .unity.com
 .unity3d.com
+.vivox.com
 
 # Ads/tracking
 # https://github.com/v2fly/domain-list-community/pull/3716
@@ -21827,6 +21838,9 @@ antigravity.googleapis.com
 
 # Stitch
 .stitch.withgoogle.com
+
+# Gemma
+.gemma.ai
 # End of google-deepmind
 # Included from google-play
 .googleplay.com

@@ -170,6 +170,9 @@ p-events-delivery.akamaized.net
 # Included from debian
 .debian.org
 .dotdeb.org
+
+# CDN
+.debian.map.fastlydns.net
 # End of debian
 # Included from discourse
 .discourse-cdn.com
@@ -628,6 +631,7 @@ vsmarketplacebadge.apphb.com
 nix-community.github.io
 
 .builtwithnix.org
+.cachix.org
 .mynixos.com
 .nix-community.org
 .nixos.wiki
@@ -788,6 +792,7 @@ amp.akamaized.net
 # Included from unity
 .unity.com
 .unity3d.com
+.vivox.com
 
 # Ads/tracking
 # https://github.com/v2fly/domain-list-community/pull/3716
