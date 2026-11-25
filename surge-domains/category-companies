@@ -6765,10 +6765,15 @@ xray.mail.ru
 # End of mailru-group
 # Included from megafon
 .inplat.ru
+.megafon.cloud
 .megafon.com
 .megafon.ru
 .megafonpro.ru
+.megapbx.ru
+.megatech-it.ru
 .mgfn.ru
+.mobileid.ru
+.multifon.ru
 .report-megafon.ru
 .scartel.ru
 .yota.ru
@@ -8466,11 +8471,13 @@ incoming-telemetry.thunderbird.net
 .mts.ru
 .mymts.ru
 
+# Moscow City Telephone Network (MGTS)
+.mgts.ru
+.spd-mgts.ru
+
 # Ads and tracking
 .a.mts.ru
 .obs.mts.ru
-
-# Ecosystem
 
 ## Finance
 .dbo-dengi.online
@@ -8870,6 +8877,9 @@ qualcomm.sc.omtrdc.net
 # End of wink
 
 .azbukainterneta.ru
+.o7.com
+.onlime.ru
+.rostelecom-rb.ru
 .rostelecom.ru
 .rt.ru
 

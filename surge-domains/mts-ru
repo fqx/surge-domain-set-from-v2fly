@@ -2,11 +2,13 @@
 .mts.ru
 .mymts.ru
 
+# Moscow City Telephone Network (MGTS)
+.mgts.ru
+.spd-mgts.ru
+
 # Ads and tracking
 .a.mts.ru
 .obs.mts.ru
-
-# Ecosystem
 
 ## Finance
 .dbo-dengi.online
